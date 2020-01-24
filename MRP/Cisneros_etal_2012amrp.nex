@@ -1,0 +1,27 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=14 NCHAR=12;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Biarmosuchus_tener         000000000000
+Estemmenosuchus_uralensis  000000000011
+Ulemosaurus_svijagensis    000000000111
+Tapinocaninus_pamelae      000000000111
+Archaeosyodon_praeventor   000000001001
+Sinophoneus_yumenensis     000000111001
+Anteosaurus_magnificus     000001111001
+Titanophoneus_adamanteus   000011111001
+Titanophoneus_potens       000011111001
+Pampaphoneus_biccai        000100011001
+Notosyodon_gusevi          001100011001
+Syodon_biarmicum           011100011001
+Australosyodon_nyaphuli    111100011001
+Microsyodon_orlovi         111100011001
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

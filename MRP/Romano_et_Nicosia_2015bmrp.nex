@@ -1,0 +1,40 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=25 NCHAR=23;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Captorhinus                00000000000000000000000
+Limnoscelis                11000000000000000000000
+Diadectes                  11000000000000000000000
+Varanops                   01110000000000000000000
+Ophiacodon                 01111000000000000000000
+Edaphosaurus               01010111000000000000000
+Dimetrodon                 01111000100000000000000
+Sphenacodon                01111000100000000000000
+Casea_broilii              01010011011100000000000
+Caseopsis_agilis           01010011011111110000000
+Caseoides_sanangeloensis   01010011011101110000000
+Casea_nicholsi             01010011011111110000000
+Casea_halselli             01010001000000000000000
+Trichasaurus_texensis      01010111000000001000000
+Cotylorhynchus_romeri      01010011011100110111000
+Cotylorhynchus_bransoni    01010011011100110011000
+Cotylorhynchus_hancocki    01010011011100110111100
+Angelosaurus_romeri        01010011011100110001010
+Angelosaurus_dolani        01010011011100110001011
+Angelosaurus_greeni        01010111000000001000000
+Ruthenosaurus_russellorum  01010011011100110111100
+Ennatosaurus_tecton        01010011011100110001011
+Euromycter_rutenus         01010011011100010000000
+Oromycter_dolesorum        01010011001100000000000
+Eothyris_parkeyi           01010011000100000000000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

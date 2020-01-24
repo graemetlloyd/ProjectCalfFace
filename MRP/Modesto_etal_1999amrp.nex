@@ -1,0 +1,25 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=12 NCHAR=10;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Dinocephalia   0000000000
+Gorgonopsia    0000000001
+Therocephalia  0000000011
+Patranomodon   0000001111
+Otsheria       0001111111
+Ulemica        0001111111
+Suminia        0000111111
+Galeops        0010011111
+Eodicynodon    0110011111
+Pristerodon    1110011111
+Diictodon      1110011111
+Anomocephalus  0000000111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

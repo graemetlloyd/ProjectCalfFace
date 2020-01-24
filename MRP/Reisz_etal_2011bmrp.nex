@@ -1,0 +1,33 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=18 NCHAR=19;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Protorothyris         0000000000000000000
+Paleothyris           1000000000000000000
+Thuringothyris        1100000000000000000
+Concordia             1110000000000000000
+Romeria_prima         1111100000000000010
+Romeria_texana        1111100000000000010
+Protocaptorhinus      1110111100000000010
+Rhiodenticulatus      1110100100000000001
+Saurorictus           1110111100000000111
+Captorhinus_laticeps  1110101111000000111
+Captorhinus_aguti     1110101111100000111
+Captorhinus_magnus    1110101111100000111
+Labidosaurus          1110101101011000111
+Labidosaurikos        1110101101011100111
+Moradisaurus          1110101101011110111
+Rothianiscus          1110101101011111111
+Captorhinikos         1110101101001000111
+Gansurhinus           1110101101011111111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

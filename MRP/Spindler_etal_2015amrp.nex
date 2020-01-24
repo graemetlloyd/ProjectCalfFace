@@ -1,0 +1,27 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=12 NCHAR=14;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Varanopidae            00000000000000
+Ophiacodontidae        10000000000000
+Edaphosauridae         11000000000000
+Haptodus_garnettensis  11110000000000
+Ianthodon              11010000000010
+Pantelosaurus          11111000000110
+Cutleria               11111100001110
+Sphenacodon            11111111101110
+Ctenospondylus         11111111101111
+Dimetrodon             11111101101111
+Alrausuchus            11111100110010
+Dinocephalia           11111100110010
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

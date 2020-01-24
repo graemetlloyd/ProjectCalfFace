@@ -1,0 +1,21 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=8 NCHAR=6;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Dimetrodon       000000
+Hipposaurus      000011
+Proburnetia      001111
+Burnetia         001111
+Bullacephalus    000111
+Gorgonopsidae    110001
+Australosyodon   010001
+Scylacosauridae  110001
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

@@ -1,0 +1,23 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=8 NCHAR=6;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Caseasauria        000000
+Varanopseidae      100000
+Archaeothyris      111000
+Ophiacodon         111100
+Varanosaurus       111100
+Edaphosauridae     101010
+Haplodus           101011
+Sphenaoodontoidea  101011
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

@@ -1,0 +1,22 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=9 NCHAR=7;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Haptodus_garnettensis   0000000
+Cutleria                0000001
+Sphenacodon_ferocior    0011111
+Ctenospondylus_spp      0011111
+Dimetrodon_milleri      0101111
+Dimetrodon_limbatus     1101111
+Dimetrodon_grandis      1101111
+Secodontosaurus         0000111
+Alrausuchus_Therapsida  0000011
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

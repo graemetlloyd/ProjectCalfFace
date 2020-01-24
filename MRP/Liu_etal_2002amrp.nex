@@ -1,0 +1,25 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=12 NCHAR=16;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Kwazulusaurus_shakai  0000000000000000
+L_curvatus            0000000000000011
+L_youngi              0000000000000101
+L_platyceps           0000000000001011
+L_oviceps             0000000111111101
+L_murrayi             0011111011111101
+L_declivus            0001111011111101
+L_maccaigi            0011111011111101
+L_hedini              0100011000011101
+L_broomi              0100001100111101
+L_robustus            1100111001111101
+L_shichanggouensis    1100111001111101
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

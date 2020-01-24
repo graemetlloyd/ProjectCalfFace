@@ -1,0 +1,30 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=15 NCHAR=17;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Gorgonopsia         00000000000000000
+Lycosuchus          10000000000000000
+Scylacosauridae     11000000000000000
+Moschorhinus        11111111000010010
+Theriognathus       11000011000000011
+Ictidosuchoides     11011111100011010
+Ictidosuchops       11011111100011010
+Regisauridae        11000111011011110
+Ericiolacerta       11000111011011010
+Bauria              11000111001011110
+Lycideops           11001111000100000
+Tetracynodon_darti  11001111000100000
+Procynosuchus       11000001000000011
+Olivierosuchus      11111111000010010
+Promoschorhynchus   11111111000010010
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

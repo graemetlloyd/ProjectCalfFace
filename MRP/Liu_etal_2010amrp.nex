@@ -1,0 +1,28 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=15 NCHAR=14;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Dimetrodon       00000000000000
+Biarmosuchus     00000000001111
+Herpetoskylax    00000000001111
+Syodon           00000001110001
+Titanophoneus    00000001110001
+Estemmenosuchus  00000000110001
+Biseridens       00000010010011
+Anomocephalus    00000110010011
+Patranomodon     00011110010011
+Otsheria         00101110010011
+Ulemica          01101110010011
+Suminia          01101110010011
+Galeops          10011110010011
+Eodicynodon      10011110010011
+Gorgonops        00000000000111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

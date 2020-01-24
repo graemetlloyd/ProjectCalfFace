@@ -1,0 +1,24 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=11 NCHAR=9;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Titanophoneus  000000000
+Gorgonops      000000001
+Lycosuchidae   000000011
+Patranomodon   000000111
+Otsheria       000011111
+Ulemica        000111111
+Suminia        000111111
+Galeops        001001111
+Eodicynodon    011001111
+Diictodon      111001111
+Pristerodon    111001111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

@@ -1,0 +1,23 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=10 NCHAR=7;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Anomodontia       0000000
+Gorgonopsia       0000011
+Therocephalia     0000011
+Procynosuchus     0000101
+Thrinaxodon       0001101
+Probainognathus   0011101
+Massetognathus    0011101
+Tritylodontidae   0111101
+Tritheledontidae  1111101
+Morganucodon      1111101
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

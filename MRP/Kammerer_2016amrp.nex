@@ -1,0 +1,30 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=15 NCHAR=14;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Biarmosuchus_tener         00000000000000
+Hipposaurus_boonstrai      10000000000000
+Eriphostoma_microdon       11000000000000
+Gorgonops_torvus           11100000000000
+Arctognathus_curvimola     11111000000000
+Lycaenops_ornatus          11101000000001
+Smilesaurus_ferox          11111100000001
+Aelurognathus_tigriceps    11111110000001
+Ruhuhucerberus_haughtoni   11111111000001
+Sycosaurus_laticeps        11111111110001
+Sycosaurus_nowaki          11111111110001
+Leontosaurus_vanderhorsti  11111111011001
+Dinogorgon_rubidgei        11111111011101
+Rubidgea_atrox             11111111011111
+Clelandina_rubidgei        11111111011111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

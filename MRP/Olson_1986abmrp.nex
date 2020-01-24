@@ -1,0 +1,22 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=7 NCHAR=7 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Eotherapsids     0000000
+Eutherapsids     1111000
+Dinocephalians   1000000
+Dicynodonts      1111111
+Gorgonopsians    1100100
+Therocephalians  1110110
+Cynodonts        1111111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ 	TYPESET * UNTITLED  = unord: 1-7;
+END;
+

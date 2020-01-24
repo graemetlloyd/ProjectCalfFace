@@ -1,0 +1,19 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=6 NCHAR=5;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Biarmosuchus   00000
+Anteosauridae  00001
+Estemennosuch  00111
+Titanosuchid   11111
+Styracocephal  01011
+Tapinocephal   11111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

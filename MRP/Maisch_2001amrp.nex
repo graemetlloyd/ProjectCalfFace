@@ -1,0 +1,31 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=18 NCHAR=16;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Dicynodon         0000000000000000
+Dinamomodon       0000000000000001
+Kannemeyeria      0000000000001111
+Wadiasaurus       0000000000001111
+Shansiodon        0000000001110011
+Vinceria          0000000000010011
+Tetragonias       0000000001110011
+Rhinodicynodon    0000000000110011
+Stahleckeria      0000001110000111
+Angonisaurus      0000001110000111
+Placerias         0000010110000111
+Ischigualastia    0000010110000111
+Rhadiodromeus     0011100010000111
+Dinodontosaurus   0000100010000111
+Rechnisaurus      0111100010000111
+Sangusaurus       0111100010000111
+Parakannemeyeria  1001100010000111
+Sinokannemeyeria  1001100010000111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

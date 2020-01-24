@@ -1,0 +1,28 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=13 NCHAR=10;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Thrinaxodon      0000000000
+Cynognathus      1000000000
+Lumkuia          1100000000
+Ecteninion       1110000000
+Probelesodon     1111100000
+Chiniquodon      1111100000
+Probainognathus  1110100000
+Therioherpeton   1110110000
+Riograndia       1110111100
+Pachygenelus     1110111100
+Brasilitherium   1110110111
+Brasilodon       1110110101
+Morganucodon     1110110111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

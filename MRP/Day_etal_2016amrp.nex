@@ -1,0 +1,32 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=17 NCHAR=17 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Biarmosuchus_tener           00000000000000000
+Hipposaurus_boonstrai        11100000000000000
+Bullacephalus_jacksoni       11110000000000000
+Pachydectes_elsi             11110000000000000
+Herpetoskylax_hopsoni        00101110000000000
+Lycaenodon_longiceps         00101110000000000
+RC_20                        00100110000000000
+Ictidorhinus_martinsi        00100010000000000
+Lemurosaurus_pricei          01100001000000000
+Lobalopex_mordax             01100001100000000
+Lophorhinus_willodenensis    01100001111000010
+BP_1_7098                    01100001101100011
+Proburnetia_viatkensis       01100001111010001
+Paraburnetia_sneeubergensis  01100001111011101
+Lende_chiweta                01100001111010101
+Niuksenitia_sukhonensis      01100001101100011
+Burnetia_mirabilis           01100001111011101
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ 	TYPESET * UNTITLED  = unord: 1-17;
+END;
+

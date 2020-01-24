@@ -1,0 +1,27 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=14 NCHAR=12;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Biarmosuchus     000000000000
+Estemmenosuchus  000000000011
+Ulemosaurus      000000000111
+Tapinocaninus    000000000111
+Archaeosyodon    000000011001
+Sinophoneus      000000001001
+Tadamanteus      000011111001
+Tpotens          000011111001
+Anteosaurus      000001111001
+Pampaphoneus     000100111001
+Notosyodon       001100111001
+Syodon           011100111001
+Australosyodon   111100111001
+Microsyodon      111100111001
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

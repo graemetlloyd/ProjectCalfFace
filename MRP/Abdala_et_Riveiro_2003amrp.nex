@@ -1,0 +1,28 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=15 NCHAR=11;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Diademodon               00000000000
+Trirachodon              00000000001
+Andescynodon             00000000111
+Massetognathus           00001111011
+Exaeretodon              00111111011
+Luangwa                  01000001011
+Scalenodon_angustifrons  00000000011
+Scalenodon_hirschsoni    01000001011
+Traversodon              00000011011
+Gomphodontosuchus        00011111011
+Pascualgnathus           00000000111
+Scalenodontoides         00111111011
+Menadon                  00111111011
+Dadadon                  10000111011
+Santacruzodon            10000111011
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

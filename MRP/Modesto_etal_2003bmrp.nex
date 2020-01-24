@@ -1,0 +1,24 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=11 NCHAR=10;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Titanophoneus           0000000000
+Patranomodon            0000000001
+Galeops                 0000000011
+Eodicynodon_oelofseni   0000000111
+Eodicynodon_ooshuizeni  0000001111
+Diictodon               0011111111
+Robertia                0001111111
+Chelydontops            1110111111
+Pristerodon             1110111111
+Emydops                 0110111111
+Colobdectes             0000011111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

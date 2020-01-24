@@ -1,0 +1,26 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=13 NCHAR=10;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Haptodus       0000000000
+Dimetrodon     0000000001
+Anteosauridae  0000000011
+Biarmosuchus   0000000111
+Hipposaurus    0000001111
+Lycaenodon     0000011111
+Rubidgina      0000011111
+Ictidorhinus   0000111111
+Lemurosaurus   0001111111
+Proburnetia    0111111111
+Bullacephalus  1111111111
+Burnetia       1111111111
+Mal_290        0011111111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

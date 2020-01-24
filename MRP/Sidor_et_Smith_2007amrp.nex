@@ -1,0 +1,25 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=12 NCHAR=12;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Hipposaurus    000000000000
+Herpetoskylax  000000000001
+Ictidorhinus   000000000011
+Lemurosaurus   000000011111
+Lophorhinus    000000101111
+Lobalopex      000001110111
+Proburnetia    000111110111
+Paraburnetia   000111110111
+Bullacephalus  111011110111
+Pachydectes    001011110111
+Niuksenitia    011011110111
+Burnetia       111011110111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

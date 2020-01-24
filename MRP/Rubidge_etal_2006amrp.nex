@@ -1,0 +1,30 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=17 NCHAR=14;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Haptodus              00000000000000
+Dimetrodon            00000000000001
+Syodon                00000000001111
+Titanophoneus         00000000001111
+Titanosuchidae        00000000010111
+Estemmenosuchus       00000000010111
+Gorgonopsia           00000000100011
+Biarmosuchus          00000001100011
+Hipposaurus           00000011100011
+Lycaenodon            00000111100011
+CGP_slash_1_slash_67  00000111100011
+Lemurosaurus          00001111100011
+Lobalopex             00011111100011
+Proburnetia           00111111100011
+Burnetia              01111111100011
+Bullacephalus         11111111100011
+Pachydectes           11111111100011
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

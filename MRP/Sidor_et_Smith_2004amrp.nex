@@ -1,0 +1,27 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=12 NCHAR=9;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Gorgonopsidae    000000000
+Lycosuchus       100000000
+Dvinia           110000000
+Procynosuchus    111000000
+Cynosaurus       111110000
+Progalesaurus    111111000
+Galesaurus       111111000
+Bolotridon       111010001
+Thrinaxodon      111010101
+Platycraniellus  111010101
+Lumkuia          111010111
+Trirachodon      111010111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

@@ -1,0 +1,22 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=9 NCHAR=7;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Sauropsida       0000000
+Caseasauria      0000001
+Ophiacodontidae  0000011
+Mycterosaurus    0001111
+Mesenosaurus     0001111
+Elliotsmithia    0010111
+Aerosaurus       0110111
+Varanops         1110111
+Varanodon        1110111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

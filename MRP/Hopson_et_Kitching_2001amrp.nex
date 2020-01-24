@@ -1,0 +1,38 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=25 NCHAR=22;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Gorgonopsid              0000000000000000000000
+Lycosuchus               0000000000000000000001
+Dvinia                   0000000000000000000011
+Procynosuchus            0000000000000000000011
+Galesaurus               0000000000000000000111
+Thrinaxodon              0000000000000000001111
+Cynognathus              0000000000000000111111
+Diademodon               0000000000000001111111
+Trirachodon              0000000000000011111111
+Pascualgnathus           0000000000000111111111
+Scalenodon_angustifrons  0000000000001111111111
+Scalenodon_hirschoni     0000000011111111111111
+Luangwa                  0000000000011111111111
+Massetognathus           0000000000111111111111
+Gomphodontosuchus        0000000101111111111111
+Exaeretodon              0000000101111111111111
+Tritylodontidae          0000000011111111111111
+Lumkuia                  0000001000000000011111
+Probainognathus          0001111000000000011111
+Ecteninion               0000011000000000011111
+Probelesodon             0010111000000000011111
+Aleodon                  0110111000000000011111
+Chiniquodon              0110111000000000011111
+Pachygenelus             1001111000000000011111
+Morganucodon             1001111000000000011111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

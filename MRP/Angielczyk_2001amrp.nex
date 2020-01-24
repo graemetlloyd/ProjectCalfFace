@@ -1,0 +1,35 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=22 NCHAR=20;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Patranomodon           00000000000000000000
+Otsheria               00000000000000000001
+Eodicynodon            00000000000000000011
+Robertia               00000000000000001111
+Diictodon              00000000000000001111
+Endothiodon            00000000000000110111
+Chelydontops           00000000000000110111
+Pristerodon            00000000000001010111
+Emydops                00000000001111010111
+Kingoria               00000000000111010111
+Cistecephalus          00000000011111010111
+Myosaurus              00000000011111010111
+Tropidostoma           00000111100011010111
+Oudenodon              00000111100011010111
+Rhachiocephalus        00000001100011010111
+Pelanomodon            00011000100011010111
+Aulacephalodon         00011000100011010111
+Dicynodon              01101000100011010111
+Lystrosaurus           10101000100011010111
+Kannemeyeria           10101000100011010111
+Odontocyclops          00000011100011010111
+Dicynodon_lacerticeps  01101000100011010111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

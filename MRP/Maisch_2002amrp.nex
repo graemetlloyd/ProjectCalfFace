@@ -1,0 +1,27 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=14 NCHAR=12;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Pristerodon_mckayi          000000000000
+Cteniosaurus_platyceps      000000000011
+Oudenodon_bainii            000000000111
+Rhachiocephalus_magnus      000000001111
+Platycyclops_crassus        000000001111
+Propelanomodon_devilliersi  000000010001
+Aulacephalodon_bainii       000001110001
+Pelanomodon_tuberosus       000001110001
+Odontocyclops_dubius        000010110001
+Lystrosaurus_murrayi        001110110001
+Kwazulusaurus_shakai        001110110001
+Dicynodon_lacerticeps       010110110001
+Kannemeyeria_simocephala    110110110001
+Dinanomodon_rubidgei        110110110001
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

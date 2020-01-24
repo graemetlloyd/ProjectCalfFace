@@ -1,0 +1,26 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=13 NCHAR=11;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Reptilia               00000000000
+Cotylorhynchus         00000000011
+Eothyris               00000000011
+Archaeothyris          00000001101
+Ophiacodon             00000001101
+Mycterosaurus          00011110101
+Mesenosaurus           00011110101
+Elliotsmithia          00100110101
+Aerosaurus             01100110101
+Varanops               11100110101
+Varanodon              11100110101
+Archaeovenator         00000010101
+BP_slash_1_slash_5678  00001110101
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

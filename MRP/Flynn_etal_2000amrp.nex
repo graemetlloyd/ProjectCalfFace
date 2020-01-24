@@ -1,0 +1,19 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=6 NCHAR=4;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Luangwa            0000
+Exaeretodon        1111
+Massetognathus     0001
+Scalenodontoides   1111
+Menadon            0111
+Gomphodontosuchus  0011
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

@@ -1,0 +1,21 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=8 NCHAR=6;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Mycterosaurus    000000
+Haptodus         000001
+1anthasaurus     000011
+Glaucosaurus     000111
+E_novomexicanus  001111
+E_boanerges      011111
+E_cruciger       111111
+E_pogonias       111111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

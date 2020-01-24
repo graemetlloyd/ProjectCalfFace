@@ -1,0 +1,22 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=9 NCHAR=7;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Outgroup                                 0000000
+Sinokannemeyeria_pearsoni                0000111
+Sinokannemeyeria_yingchiaoensis          0001111
+Sinokannemeyeria_sanchuanheensis         0001111
+Parakannemeyeria_dolichocephala          1110011
+Parakannemeyeria_youngi                  0110011
+Parakannemeyeria_ningwuensis             0010011
+Parakannemeyeria_shenmuensis             1110011
+quot_Parakannemeyeria_quot_brevirostris  0000001
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

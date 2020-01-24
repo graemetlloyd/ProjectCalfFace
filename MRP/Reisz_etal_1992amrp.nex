@@ -1,0 +1,22 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=9 NCHAR=8;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Varanopseidae    00000000
+Ophiacodontidae  00000001
+Edaphosauridae   00000011
+Haptodus         00000111
+Sphenacodon      00111111
+Ctenopsondylus   01111111
+Dimetrodon       11011111
+Secontosaurus    11011111
+Therapsida       00001111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

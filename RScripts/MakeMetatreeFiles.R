@@ -4,59 +4,48 @@
 # Load metatree library:
 library(metatree)
 
-# Build inclusive data list:
-InclusiveDataList <- sort(c(GetFilesForClade("matrsyna.html"), "Ezcurra_etal_2014a", "Ford_et_Benson_2019a", "MacDougall_etal_2016a", "Modesto_etal_2014a", "Reisz_etal_2011b", "Reisz_etal_2015a"))
+# Build inclusive data list (synapsid appropriate files to use here, from larger graemetlloyd.com database):
+InclusiveDataList <- sort(c(GetFilesForClade("matrsyna.html"), "Ezcurra_etal_2014a", "Ford_et_Benson_2019a", "MacDougall_et_Reisz_2012a", "MacDougall_etal_2016a", "Modesto_etal_2009a", "Modesto_etal_2014a", "Modesto_etal_2015a", "Muller_et_Tsuji_2007a", "Reisz_etal_2011b", "Reisz_etal_2014a", "Reisz_etal_2015a", "Tsuji_etal_2010a", "Tsuji_etal_2012a"))
 
+# Copy just inclusive XML data sets from main directory to project one (only need to run once):
+#x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Homepage/www.graemetlloyd.com/xml/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Synapsid metatree - Spencer/ProjectCalfFace/XML/", x, ".xml", sep = "")))
 
-
-
-
-
-
+# Copy just inclusive MRP data sets from main directory to project one (only need to run once):
+#x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Homepage/www.graemetlloyd.com/mrp/", x, "mrp.nex", sep = ""), to =  paste("~/Documents/Publications/in prep/Synapsid metatree - Spencer/ProjectCalfFace/MRP/", x, "mrp.nex", sep = "")))
 
 # Standard exclusive data list (supertrees and the like):
 ExclusiveDataList <- c("Averianov_2016a", "Bravo_et_Gaete_2015a", "Brocklehurst_etal_2013a", "Brocklehurst_etal_2015aa", "Brocklehurst_etal_2015ab", "Brocklehurst_etal_2015ac", "Brocklehurst_etal_2015ad", "Brocklehurst_etal_2015ae", "Brocklehurst_etal_2015af", "Bronzati_etal_2012a", "Bronzati_etal_2015ab", "Brusatte_etal_2009ba", "Campbell_etal_2016ab", "Carr_et_Williamson_2004a", "Carr_etal_2017ab", "Frederickson_et_Tumarkin-Deratzian_2014aa", "Frederickson_et_Tumarkin-Deratzian_2014ab", "Frederickson_et_Tumarkin-Deratzian_2014ac", "Frederickson_et_Tumarkin-Deratzian_2014ad", "Garcia_etal_2006a", "Gatesy_etal_2004ab", "Grellet-Tinner_2006a", "Grellet-Tinner_et_Chiappe_2004a", "Grellet-Tinner_et_Makovicky_2006a", "Jin_etal_2010a", "Knoll_2008a", "Kurochkin_1996a", "Lopez-Martinez_et_Vicens_2012a", "Lu_etal_2014aa", "Norden_etal_2018a", "Pisani_etal_2002a", "Ruiz-Omenaca_etal_1997a", "Ruta_etal_2003ba", "Ruta_etal_2003bb", "Ruta_etal_2007a", "Schaeffer_etal_inpressa", "Selles_et_Galobart_2016a", "Sereno_1993a", "Sidor_2001a", "Skutschas_etal_2019a", "Tanaka_etal_2011a", "Toljagic_et_Butler_2013a", "Tsuihiji_etal_2011aa", "Varricchio_et_Jackson_2004a", "Vila_etal_2017a", "Wilson_2005aa", "Wilson_2005ab", "Zelenitsky_et_Therrien_2008a")
 
-
-MetatreeExclude <- metatree::Metatree(MRPDirectory = MRPDirectory, XMLDirectory = XMLDirectory, TargetClade = "Synapsida", InclusiveDataList = InclusiveDataList, ExclusiveDataList = ExclusiveDataList, MissingSpecies = "exclude")
-
-
+# Build synpasida metatree:
+Synpasida <- metatree::Metatree(MRPDirectory = "~/Documents/Publications/in prep/Synapsid metatree - Spencer/ProjectCalfFace/MRP", XMLDirectory = "~/Documents/Publications/in prep/Synapsid metatree - Spencer/ProjectCalfFace/XML", TargetClade = "Synapsida", InclusiveDataList = InclusiveDataList, ExclusiveDataList = ExclusiveDataList, MissingSpecies = "exclude", RelativeWeights = c(0, 100, 10, 1), WeightCombination = "sum", ReportContradictionsToScreen = FALSE)
 
 
 
-WriteMorphNexus(SynapsidaMetatreeExclude$FullMRPMatrix, "~/SynapsidaEXC.nex")
-WriteMorphTNT(SynapsidaMetatreeExclude$FullMRPMatrix, "~/SynapsidaEXC.tnt")
-WriteMorphNexus(SynapsidaMetatreeExclude$STRMRPMatrix, "~/SynapsidaEXCSTR.nex")
-WriteMorphTNT(SynapsidaMetatreeExclude$STRMRPMatrix, "~/SynapsidaEXCSTR.tnt")
-write.table(SynapsidaMetatreeExclude$SafelyRemovedTaxa, "~/SynapsidaSTRforEXC.txt", row.names = FALSE)
-SynapsidaMetatreeGenus <- metatree::Metatree(MRPDirectory = MRPDirectory, XMLDirectory = XMLDirectory, TargetClade = "Synapsida", InclusiveDataList = synaInclusiveDataList, ExclusiveDataList = ExclusiveDataList, HigherTaxaToCollapse = HigherTaxaToCollapse, MissingSpecies = "genus")
-WriteMorphNexus(SynapsidaMetatreeGenus$FullMRPMatrix, "~/SynapsidaGEN.nex")
-WriteMorphTNT(SynapsidaMetatreeGenus$FullMRPMatrix, "~/SynapsidaGEN.tnt")
-WriteMorphNexus(SynapsidaMetatreeGenus$STRMRPMatrix, "~/SynapsidaGENSTR.nex")
-WriteMorphTNT(SynapsidaMetatreeGenus$STRMRPMatrix, "~/SynapsidaGENSTR.tnt")
-write.table(SynapsidaMetatreeGenus$SafelyRemovedTaxa, "~/SynapsidaSTRforGEN.txt", row.names = FALSE)
+# Test code for fixing Metatree function!:
+MRPDirectory = "~/Documents/Publications/in prep/Synapsid metatree - Spencer/ProjectCalfFace/MRP"
+XMLDirectory = "~/Documents/Publications/in prep/Synapsid metatree - Spencer/ProjectCalfFace/XML"
+InclusiveDataList = InclusiveDataList
+ExclusiveDataList = ExclusiveDataList
+TargetClade = "Synapsida"
+HigherTaxaToCollapse = c()
+SpeciesToExclude = c()
+MissingSpecies = "exclude"
+Interval = NULL
+VeilLine = TRUE
+IncludeSpecimenLevelOTUs = TRUE
+BackboneConstraint = NULL
+MonophylyConstraint = NULL
+RelativeWeights = c(0, 100, 10, 1)
+WeightCombination = "sum"
+ReportContradictionsToScreen = FALSE
 
 
 
 
-
-InclusiveDataList <- sort(unique(c(GetFilesForClade(c("matrsyna.html", "matramph.html")), "Gauthier_etal_1988b", "Lu_etal_2016c", "deBraga_et_Rieppel_1997a", "Giles_etal_2015a", "Davis_etal_2012a")))
-
-# Build vector of vectors to clear out (assuming we are redoing the tree):
-DirectoriesToClear <- c("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MetatreeFiles", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MetatreeFiles", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MetatreeFiles", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MetatreeFiles", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles")
-
-# Clear out all the directories:
-x <- lapply(as.list(DirectoriesToClear), function(x) {setwd(x); file.remove(list.files())})
-
-# Copy just inclusive XML data sets from main directory to project one:
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Homepage/www.graemetlloyd.com/xml/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = "")))
-
-# Copy just inclusive MRP data sets from main directory to project one:
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Homepage/www.graemetlloyd.com/mrp/", x, "mrp.nex", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/MRP/", x, "mrp.nex", sep = "")))
+# Below here is copied from another project and needs editing/deleting
 
 
-# Build amphibia metatree:
-Amphibia <- Metatree(MRPDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/MRP", XMLDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML", TargetClade = "Tetrapoda", InclusiveDataList = InclusiveDataList, ExclusiveDataList = ExclusiveDataList, MissingSpecies = "exclude", RelativeWeights = c(0, 100, 10, 1), WeightCombination = "sum", ReportContradictionsToScreen = FALSE)
+
 
 # Build taxonomy tree (for basic checks ahead of building constraint trees):
 pdf("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/PDFTrees/TaxonomyTree.pdf", width = 30, height = 50)

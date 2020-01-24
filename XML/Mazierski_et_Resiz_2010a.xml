@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Mazierski, D. M.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Description of a new specimen of <em>Ianthosaurus hardestiorum</em> (Eupelycosauria: Edaphosauridae) and a re-evaluation of edaphosaurid phylogeny</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>47</Volume>
+		<Pages>901-912</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List recon_name="Mycterosaurus" recon_no="38895">Mycterosaurus</List>
+		<List recon_name="Ophiacodon" recon_no="38888">Ophiacodon</List>
+		<List recon_name="Haptodus" recon_no="38905">Haptodus</List>
+		<List recon_name="Ianthasaurus" recon_no="38912">Ianthasaurus</List>
+		<List recon_name="Glaucosaurus" recon_no="38925">Glaucosaurus</List>
+		<List recon_name="Luperosaurus" recon_no="38926">Lupeosaurus</List>
+		<List recon_name="Edaphosaurus_colohistion" recon_no="122353">Edaphosaurus_colohistion</List>
+		<List recon_name="Edaphosaurus_novomexicanus" recon_no="122351">Edaphosaurus_novomexicanus</List>
+		<List recon_name="Edaphosaurus_boanerges" recon_no="122352">Edaphosaurus_boanerges</List>
+		<List recon_name="Edaphosaurus_cruciger" recon_no="346264">Edaphosaurus_cruciger</List>
+		<List recon_name="Edaphosaurus_pogonias" recon_no="81711">Edaphosaurus_pogonias</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="39">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Mazierski_et_Resiz_2010a</Filename>
+	<Parent>Modesto_1995a</Parent>
+	<Sibling/>
+</SourceTree>

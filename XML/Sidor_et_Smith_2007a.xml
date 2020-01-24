@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sidor, C. A.</List>
+			<List>Smith, R. M. H.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A second burnetiamorph therapsid from the Permian Teekloof Formation of South Africa and its associated fauna</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>27</Volume>
+		<Pages>420-430</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List recon_name="Hipposaurus" recon_no="39102">Hipposaurus</List>
+		<List recon_name="Herpetoskylax" recon_no="335887">Herpetoskylax</List>
+		<List recon_name="Ictidorhinus" recon_no="39097">Ictidorhinus</List>
+		<List recon_name="Lemurosaurus" recon_no="39099">Lemurosaurus</List>
+		<List recon_name="Lophorhinus" recon_no="140413">Lophorhinus</List>
+		<List recon_name="Lobalopex" recon_no="140411">Lobalopex</List>
+		<List recon_name="Proburnetia" recon_no="39106">Proburnetia</List>
+		<List recon_name="Paraburnetia" recon_no="268057">Paraburnetia</List>
+		<List recon_name="Bullacephalus" recon_no="335884">Bullacephalus</List>
+		<List recon_name="Pachydectes" recon_no="109353">Pachydectes</List>
+		<List recon_name="Niuksenitia_sukhonensis" recon_no="341036">Niuksenitia</List>
+		<List recon_name="Burnetia" recon_no="39105">Burnetia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="20">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sidor_et_Smith_2007a</Filename>
+	<Parent>Smith_etal_2006a</Parent>
+	<Sibling/>
+</SourceTree>

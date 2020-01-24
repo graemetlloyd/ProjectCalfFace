@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kammerer, C. F.</List>
+		</Author>
+		<Year>2016</Year>
+		<Title>A new taxon of cynodont from the <em>Tropidostoma</em> Assemblage Zone (Upper Permian) of South Africa, and the early evolution of Cynodontia</Title>
+		<Journal>Papers in Palaeontology</Journal>
+		<Volume>2</Volume>
+		<Pages>387-397</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List recon_name="Cyonosaurus" recon_no="39114">Cyonosaurus</List>
+		<List recon_name="Lycosuchus" recon_no="56795">Lycosuchus</List>
+		<List recon_name="Ictidosuchops" recon_no="39143">Ictidosuchops</List>
+		<List recon_name="Regisaurus" recon_no="39145">Regisaurus</List>
+		<List recon_name="Theriognathus" recon_no="39149">Theriognathus</List>
+		<List recon_name="Moschorhinus" recon_no="39155">Moschorhinus</List>
+		<List recon_name="Olivierosuchus" recon_no="260284">Olivierosuchus</List>
+		<List recon_name="Bauria" recon_no="39167">Bauria</List>
+		<List recon_name="Charassognathus" recon_no="140430">Charassognathus</List>
+		<List recon_name="Nanictosaurus" recon_no="260286">Nanictosaurus</List>
+		<List recon_name="Cynosaurus" recon_no="39178">Cynosaurus</List>
+		<List recon_name="Procynosuchus" recon_no="39172">Procynosuchus</List>
+		<List recon_name="Dvinia" recon_no="39174">Dvinia</List>
+		<List recon_name="Galesaurus" recon_no="39177">Galesaurus</List>
+		<List recon_name="Progalesaurus" recon_no="171915">Progalesaurus</List>
+		<List recon_name="Thrinaxodon" recon_no="39179">Thrinaxodon</List>
+		<List recon_name="Cynognathus" recon_no="39186">Cynognathus</List>
+		<List recon_name="Lumkuia" recon_no="95413">Lumkuia</List>
+		<List recon_name="Abdalodon_diastematicus" recon_no="375341">Abdalodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="62">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kammerer_2016c</Filename>
+	<Parent>Botha_etal_2007b</Parent>
+	<Sibling/>
+</SourceTree>

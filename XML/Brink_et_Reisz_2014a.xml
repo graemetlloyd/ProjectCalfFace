@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brink, K. S.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>Hidden dental diversity in the oldest terrestrial apex predator <em>Dimetrodon</em></Title>
+		<Journal>Nature Communications</Journal>
+		<Volume>5</Volume>
+		<Pages>3269</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List recon_name="Haptodus_garnettensis" recon_no="122358">Haptodus_garnettensis</List>
+		<List recon_name="Cutleria" recon_no="138248">Cutleria</List>
+		<List recon_name="Sphenacodon_ferocior" recon_no="122488">Sphenacodon_ferocior</List>
+		<List recon_name="Ctenospondylus" recon_no="38903">Ctenospondylus_spp</List>
+		<List recon_name="Dimetrodon_milleri" recon_no="122782">Dimetrodon_milleri</List>
+		<List recon_name="Dimetrodon_limbatus" recon_no="344229">Dimetrodon_limbatus</List>
+		<List recon_name="Dimetrodon_grandis" recon_no="122786">Dimetrodon_grandis</List>
+		<List recon_name="Secodontosaurus" recon_no="38908">Secodontosaurus</List>
+		<List recon_name="Alrausuchus_tagax" recon_no="361908">Alrausuchus_Therapsida</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="122">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brink_et_Reisz_2014a</Filename>
+	<Parent>Frobisch_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

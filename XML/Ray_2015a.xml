@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Ray, S.</List>
+		</Author>
+		<Year>2015</Year>
+		<Title>A new Late Triassic traversodontid cynodont (Therapsida, Eucynodontia) from India</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>35</Volume>
+		<Pages>e930472</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="19">
+		<List recon_name="Diademodon" recon_no="39189">Diademodon</List>
+		<List recon_name="Trirachodon" recon_no="39194">Trirachodon</List>
+		<List recon_name="Andescynodon_mendozensis" recon_no="66674">Andescynodon</List>
+		<List recon_name="Pascualgnathus_polanskii" recon_no="117951">pascualgnathus</List>
+		<List recon_name="Massetognathus" recon_no="39203">Massetognathus</List>
+		<List recon_name="Exaeretodon_statisticae" recon_no="171984">Estatisticae</List>
+		<List recon_name="Scalenodontoides_macrodontes" recon_no="178335">Scalenodontoides</List>
+		<List recon_name="Menadon_besairiei" recon_no="167263">Menadon</List>
+		<List recon_name="Protuberum_cabralensis" recon_no="172339">Protuberum</List>
+		<List recon_name="Ruberodon_roychowdhurii" recon_no="330112">Ruberodon</List>
+		<List recon_name="Gomphodontosuchus_brasiliensis" recon_no="100826">Gomphodontosuchus</List>
+		<List recon_name="Dadadon_isaloi" recon_no="167266">Dadadon</List>
+		<List recon_name="Santacruzodon_hopsoni" recon_no="171913">Santacruzodon</List>
+		<List recon_name="Traversodon_stahleckeri" recon_no="100828">Traversodon</List>
+		<List recon_name="Luangwa" recon_no="39202">Luangwa</List>
+		<List recon_name="Scalenodon" recon_no="39204">Scalenodon</List>
+		<List recon_name="Boreogomphodon_jeffersoni" recon_no="57568">Boreogomphodon</List>
+		<List recon_name="Exaeretodon_argentinus" recon_no="376276">Eargentinus</List>
+		<List recon_name="Exaeretodon_riograndensis" recon_no="333700">Eriograndensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="35">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ray_2015a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

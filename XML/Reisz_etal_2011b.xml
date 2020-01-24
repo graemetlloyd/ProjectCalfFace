@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Reisz, R. R.</List>
+			<List>Liu, J.</List>
+			<List>Li, J.-L.</List>
+			<List>Muller, J.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new captorhinid reptile, <em>Gansurhinus qingtoushanensis</em>, gen. et sp. nov., from the Permian of China</Title>
+		<Journal>Naturwissenschafte</Journal>
+		<Volume>98</Volume>
+		<Pages>435-441</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="18">
+		<List recon_name="Protorothyris" recon_no="37494">Protorothyris</List>
+		<List recon_name="Paleothyris_acadiana" recon_no="138002">Paleothyris</List>
+		<List recon_name="Thuringothyris_mahlendorffae" recon_no="137223">Thuringothyris</List>
+		<List recon_name="Concordia_cunninghami" recon_no="92485">Concordia</List>
+		<List recon_name="Romeria_prima" recon_no="135432">Romeria_prima</List>
+		<List recon_name="Romeria_texana" recon_no="134834">Romeria_texana</List>
+		<List recon_name="Protocaptorhinus_pricei" recon_no="135429">Protocaptorhinus</List>
+		<List recon_name="Rhiodenticulatus_heatoni" recon_no="135851">Rhiodenticulatus</List>
+		<List recon_name="Saurorictus_australis" recon_no="135443">Saurorictus</List>
+		<List recon_name="Captorhinus_laticeps" recon_no="134970">Captorhinus_laticeps</List>
+		<List recon_name="Captorhinus_aguti" recon_no="90718">Captorhinus_aguti</List>
+		<List recon_name="Captorhinus_magnus" recon_no="134993">Captorhinus_magnus</List>
+		<List recon_name="Labidosaurus_hamatus" recon_no="134918">Labidosaurus</List>
+		<List recon_name="Labidosaurikos_meachami" recon_no="119515">Labidosaurikos</List>
+		<List recon_name="Moradisaurus_grandis" recon_no="134810">Moradisaurus</List>
+		<List recon_name="Rothianiscus" recon_no="37507">Rothianiscus</List>
+		<List recon_name="Captorhinikos" recon_no="37496">Captorhinikos</List>
+		<List recon_name="Gansurhinus_qingtoushanensis" recon_no="204012">Gansurhinus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="75">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Reisz_etal_2011b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

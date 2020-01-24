@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Brink, K. S.</List>
+			<List>Maddin, H. C.</List>
+			<List>Evans, D. C.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2015</Year>
+		<Title>Re-evaluation of the historic Canadian fossil <em>Bathygnathus borealis</em> from the Early Permian of Prince Edward Island</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>52</Volume>
+		<Pages>1109-1120</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="14">
+		<List recon_name="Haptodus_garnettensis" recon_no="122358">Haptodus_garnettensis</List>
+		<List recon_name="Ianthodon" recon_no="196919">Ianthodon</List>
+		<List recon_name="Sphenacodon_ferocior" recon_no="122488">Sphenacodon_ferocior</List>
+		<List recon_name="Ctenospondylus" recon_no="38903">Ctenospondylus_spp</List>
+		<List recon_name="Dimetrodon_milleri" recon_no="122782">Dimetrodon_milleri</List>
+		<List recon_name="Dimetrodon_limbatus" recon_no="344229">Dimetrodon_limbatus</List>
+		<List recon_name="Dimetrodon_grandis" recon_no="122786">Dimetrodon_grandis</List>
+		<List recon_name="Bathygnathus_borealis" recon_no="65123">Bathygnathus_borealis</List>
+		<List recon_name="Secodontosaurus" recon_no="38908">Secodontosaurus</List>
+		<List recon_name="Biarmosuchus" recon_no="38938">Biarmosuchus</List>
+		<List recon_name="Dinocephalia" recon_no="38949">Dinocephalia</List>
+		<List recon_name="Tetraceratops" recon_no="38930">Tetraceratops</List>
+		<List recon_name="Raranimus" recon_no="164054">Raranimus</List>
+		<List recon_name="Hipposaurus" recon_no="39102">Hipposaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="123">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brink_etal_2015aa</Filename>
+	<Parent>Brink_et_Reisz_2014a</Parent>
+	<Sibling/>
+</SourceTree>

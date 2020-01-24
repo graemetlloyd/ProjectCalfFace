@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Van den Brandt, M. J.</List>
+			<List>Abdala, F.</List>
+		</Author>
+		<Year>2018</Year>
+		<Title>Cranial morphology and phylogenetic analysis of <em>Cynosaurus suppostus</em> (Therapsida, Cynodontia) from the upper Permian of the Karoo Basin, South Africa</Title>
+		<Journal>Palaeontologia Africana</Journal>
+		<Volume>52</Volume>
+		<Pages>201-221</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List recon_name="Cyonosaurus" recon_no="39114">Cyonosaurus</List>
+		<List recon_name="Lycosuchus" recon_no="56795">Lycosuchus</List>
+		<List recon_name="Charassognathus" recon_no="140430">Charassognathus</List>
+		<List recon_name="Nanictosaurus" recon_no="260286">Nanictosaurus</List>
+		<List recon_name="Cynosaurus" recon_no="39178">Cynosaurus</List>
+		<List recon_name="Procynosuchus" recon_no="39172">Procynosuchus</List>
+		<List recon_name="Dvinia" recon_no="39174">Dvinia</List>
+		<List recon_name="Galesaurus" recon_no="39177">Galesaurus</List>
+		<List recon_name="Progalesaurus" recon_no="171915">Progalesaurus</List>
+		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">Thrinaxodon</List>
+		<List recon_name="Cynognathus" recon_no="39186">Cynognathus</List>
+		<List recon_name="Lumkuia" recon_no="95413">Lumkuia</List>
+		<List recon_name="Abdalodon_diastematicus" recon_no="375341">Abdalodon</List>
+		<List recon_name="Platycraniellus_elegans" recon_no="171919">Platycraniellus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="52">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Van_den_Brandt_et_Abdala_2018a</Filename>
+	<Parent>Kammerer_2016c</Parent>
+	<Sibling/>
+</SourceTree>

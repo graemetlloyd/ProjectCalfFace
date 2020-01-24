@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Modesto, S. P.</List>
+			<List>Rubidge, B.</List>
+			<List>Welman, J.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>The most basal anomodont therapsid and the primacy of Gondwana in the evolution of the anomodonts</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>266</Volume>
+		<Pages>331-337</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List recon_name="Dinocephalia" recon_no="38949">Dinocephalia</List>
+		<List recon_name="Gorgonopsia" recon_no="39095">Gorgonopsia</List>
+		<List recon_name="Therocephalia" recon_no="39130">Therocephalia</List>
+		<List recon_name="Patranomodon" recon_no="109357">Patranomodon</List>
+		<List recon_name="Otsheria" recon_no="38999">Otsheria</List>
+		<List recon_name="Ulemica" recon_no="180711">Ulemica</List>
+		<List recon_name="Suminia" recon_no="180710">Suminia</List>
+		<List recon_name="Galeops" recon_no="39004">Galeops</List>
+		<List recon_name="Eodicynodon" recon_no="39008">Eodicynodon</List>
+		<List recon_name="Pristerodon" recon_no="39058">Pristerodon</List>
+		<List recon_name="Diictodon" recon_no="39075">Diictodon</List>
+		<List recon_name="Anomocephalus" recon_no="180708">Anomocephalus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="40">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Modesto_etal_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

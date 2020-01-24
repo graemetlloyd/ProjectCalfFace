@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Spindler, F.</List>
+			<List>Werneburg, R.</List>
+			<List>Schneider, J. W.</List>
+			<List>Luthardt, L.</List>
+			<List>Annacker, V.</List>
+			<List>Rossler, R.</List>
+		</Author>
+		<Year>2018</Year>
+		<Title>First arboreal 'pelycosaurs' (Synapsida: Varanopidae) from the early Permian Chemnitz Fossil Lagerstätte, SE Germany, with a review of varanopid phylogeny</Title>
+		<Journal>Palaontologische Zeitschrift</Journal>
+		<Volume>92</Volume>
+		<Pages>315-364</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="46">
+		<List recon_name="DELETE" recon_no="-1">Limnoscelis</List>
+		<List recon_name="DELETE" recon_no="-1">Tseajaia</List>
+		<List recon_name="DELETE" recon_no="-1">Milleropsis</List>
+		<List recon_name="DELETE" recon_no="-1">Australothyris</List>
+		<List recon_name="DELETE" recon_no="-1">Erpetonyx</List>
+		<List recon_name="DELETE" recon_no="-1">Paleothyris</List>
+		<List recon_name="DELETE" recon_no="-1">Protorothyris</List>
+		<List recon_name="DELETE" recon_no="-1">Captorhinus</List>
+		<List recon_name="DELETE" recon_no="-1">Oedaleops_OLD</List>
+		<List recon_name="DELETE" recon_no="-1">Oedaleops_NEW</List>
+		<List recon_name="DELETE" recon_no="-1">Oedaleops_SKULL</List>
+		<List recon_name="DELETE" recon_no="-1">Vaughnictis</List>
+		<List recon_name="DELETE" recon_no="-1">Eothyris</List>
+		<List recon_name="DELETE" recon_no="-1">Datheosaurus</List>
+		<List recon_name="DELETE" recon_no="-1">Callibrachion</List>
+		<List recon_name="DELETE" recon_no="-1">Eocasea</List>
+		<List recon_name="DELETE" recon_no="-1">Casea</List>
+		<List recon_name="DELETE" recon_no="-1">Echinerpeton</List>
+		<List recon_name="DELETE" recon_no="-1">Archaeothyris</List>
+		<List recon_name="DELETE" recon_no="-1">Varanosaurus</List>
+		<List recon_name="DELETE" recon_no="-1">Ophiacodon</List>
+		<List recon_name="Ianthodon_schultzei" recon_no="196920">Ianthodon</List>
+		<List recon_name="Ianthasaurus_hardestiorum" recon_no="138234">Ianthasaurus</List>
+		<List recon_name="DELETE" recon_no="-1">Haptodus</List>
+		<List recon_name="Milosaurus_mccordi" recon_no="123521">Milosaurus</List>
+		<List recon_name="Archaeovenator_hamiltonensis" recon_no="138746">Archaeovenator</List>
+		<List recon_name="Pyozia_mesenensis" recon_no="140623">Pyozia</List>
+		<List recon_name="Apsisaurus_witteri" recon_no="138856">Apsisaurus</List>
+		<List recon_name="DELETE" recon_no="-1">GEN_NOV_SPEC_NOV</List>
+		<List recon_name="DELETE" recon_no="-1">indet_Thuringia</List>
+		<List recon_name="DELETE" recon_no="-1">Mesenosaurus</List>
+		<List recon_name="DELETE" recon_no="-1">Mycterosaurus</List>
+		<List recon_name="DELETE" recon_no="-1">Heleosaurus_OLD</List>
+		<List recon_name="DELETE" recon_no="-1">SAM_dash_PK_dash_K8305</List>
+		<List recon_name="Elliotsmithia_longiceps" recon_no="140622">Elliotsmithia</List>
+		<List recon_name="DELETE" recon_no="-1">BP_slash_I_slash_5678</List>
+		<List recon_name="DELETE" recon_no="-1">SAM_dash_PK_dash_K10407</List>
+		<List recon_name="Anningia_megalops" recon_no="148038">Anningia</List>
+		<List recon_name="Aerosaurus_wellesi" recon_no="122318">Aerosaurus_wellesi</List>
+		<List recon_name="Aerosaurus_greenleeorum" recon_no="122317">A_greenleeorum</List>
+		<List recon_name="Ruthiromia_elcobriensis" recon_no="122322">Ruthiromia</List>
+		<List recon_name="Varanops_brevirostris" recon_no="91795">Varanops</List>
+		<List recon_name="DELETE" recon_no="-1">cf_Varanops_RichSp</List>
+		<List recon_name="Tambacarnifex_unguifalcatus" recon_no="292125">Tambacarnifex</List>
+		<List recon_name="Varanodon_agilis" recon_no="120891">Varanodon</List>
+		<List recon_name="Watongia_meieri" recon_no="141909">Watongia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="177">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Spindler_etal_2018a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

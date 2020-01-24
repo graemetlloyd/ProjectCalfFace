@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lee, M. S. Y.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Molecules, morphology, and the monophyly of diapsid reptiles</Title>
+		<Journal>Contributions to Zoology</Journal>
+		<Volume>70</Volume>
+		<Pages>1-18</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List recon_name="DELETE" recon_no="0">OUTGROUP</List>
+		<List recon_name="Caseidae" recon_no="38913">Caseidae</List>
+		<List recon_name="Ophiacodontidae" recon_no="38884">Ophiacodontidae</List>
+		<List recon_name="Edaphosauridae" recon_no="38910">Edaphosauridae</List>
+		<List recon_name="Sphenacodontidae" recon_no="38901">Sphenacodontidae</List>
+		<List recon_name="Gorgonopsia" recon_no="39095">Gorgonopsia</List>
+		<List recon_name="Cynodontia" recon_no="39168">CYNODONTIA</List>
+		<List recon_name="Millerettidae" recon_no="37568">Millerettidae</List>
+		<List recon_name="Acleistorhinidae" recon_no="37514">Acleistorhinidae</List>
+		<List recon_name="Lanthanosuchidae" recon_no="37224">Lanthanosuchidae</List>
+		<List recon_name="Nycteroleteridae" recon_no="37243">Nycteroleteridae</List>
+		<List recon_name="Procolophonoidea" recon_no="37517">Procolophonoidea</List>
+		<List recon_name="Pareiasauridae" recon_no="37557">Pareiasauridae</List>
+		<List recon_name="Testudines" recon_no="56475">TESTUDINES</List>
+		<List recon_name="Captorhinidae" recon_no="37495">Captorhinidae</List>
+		<List recon_name="Protorothyrididae" recon_no="37486">Protorothyrididae</List>
+		<List recon_name="Araeoscelidae" recon_no="37772">Araeoscelididae</List>
+		<List recon_name="Claudiosauridae" recon_no="38165">Claudiosauridae</List>
+		<List recon_name="Younginiformes" recon_no="92226">Younginiformes</List>
+		<List recon_name="Placodontia" recon_no="36529">Placodontia</List>
+		<List recon_name="Eosauropterygia" recon_no="100142">Eosauropterygia</List>
+		<List recon_name="Kuehneosauridae" recon_no="37838">Kuehneosauridae</List>
+		<List recon_name="Rhynchocephalia" recon_no="54194">RHYNCHOCEPHALIA</List>
+		<List recon_name="Squamata" recon_no="36379">SQUAMATA</List>
+		<List recon_name="Choristodera" recon_no="37784">Choristodera</List>
+		<List recon_name="Prolacertiformes" recon_no="92216">Prolacertiformes</List>
+		<List recon_name="Archosauriformes" recon_no="57091">ARCHOSAURIFORMES</List>
+		<List recon_name="Rhynchosauria" recon_no="159212">Rhynchosauria</List>
+		<List recon_name="Trilophosauridae" recon_no="38200">Trilophosauridae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="216">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lee_2001a</Filename>
+	<Parent>deBraga_et_Rieppel_1997a</Parent>
+	<Sibling/>
+</SourceTree>

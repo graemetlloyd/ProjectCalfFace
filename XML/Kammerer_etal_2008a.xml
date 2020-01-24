@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kammerer, C. F.</List>
+			<List>Flynn, J. F.</List>
+			<List>Ranivoharimanana, L.</List>
+			<List>Wyss, A. R.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>New material of <em>Menadon besairiei</em> (Cynodontia: Traversodontidae) from the Triassic of Madagascar</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>28</Volume>
+		<Pages>445-462</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List recon_name="Cynognathus" recon_no="39186">Cynognathus</List>
+		<List recon_name="Diademodon" recon_no="39189">Diademodon</List>
+		<List recon_name="Trirachodon" recon_no="39194">Trirachodon</List>
+		<List recon_name="Langbergia" recon_no="171943">Langbergia</List>
+		<List recon_name="Cricodon" recon_no="39192">Cricodon</List>
+		<List recon_name="Andescynodon" recon_no="39196">Andescynodon</List>
+		<List recon_name="Massetognathus" recon_no="39203">Massetognathus</List>
+		<List recon_name="Exaeretodon" recon_no="39200">Exaeretodon</List>
+		<List recon_name="Luangwa" recon_no="39202">Luangwa</List>
+		<List recon_name="Scalenodon_angustifrons" recon_no="177679">Scal_angustifrons</List>
+		<List recon_name="Scalenodon_hirschsoni" recon_no="302110">Scal_hirschsoni</List>
+		<List recon_name="Traversodon" recon_no="39206">Traversodon</List>
+		<List recon_name="Gomphodontosuchus" recon_no="39207">Gomphodontosuchus</List>
+		<List recon_name="Pascualgnathus" recon_no="39197">Pascualgnathus</List>
+		<List recon_name="Scalenodontoides" recon_no="39205">Scalenodontoides</List>
+		<List recon_name="Menadon" recon_no="167261">Menadon</List>
+		<List recon_name="Dadadon" recon_no="167265">Dadadon</List>
+		<List recon_name="Santacruzodon" recon_no="171912">Santacruzodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="44">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kammerer_etal_2008a</Filename>
+	<Parent>Abdala_etal_2006a</Parent>
+	<Sibling/>
+</SourceTree>

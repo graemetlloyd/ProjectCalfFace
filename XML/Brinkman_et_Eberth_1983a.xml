@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Brinkman, D.</List>
+			<List>Eberth, D. A.</List>
+		</Author>
+		<Year>1983</Year>
+		<Title>The interrelationships of pelycosaurs</Title>
+		<Journal>Breviora</Journal>
+		<Volume>473</Volume>
+		<Pages>1-35</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="7">
+		<List recon_name="Casea" recon_no="38915">Casea</List>
+		<List recon_name="Varanops_brevirostris" recon_no="91795">Varanops</List>
+		<List recon_name="Aerosaurus" recon_no="38893">Aerosaurus</List>
+		<List recon_name="Ophiacodon" recon_no="38888">Ophiacodon</List>
+		<List recon_name="Edaphosaurus" recon_no="38911">Edaphosaurus</List>
+		<List recon_name="Dimetrodon" recon_no="38904">Dimetrodon</List>
+		<List recon_name="Sphenacodon" recon_no="38909">Sphenacodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="17">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brinkman_et_Eberth_1983a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

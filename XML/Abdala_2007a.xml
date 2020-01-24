@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Abdala, F.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>Redescription of <em>Platycraniellus elegans</em> (Therapsida, Cynodontia) from the Lower Triassic of South Africa, and the cladistic relationships of eutheriodonts</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>50</Volume>
+		<Pages>591-618</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List recon_name="Cyniscopoides_broomi" recon_no="340825">CYONOSAURUS</List>
+		<List recon_name="Lycaenops_alticeps" recon_no="335409">PRORUBIDGEA</List>
+		<List recon_name="Lycosuchus_vanderrieti" recon_no="56796">LYCOSUCHUS</List>
+		<List recon_name="Glanosuchus_macrops" recon_no="56804">GLANOSUCHUS</List>
+		<List recon_name="Hofmeyria_atavus" recon_no="367363">HOFMEYRIA</List>
+		<List recon_name="Ictidosuchoides_intermedius" recon_no="376351">ICTIDOSUCHOPS</List>
+		<List recon_name="Theriognathus_microps" recon_no="343308">THERIOGNATHUS</List>
+		<List recon_name="Moschorhinus_natalensis" recon_no="178203">MOSCHORHINUS</List>
+		<List recon_name="Bauria_robusta" recon_no="173041">BAURIA</List>
+		<List recon_name="Cynosaurus_suppostus" recon_no="343365">CYNOSAURUS</List>
+		<List recon_name="Aelurodraco_microps" recon_no="343332">PROCYNOSUCHUS</List>
+		<List recon_name="Dvinia_prima" recon_no="343342">DVINIA</List>
+		<List recon_name="Galesaurus_planiceps" recon_no="56872">GALESAURUS</List>
+		<List recon_name="Progalesaurus_lootbergensis" recon_no="171916">PROGALESAURUS</List>
+		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">THRINAXODON</List>
+		<List recon_name="Platycraniellus_elegans" recon_no="171919">PLATYCRANIELLUS</List>
+		<List recon_name="Cynognathus_platyceps" recon_no="56880">CYNOGNATHUS</List>
+		<List recon_name="Diademodon_tetragonus" recon_no="171986">DIADEMODON</List>
+		<List recon_name="Trirachodon_kannemeyeri" recon_no="56886">TRIRACHODON</List>
+		<List recon_name="Massetognathus_pascuali" recon_no="80893">MASSETOGNATHUS</List>
+		<List recon_name="Exaeretodon_riograndensis" recon_no="333700">EXAERETODON</List>
+		<List recon_name="Chiniquodon_theotonicus" recon_no="100823">CHINIQUODON</List>
+		<List recon_name="Lumkuia_fuzzi" recon_no="95414">LUMKUIA</List>
+		<List recon_name="Ecteninion_lunensis" recon_no="67454">ECTENINION</List>
+		<List recon_name="Probainognathus_jenseni" recon_no="80895">PROBAINOGNATHUS</List>
+		<List recon_name="Pachygenelus_monus" recon_no="56650">PACHYGENELUS</List>
+		<List recon_name="Brasilodon_quadrangularis" recon_no="174538">BRASILODON</List>
+		<List recon_name="Brasilitherium_riograndensis" recon_no="174540">BRASILITHERIUM</List>
+		<List recon_name="Oligokyphus" recon_no="39215">OLIGOKYPHUS</List>
+		<List recon_name="Kayentatherium_wellesi" recon_no="175105">KAYENTATHERIUM</List>
+		<List recon_name="Morganucodon" recon_no="39753">MORGANUCODON</List>
+		<List recon_name="Sinoconodon_rigneyi" recon_no="203414">SINOCONODON</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="96">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Abdala_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

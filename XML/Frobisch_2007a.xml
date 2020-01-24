@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Frobisch, J.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>The cranial anatomy of <em>Kombuisia frerensis</em> Hotton (Synapsida, Dicynodontia) and a new phylogeny of anomodont therapsids</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>150</Volume>
+		<Pages>117-144</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="42">
+		<List recon_name="Titanophoneus" recon_no="38960">Titanophoneus</List>
+		<List recon_name="Gorgonops" recon_no="39118">Gorgonops</List>
+		<List recon_name="Lycosuchidae" recon_no="95359">Lycosuchidae</List>
+		<List recon_name="Anomocephalus" recon_no="180708">Anomocephalus</List>
+		<List recon_name="Patranomodon" recon_no="109357">Patranomodon</List>
+		<List recon_name="Otsheria" recon_no="38999">Otsheria</List>
+		<List recon_name="Suminia" recon_no="180710">Suminia</List>
+		<List recon_name="Ulemica" recon_no="180711">Ulemica</List>
+		<List recon_name="Galeops" recon_no="39004">Galeops</List>
+		<List recon_name="Eodicynodon" recon_no="39008">Eodicynodon</List>
+		<List recon_name="Colobodectes" recon_no="229051">Colobodectes</List>
+		<List recon_name="Robertia" recon_no="39072">Robertia</List>
+		<List recon_name="Diictodon" recon_no="39075">Diictodon</List>
+		<List recon_name="Pristerodon" recon_no="39058">Pristerodon</List>
+		<List recon_name="Endothiodon" recon_no="39012">Endothiodon</List>
+		<List recon_name="Chelydontops" recon_no="39011">Chelydontops</List>
+		<List recon_name="Emydops" recon_no="39063">Emydops</List>
+		<List recon_name="Kingoria" recon_no="39077">Kingoria</List>
+		<List recon_name="Cistecephalus" recon_no="39069">Cistecephalus</List>
+		<List recon_name="Myosaurus" recon_no="39066">Myosaurus</List>
+		<List recon_name="Tropidostoma" recon_no="39054">Tropidostoma</List>
+		<List recon_name="Oudenodon" recon_no="39052">Oudenodon</List>
+		<List recon_name="Rhachiocephalus" recon_no="39053">Rhachiocephalus</List>
+		<List recon_name="Pelanomodon" recon_no="196980">Pelanomodon</List>
+		<List recon_name="Aulacephalodon" recon_no="39016">Aulacephalodon</List>
+		<List recon_name="Dicynodon_lacerticeps" recon_no="91716">D_lacerticeps</List>
+		<List recon_name="Lystrosaurus" recon_no="39049">Lystrosaurus</List>
+		<List recon_name="Kannemeyeria" recon_no="39030">Kannemeyeria</List>
+		<List recon_name="Idelesaurus_tataricus" recon_no="139088">Idelisaurus</List>
+		<List recon_name="Interpresosaurus" recon_no="200996">Interpresosaurus</List>
+		<List recon_name="Elph" recon_no="159716">Elph</List>
+		<List recon_name="Dicynodon_trautscholdi" recon_no="298051">D_trautscholdi</List>
+		<List recon_name="Delectosaurus" recon_no="200989">Delectosaurus</List>
+		<List recon_name="Vivaxosaurus" recon_no="202551">Vivaxosaurus</List>
+		<List recon_name="Dicynodon_amalitzkii" recon_no="296874">D_amalitzkii</List>
+		<List recon_name="Australobarbarus" recon_no="202544">Australobarbarus</List>
+		<List recon_name="Geikia_elginensis" recon_no="157044">Geikia_elginensis</List>
+		<List recon_name="Geikia_locusticeps" recon_no="343951">Geikia_locusticeps</List>
+		<List recon_name="Kombuisia" recon_no="39078">Kombuisia</List>
+		<List recon_name="Kawingasaurus" recon_no="39070">Kawingasaurus</List>
+		<List recon_name="Cistecephaloides" recon_no="39068">Cistecephaloides</List>
+		<List recon_name="Lanthanostegus" recon_no="164271">Lanthanostegus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="100">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Frobisch_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

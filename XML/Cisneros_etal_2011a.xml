@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Cisneros, J. C.</List>
+			<List>Abdala, F.</List>
+			<List>Rubidge, B. S.</List>
+			<List>Dentzien-Dias, P. C.</List>
+			<List>Bueno, A. O.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Dental occlusion in a 260-million-year-old therapsid with saber canines from the Permian of Brazil</Title>
+		<Journal>Science</Journal>
+		<Volume>331</Volume>
+		<Pages>1603-1605</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="23">
+		<List recon_name="Dimetrodon" recon_no="38904">Dimetrodon</List>
+		<List recon_name="Biarmosuchus" recon_no="38938">Biarmosuchus</List>
+		<List recon_name="Herpetoskylax" recon_no="335887">Herpetoskylax</List>
+		<List recon_name="Gorgonops" recon_no="39118">Gorgonops</List>
+		<List recon_name="Lycosuchus_vanderrieti" recon_no="56796">Lycosuchus</List>
+		<List recon_name="Syodon" recon_no="38959">Syodon</List>
+		<List recon_name="Tapinocaninus_pamelae" recon_no="367365">Tapinocaninus</List>
+		<List recon_name="Titanophoneus" recon_no="38960">Titanophoneus</List>
+		<List recon_name="Estemmenosuchus" recon_no="38965">Estemmenosuchus</List>
+		<List recon_name="Tiarajudens_eccentricus" recon_no="180707">Tiarajudens</List>
+		<List recon_name="Biseridens" recon_no="137793">Biseridens</List>
+		<List recon_name="Anomocephalus" recon_no="180708">Anomocephalus</List>
+		<List recon_name="Galechirus" recon_no="39003">Galechirus</List>
+		<List recon_name="Patranomodon" recon_no="109357">Patranomodon</List>
+		<List recon_name="Otsheria" recon_no="38999">Otsheria</List>
+		<List recon_name="Ulemica" recon_no="180711">Ulemica</List>
+		<List recon_name="Suminia" recon_no="180710">Suminia</List>
+		<List recon_name="Galeops" recon_no="39004">Galeops</List>
+		<List recon_name="Eodicynodon" recon_no="39008">Eodicynodon</List>
+		<List recon_name="Robertia" recon_no="39072">Robertia</List>
+		<List recon_name="Diictodon_feliceps" recon_no="332332">Diictodon</List>
+		<List recon_name="Raranimus_dashankouensis" recon_no="164055">Raranimus</List>
+		<List recon_name="Tetraceratops_insignis" recon_no="145255">Tetraceratops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="81">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cisneros_etal_2011a</Filename>
+	<Parent>Liu_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

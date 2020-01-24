@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Liu, J.</List>
+			<List>Li, J.-L.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A new material of kannemeyerid from Xinjiang and the restudy of <em>Parakannemeyeria brevirostris</em></Title>
+		<Journal>Vertebrata PalAsiatica</Journal>
+		<Volume>41</Volume>
+		<Pages>147-156</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List recon_name="DELETE" recon_no="0">Outgroup</List>
+		<List recon_name="Sinokannemeyeria_pearsoni" recon_no="100301">Sinokannemeyeria_pearsoni</List>
+		<List recon_name="Sinokannemeyeria_yingchiaoensis" recon_no="266005">Sinokannemeyeria_yingchiaoensis</List>
+		<List recon_name="Sinokannemeyeria_sanchuanheensis" recon_no="265995">Sinokannemeyeria_sanchuanheensis</List>
+		<List recon_name="Parakannemeyeria_dolichocephala" recon_no="265984">Parakannemeyeria_dolichocephala</List>
+		<List recon_name="Parakannemeyeria_youngi" recon_no="265996">Parakannemeyeria_youngi</List>
+		<List recon_name="Parakannemeyeria_ningwuensis" recon_no="265998">Parakannemeyeria_ningwuensis</List>
+		<List recon_name="Parakannemeyeria_shenmuensis" recon_no="265983">Parakannemeyeria_shenmuensis</List>
+		<List recon_name="Parakannemeyeria_brevirostris" recon_no="265924">quot_Parakannemeyeria_quot_brevirostris</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="20">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Liu_et_Li_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

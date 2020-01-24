@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Brocklehurst, N.</List>
+			<List>Frobisch, J.</List>
+		</Author>
+		<Year>2018</Year>
+		<Title>A reexamination of <em>Milosaurus mccordi</em>, and the evolution of large body size in Carboniferous synapsids</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>38</Volume>
+		<Pages>e1508026</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="60">
+		<List recon_name="Tseajaia_campi" recon_no="120742">Tseajaia_campi</List>
+		<List recon_name="Limnoscelis" recon_no="37232">Limnoscelis</List>
+		<List recon_name="Captorhinus" recon_no="37497">Captorhinus</List>
+		<List recon_name="Protorothyris_archeri" recon_no="135430">Protorothyris_archeri</List>
+		<List recon_name="Dimetrodon" recon_no="38904">Dimetrodon_spp</List>
+		<List recon_name="Secodontosaurus_obtusidens" recon_no="346266">Secodontosaurus_obtusidens</List>
+		<List recon_name="Ctenorhachis_jacksoni" recon_no="346070">Ctenorhachis_jacksoni</List>
+		<List recon_name="Sphenacodon_ferocior" recon_no="122488">Sphenacodon_ferocior</List>
+		<List recon_name="Cryptovenator_hirschbergeri" recon_no="185994">Cryptovenator_hirschbergeri</List>
+		<List recon_name="Titanophoneus_potens" recon_no="139331">Titanophoneus_potens</List>
+		<List recon_name="Biarmosuchus_tener" recon_no="335875">Biarmosuchus_tener</List>
+		<List recon_name="Raranimus_dashankouensis" recon_no="164055">Raranimus_dashankouensis</List>
+		<List recon_name="Biseridens_qilianicus" recon_no="137794">Biseridens_qilianicus</List>
+		<List recon_name="Pantelosaurus_saxonicus" recon_no="138246">Pantelosaurus_saxonicus</List>
+		<List recon_name="Cutleria_wilmarthi" recon_no="138249">Cutleria_wilmarthi</List>
+		<List recon_name="Ianthodon_schultzei" recon_no="196920">Ianthodon_schultzei</List>
+		<List recon_name="Haptodus_garnettensis" recon_no="122358">Haptodus_garnettensis</List>
+		<List recon_name="Edaphosaurus_boanerges" recon_no="122352">Edaphosaurus_boanerges</List>
+		<List recon_name="Edaphosaurus_novomexicanus" recon_no="122351">Edaphosaurus_novomexicanus</List>
+		<List recon_name="Luperosaurus_kayi" recon_no="123518">Lupeosaurus_kayi</List>
+		<List recon_name="Ianthasaurus_hardestiorum" recon_no="138234">Ianthasaurus_hardestii</List>
+		<List recon_name="Glaucosaurus_megalops" recon_no="123517">Glaucosaurus_megalops</List>
+		<List recon_name="Echinerpeton_intermedium" recon_no="123515">Echinerpeton_intermedium</List>
+		<List recon_name="Archaeothyris_florensis" recon_no="122328">Archaeothyris_florensis</List>
+		<List recon_name="Varanosaurus_acutirostris" recon_no="137915">Varanosaurus_acutirostris</List>
+		<List recon_name="Ophiacodon" recon_no="38888">Ophiacodon_spp</List>
+		<List recon_name="Stereophallodon_ciscoensis" recon_no="122333">Stereophallodon_ciscoensis</List>
+		<List recon_name="Oromycter_dolesorum" recon_no="140367">Oromycter_dolesorum</List>
+		<List recon_name="Ennatosaurus_tecton" recon_no="122314">Ennatosaurus_tecton</List>
+		<List recon_name="Eothyris_parkeyi" recon_no="122195">Eothyris_parkeyi</List>
+		<List recon_name="Oedaleops_campi" recon_no="122198">Oedaleops_campi</List>
+		<List recon_name="Casea_broilii" recon_no="113850">Casea_broilii</List>
+		<List recon_name="Cotylorhynchus_romeri" recon_no="122218">Cotylorhynchus_romeri</List>
+		<List recon_name="Angelosaurus_romeri" recon_no="120923">Angelosaurus_romeri</List>
+		<List recon_name="Angelosaurus_dolani" recon_no="123401">Angelosaurus_dolani</List>
+		<List recon_name="Caseopsis_agilis" recon_no="123400">Caseopsis_agilis</List>
+		<List recon_name="Trichasaurus_texensis" recon_no="140403">Trichasaurus_texensis</List>
+		<List recon_name="Cotylorhynchus_hancocki" recon_no="122303">Cotylorhynchus_hancocki</List>
+		<List recon_name="Cotylorhynchus_bransoni" recon_no="120922">Cotylorhynchus_bransoni</List>
+		<List recon_name="Euromycter_rutena" recon_no="345996">Euromycter_rutenus</List>
+		<List recon_name="Watongia_meieri" recon_no="141909">Watongia_meieri</List>
+		<List recon_name="Ruthiromia_elcobriensis" recon_no="122322">Ruthiromia_elcobriensis</List>
+		<List recon_name="Varanodon_agilis" recon_no="120891">Varanodon_agilis</List>
+		<List recon_name="Varanops_brevirostris" recon_no="91795">Varanops_brevirostris</List>
+		<List recon_name="Aerosaurus_wellesi" recon_no="122318">Aerosaurus_wellesi</List>
+		<List recon_name="Aerosaurus_greenleeorum" recon_no="122317">Aerosaurus_greenleorum</List>
+		<List recon_name="Archaeovenator_hamiltonensis" recon_no="138746">Archaeovenator_hamiltonensis</List>
+		<List recon_name="Mesenosaurus_romeri" recon_no="141851">Mesenosaurus_romeri</List>
+		<List recon_name="Mycterosaurus_longiceps" recon_no="122319">Mycterosaurus_longiceps</List>
+		<List recon_name="Heleosaurus_scholtzi" recon_no="138659">Heleosaurus_scholtzi</List>
+		<List recon_name="Elliotsmithia_longiceps" recon_no="140622">BP_1_5678_Elliotsmithia</List>
+		<List recon_name="Pyozia_mesenensis" recon_no="140623">Pyozia_mesensis</List>
+		<List recon_name="Eocasea_martini" recon_no="292123">Eocasea_martini</List>
+		<List recon_name="Casea_nicholsi" recon_no="120853">Casea_nicholsi</List>
+		<List recon_name="Vaughnictis_smithae" recon_no="345992">Vaughnictis_smithae</List>
+		<List recon_name="Apsisaurus_witteri" recon_no="138856">Apsisaurus_witteri</List>
+		<List recon_name="Datheosaurus_macrourus" recon_no="147881">Datheosaurus_macrous</List>
+		<List recon_name="Callibrachion_gaudryi" recon_no="345972">Callibrachion_gaudreyi</List>
+		<List recon_name="Phreatophasma_aenigmaticum" recon_no="122315">Phreatophasma_aenigmaticum</List>
+		<List recon_name="Milosaurus_mccordi" recon_no="123521">Milosaurus_mccordi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="245">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brocklehurst_et_Frobisch_2018aa</Filename>
+	<Parent>Brocklehurst_et_Frobisch_2017aa</Parent>
+	<Sibling/>
+</SourceTree>

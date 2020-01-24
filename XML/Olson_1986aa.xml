@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Olson, E. C.</List>
+		</Author>
+		<Year>1986</Year>
+		<Title>Relationships and ecology of the early therapsids and their predecessors</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>47-60</Pages>
+		<Booktitle>The Ecology and Biology of Mammal-like Reptiles</Booktitle>
+		<Publisher>Smithsonian Institution Press</Publisher>
+		<City>Washington</City>
+		<Editor>
+			<List>Hotton, N.</List>
+			<List>MacLean, P. D.</List>
+			<List>Roth, J. J.</List>
+			<List>Roth, E. C.</List>
+		</Editor>
+ 	</Source>
+	<Taxa number="16">
+		<List recon_name="DELETE" recon_no="-1">Haptodus</List>
+		<List recon_name="DELETE" recon_no="-1">Dimetrodon</List>
+		<List recon_name="DELETE" recon_no="-1">Edaphosaurus</List>
+		<List recon_name="DELETE" recon_no="-1">Phthinosuchus</List>
+		<List recon_name="DELETE" recon_no="-1">Phthinosaurus</List>
+		<List recon_name="DELETE" recon_no="-1">Eotitanops</List>
+		<List recon_name="DELETE" recon_no="-1">Gorgodon</List>
+		<List recon_name="DELETE" recon_no="-1">Biarmosuchus</List>
+		<List recon_name="DELETE" recon_no="-1">Archaeosyodon</List>
+		<List recon_name="DELETE" recon_no="-1">Eosyodon</List>
+		<List recon_name="DELETE" recon_no="-1">Estemmenosuchus</List>
+		<List recon_name="DELETE" recon_no="-1">Dimacrodon</List>
+		<List recon_name="DELETE" recon_no="-1">Otsheria</List>
+		<List recon_name="DELETE" recon_no="-1">Gorgonopsian</List>
+		<List recon_name="DELETE" recon_no="-1">Brithopodan</List>
+		<List recon_name="DELETE" recon_no="-1">Dicynodont</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="10">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Olson_1986aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

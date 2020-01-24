@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Govender, R.</List>
+			<List>Yates, A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Dicynodont postcrania from the Triassic of Namibia and their implication for the systematics of kannemeyeriiforme dicynodonts</Title>
+		<Journal>Palaeontographia Africana</Journal>
+		<Volume>44</Volume>
+		<Pages>41-57</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="21">
+		<List recon_name="Aulacephalodon" recon_no="39016">Aulacephalodon</List>
+		<List recon_name="Dicynodon_lacerticeps" recon_no="91716">Dicynodon</List>
+		<List recon_name="Vivaxosaurus" recon_no="202551">Vivaxosaurus</List>
+		<List recon_name="Lystrosaurus_curvatus" recon_no="139951">Lystrosaurus</List>
+		<List recon_name="Shansiodon_wangi,Shansiodon_wuhsiangensis" recon_no="266006;266008">Shansiodon</List>
+		<List recon_name="Tetragonias_njalilus" recon_no="339031">Tetragonias</List>
+		<List recon_name="Kannemeyeria_argentinensis" recon_no="177555">Kannemeyeria_argentinensis</List>
+		<List recon_name="Wadiasaurus_indicus" recon_no="177547">Wadiasaurus</List>
+		<List recon_name="Kannemeyeria" recon_no="39030">Kannemeyeria</List>
+		<List recon_name="Dolichuranus_primaevus" recon_no="172547">Dolichuranus</List>
+		<List recon_name="Dolichuranus_primaevus" recon_no="172547">Dolichuranus_cranial_only</List>
+		<List recon_name="DELETE" recon_no="-1">Morphotype_B</List>
+		<List recon_name="DELETE" recon_no="-1">Parakannemeyeria</List>
+		<List recon_name="DELETE" recon_no="-1">Sinokannemeyeria</List>
+		<List recon_name="Dinodontosaurus_pedroanum" recon_no="178082">Dinodontosaurus</List>
+		<List recon_name="Placerias_hesternus" recon_no="155546">Placerias</List>
+		<List recon_name="Angonisaurus_cruickshanki" recon_no="178256">Angonisaurus</List>
+		<List recon_name="Stahleckeria_potens" recon_no="100820">Stahleckeria</List>
+		<List recon_name="Ischigualastia_jenseni" recon_no="54412">Ischigualastia</List>
+		<List recon_name="Jachaleria_candelariensis" recon_no="178424">Jachaleria</List>
+		<List recon_name="Rechnisaurus_cristarhynchus" recon_no="177546">Rechnisaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="85">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Govender_et_Yates_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

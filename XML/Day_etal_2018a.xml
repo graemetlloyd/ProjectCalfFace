@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Day, M. O.</List>
+			<List>Smith, R. M. H.</List>
+			<List>Benoit, J.</List>
+			<List>Fernandez, V.</List>
+			<List>Rubidge, B. S.</List>
+		</Author>
+		<Year>2018</Year>
+		<Title>A new species of burnetid (Therapsida, Burnetiamorpha) from the early Wuchiapingian of South Africa and implications for the evolutionary ecology of the family Burnetiidae</Title>
+		<Journal>Papers in Palaeontology</Journal>
+		<Volume>4</Volume>
+		<Pages>453-475</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List recon_name="Dimetrodon" recon_no="38904">Dimetrodon</List>
+		<List recon_name="Biarmosuchus_tener" recon_no="335875">Biarmosuchus_tener</List>
+		<List recon_name="Hipposaurus_boonstrai" recon_no="96179">Hipposaurus_boonstrai</List>
+		<List recon_name="Bullacephalus_jacksoni" recon_no="335886">Bullacephalus_jacksoni</List>
+		<List recon_name="Pachydectes_elsi" recon_no="109355">Pachydectes_elsi</List>
+		<List recon_name="Herpetoskylax_hopsoni" recon_no="335888">Herpetoskylax_hopsoni</List>
+		<List recon_name="Lycaenodon_longiceps" recon_no="335890">Lycaenodon_longiceps</List>
+		<List recon_name="Hipposaurus_rubidgei" recon_no="96180">RC_20</List>
+		<List recon_name="Ictidorhinus_martinsi" recon_no="335891">Ictidorhinus_martinsi</List>
+		<List recon_name="Lemurosaurus_pricei" recon_no="96182">NMQR_1702</List>
+		<List recon_name="Lobalopex_mordax" recon_no="140412">Lobalopex_mordax</List>
+		<List recon_name="Lophorhinus_willodenensis" recon_no="140414">Lophorhinus_willodenensis</List>
+		<List recon_name="Burnetiamorpha_indet_BP_1_7098" recon_no="140410">BP_1_7098</List>
+		<List recon_name="Proburnetia_viatkensis" recon_no="140409">Proburnetia_viatkensis</List>
+		<List recon_name="Paraburnetia_sneeubergensis" recon_no="321649">Paraburnetia_sneeubergensis</List>
+		<List recon_name="Lende_chiweta" recon_no="335788">Lende_chiweta</List>
+		<List recon_name="Niuksenitia_sukhonensis" recon_no="341036">Niuksenitia_sukhonensis</List>
+		<List recon_name="Burnetia_mirabilis" recon_no="140408">Burnetia_mirabilis</List>
+		<List recon_name="Leucocephalus_wewersi" recon_no="370018">SAM_PK_K11112</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="3">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Day_etal_2018a</Filename>
+	<Parent>Day_etal_2016a</Parent>
+	<Sibling/>
+</SourceTree>

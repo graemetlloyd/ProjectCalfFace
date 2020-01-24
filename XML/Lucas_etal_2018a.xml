@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Lucas, S. G.</List>
+			<List>Rinehart, L. F.</List>
+			<List>Celeskey, M. D.</List>
+		</Author>
+		<Year>2018</Year>
+		<Title>The oldest specialized tetrapod herbivore: a new eupelycosaur from the Permian of New Mexico, US</Title>
+		<Journal>Palaeontologia Electronica</Journal>
+		<Volume>21339A</Volume>
+		<Pages>1-42</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="12">
+		<List recon_name="Mycterosaurus_longiceps" recon_no="122319">Mycterosaurus</List>
+		<List recon_name="Ophiacodon" recon_no="38888">Ophiacodon</List>
+		<List recon_name="Haptodus" recon_no="38905">Haptodus</List>
+		<List recon_name="Ianthasaurus_hardestiorum" recon_no="138234">Ianthasaurus</List>
+		<List recon_name="Glaucosaurus_megalops" recon_no="123517">Glaucosaurus</List>
+		<List recon_name="Lupeosaurus_kayi" recon_no="381817">Lupeosaurus</List>
+		<List recon_name="Edaphosaurus_colohistion" recon_no="122353">Edaphosaurus_colohistion</List>
+		<List recon_name="Edaphosaurus_novomexicanus" recon_no="122351">Edaphosaurus_novomexicanus</List>
+		<List recon_name="Edaphosaurus_boanerges" recon_no="122352">Edaphosaurus_boanerges</List>
+		<List recon_name="Edaphosaurus_cruciger" recon_no="346264">Edaphosaurus_cruciger</List>
+		<List recon_name="Edaphosaurus_pogonias" recon_no="81711">Edaphosaurus_pogonias</List>
+		<List recon_name="DELETE" recon_no="-1">Gordodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="39">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lucas_etal_2018a</Filename>
+	<Parent>Mazierski_et_Resiz_2010a</Parent>
+	<Sibling/>
+</SourceTree>

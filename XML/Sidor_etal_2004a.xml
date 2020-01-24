@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sidor, C. A.</List>
+			<List>Hopson, J. A.</List>
+			<List>Keyser, A. W.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A new burnetiamorph therapsid from the Teekloof Formation, Permian, of South Africa</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>24</Volume>
+		<Pages>938-950</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List recon_name="Hipposaurus" recon_no="39102">Hipposaurus</List>
+		<List recon_name="Ictidorhinidae_indet_CGP_slash_1_slash_67" recon_no="39096">CGP_slash_1_slash_67</List>
+		<List recon_name="Ictidorhinus" recon_no="39097">Ictidorhinus</List>
+		<List recon_name="Lemurosaurus" recon_no="39099">Lemurosaurus</List>
+		<List recon_name="Lobalopex" recon_no="140411">Lobalopex</List>
+		<List recon_name="Proburnetia" recon_no="39106">Proburnetia</List>
+		<List recon_name="Paraburnetia_sneeubergensis" recon_no="321649">SAM_dash_PK_dash_K10037</List>
+		<List recon_name="Bullacephalus" recon_no="335884">Bullacephalus</List>
+		<List recon_name="Niuksenitia_sukhonensis" recon_no="341036">Niuksenitia</List>
+		<List recon_name="Burnetia" recon_no="39105">Burnetia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="18">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sidor_etal_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

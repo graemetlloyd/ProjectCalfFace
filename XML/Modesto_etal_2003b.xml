@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Modesto, S.</List>
+			<List>Rubidge, B.</List>
+			<List>Visser, I.</List>
+			<List>Welman, J.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A new basal dicynodont from the Upper Permian of South Africa</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>46</Volume>
+		<Pages>211-223</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List recon_name="Titanophoneus" recon_no="38960">Titanophoneus</List>
+		<List recon_name="Patranomodon" recon_no="109357">Patranomodon</List>
+		<List recon_name="Galeops" recon_no="39004">Galeops</List>
+		<List recon_name="Eodicynodon_oelofseni" recon_no="109360">Eodicynodon_oelofseni</List>
+		<List recon_name="Eodicynodon_oosthuizeni" recon_no="164714">Eodicynodon_ooshuizeni</List>
+		<List recon_name="Diictodon" recon_no="39075">Diictodon</List>
+		<List recon_name="Robertia" recon_no="39072">Robertia</List>
+		<List recon_name="Chelydontops" recon_no="39011">Chelydontops</List>
+		<List recon_name="Pristerodon" recon_no="39058">Pristerodon</List>
+		<List recon_name="Emydops" recon_no="39063">Emydops</List>
+		<List recon_name="Colobodectes" recon_no="229051">Colobdectes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="38">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Modesto_etal_2003b</Filename>
+	<Parent>Modesto_etal_1999a</Parent>
+	<Sibling/>
+</SourceTree>

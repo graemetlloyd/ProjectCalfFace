@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Martinelli, A. G.</List>
+			<List>Rougier, G. W.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>On <em>Chaliminia musteloides</em> (Eucynodontia: Tritheledontidae) from the Late Triassic of Argentina, and a phylogeny of Ictidosauria</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>27</Volume>
+		<Pages>442-460</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List recon_name="Procynosuchus" recon_no="39172">Procynosuchus</List>
+		<List recon_name="Thrinaxodon" recon_no="39179">Thrinaxodon</List>
+		<List recon_name="Cynognathus" recon_no="39186">Cynognathus</List>
+		<List recon_name="Diademodon" recon_no="39189">Diademodon</List>
+		<List recon_name="Traversodontidae" recon_no="39195">Traversodontidae</List>
+		<List recon_name="Lumkuia" recon_no="95413">Lumkuia</List>
+		<List recon_name="Chiniquodon" recon_no="39222">Chiniquodon</List>
+		<List recon_name="Ecteninion" recon_no="67453">Ecteninion</List>
+		<List recon_name="Probainognathus" recon_no="39225">Probainognathus</List>
+		<List recon_name="Prozostrodon" recon_no="172332">Prozostrodon</List>
+		<List recon_name="Therioherpeton" recon_no="39228">Therioherpeton</List>
+		<List recon_name="Riograndia" recon_no="95409">Riograndia</List>
+		<List recon_name="Irajatherium" recon_no="178083">Irajatherium</List>
+		<List recon_name="Chaliminia" recon_no="39230">Chaliminia</List>
+		<List recon_name="Elliotherium" recon_no="178271">Elliotherium</List>
+		<List recon_name="Pachygenelus_monus" recon_no="56650">Pachygenelus</List>
+		<List recon_name="Diarthrognathus" recon_no="39231">Diarthrognathus</List>
+		<List recon_name="Tritheledon" recon_no="39232">Tritheledon</List>
+		<List recon_name="Brasilodon" recon_no="174537">Brasilodon</List>
+		<List recon_name="Brasilitherium" recon_no="174539">Brasilitherium</List>
+		<List recon_name="Sinoconodon" recon_no="39747">Sinoconodon</List>
+		<List recon_name="Morganucodon" recon_no="39753">Morganucodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="93">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Martinelli_et_Rougier_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

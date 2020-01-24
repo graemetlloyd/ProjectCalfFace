@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>deBraga, M.</List>
+			<List>Rieppel, O.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Reptile phylogeny and the interrelationships of turtles</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>120</Volume>
+		<Pages>281-354</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List recon_name="Seymouriidae" recon_no="37219">Seymouriadae</List>
+		<List recon_name="Diadectomorpha" recon_no="135806">Diadectomorpha</List>
+		<List recon_name="Caseidae" recon_no="38913">Caseidae</List>
+		<List recon_name="Ophiacodontidae" recon_no="38884">Ophiacodontidae</List>
+		<List recon_name="Edaphosauridae" recon_no="38910">Edaphosauridae</List>
+		<List recon_name="Sphenacodontidae" recon_no="38901">Sphenacodontidae</List>
+		<List recon_name="Gorgonopsia" recon_no="39095">Gorganopsia</List>
+		<List recon_name="Cynodontia" recon_no="39168">Cynodontia</List>
+		<List recon_name="Captorhinidae" recon_no="37495">Captorhinidae</List>
+		<List recon_name="Paleothyris_acadiana" recon_no="138002">Paleothyris</List>
+		<List recon_name="Millerettidae" recon_no="37568">Millerettidae</List>
+		<List recon_name="Acleistorhinus_pteroticus" recon_no="90735">Acleistorhinus</List>
+		<List recon_name="Lanthanosuchidae" recon_no="37224">Lanthanosuchidae</List>
+		<List recon_name="Macroleter_poezicus" recon_no="120852">Macroleter</List>
+		<List recon_name="Bradysaurus_seeleyi" recon_no="144595">Bradysaurus</List>
+		<List recon_name="Scutosaurus_karpinskii" recon_no="159720">Scutosaurus</List>
+		<List recon_name="Anthodon_serrarius" recon_no="56757">Anthodon</List>
+		<List recon_name="Procolophon_trigoniceps" recon_no="56758">Procolophon</List>
+		<List recon_name="Owenetta_rubidgei" recon_no="136937">Owenetta</List>
+		<List recon_name="Araeoscelidia" recon_no="99775">Araeoscelidia</List>
+		<List recon_name="Claudiosaurus_germaini" recon_no="138614">Claudiosaurus</List>
+		<List recon_name="Younginiformes" recon_no="92226">Younginiformes</List>
+		<List recon_name="Kuehneosauridae" recon_no="37838">Kuehneosauridae</List>
+		<List recon_name="Testudines" recon_no="56475">Testudines</List>
+		<List recon_name="Rhynchocephalia" recon_no="54194">Rhynchocephalia</List>
+		<List recon_name="Squamata" recon_no="36379">Squamata</List>
+		<List recon_name="Choristodera" recon_no="37784">Choristodera</List>
+		<List recon_name="Rhynchosauria" recon_no="159212">Rhynchosauria</List>
+		<List recon_name="Prolacertiformes" recon_no="92216">Prolacertiformes</List>
+		<List recon_name="Trilophosaurus" recon_no="38204">Trilophosaurus</List>
+		<List recon_name="Archosauriformes" recon_no="57091">Archisauriformes</List>
+		<List recon_name="Placodus" recon_no="36538">Placodus</List>
+		<List recon_name="Eosauropterygia" recon_no="100142">Eosauropterygia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="168">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>deBraga_et_Rieppel_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

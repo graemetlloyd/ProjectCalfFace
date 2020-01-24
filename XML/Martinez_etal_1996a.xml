@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Martinez, R. N.</List>
+			<List>May, C. L.</List>
+			<List>Forster, C. A.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>A new carnivorous cynodont from the Ischigualasto Formation (Late Triassic, Argentina), with comments on eucynodont phylogeny</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>16</Volume>
+		<Pages>271-284</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List recon_name="Thrinaxodon" recon_no="39179">Thrinaxodon</List>
+		<List recon_name="Cynognathus" recon_no="39186">Cynognathus</List>
+		<List recon_name="Massetognathus" recon_no="39203">Massetognathus</List>
+		<List recon_name="Tritylodontidae" recon_no="39208">Tritylodontidae</List>
+		<List recon_name="Chiniquodon" recon_no="39222">Chiniquodon</List>
+		<List recon_name="Probelesodon" recon_no="39226">Probelesodon</List>
+		<List recon_name="Probainognathus" recon_no="39225">Probainognathus</List>
+		<List recon_name="Tritheledontidae" recon_no="39229">Tritheledontidae</List>
+		<List recon_name="Ecteninion" recon_no="67453">Ecteninion</List>
+		<List recon_name="Morganucodon" recon_no="39753">Morganucodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="68">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Martinez_etal_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

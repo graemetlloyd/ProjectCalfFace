@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Romano, M.</List>
+			<List>Nicosia, U.</List>
+		</Author>
+		<Year>2015</Year>
+		<Title>Cladistic analyses of Caseidae (Caseasauria, Synapsida): using the gap-weighting method to include taxa based on incomplete specimens</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>58</Volume>
+		<Pages>1109-1130</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="25">
+		<List recon_name="Captorhinus" recon_no="37497">Captorhinus</List>
+		<List recon_name="Limnoscelis" recon_no="37232">Limnoscelis</List>
+		<List recon_name="Diadectes" recon_no="37247">Diadectes</List>
+		<List recon_name="Varanops" recon_no="38897">Varanops</List>
+		<List recon_name="Ophiacodon" recon_no="38888">Ophiacodon</List>
+		<List recon_name="Edaphosaurus" recon_no="38911">Edaphosaurus</List>
+		<List recon_name="Dimetrodon" recon_no="38904">Dimetrodon</List>
+		<List recon_name="Sphenacodon" recon_no="38909">Sphenacodon</List>
+		<List recon_name="Casea_broilii" recon_no="113850">Cbroilii</List>
+		<List recon_name="Caseopsis_agilis" recon_no="123400">Cagilis</List>
+		<List recon_name="Caseoides_sanangeloensis" recon_no="123414">Csanangeloensis</List>
+		<List recon_name="Casea_nicholsi" recon_no="120853">Cnicholsi</List>
+		<List recon_name="Casea_halselli" recon_no="120854">Chalselli</List>
+		<List recon_name="Trichasaurus_texensis" recon_no="140403">Ttexensis</List>
+		<List recon_name="Cotylorhynchus_romeri" recon_no="122218">Cromeri</List>
+		<List recon_name="Cotylorhynchus_bransoni" recon_no="120922">Cbransoni</List>
+		<List recon_name="Cotylorhynchus_hancocki" recon_no="122303">Chancocki</List>
+		<List recon_name="Angelosaurus_romeri" recon_no="120923">Aromeri</List>
+		<List recon_name="Angelosaurus_dolani" recon_no="123401">Adolani</List>
+		<List recon_name="Angelosaurus_greeni" recon_no="122304">Agreeni</List>
+		<List recon_name="Ruthenosaurus_russellorum" recon_no="345994">Rrussellorum</List>
+		<List recon_name="Ennatosaurus_tecton" recon_no="122314">Etecton</List>
+		<List recon_name="Euromycter_rutena" recon_no="345996">Erutenus</List>
+		<List recon_name="Oromycter_dolesorum" recon_no="140367">Odolesorum</List>
+		<List recon_name="Eothyris_parkeyi" recon_no="122195">Eothyris</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="477">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Romano_et_Nicosia_2015a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

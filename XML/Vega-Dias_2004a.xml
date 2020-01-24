@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Vega-Dias, C.</List>
+			<List>Maisch, M. W.</List>
+			<List>Schultz, C. L.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A new phylogenetic analysis of Triassic dicynodonts (Therapsida) and the systematic position of <em>Jachaleria candelariensis</em> from the Upper Triassic of Brazil</Title>
+		<Journal>Neues Jahrbuch fur Geologie und Palaontologie Abhandlungen</Journal>
+		<Volume>231</Volume>
+		<Pages>145-166</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List recon_name="Dicynodon" recon_no="39019">Dicynodon</List>
+		<List recon_name="Lystrosaurus" recon_no="39049">Lystrosaurus</List>
+		<List recon_name="Shansiodon_wangi,Shansiodon_wuhsiangensis" recon_no="266006;266008">Shansiodon</List>
+		<List recon_name="Tetragonias" recon_no="39042">Tetragonias</List>
+		<List recon_name="Kannemeyeria" recon_no="39030">Kannemeyeria</List>
+		<List recon_name="Wadiasaurus" recon_no="39047">Wadiasaurus</List>
+		<List recon_name="Parakannemeyeria" recon_no="39032">Parakannemeyeria</List>
+		<List recon_name="Sinokannemeyeria" recon_no="39033">Sinokannemeyeria</List>
+		<List recon_name="Angonisaurus" recon_no="39023">Angonisaurus</List>
+		<List recon_name="Stahleckeria" recon_no="39041">Stahleckeria</List>
+		<List recon_name="Ischigualastia" recon_no="39029">Ischigualastia</List>
+		<List recon_name="Jachaleria" recon_no="178102">Jachaleria</List>
+		<List recon_name="Dinodontosaurus" recon_no="39026">Dinodontosaurs</List>
+		<List recon_name="Placerias" recon_no="39034">Placerias</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="44">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Vega-Dias_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

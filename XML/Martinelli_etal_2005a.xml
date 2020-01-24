@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Martinelli, A. G.</List>
+			<List>Bonaparte, J. F.</List>
+			<List>Schultz, C. L.</List>
+			<List>Rubert, R.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A new tritheledontid (Therapsida, Eucynodontia) from the Late Triassic of Rio Grande do Sul (Brazil) and its phylogenetic relationships among carnivorous nonmammalian eucynodonts</Title>
+		<Journal>Ameghiniana</Journal>
+		<Volume>42</Volume>
+		<Pages>191-208</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="16">
+		<List recon_name="Thrinaxodon" recon_no="39179">Thrinaxodon</List>
+		<List recon_name="Cynognathus" recon_no="39186">Cynognathus</List>
+		<List recon_name="Exaeretodon" recon_no="39200">Exaeretodon</List>
+		<List recon_name="Lumkuia_fuzzi" recon_no="95414">Lumkuia</List>
+		<List recon_name="Probelesodon" recon_no="39226">Probelesdon</List>
+		<List recon_name="Chiniquodon" recon_no="39222">Chiniquodon</List>
+		<List recon_name="Probainognathus_jenseni" recon_no="80895">Probainognathus</List>
+		<List recon_name="Prozostrodon_brasiliensis" recon_no="172333">Prozostrodon</List>
+		<List recon_name="Therioherpeton_cargnini" recon_no="95407">Therioherpeton</List>
+		<List recon_name="Riograndia_guaibensis" recon_no="178232">Riograndia</List>
+		<List recon_name="Chaliminia_musteloides" recon_no="174512">Chaliminia</List>
+		<List recon_name="Irajatherium_hernandezi" recon_no="178084">Irajatherium</List>
+		<List recon_name="Pachygenelus_monus" recon_no="56650">Pachygenelus</List>
+		<List recon_name="Diarthrognathus_broomi" recon_no="171985">Diarthrognathus</List>
+		<List recon_name="Sinoconodon_rigneyi" recon_no="203414">Sinoconodon</List>
+		<List recon_name="Morganucodon" recon_no="39753">Morganucodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="63">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Martinelli_etal_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

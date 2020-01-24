@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ezcurra, M. D.</List>
+			<List>Scheyer, T. M.</List>
+			<List>Butler, R. J.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>The origin and early evolution of Sauria: reassessing the Permian saurian fossil record and the timing of the crocodile-Lizard divergence</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>9</Volume>
+		<Pages>e89165</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="40">
+		<List recon_name="Tseajaia_campi" recon_no="120742">Tseajaia</List>
+		<List recon_name="Casea" recon_no="38915">Casea</List>
+		<List recon_name="Eothyris_parkeyi" recon_no="122195">Eothyris</List>
+		<List recon_name="Archaeothyris_florensis" recon_no="122328">Archaeothyris</List>
+		<List recon_name="Ophiacodon" recon_no="38888">Ophiacodon</List>
+		<List recon_name="Mycterosaurus" recon_no="38895">Mycterosaurus</List>
+		<List recon_name="Mesenosaurus" recon_no="37777">Mesenosaurus</List>
+		<List recon_name="Elliotsmithia" recon_no="38924">Elliotsmithia</List>
+		<List recon_name="Aerosaurus" recon_no="38893">Aerosaurus</List>
+		<List recon_name="Varanops" recon_no="38897">Varanops</List>
+		<List recon_name="Varanodon" recon_no="38896">Varanodon</List>
+		<List recon_name="Archaeovenator_hamiltonensis" recon_no="138746">Archaeovenator</List>
+		<List recon_name="Captorhinus" recon_no="37497">Captorhinus</List>
+		<List recon_name="Paleothyris_acadiana" recon_no="138002">Paleothyris</List>
+		<List recon_name="Petrolacosaurus_kansensis" recon_no="138231">Petrolacosaurus</List>
+		<List recon_name="Araeoscelis" recon_no="37773">Araeoscelis</List>
+		<List recon_name="Apsisaurus" recon_no="138851">Apsisaurus</List>
+		<List recon_name="Coelurosauravus" recon_no="37779">Coelurosauravus</List>
+		<List recon_name="Acerosodontosaurus_piveteaui" recon_no="157602">Acerosodontosaurus</List>
+		<List recon_name="Youngina_capensis" recon_no="77037">Youngina</List>
+		<List recon_name="Trilophosaurus_buettneri" recon_no="64922">Trilophosaurus_buettneri</List>
+		<List recon_name="Prolacerta_broomi" recon_no="138933">Prolacerta</List>
+		<List recon_name="Planocephalosaurus" recon_no="37825">Planocephalosaurus</List>
+		<List recon_name="Chalarodon_madagascariensis" recon_no="373814">Chalarodon_madagascariensis</List>
+		<List recon_name="Huehuecuetzpalli" recon_no="197015">Huehuecuetzpalli</List>
+		<List recon_name="Dalinghosaurus" recon_no="197001">Dalinghosaurus</List>
+		<List recon_name="Proterosuchus_fergusi" recon_no="184525">Proterosuchus_fergusi</List>
+		<List recon_name="Erythrosuchus_africanus" recon_no="163009">Erythrosuchus_africanus</List>
+		<List recon_name="Aenigmastropheus_parringtoni" recon_no="323653">Aenigmastropheus_parringtoni</List>
+		<List recon_name="Tanystropheus_longobardicus" recon_no="180927">Tanystropheus_longobardicus</List>
+		<List recon_name="Euparkeria_capensis" recon_no="99170">Euparkeria_capensis</List>
+		<List recon_name="Mesosuchus_browni" recon_no="139820">Mesosuchus_browni</List>
+		<List recon_name="Howesia_browni" recon_no="141597">Howesia_browni</List>
+		<List recon_name="Protorosaurus_speneri" recon_no="95836">Protorosaurus_speneri</List>
+		<List recon_name="Archosaurus_rossicus" recon_no="140596">Archosaurus_rossicus</List>
+		<List recon_name="Paliguana_whitei" recon_no="144690">Paliguana</List>
+		<List recon_name="Macrocnemus_bassanii" recon_no="141599">Macrocnemus_bassanii</List>
+		<List recon_name="Noteosuchus_colletti" recon_no="139802">Noteosuchus_colletti</List>
+		<List recon_name="Gephyrosaurus" recon_no="37811">Gephyrosaurus</List>
+		<List recon_name="Eorasaurus_olsoni" recon_no="276144">Eorasaurus_olsoni</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="219">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ezcurra_etal_2014a</Filename>
+	<Parent>Reisz_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Liu, J.</List>
+			<List>Abdala, F.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>Phylogeny and taxonomy of the Traversodontidae</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>255-279</Pages>
+		<Booktitle>Early Evolutionary History of the Synapsida</Booktitle>
+		<Publisher>Springer Science</Publisher>
+		<City>Dordrecht</City>
+		<Editor>
+			<List>Kammerer, C. F.</List>
+			<List>Angielczyk, K. D.</List>
+			<List>Frobisch, J.</List>
+		</Editor>
+	</Source>
+	<Taxa number="30">
+		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">Thrinaxodon_liorhinus</List>
+		<List recon_name="Cynognathus_crateronotus" recon_no="56878">Cynognathus_crateronotus</List>
+		<List recon_name="Diademodon_tetragonus" recon_no="171986">Diademodon_tetragonus</List>
+		<List recon_name="Beishanodon_youngi" recon_no="265901">Beishanodon_youngi</List>
+		<List recon_name="Cricodon_metabolus" recon_no="177670">Cricodon_metabolus</List>
+		<List recon_name="Langbergia_modisei" recon_no="171944">Langbergia_modisei</List>
+		<List recon_name="Sinognathus_gracilis" recon_no="265894">Sinognathus_gracilis</List>
+		<List recon_name="Trirachodon_berryi" recon_no="56887">Trirachodon_berryi</List>
+		<List recon_name="Trirachodon_sp_JSM_100" recon_no="39194">JSM_100</List>
+		<List recon_name="Andescynodon_mendozensis" recon_no="66674">Andescynodon_mendozensis</List>
+		<List recon_name="Arctotraversodon_plemmyridon" recon_no="146588">Arctotraversodon_plemmyridon</List>
+		<List recon_name="Boreogomphodon_jeffersoni" recon_no="57568">Boreogomphodon_jeffersoni</List>
+		<List recon_name="Dadadon_isaloi" recon_no="167266">Dadadon_isaloi</List>
+		<List recon_name="Exaeretodon_argentinus" recon_no="376276">Exaeretodon_argentinus</List>
+		<List recon_name="Exaeretodon_riograndensis" recon_no="333700">Exaeretodon_riograndensis</List>
+		<List recon_name="Gomphodontosuchus_brasiliensis" recon_no="100826">Gomphodontosuchus_brasiliensis</List>
+		<List recon_name="Luangwa_drysdalli" recon_no="172477">Luangwa_drysdalli</List>
+		<List recon_name="Luangwa_sudamericana" recon_no="180407">Luangwa_sudamericana</List>
+		<List recon_name="Massetognathus_ochagaviae" recon_no="117947">Massetognathus_ochagaviae</List>
+		<List recon_name="Massetognathus_pascuali" recon_no="80893">Massetognathus_pascuali</List>
+		<List recon_name="Menadon_besairiei" recon_no="167263">Menadon_besairiei</List>
+		<List recon_name="Pascualgnathus_polanskii" recon_no="117951">Pascualgnathus_polanskii</List>
+		<List recon_name="Protuberum_cabralensis" recon_no="172339">Protuberum_cabralense</List>
+		<List recon_name="Santacruzodon_hopsoni" recon_no="171913">Santacruzodon_hopsoni</List>
+		<List recon_name="Scalenodon_angustifrons" recon_no="177679">Scalenodon_angustifrons</List>
+		<List recon_name="Scalenodon_attridgei" recon_no="302111">Mandagomphodon_attridgei</List>
+		<List recon_name="Mandagomphodon_hirschsoni" recon_no="302113">Mandagomphodon_hirschoni</List>
+		<List recon_name="Scalenodontoides_macrodontes" recon_no="178335">Scalenodontoides_macrodontoides</List>
+		<List recon_name="Traversodon_stahleckeri" recon_no="100828">Traversodon_stahleckeri</List>
+		<List recon_name="Nanogomphodon_wildi" recon_no="172448">Nanogomphodon_wildi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="77">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Liu_et_Abdala_2014a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

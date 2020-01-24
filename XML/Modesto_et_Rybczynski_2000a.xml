@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Modesto, S. P.</List>
+			<List>Rybczynski, N.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>THe amniote faunas of the Rusian Permian: implications for Late Permian terrestrial vertebrate biogeography</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>17-34</Pages>
+		<Booktitle>The Age of Dinosaurs in Russia and Mongolia</Booktitle>
+		<Publisher>Cambridge University Press</Publisher>
+		<City>Cambridge</City>
+		<Editor>
+			<List>Benton, M. J.</List>
+			<List>Shishkin, M. A.</List>
+		</Editor>
+	</Source>
+	<Taxa number="11">
+		<List recon_name="Titanophoneus" recon_no="38960">Titanophoneus</List>
+		<List recon_name="Gorgonops" recon_no="39118">Gorgonops</List>
+		<List recon_name="Pristerognathus" recon_no="39134">Pristerognathus</List>
+		<List recon_name="Patranomodon" recon_no="109357">Patranomodon</List>
+		<List recon_name="Otsheria" recon_no="38999">Otsheria</List>
+		<List recon_name="Ulemica" recon_no="180711">Ulemica</List>
+		<List recon_name="Suminia" recon_no="180710">Suminia</List>
+		<List recon_name="Galeops" recon_no="39004">Galeops</List>
+		<List recon_name="Eodicynodon" recon_no="39008">Eodicynodon</List>
+		<List recon_name="Pristerodon" recon_no="39058">Pristerodon</List>
+		<List recon_name="Dicynodon" recon_no="39019">Dicynodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="38">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Modesto_et_Rybczynski_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

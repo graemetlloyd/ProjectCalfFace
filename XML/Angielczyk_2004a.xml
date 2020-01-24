@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Angielczyk, K. D.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Phylogenetic evidence for and implications of a dual origin of propaliny in anomodont therapsids (Synapsida)</Title>
+		<Journal>Paleobiology</Journal>
+		<Volume>30</Volume>
+		<Pages>268-296</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List recon_name="Titanophoneus" recon_no="38960">Titanophoneus</List>
+		<List recon_name="Gorgonops" recon_no="39118">Gorgonops</List>
+		<List recon_name="Lycosuchidae" recon_no="95359">Lycosuchidae</List>
+		<List recon_name="Patranomodon" recon_no="109357">Patranomodon</List>
+		<List recon_name="Otsheria" recon_no="38999">Otsheria</List>
+		<List recon_name="Ulemica" recon_no="180711">Ulemica</List>
+		<List recon_name="Suminia" recon_no="180710">Suminia</List>
+		<List recon_name="Galeops" recon_no="39004">Galeops</List>
+		<List recon_name="Eodicynodon" recon_no="39008">Eodicynodon</List>
+		<List recon_name="Diictodon" recon_no="39075">Diictodon</List>
+		<List recon_name="Pristerodon" recon_no="39058">Pristerodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="41">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Angielczyk_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Campione, N. E.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title><em>Varanops brevirostris</em> (Eupelycosauria: Varanopidae) from the Lower Permian of Texas, with discussion of varanopid morphology and interrelationships</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>30</Volume>
+		<Pages>724-746</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="11">
+		<List recon_name="Cotylorhynchus" recon_no="38917">Cotylorhynchus</List>
+		<List recon_name="Ophiacodon" recon_no="38888">Ophiacodon</List>
+		<List recon_name="Mycterosaurus" recon_no="38895">Mycterosaurus</List>
+		<List recon_name="Mesenosaurus" recon_no="37777">Mesenosaurus</List>
+		<List recon_name="Aerosaurus" recon_no="38893">Aerosaurus</List>
+		<List recon_name="Varanops" recon_no="38897">Varanops</List>
+		<List recon_name="Varanodon" recon_no="38896">Varanodon</List>
+		<List recon_name="Archaeovenator_hamiltonensis" recon_no="138746">Archaeovenator</List>
+		<List recon_name="Watongia" recon_no="38948">Watongia</List>
+		<List recon_name="Heleosaurus" recon_no="38304">Heleosaurus</List>
+		<List recon_name="Elliotsmithia" recon_no="38924">Elliotsmithia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="58">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Campione_et_Reisz_2010a</Filename>
+	<Parent>Maddin_etal_2006a</Parent>
+	<Sibling/>
+</SourceTree>

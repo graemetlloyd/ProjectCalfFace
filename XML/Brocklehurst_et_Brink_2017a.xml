@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Brocklehurst, N.</List>
+			<List>Brink, K. S.</List>
+		</Author>
+		<Year>2017</Year>
+		<Title>Selection towards larger body size in both herbivorous and carnivorous synapsids during the Carboniferous</Title>
+		<Journal>FACETS</Journal>
+		<Volume>2</Volume>
+		<Pages>68-84</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="21">
+		<List recon_name="DELETE" recon_no="-1">Varanopidae</List>
+		<List recon_name="DELETE" recon_no="-1">Ophiacodontidae</List>
+		<List recon_name="DELETE" recon_no="-1">Edaphosauridae</List>
+		<List recon_name="Haptodus_garnettensis" recon_no="122358">Haptodus_garnettensis</List>
+		<List recon_name="Cryptovenator_hirschbergeri" recon_no="185994">Cryptovenator</List>
+		<List recon_name="Pantelosaurus_saxonicus" recon_no="138246">Pantelosaurus</List>
+		<List recon_name="Cutleria_wilmarthi" recon_no="138249">Cutleria</List>
+		<List recon_name="Ianthodon_schultzei" recon_no="196920">Ianthodon</List>
+		<List recon_name="Sphenacodon_ferocior" recon_no="122488">Sphenacodon_ferocior</List>
+		<List recon_name="DELETE" recon_no="-1">Ctenospondylus</List>
+		<List recon_name="Dimetrodon_milleri" recon_no="122782">Dimetrodon_milleri</List>
+		<List recon_name="Dimetrodon_limbatus" recon_no="344229">Dimetrodon_limbatus</List>
+		<List recon_name="Dimetrodon_grandis" recon_no="122786">Dimetrodon_grandis</List>
+		<List recon_name="Secodontosaurus" recon_no="38908">Secodontosaurus</List>
+		<List recon_name="Biarmosuchus" recon_no="38938">Biarmosuchus</List>
+		<List recon_name="Ctenorhachis_jacksoni" recon_no="346070">Ctenorhachis</List>
+		<List recon_name="Dinocephalia" recon_no="38949">Dinocephalia</List>
+		<List recon_name="Tetraceratops_insignis" recon_no="145255">Tetraceratops</List>
+		<List recon_name="Raranimus_dashankouensis" recon_no="164055">Raranimus</List>
+		<List recon_name="Hipposaurus" recon_no="39102">Hipposaurus</List>
+		<List recon_name="Bathygnathus_borealis" recon_no="65123">Bathygnathus_borealis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="123">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brocklehurst_et_Brink_2017a</Filename>
+	<Parent>Brink_etal_2015aa</Parent>
+	<Sibling/>
+</SourceTree>

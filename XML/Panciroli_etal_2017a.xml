@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Panciroli, E.</List>
+			<List>Walsh, S.</List>
+			<List>Fraser, N. C.</List>
+			<List>Brusatte, S. L.</List>
+			<List>Corfe, I.</List>
+		</Author>
+		<Year>2017</Year>
+		<Title>A reassessment of the postcanine dentition and systematics of the tritylodontid <em>Stereognathus</em> (Cynodontia, Tritylodontidae, Mammaliamorpha), from the Middle Jurassic of the United Kingdom</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>37</Volume>
+		<Pages>e1351448</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="17">
+		<List recon_name="Oligokyphus" recon_no="39215">Oligokyphus</List>
+		<List recon_name="Tritylodon" recon_no="39217">Tritylodon</List>
+		<List recon_name="Bienotherium" recon_no="39209">Bienotherium</List>
+		<List recon_name="Bienotheroides" recon_no="39210">Bienotheroides</List>
+		<List recon_name="Bocatherium_mexicanum" recon_no="252017">Bocatherium</List>
+		<List recon_name="Dianzhongia_longirostrata" recon_no="252930">Dianzhongia</List>
+		<List recon_name="Dinnebitodon_amarali" recon_no="403879">Dinnebitodon</List>
+		<List recon_name="Kayentatherium_wellesi" recon_no="175105">Kayentatherium</List>
+		<List recon_name="Lufengia_delicata" recon_no="252062">Lufengia</List>
+		<List recon_name="Montirictus_kuwajimaensis" recon_no="345871">Montirictus</List>
+		<List recon_name="Polistodon_chuannanensis" recon_no="136473">Polistodon</List>
+		<List recon_name="Stereognathus_ooliticus" recon_no="207504">Stereognathus</List>
+		<List recon_name="Xenocretosuchus" recon_no="254183">Xenocretosuchus</List>
+		<List recon_name="Yunnanodon_brevirostre" recon_no="252933">Yunnanodon</List>
+		<List recon_name="Yuanotherium_minor" recon_no="264011">Yuanotherium</List>
+		<List recon_name="Shartegodon_altai" recon_no="392861">Shartegodon</List>
+		<List recon_name="Nuurtherium_baruunensis" recon_no="392863">Nuurtherium</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="35">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Panciroli_etal_2017a</Filename>
+	<Parent>Velazco_etal_2017a</Parent>
+	<Sibling/>
+</SourceTree>

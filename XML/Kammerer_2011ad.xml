@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kammerer, C. F.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Systematics of the Anteosauria (Therapsida: Dinocephalia)</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>9</Volume>
+		<Pages>261-304</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List recon_name="Biarmosuchus" recon_no="38938">Biarmosuchus</List>
+		<List recon_name="Estemmenosuchus" recon_no="38965">Estemmenosuchus</List>
+		<List recon_name="Tapinocaninus_pamelae" recon_no="367365">Tapinocaninus</List>
+		<List recon_name="Microsyodon_orlovi" recon_no="358605">Microsyodon</List>
+		<List recon_name="Archaeosyodon" recon_no="38953">Archaeosyodon</List>
+		<List recon_name="Notosyodon" recon_no="38958">Notosyodon</List>
+		<List recon_name="Syodon" recon_no="38959">Syodon</List>
+		<List recon_name="Australosyodon" recon_no="109361">Australosyodon</List>
+		<List recon_name="Titanophoneus_potens" recon_no="139331">T_potens</List>
+		<List recon_name="Titanophoneus_adamanteus" recon_no="358627">T_adamanteus</List>
+		<List recon_name="Sinophoneus" recon_no="137799">Sinophoneus</List>
+		<List recon_name="Anteosaurus" recon_no="38971">Anteosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="35">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kammerer_2011ad</Filename>
+	<Parent/>
+	<Sibling>Kammerer_2011aa</Sibling>
+</SourceTree>

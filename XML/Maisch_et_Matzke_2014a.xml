@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Maisch, M. W.</List>
+			<List>Matzke, A. T.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title><em>Sungeodon kimkraemerae</em> n. gen. n. sp., the oldest kannemeyeriiform (Therapsida, Dicynodontia) and its implications for the early diversification of large herbivores after the P/T boundary</Title>
+		<Journal>Neues Jahrbuch fur Geologie und Palaontologie Abhandlungen</Journal>
+		<Volume>272</Volume>
+		<Pages>1-12</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="19">
+		<List recon_name="Dicynodon_lacerticeps" recon_no="91716">Dicynodon</List>
+		<List recon_name="Dinanomodon_gilli" recon_no="332235">Dinanomodon</List>
+		<List recon_name="Kwazulusaurus_shakai" recon_no="122137">Kwazulusaurus</List>
+		<List recon_name="Shansiodon_wangi,Shansiodon_wuhsiangensis" recon_no="266006;266008">Shansiodon</List>
+		<List recon_name="Tetragonias_njalilus" recon_no="339031">Tetragonias</List>
+		<List recon_name="Vinceria_andina" recon_no="66675">Vinceria</List>
+		<List recon_name="DELETE" recon_no="-1">Kannemeyeria</List>
+		<List recon_name="Wadiasaurus_indicus" recon_no="177547">Wadiasaurus</List>
+		<List recon_name="Dolichuranus_primaevus" recon_no="172547">Dolichuranus</List>
+		<List recon_name="DELETE" recon_no="-1">Parakannemeyeria</List>
+		<List recon_name="DELETE" recon_no="-1">Sinokannemeyeria</List>
+		<List recon_name="Xiyukannemeyeria_brevirostris" recon_no="265926">Xiyukannemeyeria</List>
+		<List recon_name="Dinodontosaurus_pedroanum" recon_no="178082">Dinodontosaurus</List>
+		<List recon_name="Sungeodon_kimkraemerae" recon_no="330107">Sungeodon</List>
+		<List recon_name="Placerias_hesternus" recon_no="155546">Placerias</List>
+		<List recon_name="Angonisaurus_cruickshanki" recon_no="178256">Angonisaurus</List>
+		<List recon_name="Stahleckeria_potens" recon_no="100820">Stahleckeria</List>
+		<List recon_name="Ischigualastia_jenseni" recon_no="54412">Ischigualastia</List>
+		<List recon_name="Jachaleria_candelariensis" recon_no="178424">Jachaleria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="54">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maisch_et_Matzke_2014a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

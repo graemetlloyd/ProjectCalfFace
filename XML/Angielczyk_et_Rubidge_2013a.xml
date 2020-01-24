@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Angielczyk, K. D.</List>
+			<List>Rubidge, B. S.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Skeletal morphology, phylogenetic relationships and stratigraphic range of <em>Eosimops newtoni</em> Broom, 1921, a pylaecephalid dicynodont (Therapsida, Anomodontia) from the Middle Permian of South Africa</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>11</Volume>
+		<Pages>191-231</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List recon_name="Patranomodon" recon_no="109357">Patranomodon</List>
+		<List recon_name="Otsheria" recon_no="38999">Otsheria</List>
+		<List recon_name="Eodicynodon" recon_no="39008">Eodicynodon</List>
+		<List recon_name="Diictodon" recon_no="39075">Diictodon</List>
+		<List recon_name="Endothiodon" recon_no="39012">Endothiodon</List>
+		<List recon_name="Chelydontops" recon_no="39011">Chelydontops</List>
+		<List recon_name="Pristerodon" recon_no="39058">Pristerodon</List>
+		<List recon_name="Emydops" recon_no="39063">Emydops</List>
+		<List recon_name="Dicynodontoides" recon_no="249571">Dicynodontoides</List>
+		<List recon_name="Cistecephalus" recon_no="39069">Cistecephalus</List>
+		<List recon_name="Myosaurus" recon_no="39066">Myosaurus</List>
+		<List recon_name="Tropidostoma" recon_no="39054">Tropidostoma</List>
+		<List recon_name="Oudenodon" recon_no="39052">Oudenodon</List>
+		<List recon_name="Rhachiocephalus" recon_no="39053">Rhachiocephalus</List>
+		<List recon_name="Geikia_locusticeps" recon_no="343951">Geikia_locusticeps</List>
+		<List recon_name="Aulacephalodon" recon_no="39016">Aulacephalodon</List>
+		<List recon_name="Dicynodon_lacerticeps" recon_no="91716">Dicynodon_lacerticeps</List>
+		<List recon_name="Lystrosaurus" recon_no="39049">Lystrosaurus</List>
+		<List recon_name="Kannemeyeria" recon_no="39030">Kannemeyeria</List>
+		<List recon_name="Idelesaurus" recon_no="139087">Idelesaurus</List>
+		<List recon_name="Interpresosaurus" recon_no="200996">Interpresosaurus</List>
+		<List recon_name="Elph" recon_no="159716">Elph</List>
+		<List recon_name="Dicynodon_trautscholdi" recon_no="298051">quot_Dicynodon_quot_trautscholdi</List>
+		<List recon_name="Delectosaurus" recon_no="200989">Delectosaurus</List>
+		<List recon_name="Vivaxosaurus" recon_no="202551">Vivaxosaurus</List>
+		<List recon_name="Dicynodon_amalitzkii" recon_no="296874">quot_Dicynodon_quot_amaltizkii</List>
+		<List recon_name="Australobarbarus" recon_no="202544">Australobarbarus</List>
+		<List recon_name="Colobodectes" recon_no="229051">Colobodectes</List>
+		<List recon_name="Eosimops_newtoni" recon_no="346715">Eosimops_newtoni</List>
+		<List recon_name="Robertia_broomiana" recon_no="336113">Robertia_broomiana</List>
+		<List recon_name="Kombuisia" recon_no="39078">Kombuisia</List>
+		<List recon_name="Cistecephaloides" recon_no="39068">Cistecephaloides</List>
+		<List recon_name="Kawingasaurus" recon_no="39070">Kawingasaurus</List>
+		<List recon_name="Prosictodon_dubei" recon_no="366730">Prosictodon</List>
+		<List recon_name="Katumbia" recon_no="260287">Katumbia</List>
+		<List recon_name="Odontocyclops" recon_no="237780">Odontocyclops</List>
+		<List recon_name="Pelanomodon" recon_no="196980">Pelanomodon</List>
+		<List recon_name="Lanthanostegus" recon_no="164271">Lanthanostegus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="78">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Angielczyk_et_Rubidge_2013a</Filename>
+	<Parent>Angielczyk_et_Rubidge_2010a</Parent>
+	<Sibling/>
+</SourceTree>

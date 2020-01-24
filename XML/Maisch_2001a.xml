@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maisch, M. W.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Observations on Karoo and Gondwana vertebrates. Part 2: a new skull-reconstruction of <em>Stahleckeria potens</em> von Huene, 1935 (Dicynodontia, Middle Triassic) and a reconsideration of kannemeyeriiform phylogeny</Title>
+		<Journal>Neues Jahrbuch fur Geologie und Palaontologie Abhandlungen</Journal>
+		<Volume>220</Volume>
+		<Pages>127-152</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List recon_name="Dicynodon" recon_no="39019">Dicynodon</List>
+		<List recon_name="Dinanomodon" recon_no="196982">Dinamomodon</List>
+		<List recon_name="Kannemeyeria" recon_no="39030">Kannemeyeria</List>
+		<List recon_name="Wadiasaurus" recon_no="39047">Wadiasaurus</List>
+		<List recon_name="Shansiodon_wangi,Shansiodon_wuhsiangensis" recon_no="266006;266008">Shansiodon</List>
+		<List recon_name="Vinceria" recon_no="39045">Vinceria</List>
+		<List recon_name="Tetragonias" recon_no="39042">Tetragonias</List>
+		<List recon_name="Rhinodicynodon" recon_no="39037">Rhinodicynodon</List>
+		<List recon_name="Stahleckeria" recon_no="39041">Stahleckeria</List>
+		<List recon_name="Angonisaurus" recon_no="39023">Angonisaurus</List>
+		<List recon_name="Placerias" recon_no="39034">Placerias</List>
+		<List recon_name="Ischigualastia" recon_no="39029">Ischigualastia</List>
+		<List recon_name="Rhadiodromus" recon_no="39036">Rhadiodromeus</List>
+		<List recon_name="Dinodontosaurus" recon_no="39026">Dinodontosaurus</List>
+		<List recon_name="Rechnisaurus" recon_no="39031">Rechnisaurus</List>
+		<List recon_name="Sangusaurus" recon_no="39038">Sangusaurus</List>
+		<List recon_name="Parakannemeyeria" recon_no="39032">Parakannemeyeria</List>
+		<List recon_name="Sinokannemeyeria" recon_no="39033">Sinokannemeyeria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="35">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maisch_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

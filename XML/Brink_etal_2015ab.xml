@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Brink, K. S.</List>
+			<List>Maddin, H. C.</List>
+			<List>Evans, D. C.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2015</Year>
+		<Title>Re-evaluation of the historic Canadian fossil <em>Bathygnathus borealis</em> from the Early Permian of Prince Edward Island</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>52</Volume>
+		<Pages>1109-1120</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="24">
+		<List recon_name="Haptodus" recon_no="38905">Haptodus</List>
+		<List recon_name="Dimetrodon" recon_no="38904">Dimetrodon</List>
+		<List recon_name="Tetraceratops" recon_no="38930">Tetraceratops</List>
+		<List recon_name="Raranimus" recon_no="164054">Raranimus</List>
+		<List recon_name="Biarmosuchus" recon_no="38938">Biarmosuchus</List>
+		<List recon_name="Hipposaurus" recon_no="39102">Hipposaurus</List>
+		<List recon_name="Herpetoskylax" recon_no="335887">Herpetoskylax</List>
+		<List recon_name="Lycaenodon" recon_no="39098">Lycaenodon</List>
+		<List recon_name="Lemurosaurus" recon_no="39099">Lemurosaurus</List>
+		<List recon_name="Proburnetia" recon_no="39106">Proburnetia</List>
+		<List recon_name="Burnetia" recon_no="39105">Burnetia</List>
+		<List recon_name="Syodon" recon_no="38959">Syodon</List>
+		<List recon_name="Titanophoneus" recon_no="38960">Titanophoneus</List>
+		<List recon_name="Stenocybus" recon_no="137797">Stenocybus</List>
+		<List recon_name="Styracocephalus" recon_no="38990">Styracocephalus</List>
+		<List recon_name="Jonkeria" recon_no="38975">Jonkeria</List>
+		<List recon_name="Estemmenosuchus" recon_no="38965">Estemmenosuchus</List>
+		<List recon_name="Biseridens" recon_no="137793">Biseridens</List>
+		<List recon_name="Patranomodon" recon_no="109357">Patranomodon</List>
+		<List recon_name="Suminia" recon_no="180710">Suminia</List>
+		<List recon_name="Gorgonops" recon_no="39118">Gorgonops</List>
+		<List recon_name="Lycaenops" recon_no="39120">Lycaenops</List>
+		<List recon_name="Cyonosaurus" recon_no="39114">Cyonosaurus</List>
+		<List recon_name="Bathygnathus_borealis" recon_no="65123">ANSP_9524</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="78">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brink_etal_2015ab</Filename>
+	<Parent>Amson_et_Laurin_2011aa</Parent>
+	<Sibling/>
+</SourceTree>

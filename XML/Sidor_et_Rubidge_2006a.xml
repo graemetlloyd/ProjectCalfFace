@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sidor, C. A.</List>
+			<List>Rubidge, B. S.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title><em>Herpetoskylax hopsoni</em>, a new biarmosuchian (Therapsida: Biarmosuchia) from the Beaufort Group of South Africa</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>76-113</Pages>
+		<Booktitle>Amniote Paleobiology: Perspectives on the Evolution of Mammals, Birds, and Reptiles</Booktitle>
+		<Publisher>Chicago University Press</Publisher>
+		<City>Chicago</City>
+		<Editor>
+			<List>Carrano, M. T.</List>
+			<List>Gaudin, T. J.</List>
+			<List>Blob, R. W.</List>
+			<List>Wible, J. R.</List>
+		</Editor>
+	</Source>
+	<Taxa number="15">
+		<List recon_name="Haptodus" recon_no="38905">Haptodus</List>
+		<List recon_name="Dimetrodon" recon_no="38904">Dimetrodon</List>
+		<List recon_name="Patranomodon" recon_no="109357">Patronomodon</List>
+		<List recon_name="Suminia" recon_no="180710">Suminia</List>
+		<List recon_name="Syodon" recon_no="38959">Syodon</List>
+		<List recon_name="Titanophoneus" recon_no="38960">Titanophoneus</List>
+		<List recon_name="Titanosuchidae" recon_no="38974">Titanosuchidae</List>
+		<List recon_name="Estemmenosuchus" recon_no="38965">Estemmenosuchus</List>
+		<List recon_name="Biarmosuchus" recon_no="38938">Biarmosuchus</List>
+		<List recon_name="Hipposaurus" recon_no="39102">Hipposaurus</List>
+		<List recon_name="Lycaenodon" recon_no="39098">Lycaenodon</List>
+		<List recon_name="Herpetoskylax" recon_no="335887">Herpetoskylax</List>
+		<List recon_name="Ictidorhinus" recon_no="39097">Ictidorhinus</List>
+		<List recon_name="Lemurosaurus" recon_no="39099">Lemurosaurus</List>
+		<List recon_name="Lobalopex" recon_no="140411">Lobalopex</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="56">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sidor_et_Rubidge_2006a</Filename>
+	<Parent>Rubidge_et_Kitching_2003a</Parent>
+	<Sibling/>
+</SourceTree>

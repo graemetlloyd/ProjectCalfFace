@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Melo, T. P.</List>
+			<List>Abdala, F.</List>
+			<List>Bento Soares, M.</List>
+		</Author>
+		<Year>2015</Year>
+		<Title>The Malagasy cynodont <em>Menadon besairiei</em> (Cynodontia; Traversodontidae) in the Middle-Upper Triassic of Brazil</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>35</Volume>
+		<Pages>e1002562</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="30">
+		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">Thrinaxodon</List>
+		<List recon_name="Cynognathus_crateronotus" recon_no="56878">Cynognathus</List>
+		<List recon_name="Diademodon_tetragonus" recon_no="171986">Diademodon</List>
+		<List recon_name="Beishanodon_youngi" recon_no="265901">Beishanodon</List>
+		<List recon_name="Cricodon_metabolus" recon_no="177670">Cricodon</List>
+		<List recon_name="Langbergia_modisei" recon_no="171944">Langbergia</List>
+		<List recon_name="Sinognathus_gracilis" recon_no="265894">Sinognathus</List>
+		<List recon_name="Trirachodon_berryi" recon_no="56887">Trirachodon</List>
+		<List recon_name="Trirachodon_sp_JSM_100" recon_no="39194">JSM100</List>
+		<List recon_name="Andescynodon_mendozensis" recon_no="66674">Andescynodon</List>
+		<List recon_name="Arctotraversodon_plemmyridon" recon_no="146588">Arctotraversodon</List>
+		<List recon_name="Boreogomphodon_jeffersoni" recon_no="57568">Boreogomphodon_jeffersoni</List>
+		<List recon_name="Dadadon_isaloi" recon_no="167266">Dadadon</List>
+		<List recon_name="Exaeretodon_argentinus" recon_no="376276">Exaeretodon_argentinus</List>
+		<List recon_name="Exaeretodon_riograndensis" recon_no="333700">Exaeretodon_riograndensis</List>
+		<List recon_name="Gomphodontosuchus_brasiliensis" recon_no="100826">Gomphodontosuchus</List>
+		<List recon_name="Luangwa_drysdalli" recon_no="172477">Luangwa_drysdalli</List>
+		<List recon_name="Luangwa_sudamericana" recon_no="180407">Luangwa_sudamericana</List>
+		<List recon_name="Massetognathus_ochagaviae" recon_no="117947">Massetognathus_ochagaviae</List>
+		<List recon_name="Massetognathus_pascuali" recon_no="80893">Massetognathus_pascuali</List>
+		<List recon_name="Menadon_besairiei" recon_no="167263">Menadon</List>
+		<List recon_name="Pascualgnathus_polanskii" recon_no="117951">Pascualgnathus</List>
+		<List recon_name="Protuberum_cabralensis" recon_no="172339">Protuberum</List>
+		<List recon_name="Santacruzodon_hopsoni" recon_no="171913">Santacruzodon</List>
+		<List recon_name="Scalenodon_angustifrons" recon_no="177679">Scalenodon_angustifrons</List>
+		<List recon_name="Scalenodon_attridgei" recon_no="302111">Mandagomphodon_attridgei</List>
+		<List recon_name="Mandagomphodon_hirschsoni" recon_no="302113">Mandagomphodon_hirschoni</List>
+		<List recon_name="Scalenodontoides_macrodontes" recon_no="178335">Scalenodontoides</List>
+		<List recon_name="Traversodon_stahleckeri" recon_no="100828">Traversodon</List>
+		<List recon_name="Nanogomphodon_wildi" recon_no="172448">Nanogomphodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="78">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Melo_etal_2015a</Filename>
+	<Parent>Liu_et_Abdala_2014a</Parent>
+	<Sibling/>
+</SourceTree>

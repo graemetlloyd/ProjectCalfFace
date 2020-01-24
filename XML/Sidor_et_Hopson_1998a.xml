@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sidor, C. A.</List>
+			<List>Hopson, J. A.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>Ghost lineages and &quot;mammalness&quot;: assessing the temporal pattern of character acquisition in the Synapsida</Title>
+		<Journal>Paleobiology</Journal>
+		<Volume>24</Volume>
+		<Pages>254-273</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List recon_name="Ophiacodontidae" recon_no="38884">Ophiacodontidae</List>
+		<List recon_name="Edaphosauridae" recon_no="38910">Edaphosauridae</List>
+		<List recon_name="Haptodus" recon_no="38905">Haptodus</List>
+		<List recon_name="Sphenacodontidae" recon_no="38901">Sphenacodontidae</List>
+		<List recon_name="Biarmosuchia" recon_no="67361">Biarmosuchia</List>
+		<List recon_name="Eotitanosuchus" recon_no="38940">Eotitanosuchus</List>
+		<List recon_name="Anteosauridae" recon_no="38970">Anteosauridae</List>
+		<List recon_name="Estemmenosuchidae" recon_no="38964">Estemmenosuchidae</List>
+		<List recon_name="Anomodontia" recon_no="180705">Anomodontia</List>
+		<List recon_name="Gorgonopsidae" recon_no="39107">Gorgonopsidae</List>
+		<List recon_name="Therocephalia" recon_no="39130">Therocephalia</List>
+		<List recon_name="Dvinia" recon_no="39174">Dvinia</List>
+		<List recon_name="Procynosuchus" recon_no="39172">Procynosuchus</List>
+		<List recon_name="Galesauridae" recon_no="39175">Galesauridae</List>
+		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">Thrinaxodon</List>
+		<List recon_name="Cynognathia" recon_no="361931">Cynognathia</List>
+		<List recon_name="Probainognathus" recon_no="39225">Probainognathus</List>
+		<List recon_name="Probelesodon" recon_no="39226">Probelesodon</List>
+		<List recon_name="Tritheledontidae" recon_no="39229">Trithelodontidae</List>
+		<List recon_name="Morganucodontidae" recon_no="39748">Morganucodontidae</List>
+		<List recon_name="Sinoconodon" recon_no="39747">Sinoconodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="181">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sidor_et_Hopson_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

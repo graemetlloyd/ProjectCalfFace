@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rubidge, B.</List>
+			<List>Kitching, J. W.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A new burnetiamorph (Therapsida: Biarmosuchia) from the Lower Beaufort Group of South Africa</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>46</Volume>
+		<Pages>199-210</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List recon_name="Dimetrodon" recon_no="38904">Dimetrodon</List>
+		<List recon_name="Hipposaurus" recon_no="39102">Hipposaurus</List>
+		<List recon_name="Proburnetia" recon_no="39106">Proburnetia</List>
+		<List recon_name="Burnetia" recon_no="39105">Burnetia</List>
+		<List recon_name="Bullacephalus" recon_no="335884">Bullacephalus</List>
+		<List recon_name="Gorgonopsidae" recon_no="39107">Gorgonopsidae</List>
+		<List recon_name="Australosyodon" recon_no="109361">Australosyodon</List>
+		<List recon_name="Scylacosauridae" recon_no="164286">Scylacosauridae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="32">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rubidge_et_Kitching_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

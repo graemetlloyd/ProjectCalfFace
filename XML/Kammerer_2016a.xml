@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Kammerer, C. E.</List>
+		</Author>
+		<Year>2016</Year>
+		<Title>Systematics of the Rubidgeinae (Therapsida: Gorgonopsia)</Title>
+		<Journal>PeerJ</Journal>
+		<Volume>4</Volume>
+		<Pages>e1608</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="15">
+		<List recon_name="Biarmosuchus_tener" recon_no="335875">Biarmosuchus_tener</List>
+		<List recon_name="Hipposaurus_boonstrai" recon_no="96179">Hipposaurus_boonstrai</List>
+		<List recon_name="Eriphostoma_microdon" recon_no="56794">Eriphostoma_microdon</List>
+		<List recon_name="Gorgonops_torvus" recon_no="56786">Gorgonops_torvus</List>
+		<List recon_name="Arctognathus_curvimola" recon_no="340441">Arctognathus_curvimola</List>
+		<List recon_name="Lycaenops_ornatus" recon_no="341016">Lycaenops_ornatus</List>
+		<List recon_name="Smilesaurus_ferox" recon_no="335437">Smilesaurus_ferox</List>
+		<List recon_name="Aelurognathus_tigriceps" recon_no="335408">Aelurognathus_tigriceps</List>
+		<List recon_name="Ruhuhucerberus_haughtoni" recon_no="335500">Ruhuhucerberus_haughtoni</List>
+		<List recon_name="Sycosaurus_laticeps" recon_no="335508">Sycosaurus_laticeps</List>
+		<List recon_name="Sycosaurus_nowaki" recon_no="335510">Sycosaurus_nowaki</List>
+		<List recon_name="Leontosaurus_vanderhorsti" recon_no="134844">Leontosaurus_vanderhorsti</List>
+		<List recon_name="Dinogorgon_rubidgei" recon_no="335451">Dinogorgon_rubidgei</List>
+		<List recon_name="Rubidgea_atrox" recon_no="335397">Rubidgea_atrox</List>
+		<List recon_name="Clelandina_rubidgei" recon_no="335445">Clelandina_rubidgei</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="47">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kammerer_2016a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

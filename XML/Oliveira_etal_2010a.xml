@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Oliveira, T. V.</List>
+			<List>Soares, M. B.</List>
+			<List>Schultz, C. L.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title><em>Trucidocynodon riograndensis</em> gen. nov. et sp. nov. (Eucynodontia), a new cynodont from the Brazilian Upper Triassic (Santa Maria Formation)</Title>
+		<Journal>Zootaxa</Journal>
+		<Volume>2382</Volume>
+		<Pages>1-71</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="21">
+		<List recon_name="Cyonosaurus" recon_no="39114">Cyonosaurus</List>
+		<List recon_name="Lycosuchus" recon_no="56795">Lycosuchus</List>
+		<List recon_name="Bauria" recon_no="39167">Bauria</List>
+		<List recon_name="Procynosuchus" recon_no="39172">Procynosuchus</List>
+		<List recon_name="Galesaurus" recon_no="39177">Galesaurus</List>
+		<List recon_name="Thrinaxodon" recon_no="39179">Thrinaxodon</List>
+		<List recon_name="Cynognathus" recon_no="39186">Cynognathus</List>
+		<List recon_name="Diademodon" recon_no="39189">Diademodon</List>
+		<List recon_name="Massetognathus" recon_no="39203">Massetognathus</List>
+		<List recon_name="Exaeretodon" recon_no="39200">Exaeretodon</List>
+		<List recon_name="Chiniquodon" recon_no="39222">Chiniquodon</List>
+		<List recon_name="Lumkuia" recon_no="95413">Lumkuia</List>
+		<List recon_name="Ecteninion" recon_no="67453">Ecteninion</List>
+		<List recon_name="Probainognathus" recon_no="39225">Probainognathus</List>
+		<List recon_name="Pachygenelus_monus" recon_no="56650">Pachygenelus</List>
+		<List recon_name="Brasilodon" recon_no="174537">Brasilodon</List>
+		<List recon_name="Brasilitherium" recon_no="174539">Brasilitherium</List>
+		<List recon_name="Oligokyphus" recon_no="39215">Oligokyphus</List>
+		<List recon_name="Kayentatherium" recon_no="39213">Kayentatherium</List>
+		<List recon_name="Morganucodon" recon_no="39753">Morganucodon</List>
+		<List recon_name="Trucidocynodon" recon_no="171975">Trucidocynodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="145">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Oliveira_etal_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

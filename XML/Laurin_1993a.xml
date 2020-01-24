@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Laurin, M.</List>
+		</Author>
+		<Year>1993</Year>
+		<Title>Anatomy and relationships of <em>Haptodus garnettensis</em>, a Pennsylvanian synapsid from Kansas</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>13</Volume>
+		<Pages>200-229</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List recon_name="Varanopseidae" recon_no="38892">Varanopseidae</List>
+		<List recon_name="Ophiacodontidae" recon_no="38884">Ophiacodontidae</List>
+		<List recon_name="Edaphosauridae" recon_no="38910">Edaphosauridae</List>
+		<List recon_name="Haptodus" recon_no="38905">Haptodus</List>
+		<List recon_name="Palaeohatteria" recon_no="138241">Palaeohatteria</List>
+		<List recon_name="Pantelosaurus" recon_no="138245">Pantelosaurus</List>
+		<List recon_name="Cutleria" recon_no="138248">Cutleria</List>
+		<List recon_name="Sphenacodon" recon_no="38909">Sphenacodon</List>
+		<List recon_name="Dimetrodon" recon_no="38904">Dimetrodon</List>
+		<List recon_name="Biarmosuchus" recon_no="38938">Biarmosuchus</List>
+		<List recon_name="Dinocephalia" recon_no="38949">Dinocephalia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="121">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Laurin_1993a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

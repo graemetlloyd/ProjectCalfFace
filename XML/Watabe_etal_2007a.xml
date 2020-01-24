@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Watabe, M.</List>
+			<List>Tsubamoto, T.</List>
+			<List>Tsogtbaatar, K.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A new tritylodontid synapsid from Mongolia</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>52</Volume>
+		<Pages>263-274</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="17">
+		<List recon_name="Oligokyphus" recon_no="39215">Oligokyphus</List>
+		<List recon_name="Tritylodon" recon_no="39217">Tritylodon</List>
+		<List recon_name="Lufengia_delicata" recon_no="252062">Lufengia</List>
+		<List recon_name="Bienotherium" recon_no="39209">Bienotherium</List>
+		<List recon_name="Kayentatherium_wellesi" recon_no="175105">Kayentatherium</List>
+		<List recon_name="Dianzhongia_longirostrata" recon_no="252930">Dianzongia</List>
+		<List recon_name="Yunnanodon_brevirostre" recon_no="252933">Yunnanodon</List>
+		<List recon_name="Dinnebitodon_amarali" recon_no="403879">Dinnebitodon</List>
+		<List recon_name="Bienotheroides_wansienensis" recon_no="112542">Bienotheroides_wansienensis</List>
+		<List recon_name="Bienotheroides_zigongensis" recon_no="260786">Bienotheroides_zigongensis</List>
+		<List recon_name="Bienotheroides_ultimus" recon_no="255011">Bienotheroides_ultimus</List>
+		<List recon_name="Bienotheroides_shartegensis" recon_no="106777">Bienotheroides_shartegensis</List>
+		<List recon_name="Bocatherium_mexicanum" recon_no="252017">Bocatherium</List>
+		<List recon_name="Polistodon_chuannanensis" recon_no="136473">Polistodon</List>
+		<List recon_name="Stereognathus_ooliticus" recon_no="207504">Stereognathus</List>
+		<List recon_name="Xenocretosuchus" recon_no="254183">Xenocretosuchus</List>
+		<List recon_name="Montirictus_kuwajimaensis" recon_no="345871">Unnamed_Japanese_tritylodontid</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="11">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Watabe_etal_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

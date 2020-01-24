@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Sidor, C. A.</List>
+			<List>Hancox, P. J.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title><em>Elliotherium kersteni</em>, a new tritheledontid from the Lower Elliot Formation (Upper Triassic) of South Africa</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>80</Volume>
+		<Pages>333-342</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="17">
+		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">Thrinaxodon</List>
+		<List recon_name="Cynognathus" recon_no="39186">Cynognathus</List>
+		<List recon_name="Exaeretodon" recon_no="39200">Exaeretodon</List>
+		<List recon_name="Lumkuia_fuzzi" recon_no="95414">Lumkuia</List>
+		<List recon_name="Probelesodon" recon_no="39226">Probelesdon</List>
+		<List recon_name="Chiniquodon" recon_no="39222">Chiniquodon</List>
+		<List recon_name="Probainognathus_jenseni" recon_no="80895">Probainognathus</List>
+		<List recon_name="Prozostrodon_brasiliensis" recon_no="172333">Prozostrodon</List>
+		<List recon_name="Therioherpeton_cargnini" recon_no="95407">Therioherpeton</List>
+		<List recon_name="Riograndia_guaibensis" recon_no="178232">Riograndia</List>
+		<List recon_name="Chaliminia_musteloides" recon_no="174512">Chaliminia</List>
+		<List recon_name="Irajatherium_hernandezi" recon_no="178084">Irajatherium</List>
+		<List recon_name="Pachygenelus_monus" recon_no="56650">Pachygenelus</List>
+		<List recon_name="Diarthrognathus_broomi" recon_no="171985">Diarthrognathus</List>
+		<List recon_name="Sinoconodon_rigneyi" recon_no="203414">Sinoconodon</List>
+		<List recon_name="Morganucodon" recon_no="39753">Morganucodon</List>
+		<List recon_name="Elliotherium_kersteni" recon_no="178273">Elliotherium_kersteni</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="66">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sidor_et_Hancox_2006a</Filename>
+	<Parent>Martinelli_etal_2005a</Parent>
+	<Sibling/>
+</SourceTree>

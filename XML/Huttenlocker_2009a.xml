@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Huttenlocker, A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>An investigation into the cladistic relationships and monophyly of therocephalian therapsids (Amniota: Synapsida)</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>157</Volume>
+		<Pages>865-891</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List recon_name="Biarmosuchus" recon_no="38938">Biarmosuchus</List>
+		<List recon_name="Titanophoneus" recon_no="38960">Titanophoneus</List>
+		<List recon_name="Gorgonopsia" recon_no="39095">Gorgonopsia</List>
+		<List recon_name="Anomodontia" recon_no="180705">Anomodontia</List>
+		<List recon_name="Charassognathus" recon_no="140430">Charassognathus</List>
+		<List recon_name="Dvinia" recon_no="39174">Dvinia</List>
+		<List recon_name="Procynosuchus" recon_no="39172">Procynosuchus</List>
+		<List recon_name="Lycosuchus" recon_no="56795">Lycosuchus</List>
+		<List recon_name="Glanosuchus" recon_no="56803">Glanosuchus</List>
+		<List recon_name="Ictidosaurus" recon_no="164326">Ictidosaurus</List>
+		<List recon_name="Pristerognathus" recon_no="39134">Pristerognathus</List>
+		<List recon_name="Olivierosuchus" recon_no="260284">Olivierosuchus</List>
+		<List recon_name="Promoschorhynchus_platyrhinus" recon_no="343201">Promoschorhynchus</List>
+		<List recon_name="Moschorhinus" recon_no="39155">Moschorhinus</List>
+		<List recon_name="Euchambersia" recon_no="39154">Euchambersia</List>
+		<List recon_name="Mirotenthes" recon_no="364105">Mirotenthes</List>
+		<List recon_name="Hofmeyria" recon_no="39136">Hofmeyria</List>
+		<List recon_name="Ictidostoma" recon_no="39137">Ictidostoma</List>
+		<List recon_name="Viatkosuchus_sumini" recon_no="362044">Viatkosuchus</List>
+		<List recon_name="Moschowhaitsia" recon_no="39148">Moschowhaitsia</List>
+		<List recon_name="Theriognathus" recon_no="39149">Theriognathus</List>
+		<List recon_name="Ictidosuchus" recon_no="39141">Ictidosuchus</List>
+		<List recon_name="Ictidosuchops" recon_no="39143">Ictidosuchops</List>
+		<List recon_name="Ictidosuchoides" recon_no="39142">Ictidosuchoides</List>
+		<List recon_name="Regisaurus" recon_no="39145">Regisaurus</List>
+		<List recon_name="Lycideops" recon_no="39139">Lycideops</List>
+		<List recon_name="Tetracynodon" recon_no="39161">Tetracynodon</List>
+		<List recon_name="Scaloposaurus" recon_no="39160">Scaloposaurus</List>
+		<List recon_name="Ericiolacerta" recon_no="39157">Ericiolacerta</List>
+		<List recon_name="Bauria" recon_no="39167">Bauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="110">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Huttenlocker_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ray, S.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Functional and evolutionary aspects of the postcranial anatomy of dicynodonts (Synapsida, Therapsida)</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>49</Volume>
+		<Pages>1263-1286</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List recon_name="Eodicynodon" recon_no="39008">Eodicynodon</List>
+		<List recon_name="Robertia" recon_no="39072">Robertia</List>
+		<List recon_name="Diictodon" recon_no="39075">Diictodon</List>
+		<List recon_name="Pristerodon" recon_no="39058">Pristerodon</List>
+		<List recon_name="Cistecephalus" recon_no="39069">Cistecephalus</List>
+		<List recon_name="Kingoria" recon_no="39077">Kingoria</List>
+		<List recon_name="Dicynodon" recon_no="39019">Dicynodon</List>
+		<List recon_name="Lystrosaurus" recon_no="39049">Lystrosaurus</List>
+		<List recon_name="Kannemeyeria" recon_no="39030">Kannemeyeria</List>
+		<List recon_name="Wadiasaurus" recon_no="39047">Wadiasaurus</List>
+		<List recon_name="Stahleckeria" recon_no="39041">Stahleckeria</List>
+		<List recon_name="Placerias" recon_no="39034">Placerias</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="27">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ray_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

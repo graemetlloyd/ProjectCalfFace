@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Angielczyk, K. D.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>New specimens of the tanzanian dicynodont &quot;<em>Cryptocynodon</em>&quot; <em>parringtoni</em> Von Huene, 1942 (Therapsida, Anomodontia), with an expanded analysis of Permian dicynodont phylogeny</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>27</Volume>
+		<Pages>116-131</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="37">
+		<List recon_name="Patranomodon" recon_no="109357">Patranomodon</List>
+		<List recon_name="Otsheria" recon_no="38999">Otsheria</List>
+		<List recon_name="Eodicynodon" recon_no="39008">Eodicynodon</List>
+		<List recon_name="Diictodon" recon_no="39075">Diictodon</List>
+		<List recon_name="Endothiodon" recon_no="39012">Endothiodon</List>
+		<List recon_name="Chelydontops" recon_no="39011">Chelydontops</List>
+		<List recon_name="Pristerodon" recon_no="39058">Pristerodon</List>
+		<List recon_name="Emydops" recon_no="39063">Emydops</List>
+		<List recon_name="Kingoria" recon_no="39077">Kingoria</List>
+		<List recon_name="Cistecephalus" recon_no="39069">Cistecephalus</List>
+		<List recon_name="Myosaurus" recon_no="39066">Myosaurus</List>
+		<List recon_name="Tropidostoma" recon_no="39054">Tropidostoma</List>
+		<List recon_name="Oudenodon" recon_no="39052">Oudenodon</List>
+		<List recon_name="Rhachiocephalus" recon_no="39053">Rhachiocephalus</List>
+		<List recon_name="Geikia_locusticeps" recon_no="343951">Geikia_locusticeps</List>
+		<List recon_name="Aulacephalodon" recon_no="39016">Aulacephalodon</List>
+		<List recon_name="Dicynodon_lacerticeps" recon_no="91716">Dicynodon_lacerticeps</List>
+		<List recon_name="Lystrosaurus" recon_no="39049">Lystrosaurus</List>
+		<List recon_name="Kannemeyeria" recon_no="39030">Kannemeyeria</List>
+		<List recon_name="Idelesaurus_tataricus" recon_no="139088">quot_Idelisaurus_quot</List>
+		<List recon_name="Interpresosaurus" recon_no="200996">Interpresosaurus</List>
+		<List recon_name="Elph" recon_no="159716">Elph</List>
+		<List recon_name="Dicynodon_trautscholdi" recon_no="298051">quot_Dicynodon_quot_trautscholdi</List>
+		<List recon_name="Delectosaurus" recon_no="200989">Delectosaurus</List>
+		<List recon_name="Vivaxosaurus" recon_no="202551">Vivaxosaurus</List>
+		<List recon_name="Dicynodon_amalitzkii" recon_no="296874">quot_Dicynodon_quot_amaltizkii</List>
+		<List recon_name="Australobarbarus" recon_no="202544">Australobarbarus</List>
+		<List recon_name="Colobodectes" recon_no="229051">Colobodectes</List>
+		<List recon_name="Robertia_sp_NMNH_23345" recon_no="39072">Robertia_sp</List>
+		<List recon_name="Robertia_broomiana" recon_no="336113">Robertia_broomiana</List>
+		<List recon_name="Kombuisia" recon_no="39078">Kombuisia</List>
+		<List recon_name="Cistecephaloides" recon_no="39068">Cistecephaloides</List>
+		<List recon_name="Kawingasaurus" recon_no="39070">Kawingasaurus</List>
+		<List recon_name="Prosictodon_dubei" recon_no="366730">BP_slash_1_slash_5589</List>
+		<List recon_name="Katumbia_parringtoni" recon_no="346611">Katumbia_parringtoni</List>
+		<List recon_name="Odontocyclops" recon_no="237780">Odontocyclops</List>
+		<List recon_name="Pelanomodon" recon_no="196980">Pelanomodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="72">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Angielczyk_2007a</Filename>
+	<Parent>Angielcyzk_et_Kurkin_2003a</Parent>
+	<Sibling/>
+</SourceTree>

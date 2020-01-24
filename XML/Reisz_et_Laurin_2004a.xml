@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Reisz, R. R.</List>
+			<List>Laurin, M.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A reevaluation of the enigmatic Permian synapsid <em>Watongia</em> and of its stratigraphic significance</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>41</Volume>
+		<Pages>377-386</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="14">
+		<List recon_name="Reptilia" recon_no="36322">Reptilia</List>
+		<List recon_name="Cotylorhynchus" recon_no="38917">Cotylorhynchus</List>
+		<List recon_name="Eothyris_parkeyi" recon_no="122195">Eothyris</List>
+		<List recon_name="Archaeothyris_florensis" recon_no="122328">Archaeothyris</List>
+		<List recon_name="Ophiacodon" recon_no="38888">Ophiacodon</List>
+		<List recon_name="Mycterosaurus" recon_no="38895">Mycterosaurus</List>
+		<List recon_name="Mesenosaurus" recon_no="37777">Mesenosaurus</List>
+		<List recon_name="Elliotsmithia" recon_no="38924">Elliotsmithia</List>
+		<List recon_name="Aerosaurus" recon_no="38893">Aerosaurus</List>
+		<List recon_name="Varanops" recon_no="38897">Varanops</List>
+		<List recon_name="Varanodon" recon_no="38896">Varanodon</List>
+		<List recon_name="Archaeovenator_hamiltonensis" recon_no="138746">Archaeovenator</List>
+		<List recon_name="Watongia" recon_no="38948">Watongia</List>
+		<List recon_name="Elliotsmithia_longiceps" recon_no="140622">BP_slash_I_slash_5678</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="58">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Reisz_et_Laurin_2004a</Filename>
+	<Parent>Reisz_et_Dilkes_2003a</Parent>
+	<Sibling/>
+</SourceTree>

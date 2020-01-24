@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Berman, D. S.</List>
+			<List>Henrici, A. C.</List>
+			<List>Sumida, S. S.</List>
+			<List>Martens, T.</List>
+			<List>Pelletier, V.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>First European record of a varanodontine (Synapsida: Varanopidae): member of a unique Early Permian upland paleoecosystem, Tambach Basin, Central Germany</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>69-86</Pages>
+		<Booktitle>Early Evolutionary History of the Synapsida</Booktitle>
+		<Publisher>Springer Science</Publisher>
+		<City>Dordrecht</City>
+		<Editor>
+			<List>Kammerer, C. F.</List>
+			<List>Angielczyk, K. D.</List>
+			<List>Frobisch, J.</List>
+		</Editor>
+	</Source>
+	<Taxa number="12">
+		<List recon_name="Reptilia" recon_no="36322">Reptilia</List>
+		<List recon_name="Eothyris_parkeyi" recon_no="122195">Eothyris</List>
+		<List recon_name="Archaeovenator_hamiltonensis" recon_no="138746">Archaeovenator</List>
+		<List recon_name="Heleosaurus" recon_no="38304">Heleosaurus</List>
+		<List recon_name="Elliotsmithia" recon_no="38924">Elliotsmithia</List>
+		<List recon_name="Mesenosaurus" recon_no="37777">Mesenosaurus</List>
+		<List recon_name="Mycterosaurus" recon_no="38895">Mycterosaurus</List>
+		<List recon_name="Aerosaurus" recon_no="38893">Aerosaurus</List>
+		<List recon_name="Watongia" recon_no="38948">Watongia</List>
+		<List recon_name="Varanodon" recon_no="38896">Varanodon</List>
+		<List recon_name="Varanops" recon_no="38897">Varanops</List>
+		<List recon_name="Tambacarnifex" recon_no="292124">Tambacarnifex</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="60">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Berman_etal_2014a</Filename>
+	<Parent>Campione_et_Reisz_2010a</Parent>
+	<Sibling/>
+</SourceTree>

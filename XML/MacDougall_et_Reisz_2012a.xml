@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>MacDougall, M. J.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new parareptile (Parareptilia, Lanthanosuchoidea) from the Early Permian of Oklahoma</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>32</Volume>
+		<Pages>1018-1026</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="31">
+		<List recon_name="Seymouria" recon_no="37223">Seymouria</List>
+		<List recon_name="Limnoscelidae" recon_no="37231">Limnoscelidae</List>
+		<List recon_name="Diadectidae" recon_no="37246">Diadectidae</List>
+		<List recon_name="Synapsida" recon_no="99791">Synapsida</List>
+		<List recon_name="Captorhinidae" recon_no="37495">Captorhinidae</List>
+		<List recon_name="Paleothyris_acadiana" recon_no="138002">Paleothyris</List>
+		<List recon_name="Araeoscelidia" recon_no="99775">Araeoscelidia</List>
+		<List recon_name="Younginiformes" recon_no="92226">Younginiformes</List>
+		<List recon_name="Mesosauridae" recon_no="37578">Mesosauridae</List>
+		<List recon_name="Eunotosaurus_africanus" recon_no="56889">Eunotosaurus</List>
+		<List recon_name="Millerettidae" recon_no="37568">Millerettidae</List>
+		<List recon_name="Australothyris_smithi" recon_no="147935">Australothyris</List>
+		<List recon_name="Microleter_mckinzieorum" recon_no="204049">Microleter</List>
+		<List recon_name="Nyctiphruretus" recon_no="37520">Nyctiphruretus</List>
+		<List recon_name="Eudibamus_cursoris" recon_no="137225">Eudibamus</List>
+		<List recon_name="Belebey" recon_no="137775">Belebey</List>
+		<List recon_name="Macroleter" recon_no="37245">Macroleter</List>
+		<List recon_name="Bradysaurus" recon_no="37559">Bradysaurus</List>
+		<List recon_name="Pareiasuchus" recon_no="139014">Pareiasuchus</List>
+		<List recon_name="Scutosaurus" recon_no="37565">Scutosaurus</List>
+		<List recon_name="Procolophon_trigoniceps" recon_no="56758">Procolophon</List>
+		<List recon_name="Owenetta" recon_no="37521">Owenetta</List>
+		<List recon_name="Barasaurus_besairiei" recon_no="157552">Barasaurus</List>
+		<List recon_name="Bashkyroleter_mesensis" recon_no="137140">Bashkyroleter_mesensis</List>
+		<List recon_name="Bashkyroleter_bashkyricus" recon_no="137135">Bashkyroleter_bashkyricus</List>
+		<List recon_name="Nycteroleter" recon_no="37244">Nycteroleter</List>
+		<List recon_name="Emeroleter_levis" recon_no="120745">Emeroleter</List>
+		<List recon_name="Rhipaeosaurus_tricuspidens" recon_no="142489">Rhipaeosaurus</List>
+		<List recon_name="Lanthanosuchus" recon_no="37226">Lanthanosuchus</List>
+		<List recon_name="Acleistorhinus_pteroticus" recon_no="90735">Acleistorhinus</List>
+		<List recon_name="Feeserpeton_oklahomensis" recon_no="246046">Feeserpeton</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="136">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>MacDougall_et_Reisz_2012a</Filename>
+	<Parent>Tsuji_etal_2012a</Parent>
+	<Sibling/>
+</SourceTree>

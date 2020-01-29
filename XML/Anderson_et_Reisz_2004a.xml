@@ -23,12 +23,12 @@
 		<List recon_name="Ophiacodon" recon_no="38888">Ophiacodon</List>
 		<List recon_name="Mycterosaurus" recon_no="38895">Mycterosaurus</List>
 		<List recon_name="Mesenosaurus" recon_no="37777">Mesenosaurus</List>
-		<List recon_name="Elliotsmithia" recon_no="38924">Elliotsmithia</List>
+		<List recon_name="Elliotsmithia_longiceps" recon_no="140622">Elliotsmithia</List>
 		<List recon_name="Aerosaurus" recon_no="38893">Aerosaurus</List>
-		<List recon_name="Varanops" recon_no="38897">Varanops</List>
-		<List recon_name="Varanodon" recon_no="38896">Varanodon</List>
+		<List recon_name="Varanops_brevirostris" recon_no="91795">Varanops</List>
+		<List recon_name="Varanodon_agilis" recon_no="120891">Varanodon</List>
 		<List recon_name="Archaeovenator_hamiltonensis" recon_no="138746">Archaeovenator</List>
-		<List recon_name="Pyozia" recon_no="91797">Pyozia</List>
+		<List recon_name="Pyozia_mesenensis" recon_no="140623">Pyozia</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

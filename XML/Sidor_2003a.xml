@@ -82,7 +82,7 @@
 		<List recon_name="Arctognathus" recon_no="39111">Arctognathus_spp</List>
 		<List recon_name="Lycaenops" recon_no="39120">Lycaenops_spp</List>
 		<List recon_name="Prorubidgea" recon_no="39122">Prorubidgea_spp</List>
-		<List recon_name="Dinogorgon" recon_no="39115">Dinogorgon_spp</List>
+		<List recon_name="Dinogorgon_rubidgei" recon_no="335451">Dinogorgon_spp</List>
 		<List recon_name="Rubidgea" recon_no="39123">Rubidgea_spp</List>
 		<List recon_name="Aloposaurus" recon_no="39110">Aloposaurus_spp</List>
 		<List recon_name="Cyonosaurus" recon_no="39114">Cyonosaurus_spp</List>
@@ -95,7 +95,7 @@
 		<List recon_name="Ictidosuchoides" recon_no="39142">Ictidosuchoides_spp</List>
 		<List recon_name="Viatkosuchus_sumini" recon_no="362044">Viatkosuchus_sumini</List>
 		<List recon_name="Bauria_cynops" recon_no="174511">Bauria_cynops</List>
-		<List recon_name="Theriognathus" recon_no="39149">Theriognathus_spp</List>
+		<List recon_name="Theriognathus_microps" recon_no="343308">Theriognathus_spp</List>
 		<List recon_name="Moschorhinus_kitchingi" recon_no="178202">Moschorhinus_kitchingi</List>
 		<List recon_name="Olivieria_parringtoni" recon_no="173040">Olivieria_parringtoni</List>
 		<List recon_name="Dvinia_prima" recon_no="343342">Dvinia_prima</List>
@@ -110,7 +110,7 @@
 		<List recon_name="Probelesodon_sanjuanensis" recon_no="177686">Probelesodon_sanjuanensis</List>
 		<List recon_name="Probainognathus_jenseni" recon_no="80895">Probainognathus_jenseni</List>
 		<List recon_name="Pachygenelus_monus" recon_no="56650">Pachygenelus_monus</List>
-		<List recon_name="Sinoconodon" recon_no="39747">Sinoconodon_spp</List>
+		<List recon_name="Sinoconodon_rigneyi" recon_no="203414">Sinoconodon_spp</List>
 		<List recon_name="Morganucodon" recon_no="39753">Morganucodon_spp</List>
 		<List recon_name="Cynognathus" recon_no="39186">Cynognathus_spp</List>
 		<List recon_name="Diademodon" recon_no="39189">Diademodon_spp</List>

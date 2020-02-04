@@ -36,13 +36,13 @@
 		<List recon_name="Dicynodon_lacerticeps" recon_no="91716">Dicynodon_lacerticeps</List>
 		<List recon_name="Lystrosaurus_maccaigi,Lystrosaurus_declivis,Lystrosaurus_murrayi,Lystrosaurus_curvatus,Lystrosaurus_georgi" recon_no="122672;140319;122595;139951;122702">Lystrosaurus</List>
 		<List recon_name="Kannemeyeria_simocephala,Kannemeyeria_lophorhinus" recon_no="337836;172541">Kannemeyeria</List>
-		<List recon_name="Idelesaurus_tatarcus" recon_no="139088">New_Taxon_1</List>
+		<List recon_name="Idelesaurus_tataricus" recon_no="139088">Idelisaurus</List>
 		<List recon_name="Interpresosaurus_blomi" recon_no="201003">Interpresosaurus</List>
 		<List recon_name="Elph_borealis" recon_no="159717">Elph</List>
-		<List recon_name="Dicynodon_trautscholdi" recon_no="298051">D_trautscholdi</List>
+		<List recon_name="Dicynodon_trautscholdi" recon_no="298051">Dicynodon_trautscholdi</List>
 		<List recon_name="Delectosaurus" recon_no="200989">Delectosaurus</List>
 		<List recon_name="Vivaxosaurus" recon_no="202551">Vivaxosaurus</List>
-		<List recon_name="Dicynodon_amalitzkii" recon_no="296874">D_amalitzkii</List>
+		<List recon_name="Dicynodon_amalitzkii" recon_no="296874">Dicynodon_amalitzkii</List>
 		<List recon_name="Australobarbarus_kotelnitshi,Australobarbarus_platycephalus" recon_no="202548;202546">Australobarbarus</List>
 	</Taxa>
 	<Characters>

@@ -15,17 +15,17 @@
 		<Editor/>
 	</Source>
 	<Taxa number="11">
-		<List recon_name="Titanophoneus" recon_no="38960">Titanophoneus</List>
-		<List recon_name="Gorgonops" recon_no="39118">Gorgonops</List>
-		<List recon_name="Lycosuchidae" recon_no="95359">Lycosuchidae</List>
-		<List recon_name="Patranomodon" recon_no="109357">Patranomodon</List>
-		<List recon_name="Otsheria" recon_no="38999">Otsheria</List>
+		<List recon_name="Titanophoneus_potens" recon_no="139331">Titanophoneus</List>
+		<List recon_name="Gorgonops_torvus" recon_no="56786">Gorgonops</List>
+		<List recon_name="Lycosuchus_vanderrieti,Glanosuchus_macrops,Ptomalestes_avidus" recon_no="56796; 56804;367372">Lycosuchidae</List>
+		<List recon_name="Patranomodon_nyaphulii" recon_no="109359">Patranomodon</List>
+		<List recon_name="Otsheria_netzvetajevi" recon_no="361890">Otsheria</List>
 		<List recon_name="Ulemica" recon_no="180711">Ulemica</List>
 		<List recon_name="Suminia" recon_no="180710">Suminia</List>
-		<List recon_name="Galeops" recon_no="39004">Galeops</List>
-		<List recon_name="Eodicynodon" recon_no="39008">Eodicynodon</List>
-		<List recon_name="Diictodon" recon_no="39075">Diictodon</List>
-		<List recon_name="Pristerodon" recon_no="39058">Pristerodon</List>
+		<List recon_name="Galeops_whaitsi,Galeops_sp_SAM_PK_004005" recon_no="39004;367358">Galeops</List>
+		<List recon_name="Eodicynodon_oosthuizeni" recon_no="164714">Eodicynodon</List>
+		<List recon_name="Diictodon_feliceps" recon_no="332332">Diictodon</List>
+		<List recon_name="Pristerodon_mackayi" recon_no="56843">Pristerodon</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

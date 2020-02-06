@@ -1,4 +1,2 @@
 # ProjectCalfFace
-Building a synapsid metatree
-
-Test text
+In development repo for building a synapsid metatree.

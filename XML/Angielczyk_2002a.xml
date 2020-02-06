@@ -21,18 +21,18 @@
 		<List recon_name="Robertia_broomiana" recon_no="336113">Robertia</List>
 		<List recon_name="Diictodon_feliceps" recon_no="332332">Diictodon</List>
 		<List recon_name="Endothiodon_bathystoma" recon_no="56838">Endothiodon</List>
-		<List recon_name="Chelydontops" recon_no="39011">Chelydontops</List>
+		<List recon_name="Chelydontops_altidentalis" recon_no="336072">Chelydontops</List>
 		<List recon_name="Pristerodon_mackayi" recon_no="56843">Pristerodon</List>
-		<List recon_name="Emydops" recon_no="39063">Emydops</List>
-		<List recon_name="Kingoria" recon_no="39077">Kingoria</List>
+		<List recon_name="Emydops_oweni,Emydops_platyceps,Emydops_longus,Emydops_parvus,Emydops_arctatus,Emydops_minor,Emydops_minimus" recon_no="196018;201034;198760;198434;197858;56854;200878">Emydops</List>
+		<List recon_name="Dicynodontoides_recurvidens,Dicynodontoides_nowacki,Kingoria_duvenhagei,Kingoria_howardi,Kingoria_gracilis" recon_no="56865;196804;337552;337671;337549">Kingoria</List>
 		<List recon_name="Cistecephalus_microrhinus" recon_no="56851">Cistecephalus</List>
 		<List recon_name="Myosaurus_gracilis" recon_no="178200">Myosaurus</List>
 		<List recon_name="Tropidostoma_dubium" recon_no="331592">Tropidostoma</List>
 		<List recon_name="Oudenodon_bainii" recon_no="91713">Oudenodon</List>
-		<List recon_name="Rhachiocephalus" recon_no="39053">Rhachiocephalus</List>
+		<List recon_name="Rhachiocephalus_magnus,Rhachiocephalus_behemoth,Rhachiocephalus_usiliensis,Rhachiocephalus_sp_SAM_PK_K01393,Pelanomodon_wesselsi,Dicynodon_scheepersi,Megacyclops_whaitsi,Platycyclops_haughtoni,Rhachiocephalus_sp_USNM_410287,Rhachiocephalus_sp_UMZC_T1283" recon_no="338939;345574;345355;39053;345360;339706;345241;342569;39053;39053">Rhachiocephalus</List>
 		<List recon_name="Pelanomodon_moschops" recon_no="338976">Pelanomodon</List>
 		<List recon_name="Aulacephalodon_bainii" recon_no="333234">Aulacephalodon</List>
-		<List recon_name="Dicynodon" recon_no="39019">Dicynodon</List>
+		<List recon_name="Daptocephalus_leoniceps,Dinanomodon_gilli,Dicynodontoidea_indet_GSP_AF9683" recon_no="56867;298042;201365">Dicynodon</List>
 		<List recon_name="Lystrosaurus_maccaigi,Lystrosaurus_declivis,Lystrosaurus_murrayi,Lystrosaurus_curvatus,Lystrosaurus_georgi" recon_no="122672;140319;122595;139951;122702">Lystrosaurus</List>
 		<List recon_name="Kannemeyeria_simocephala,Kannemeyeria_lophorhinus" recon_no="337836;172541">Kannemeyeria</List>
 		<List recon_name="Odontocyclops_whaitsi" recon_no="339820">Odontocyclops</List>

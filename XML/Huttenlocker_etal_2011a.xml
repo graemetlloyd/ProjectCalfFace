@@ -19,7 +19,7 @@
 	<Taxa number="32">
 		<List recon_name="Biarmosuchus_tener" recon_no="335875">Biarmosuchus</List>
 		<List recon_name="Titanophoneus_potens" recon_no="139331">Titanophoneus</List>
-		<List recon_name="Gorgonops_torvus,Lycaenops_angusticeps" recon_no="56786;341017">Gorgonopsia</List>
+		<List recon_name="Gorgonops_torvus,Lycaenops_angusticeps" recon_no="56786;341018">Gorgonopsia</List>
 		<List recon_name="Galeops_whaitsi,Galepus_jouberti" recon_no="367358;56776">Anomodontia</List>
 		<List recon_name="Charassognathus_gracilis" recon_no="140432">Charassognathus</List>
 		<List recon_name="Dvinia_prima" recon_no="343342">Dvinia</List>
@@ -38,14 +38,14 @@
 		<List recon_name="Moschowhaitsia_vjuschkovi" recon_no="140599">Moschowhaitsia</List>
 		<List recon_name="Theriognathus_microps" recon_no="343308">Theriognathus</List>
 		<List recon_name="Promoschorhynchus_platyrhinus" recon_no="343201">SAM_PK_K10014</List>
-		<List recon_name="Promoschorhynchus_platyrhinus_RC_116" recon_no="39155">RC_116</List>
+		<List recon_name="Promoschorhynchus_platyrhinus" recon_no="343201">RC_116</List>
 		<List recon_name="Cerdops_burgheri" recon_no="345743">Cerdops</List>
 		<List recon_name="Ictidosuchus_primaevus" recon_no="56835">Ictidosuchus</List>
 		<List recon_name="Ictidosuchops_rubidgei" recon_no="346931">Ictidosuchops</List>
 		<List recon_name="Ictidosuchoides_longiceps" recon_no="376352">Ictidosuchoides</List>
 		<List recon_name="Regisaurus_jacobi" recon_no="54356">Regisaurus</List>
 		<List recon_name="Lycideops_longiceps" recon_no="270393">Lycideops</List>
-		<List recon_name="Tetracynodon_darti" recon_no="173038">Tetracynodon</List>
+		<List recon_name="Tetracynodon_darti" recon_no="173038">Tetracynodon_darti</List>
 		<List recon_name="Scaloposaurus_constrictus" recon_no="56818">Scaloposaurus</List>
 		<List recon_name="Ericiolacerta_parva" recon_no="376274">Ericiolacerta</List>
 		<List recon_name="Bauria_cynops" recon_no="174511">Bauria</List>

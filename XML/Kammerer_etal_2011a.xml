@@ -25,7 +25,7 @@
 		<List recon_name="Patranomodon_nyaphulii" recon_no="109359">Patranomodon</List>
 		<List recon_name="Galeops_whaitsi" recon_no="367358">Galeops</List>
 		<List recon_name="Galepus_jouberti" recon_no="56776">Galepus</List>
-		<List recon_name="Galechirus_scholtzi" recon_no="56775">Galechirus</List>
+		<List recon_name="Galechirus_scholtzi" recon_no="56775">Galechrius</List>
 		<List recon_name="Eodicynodon_oelofseni" recon_no="109360">Eodicynodon_oelofseni</List>
 		<List recon_name="Eodicynodon_oosthuizeni" recon_no="164714">Eodicynodon_oosthuizeni</List>
 		<List recon_name="Colobodectes_cluveri" recon_no="229052">Colobodectes</List>
@@ -34,17 +34,17 @@
 		<List recon_name="Eosimops_newtoni" recon_no="346715">Eosimops</List>
 		<List recon_name="Prosictodon_dubei" recon_no="366730">Prosictodon</List>
 		<List recon_name="Diictodon_feliceps" recon_no="332332">Diictodon</List>
-		<List recon_name="Robertia_broomiana” recon_no="336113”>Robertia</List>
+		<List recon_name="Robertia_broomiana" recon_no="336113">Robertia</List>
 		<List recon_name="Pristerodon_mackayi" recon_no="56843">Pristerodon</List>
 		<List recon_name="Endothiodon_bathystoma" recon_no="56838">Endothiodon</List>
-		<List recon_name="Emydops_oweni,Emydops_platyceps,Emydops_longus,Emydops_parvus,Emydops_arctatus,Emydops_minor,Emydops_minimus" recon_no="196018;201034;198760;198434;197858;56854;200878">Emydops</List>
+		<List recon_name="Emydops_oweni,Emydops_platyceps,Emydops_longus,Emydops_parvus,Emydops_arctatus,Emydops_minor,Emydops_minimus" recon_no="196018;201034;200132;198434;197858;56854;200879">Emydops</List>
 		<List recon_name="Dicynodontoides_recurvidens,Dicynodontoides_nowacki" recon_no="337545;337547">Dicynodontoides</List>
 		<List recon_name="Kombuisia_frerensis" recon_no="109013">Kombuisia</List>
 		<List recon_name="Myosaurus_gracilis" recon_no="178200">Myosaurus</List>
 		<List recon_name="Cistecephalus_microrhinus" recon_no="56851">Cistecephalus</List>
 		<List recon_name="Cistecephaloides_boonstrai" recon_no="345907">Cistecephaloides</List>
 		<List recon_name="Kawingasaurus_fossilis" recon_no="346140">Kawingasaurus</List>
-		<List recon_name="Rhachiocephalus_magnus,Rhachiocephalus_behemoth,Rhachiocephalus_usiliensis,Rhachiocephalus_sp_SAM_PK_K01393,Pelanomodon_wesselsi,Dicynodon_scheepersi,Megacyclops_whaitsi,Platycyclops_haughtoni,Rhachiocephalus_sp_USNM_410287,Rhachiocephalus_sp_UMZC_T1283" recon_no="338939;345574;345355;39053;345360;339706;345241;342569;39053;39053">Rhachiocephalus</List>
+		<List recon_name="Rhachiocephalus_magnus,Rhachiocephalus_behemoth,Rhachiocephalus_usiliensis,Rhachiocephalus_sp_SAM_PK_K01393,Pelanomodon_wesselsi,Dicynodon_scheepersi,Megacyclops_whaitsi,Platycyclops_haughtoni,Rhachiocephalus_sp_USNM_410287,Rhachiocephalus_sp_UMZC_T1283" recon_no="338940;345574;345356;39053;345360;339706;345241;342569;39053;39053">Rhachiocephalus</List>
 		<List recon_name="Kitchinganomodon_crassus" recon_no="340229">Kitchinganomodon</List>
 		<List recon_name="Oudenodon_bainii" recon_no="91713">Oudenodon_bainii</List>
 		<List recon_name="Tropidostoma_dubium" recon_no="331592">Tropidostoma</List>

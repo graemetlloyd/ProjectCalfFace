@@ -1,4 +1,4 @@
-<?xml version="1.0" standalone="yes"?>
+H<?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
 		<Author>
@@ -18,20 +18,20 @@
 	<Taxa number="56">
 		<List recon_name="Biarmosuchus_tener" recon_no="335875">Biarmosuchus_tener</List>
 		<List recon_name="Titanophoneus_potens" recon_no="139331">Titanophoneus_potens</List>
-		<List recon_name="Gorgonopsia" recon_no="39095">Gorgonopsia</List>
-		<List recon_name="Anomodontia" recon_no="180705">Anomodontia</List>
+		<List recon_name="Gorgonops_torvus,Lycaenops_angusticeps" recon_no="56786;341017">Gorgonopsia</List>
+		<List recon_name="Galeops_whaitsi,Galepus_jouberti" recon_no="367358;56776">Anomodontia</List>
 		<List recon_name="Charassognathus_gracilis" recon_no="140432">Charassognathus_gracilis</List>
 		<List recon_name="Dvinia_prima" recon_no="343342">Dvinia_prima</List>
 		<List recon_name="Procynosuchus_delaharpeae" recon_no="323823">Procynosuchus_delaharpeae</List>
 		<List recon_name="Lycosuchus_vanderrieti" recon_no="56796">Lycosuchus_vanderrieti</List>
-		<List recon_name="Alopecodon" recon_no="56787">Alopecodon</List>
+		<List recon_name="Alopecodon_priscus" recon_no="56788">Alopecodon</List>
 		<List recon_name="Glanosuchus_macrops" recon_no="56804">Glanosuchus_macrops</List>
 		<List recon_name="Ictidosaurus_angusticeps" recon_no="164327">Ictidosaurus_angusticeps</List>
 		<List recon_name="Pardosuchus_whaitsi" recon_no="56799">Pardosuchus</List>
 		<List recon_name="Pristerognathus_polyodon" recon_no="56811">Pristerognathus_polyodon</List>
 		<List recon_name="Scylacosaurus_sclateri" recon_no="56810">Scylacosaurus</List>
 		<List recon_name="Scylacosuchus_orenburgensis" recon_no="362033">Scylacosuchus</List>
-		<List recon_name="Annatherapsidus" recon_no="39151">Annatherapsidus</List>
+		<List recon_name="Annatherapsidus_petri" recon_no="362214">Annatherapsidus</List>
 		<List recon_name="Akidnognathidae_indet_USNM_PAL_412421" recon_no="95360">Cist_AZ_akidnog_USNM_PAL_412421</List>
 		<List recon_name="Akidnognathus_parvus" recon_no="377639">Akidnognathus_parvus</List>
 		<List recon_name="Euchambersia_mirabilis" recon_no="377640">Euchambersia_mirabilis</List>
@@ -52,7 +52,7 @@
 		<List recon_name="Theriognathus_microps" recon_no="343308">Theriognathus_microps</List>
 		<List recon_name="Ictidosuchus_primaevus" recon_no="56835">Ictidosuchus_primaevus</List>
 		<List recon_name="Ictidosuchoides_longiceps" recon_no="376352">Ictidosuchoides_longiceps</List>
-		<List recon_name="Perplexisaurus" recon_no="196700">Perplexisaurus</List>
+		<List recon_name="Perplexisaurus_foveatus" recon_no="196702">Perplexisaurus</List>
 		<List recon_name="Ictidosuchops_rubidgei" recon_no="346931">Ictidosuchops_rubidgei</List>
 		<List recon_name="Regisaurus_jacobi" recon_no="54356">Regisaurus_jacobi</List>
 		<List recon_name="Urumchia_lii" recon_no="54355">Urumchia</List>
@@ -66,7 +66,7 @@
 		<List recon_name="Ericiolacerta_parva" recon_no="376274">Ericiolacerta_parva</List>
 		<List recon_name="Silphedosuchus_orenburgensis" recon_no="265689">Silphedosuchus</List>
 		<List recon_name="Nothogomphodon_danilovi" recon_no="169922">Nothogomphodon</List>
-		<List recon_name="Ordosiodon" recon_no="265685">Ordosiodon</List>
+		<List recon_name="Ordosiodon_youngi" recon_no="265912">Ordosiodon</List>
 		<List recon_name="Hazhenia_concava" recon_no="265915">Hazhenia</List>
 		<List recon_name="Antecosuchus" recon_no="169918">Antecosuchus</List>
 		<List recon_name="Bauria_cynops" recon_no="174511">Bauria_cynops</List>

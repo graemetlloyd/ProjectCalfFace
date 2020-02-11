@@ -45,9 +45,9 @@
 		<List recon_name="Niassodon_mfumukasi" recon_no="353124">Niassodon_mfumukasi</List>
 		<List recon_name="Brachyprosopus_broomi" recon_no="295501">Brachyprosopus_broomi</List>
 		<List recon_name="Pristerodon_mackayi" recon_no="56843">Pristerodon_mackayi</List>
-		<List recon_name="DELETE" recon_no="-1">Emydops</List>
+		<List recon_name="Emydops_oweni,Emydops_platyceps,Emydops_longus,Emydops_parvus,Emydops_arctatus,Emydops_minor,Emydops_minimus" recon_no="196018;201034;198760;198434;197858;56854;200878">Emydops</List>
 		<List recon_name="Digalodon_rubidgei" recon_no="323837">Digalodon_rubidgei</List>
-		<List recon_name="DELETE" recon_no="-1">Dicynodontoides</List>
+		<List recon_name="Dicynodontoides_recurvidens,Dicynodontoides_nowacki" recon_no="56865;196804">Dicynodontoides</List>
 		<List recon_name="Kombuisia_frerensis" recon_no="109013">Kombuisia_frerensis</List>
 		<List recon_name="Myosaurus_gracilis" recon_no="178200">Myosaurus_gracilis</List>
 		<List recon_name="Cistecephalus_microrhinus" recon_no="56851">Cistecephalus_microrhinus</List>
@@ -87,22 +87,22 @@
 		<List recon_name="Lystrosaurus_curvatus" recon_no="139951">Lystrosaurus_curvatus</List>
 		<List recon_name="Lystrosaurus_declivis" recon_no="140319">Lystrosaurus_declivis</List>
 		<List recon_name="Lystrosaurus_murrayi" recon_no="122595">Lystrosaurus_murrayi</List>
-		<List recon_name="DELETE" recon_no="-1">Shansiodon</List>
+		<List recon_name="Shansiodon_wangi,Shansiodon_wuhsiangensis" recon_no="266006;266008">Shansiodon</List>
 		<List recon_name="Tetragonias_njalilus" recon_no="339031">Tetragonias_njalilus</List>
 		<List recon_name="Vinceria_andina" recon_no="66675">Vinceria_andina</List>
 		<List recon_name="Rhinodicynodon_gracile" recon_no="170517">Rhinodicynodon_gracile</List>
-		<List recon_name="DELETE" recon_no="-1">Dinodontosaurus</List>
+		<List recon_name="Dinodontosaurus_pedroanum" recon_no="178082">Dinodontosaurus</List>
 		<List recon_name="Angonisaurus_cruickshanki" recon_no="178256">Angonisaurus_cruickshanki</List>
 		<List recon_name="Kannemeyeria_simocephalus" recon_no="337835">Kannemeyeria_simocephalus</List>
 		<List recon_name="Kannemeyeria_lophorhinus" recon_no="172541">Kannemeyeria_lophorhinus</List>
 		<List recon_name="Dolichuranus_primaevus" recon_no="172547">Dolichuranus_primaevus</List>
-		<List recon_name="DELETE" recon_no="-1">Sinokannemeyeria</List>
-		<List recon_name="DELETE" recon_no="-1">Parakannemeyeria</List>
+		<List recon_name="Sinokannemeyeria_yingchiaoensis" recon_no="266005">Sinokannemeyeria</List>
+		<List recon_name="Parakannemeyeria_youngi" recon_no="265996">Parakannemeyeria</List>
 		<List recon_name="Xiyukannemeyeria_brevirostris" recon_no="265926">Xiyukannemeyeria_brevirostris</List>
 		<List recon_name="Rabidosaurus_cristatus" recon_no="170175">Rabidosaurus_cristatus</List>
-		<List recon_name="DELETE" recon_no="-1">Rhadiodromus</List>
+		<List recon_name="Rhadiodromus_klimovi" recon_no="141743">Rhadiodromus</List>
 		<List recon_name="Wadiasaurus_indicus" recon_no="177547">Wadiasaurus_indicus</List>
-		<List recon_name="DELETE" recon_no="-1">Shaanbeikannemeyeria</List>
+		<List recon_name="Shaanbeikannemeyeria_xilougouensis" recon_no="265978">Shaanbeikannemeyeria</List>
 		<List recon_name="Rechnisaurus_cristarhynchus" recon_no="177546">Rechnisaurus_cristarhynchus</List>
 		<List recon_name="Uralokannemeyeria_vjuschkovi" recon_no="170519">Uralokannemeyeria_vjuschkovi</List>
 		<List recon_name="Zambiasaurus_submersus" recon_no="172532">Zambiasaurus_submersus</List>
@@ -111,7 +111,7 @@
 		<List recon_name="Stahleckeria_potens" recon_no="100820">Stahleckeria_potens</List>
 		<List recon_name="Sangusaurus_parringtonii" recon_no="377471">Sangusaurus_parringtonii</List>
 		<List recon_name="Eubrachiosaurus_browni" recon_no="155538">Eubrachiosaurus_browni</List>
-		<List recon_name="DELETE" recon_no="-1">Jachaleria</List>
+		<List recon_name="Jachaleria_candelariensis" recon_no="178424">Jachaleria</List>
 		<List recon_name="Ischigualastia_jenseni" recon_no="54412">Ischigualastia_jenseni</List>
 		<List recon_name="Rastodon_procurvidens" recon_no="353126">Rastodon_procurvidens</List>
 		<List recon_name="Sauroscaptor_tharavati" recon_no="346930">Sauroscaptor_tharavati</List>
@@ -119,6 +119,7 @@
 		<List recon_name="Compsodon_helmoedi" recon_no="346691">Compsodon_helmoedi</List>
 		<List recon_name="Pentasaurus_goggai" recon_no="367243">Pentasaurus_goggai</List>
 		<List recon_name="Thliptosaurus_imperforatus" recon_no="385251">Thliptosaurus_imperforatus</List>
+		
 		<List recon_name="DELETE" recon_no="-1">Ufudocyclops_mukanelai</List>
 		<List recon_name="DELETE" recon_no="-1">Dicynodon_angielczyki</List>
 		<List recon_name="DELETE" recon_no="-1">Daptocephalus_huenei</List>

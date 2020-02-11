@@ -22,11 +22,12 @@
 		<List recon_name="Shansiodon_wangi,Shansiodon_wuhsiangensis" recon_no="266006;266008">Shansiodon</List>
 		<List recon_name="Tetragonias_njalilus" recon_no="339031">Tetragonias</List>
 		<List recon_name="Vinceria_andina" recon_no="66675">Vinceria</List>
-		<List recon_name="DELETE" recon_no="-1">Kannemeyeria</List>
+		<List recon_name="Lystrosaurus_maccaigi,Lystrosaurus_declivis,Lystrosaurus_murrayi,Lystrosaurus_curvatus,Lystrosaurus_georgi" recon_no="122672;140319;122595;139951;122702">Lystrosaurus</List>
+		<List recon_name="Kannemeyeria_simocephala,Kannemeyeria_lophorhinus" recon_no="337836;172541">Kannemeyeria</List>
 		<List recon_name="Wadiasaurus_indicus" recon_no="177547">Wadiasaurus</List>
 		<List recon_name="Dolichuranus_primaevus" recon_no="172547">Dolichuranus</List>
-		<List recon_name="DELETE" recon_no="-1">Parakannemeyeria</List>
-		<List recon_name="DELETE" recon_no="-1">Sinokannemeyeria</List>
+		<List recon_name="Parakannemeyeria_youngi" recon_no="265996">Parakannemeyeria</List>
+		<List recon_name="Sinokannemeyeria_yingchiaoensis" recon_no="266005">Sinokannemeyeria</List>
 		<List recon_name="Xiyukannemeyeria_brevirostris" recon_no="265926">Xiyukannemeyeria</List>
 		<List recon_name="Dinodontosaurus_pedroanum" recon_no="178082">Dinodontosaurus</List>
 		<List recon_name="Sungeodon_kimkraemerae" recon_no="330107">Sungeodon</List>

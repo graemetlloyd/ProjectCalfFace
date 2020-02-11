@@ -23,19 +23,19 @@
 		<List recon_name="Trirachodon" recon_no="39194">Trirachodon</List>
 		<List recon_name="Langbergia" recon_no="171943">Langbergia</List>
 		<List recon_name="Cricodon" recon_no="39192">Cricodon</List>
-		<List recon_name="Andescynodon" recon_no="39196">Andescynodon</List>
+		<List recon_name="Andescynodon_mendozensis" recon_no="66674">Andescynodon</List>
 		<List recon_name="Massetognathus" recon_no="39203">Massetognathus</List>
 		<List recon_name="Exaeretodon" recon_no="39200">Exaeretodon</List>
-		<List recon_name="Luangwa" recon_no="39202">Luangwa</List>
+		<List recon_name="Luangwa_drysdalli" recon_no="172477">Luangwa</List>
 		<List recon_name="Scalenodon_angustifrons" recon_no="177679">Scal_angustifrons</List>
 		<List recon_name="Scalenodon_hirschsoni" recon_no="302110">Scal_hirschsoni</List>
-		<List recon_name="Traversodon" recon_no="39206">Traversodon</List>
-		<List recon_name="Gomphodontosuchus" recon_no="39207">Gomphodontosuchus</List>
-		<List recon_name="Pascualgnathus" recon_no="39197">Pascualgnathus</List>
-		<List recon_name="Scalenodontoides" recon_no="39205">Scalenodontoides</List>
-		<List recon_name="Menadon" recon_no="167261">Menadon</List>
-		<List recon_name="Dadadon" recon_no="167265">Dadadon</List>
-		<List recon_name="Santacruzodon" recon_no="171912">Santacruzodon</List>
+		<List recon_name="Traversodon_stahleckeri" recon_no="100828">Traversodon</List>
+		<List recon_name="Gomphodontosuchus_brasiliensis" recon_no="100826">Gomphodontosuchus</List>
+		<List recon_name="Pascualgnathus_polanskii" recon_no="117951">Pascualgnathus</List>
+		<List recon_name="Scalenodontoides_macrodontes" recon_no="178335">Scalenodontoides</List>
+		<List recon_name="Menadon_besairiei" recon_no="167263">Menadon</List>
+		<List recon_name="Dadadon_isaloi" recon_no="167266">Dadadon</List>
+		<List recon_name="Santacruzodon_hopsoni" recon_no="171913">Santacruzodon</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

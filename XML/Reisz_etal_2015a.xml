@@ -19,26 +19,26 @@
 		<Editor/>
  	</Source>
 	<Taxa number="21">
-		<List recon_name="Protorothyris" recon_no="37494">Protorothyris</List>
+		<List recon_name="Protorothyris_archeri" recon_no="135430">Protorothyris</List>
 		<List recon_name="Paleothyris_acadiana" recon_no="138002">Paleothyris</List>
-		<List recon_name="Thuringothyris" recon_no="137222">Thuringothyris</List>
-		<List recon_name="Concordia" recon_no="92484">Concordia</List>
+		<List recon_name="Thuringothyris_mahlendorffae" recon_no="137223">Thuringothyris</List>
+		<List recon_name="Concordia_cunninghami" recon_no="92485">Concordia</List>
 		<List recon_name="Romeria_prima" recon_no="135432">Romeria_prima</List>
 		<List recon_name="Romeria_texana" recon_no="134834">Romeria_texana</List>
-		<List recon_name="Protocaptorhinus" recon_no="37505">Protocaptorhinus</List>
-		<List recon_name="Rhiodenticulatus" recon_no="37503">Rhiodenticulatus</List>
-		<List recon_name="Saurorictus" recon_no="135442">Saurorictus</List>
+		<List recon_name="Protocaptorhinus_pricei" recon_no="135429">Protocaptorhinus</List>
+		<List recon_name="Rhiodenticulatus_heatoni" recon_no="135851">Rhiodenticulatus</List>
+		<List recon_name="Saurorictus_australis" recon_no="135443">Saurorictus</List>
 		<List recon_name="Captorhinus_laticeps" recon_no="134970">Captorhinus_laticeps</List>
 		<List recon_name="Captorhinus_aguti" recon_no="90718">Captorhinus_aguti</List>
 		<List recon_name="Captorhinus_magnus" recon_no="134993">Captorhinus_magnus</List>
-		<List recon_name="Labidosaurus" recon_no="37501">Labidosaurus</List>
-		<List recon_name="Labidosaurikos" recon_no="37500">Labidosaurikos</List>
-		<List recon_name="Moradisaurus" recon_no="37509">Moradisaurus</List>
-		<List recon_name="Rothianiscus" recon_no="37507">Rothianiscus</List>
+		<List recon_name="Labidosaurus_hamatus" recon_no="134918">Labidosaurus</List>
+		<List recon_name="Labidosaurikos_meachami" recon_no="119515">Labidosaurikos</List>
+		<List recon_name="Moradisaurus_grandis" recon_no="134810">Moradisaurus</List>
+		<List recon_name="Rothianiscus_multidonta,Rothianiscus_robusta" recon_no="135792;135793">Rothianiscus</List>
 		<List recon_name="Captorhinikos_valensis" recon_no="120855">Captorhinikos_valensis</List>
-		<List recon_name="Gansurhinus" recon_no="204011">Gansurhinus</List>
+		<List recon_name="Gansurhinus_qingtoushanensis" recon_no="204012">Gansurhinus</List>
 		<List recon_name="Captorhinikos_chozaensis" recon_no="120856">Captorhinkos_chozensis</List>
-		<List recon_name="Reiszorhinus" recon_no="204025">Reiszorhinus</List>
+		<List recon_name="Reiszorhinus_olsoni" recon_no="204031">Reiszorhinus</List>
 		<List recon_name="Opisthodontosaurus_carrolli" recon_no="334471">Opisthodontosaurus</List>
 	</Taxa>
 	<Characters>

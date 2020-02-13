@@ -17,27 +17,27 @@
 		<Editor/>
 	</Source>
 	<Taxa number="23">
-		<List recon_name="Haptodus" recon_no="38905">Haptodus</List>
-		<List recon_name="Dimetrodon" recon_no="38904">Dimetrodon</List>
-		<List recon_name="Tetraceratops" recon_no="38930">Tetraceratops</List>
-		<List recon_name="Raranimus" recon_no="164054">Raranimus</List>
-		<List recon_name="Biarmosuchus" recon_no="38938">Biarmosuchus</List>
-		<List recon_name="Hipposaurus" recon_no="39102">Hipposaurus</List>
-		<List recon_name="Herpetoskylax" recon_no="335887">Herpetoskylax</List>
-		<List recon_name="Lycaenodon" recon_no="39098">Lycaenodon</List>
-		<List recon_name="Lemurosaurus" recon_no="39099">Lemurosaurus</List>
-		<List recon_name="Proburnetia" recon_no="39106">Proburnetia</List>
-		<List recon_name="Burnetia" recon_no="39105">Burnetia</List>
-		<List recon_name="Syodon" recon_no="38959">Syodon</List>
-		<List recon_name="Titanophoneus" recon_no="38960">Titanophoneus</List>
+		<List recon_name="Haptodus_garnettensis" recon_no="122358">Haptodus</List>
+		<List recon_name="Dimetrodon_teutonis,Dimetrodon_limbatus" recon_no="137166;344229">Dimetrodon</List>
+		<List recon_name="Tetraceratops_insignis" recon_no="145255">Tetraceratops</List>
+		<List recon_name="Raranimus_dashankouensis" recon_no="164055">Raranimus</List>
+		<List recon_name="Biarmosuchus_tener" recon_no="335875">Biarmosuchus</List>
+		<List recon_name="Hipposaurus_brinki" recon_no="335892">Hipposaurus</List>
+		<List recon_name="Herpetoskylax_hopsoni" recon_no="335888">Herpetoskylax</List>
+		<List recon_name="Lycaenodon_longiceps" recon_no="335890">Lycaenodon</List>
+		<List recon_name="Lemurosaurus_pricei" recon_no="96182">Lemurosaurus</List>
+		<List recon_name="Proburnetia_viatkensis" recon_no="140409">Proburnetia</List>
+		<List recon_name="Burnetia_mirabilis" recon_no="140408">Burnetia</List>
+		<List recon_name="Syodon_biarmicum" recon_no="357010">Syodon</List>
+		<List recon_name="Titanophoneus_potens" recon_no="139331">Titanophoneus</List>
 		<List recon_name="Stenocybus" recon_no="137797">Stenocybus</List>
-		<List recon_name="Styracocephalus" recon_no="38990">Styracocephalus</List>
+		<List recon_name="Styracocephalus_platyrhynchus" recon_no="367368">Styracocephalus</List>
 		<List recon_name="Jonkeria" recon_no="38975">Jonkeria</List>
-		<List recon_name="Estemmenosuchus" recon_no="38965">Estemmenosuchus</List>
-		<List recon_name="Biseridens" recon_no="137793">Biseridens</List>
-		<List recon_name="Patranomodon" recon_no="109357">Patranomodon</List>
-		<List recon_name="Suminia" recon_no="180710">Suminia</List>
-		<List recon_name="Gorgonops" recon_no="39118">Gorgonops</List>
+		<List recon_name="Estemmenosuchus_mirabilis,Estemmenosuchus_uralensis" recon_no="361885;361883">Estemmenosuchus</List>
+		<List recon_name="Biseridens_qilianicus" recon_no="137794">Biseridens</List>
+		<List recon_name="Patranomodon_nyaphulii" recon_no="109359">Patranomodon</List>
+		<List recon_name="Suminia_getmanovi" recon_no="203391">Suminia</List>
+		<List recon_name="Gorgonops_torvus" recon_no="56786">Gorgonops</List>
 		<List recon_name="Lycaenops" recon_no="39120">Lycaenops</List>
     <List recon_name="Cyonosaurus" recon_no="39114">Cyonosaurus</List>
 	</Taxa>

@@ -18,7 +18,7 @@
 		<Editor/>
  	</Source>
 	<Taxa number="18">
-		<List recon_name="Protorothyris" recon_no="37494">Protorothyris</List>
+		<List recon_name="Protorothyris_archeri" recon_no="135430">Protorothyris</List>
 		<List recon_name="Paleothyris_acadiana" recon_no="138002">Paleothyris</List>
 		<List recon_name="Thuringothyris_mahlendorffae" recon_no="137223">Thuringothyris</List>
 		<List recon_name="Concordia_cunninghami" recon_no="92485">Concordia</List>
@@ -33,8 +33,8 @@
 		<List recon_name="Labidosaurus_hamatus" recon_no="134918">Labidosaurus</List>
 		<List recon_name="Labidosaurikos_meachami" recon_no="119515">Labidosaurikos</List>
 		<List recon_name="Moradisaurus_grandis" recon_no="134810">Moradisaurus</List>
-		<List recon_name="Rothianiscus" recon_no="37507">Rothianiscus</List>
-		<List recon_name="Captorhinikos" recon_no="37496">Captorhinikos</List>
+		<List recon_name="Rothianiscus_multidonta,Rothianiscus_robusta" recon_no="135792;135793">Rothianiscus</List>
+		<List recon_name="Captorhinikos_valensis" recon_no="120855">Captorhinikos</List>
 		<List recon_name="Gansurhinus_qingtoushanensis" recon_no="204012">Gansurhinus</List>
 	</Taxa>
 	<Characters>

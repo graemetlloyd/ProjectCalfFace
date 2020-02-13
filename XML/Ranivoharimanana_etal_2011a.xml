@@ -18,9 +18,9 @@
 		<Editor/>
 	</Source>
 	<Taxa number="18">
-		<List recon_name="Cynognathus" recon_no="39186">Cynognathus</List>
+		<List recon_name="Cynognathus_crateronotus" recon_no="56878">Cynognathus</List>
 		<List recon_name="Diademodon_tetragonus" recon_no="171986">Diademodon</List>
-		<List recon_name="Trirachodon" recon_no="39194">Trirachodon</List>
+		<List recon_name="Trirachodon_kannemeyeri" recon_no="56886">Trirachodon</List>
 		<List recon_name="Langbergia_modisei" recon_no="171944">Langbergia</List>
 		<List recon_name="Cricodon_metabolus" recon_no="177670">Cricodon</List>
 		<List recon_name="Andescynodon_mendozensis" recon_no="66674">Andescynodon</List>

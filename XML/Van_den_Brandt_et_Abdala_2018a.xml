@@ -16,17 +16,17 @@
 		<Editor/>
 	</Source>
 	<Taxa number="14">
-		<List recon_name="Cyonosaurus" recon_no="39114">Cyonosaurus</List>
+		<List recon_name="Cyonosaurus_longiceps,Cyniscopoides_broomi,Cyonosaurus_sp_BP/1/735" recon_no="340820;340825;340825">Cyonosaurus</List>
 		<List recon_name="Lycosuchus_vanderrieti" recon_no="56796">Lycosuchus</List>
 		<List recon_name="Charassognathus_gracilis" recon_no="140432">Charassognathus</List>
 		<List recon_name="Nanictosaurus_kitchingi" recon_no="343373">Nanictosaurus</List>
 		<List recon_name="Cynosaurus_suppostus" recon_no="343365">Cynosaurus</List>
-		<List recon_name="Procynosuchus" recon_no="39172">Procynosuchus</List>
+		<List recon_name="Procynosuchus_delaharpeae" recon_no="323823">Procynosuchus</List>
 		<List recon_name="Dvinia_prima" recon_no="343342">Dvinia</List>
 		<List recon_name="Galesaurus_planiceps" recon_no="56872">Galesaurus</List>
 		<List recon_name="Progalesaurus_lootbergensis" recon_no="171916">Progalesaurus</List>
 		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">Thrinaxodon</List>
-		<List recon_name="Cynognathus" recon_no="39186">Cynognathus</List>
+		<List recon_name="Cynognathus_crateronotus" recon_no="56878">Cynognathus</List>
 		<List recon_name="Lumkuia_fuzzi" recon_no="95414">Lumkuia</List>
 		<List recon_name="Abdalodon_diastematicus" recon_no="375341">Abdalodon</List>
 		<List recon_name="Platycraniellus_elegans" recon_no="171919">Platycraniellus</List>

@@ -16,14 +16,14 @@
 		<Editor/>
  	</Source>
 	<Taxa number="25">
-		<List recon_name="Captorhinus" recon_no="37497">Captorhinus</List>
-		<List recon_name="Limnoscelis" recon_no="37232">Limnoscelis</List>
-		<List recon_name="Diadectes" recon_no="37247">Diadectes</List>
-		<List recon_name="Varanops" recon_no="38897">Varanops</List>
-		<List recon_name="Ophiacodon" recon_no="38888">Ophiacodon</List>
-		<List recon_name="Edaphosaurus" recon_no="38911">Edaphosaurus</List>
+		<List recon_name="Captorhinus_aguti" recon_no="134887">Captorhinus</List>
+		<List recon_name="Limnoscelis_paludis" recon_no="113848">Limnoscelis</List>
+		<List recon_name="Diadectes_sideropelicus, Diadectes_tenuitectus,Diadectes_sp_FMNH_C_184,Diadectes_sp_FMNH_UC_1075" recon_no="320982;345914;37247;37247">Diadectes</List>
+		<List recon_name="Varanops_brevirostris" recon_no="91795">Varanops</List>
+		<List recon_name="Ophiacodon_uniformis,Ophiacodon_retroversus,Ophiacodon_mirus,Ophiacodon_sp_FMNH_UC_1156" recon_no="138049;123420;123418;38888">Ophiacodon</List>
+		<List recon_name="Edaphosaurus_boanerges,Edaphosaurus_pogonias" recon_no="122352;81711">Edaphosaurus</List>
 		<List recon_name="Dimetrodon" recon_no="38904">Dimetrodon</List>
-		<List recon_name="Sphenacodon" recon_no="38909">Sphenacodon</List>
+		<List recon_name="Sphenacodon_ferox" recon_no="122487">Sphenacodon</List>
 		<List recon_name="Casea_broilii" recon_no="113850">Cbroilii</List>
 		<List recon_name="Caseopsis_agilis" recon_no="123400">Cagilis</List>
 		<List recon_name="Caseoides_sanangeloensis" recon_no="123414">Csanangeloensis</List>

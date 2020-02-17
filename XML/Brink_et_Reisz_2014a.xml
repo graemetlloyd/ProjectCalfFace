@@ -17,13 +17,13 @@
 	</Source>
 	<Taxa number="9">
 		<List recon_name="Haptodus_garnettensis" recon_no="122358">Haptodus_garnettensis</List>
-		<List recon_name="Cutleria" recon_no="138248">Cutleria</List>
+		<List recon_name="Cutleria_wilmarthi" recon_no="138249">Cutleria</List>
 		<List recon_name="Sphenacodon_ferocior" recon_no="122488">Sphenacodon_ferocior</List>
 		<List recon_name="Ctenospondylus" recon_no="38903">Ctenospondylus_spp</List>
 		<List recon_name="Dimetrodon_milleri" recon_no="122782">Dimetrodon_milleri</List>
 		<List recon_name="Dimetrodon_limbatus" recon_no="344229">Dimetrodon_limbatus</List>
 		<List recon_name="Dimetrodon_grandis" recon_no="122786">Dimetrodon_grandis</List>
-		<List recon_name="Secodontosaurus" recon_no="38908">Secodontosaurus</List>
+		<List recon_name="Secodontosaurus_obtusidens" recon_no="346266">Secodontosaurus</List>
 		<List recon_name="Alrausuchus_tagax" recon_no="361908">Alrausuchus_Therapsida</List>
 	</Taxa>
 	<Characters>

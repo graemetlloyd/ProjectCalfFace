@@ -16,10 +16,10 @@
 	</Source>
 	<Taxa number="53">
     <List recon_name="Tseajaia_campi" recon_no="120742">Tseajaia_campi</List>
-    <List recon_name="Limnoscelis" recon_no="37232">Limnoscelis</List>
-    <List recon_name="Captorhinus" recon_no="37497">Captorhinus</List>
+    <List recon_name="Limnoscelis_paludis" recon_no="113848">Limnoscelis</List>
+    <List recon_name="Captorhinus_aguti,Captorhinus_laticeps,Captorhinus_magnus" recon_no="90718;134970;134993">Captorhinus</List>
     <List recon_name="Protorothyris_archeri" recon_no="135430">Protorothyris_archeri</List>
-    <List recon_name="Dimetrodon" recon_no="38904">Dimetrodon_spp</List>
+    <List recon_name="Dimetrodon_milleri" recon_no="122782">Dimetrodon_spp</List>
     <List recon_name="Secodontosaurus_obtusidens" recon_no="346266">Secodontosaurus_obtusidens</List>
     <List recon_name="Ctenorhachis_jacksoni" recon_no="346070">Ctenorhachis_jacksoni</List>
     <List recon_name="Sphenacodon_ferocior" recon_no="122488">Sphenacodon_ferocior</List>
@@ -40,7 +40,7 @@
     <List recon_name="Echinerpeton_intermedium" recon_no="123515">Ecinerpeton_intermedium</List>
     <List recon_name="Archaeothyris_florensis" recon_no="122328">Archaeothyris_florensis</List>
     <List recon_name="Varanosaurus_acutirostris" recon_no="137915">Varanosaurus_acutirostris</List>
-    <List recon_name="Ophiacodon" recon_no="38888">Ophiacodon_spp</List>
+    <List recon_name="Ophiacodon_hilli,Ophiacodon_major,Ophiacodon_mirus,Ophiacodon_navajovicus,Ophiacodon_retroversus,Ophiacodon_uniformis" recon_no="122335;122336;123418;122334;123420;123419">Ophiacodon_spp</List>
     <List recon_name="Stereophallodon_ciscoensis" recon_no="122333">Stereophallodon_ciscoensis</List>
     <List recon_name="Oromycter_dolesorum" recon_no="140367">Oromycter_dolesorum</List>
     <List recon_name="Ennatosaurus_tecton" recon_no="122314">Ennatosaurus_tecton</List>

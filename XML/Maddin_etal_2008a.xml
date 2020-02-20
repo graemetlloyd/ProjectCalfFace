@@ -18,17 +18,17 @@
 	</Source>
 	<Taxa number="12">
 		<List recon_name="Reptilia" recon_no="36322">Reptilia</List>
-		<List recon_name="Diadectes" recon_no="37247">Diadectes</List>
-		<List recon_name="Limnoscelis" recon_no="37232">Limnoscelis</List>
-		<List recon_name="Mycterosaurus" recon_no="38895">Mycterosaurus</List>
-		<List recon_name="Varanops" recon_no="38897">Varanops</List>
+		<List recon_name="Diadectes_tenuitectus,Diadectes_sideropelicus,Diadectes_zenos,Diadectes_absitus" recon_no="320994;320982;345915;120883">Diadectes</List>
+		<List recon_name="Limnoscelis_paludis,Limnoscelis_dynatis" recon_no="113848;115315">Limnoscelis</List>
+		<List recon_name="Mycterosaurus_longiceps" recon_no="122319">Mycterosaurus</List>
+		<List recon_name="Varanops_brevirostris" recon_no="91795">Varanops</List>
 		<List recon_name="Eothyris_parkeyi" recon_no="122195">Eothyris</List>
-		<List recon_name="Oromycter" recon_no="140366">Oromycter</List>
+		<List recon_name="Oromycter_dolesorum" recon_no="140367">Oromycter</List>
 		<List recon_name="Casea_broilii" recon_no="113850">Casea_broilii</List>
 		<List recon_name="Casea_rutena" recon_no="122217">Casea_rutena</List>
-		<List recon_name="Cotylorhynchus" recon_no="38917">Cotylorhynchus</List>
-		<List recon_name="Angelosaurus" recon_no="38914">Angelosaurus</List>
-		<List recon_name="Ennatosaurus" recon_no="38918">Ennatosaurus</List>
+		<List recon_name="Cotylorhynchus_romeri" recon_no="122218">Cotylorhynchus</List>
+		<List recon_name="Angelosaurus_dolani" recon_no="123401">Angelosaurus</List>
+		<List recon_name="Ennatosaurus_tecton" recon_no="122314">Ennatosaurus</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

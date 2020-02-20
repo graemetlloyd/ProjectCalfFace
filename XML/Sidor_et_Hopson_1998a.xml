@@ -27,16 +27,16 @@
 		<List recon_name="Anomodontia" recon_no="180705">Anomodontia</List>
 		<List recon_name="Gorgonopsidae" recon_no="39107">Gorgonopsidae</List>
 		<List recon_name="Therocephalia" recon_no="39130">Therocephalia</List>
-		<List recon_name="Dvinia" recon_no="39174">Dvinia</List>
+		<List recon_name="Dvinia_prima" recon_no="343342">Dvinia</List>
 		<List recon_name="Procynosuchus" recon_no="39172">Procynosuchus</List>
 		<List recon_name="Galesauridae" recon_no="39175">Galesauridae</List>
 		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">Thrinaxodon</List>
 		<List recon_name="Cynognathia" recon_no="361931">Cynognathia</List>
-		<List recon_name="Probainognathus" recon_no="39225">Probainognathus</List>
+		<List recon_name="Probainognathus_jenseni" recon_no="80895">Probainognathus</List>
 		<List recon_name="Probelesodon" recon_no="39226">Probelesodon</List>
 		<List recon_name="Tritheledontidae" recon_no="39229">Trithelodontidae</List>
 		<List recon_name="Morganucodontidae" recon_no="39748">Morganucodontidae</List>
-		<List recon_name="Sinoconodon" recon_no="39747">Sinoconodon</List>
+		<List recon_name="Sinoconodon_rigneyi" recon_no="203414">Sinoconodon</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

@@ -24,7 +24,7 @@
 		<List recon_name="Sphenacodon" recon_no="38909">Sphenacodon</List>
     <List recon_name="Ctenospondylus" recon_no="38903">Ctenopsondylus</List>
 		<List recon_name="Dimetrodon" recon_no="38904">Dimetrodon</List>
-		<List recon_name="Secodontosaurus" recon_no="38908">Secontosaurus</List>
+		<List recon_name="Secodontosaurus_obtusidens" recon_no="346266">Secontosaurus</List>
 		<List recon_name="Therapsida" recon_no="145256">Therapsida</List>
 	</Taxa>
 	<Characters>

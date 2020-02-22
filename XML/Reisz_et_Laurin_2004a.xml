@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Reisz, R. R.</List>
 			<List>Laurin, M.</List>
 		</Author>
@@ -14,7 +14,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="14">
 		<List recon_name="Mesosaurus_tenuidens,Milleretta_rubidgei,Captorhinus_aguti,Captorhinus_laticeps,Captorhinus_magnus" recon_no="149291;148135;90718;134970;134993">Reptilia</List>
 		<List recon_name="Cotylorhynchus" recon_no="38917">Cotylorhynchus</List>

@@ -16,33 +16,33 @@
 	</Source>
 	<Taxa number="29">
 		<List recon_name="DELETE" recon_no="0">OUTGROUP</List>
-		<List recon_name="Caseidae" recon_no="38913">Caseidae</List>
-		<List recon_name="Ophiacodontidae" recon_no="38884">Ophiacodontidae</List>
-		<List recon_name="Edaphosauridae" recon_no="38910">Edaphosauridae</List>
-		<List recon_name="Sphenacodontidae" recon_no="38901">Sphenacodontidae</List>
+		<List recon_name="Angelosaurus_dolani,Angelosaurus_greeni,Angelosaurus_romeri,Casea_broilii,Casea_halselli,Casea_nicholsi,Casea_rutena,Caseoides_sanangeloensis,Caseopsis_agilis,Cotylorhynchus_bransoni,Cotylorhynchus_hancocki,Cotylorhynchus_romeri,Ennatosaurus_tecton,Phreatophasma_aenigmaticum" recon_no="123401;122304;120923;113850;120854;120853;122217;123414;123400;120922;122303;122218;122314;122315">Caseidae</List>
+		<List recon_name="Archaeothyris_florensis,Baldwinonus_dunkardensis,Baldwinonus_trux,Clepsydrops_collettii,Clepsydrops_magnus,Clepsydrops_vinslovii,Ophiacodon_hilli,Ophiacodon_major,Ophiacodon_mirus,Ophiacodon_navajovicus,Ophiacodon_retroversus,Ophiacodon_uniformis,Stereophallodon_ciscoensis,Stereorhachis_dominans" recon_no="122328;122332;122331;122329;137373;123416;122335;122336;123418;122334;123420;123419;122333;122330">Ophiacodontidae</List>
+		<List recon_name="Edaphosaurus_boanerges,Edaphosaurus_colohistion,Edaphosaurus_credneri,Edaphosaurus_cruciger,Edaphosaurus_mirabilis,Edaphosaurus_novomexicanus,Edaphosaurus_pogonias" recon_no="122352;122353;346041;346264;346038;122351;81711">Edaphosauridae</List>
+		<List recon_name="Bathygnathus_borealis,Ctenospondylus_casei,Ctenospondylus_ninevehensis,Dimetrodon_angelensis,Dimetrodon_booneorum,Dimetrodon_dollovianus,Dimetrodon_gigashomogenes,Dimetrodon_grandis,Dimetrodon_limbatus,Dimetrodon_loomisi,Dimetrodon_macrospondylus,Dimetrodon_milleri,Dimetrodon_natalis,Dimetrodon_occidentalis,Haptodus_baylei,Haptodus_garnettensis,Haptodus_grandis,Macromerion_schwartzenbergii,Neosaurus_cynodus,Secodontosaurus_obtusidens,Secodontosaurus_willistoni,Sphenacodon_britannicus,Sphenacodon_ferocior,Sphenacodon_ferox" recon_no="65123;122592;122593;123424;122783;122785;138123;122786;344229;90738;138127;122782;122781;123425;122354;122358;122357;334675;123423;346266;122486;147997;122488;122487">Sphenacodontidae</List>
 		<List recon_name="Gorgonopsia" recon_no="39095">Gorgonopsia</List>
 		<List recon_name="Cynodontia" recon_no="39168">CYNODONTIA</List>
 		<List recon_name="Millerettidae" recon_no="37568">Millerettidae</List>
 		<List recon_name="Acleistorhinidae" recon_no="37514">Acleistorhinidae</List>
-		<List recon_name="Lanthanosuchidae" recon_no="37224">Lanthanosuchidae</List>
+		<List recon_name="Lanthanosuchus_watsoni,Lanthaniscus_efremovi" recon_no="137520;358577">Lanthanosuchidae</List>
 		<List recon_name="Nycteroleteridae" recon_no="37243">Nycteroleteridae</List>
 		<List recon_name="Procolophonoidea" recon_no="37517">Procolophonoidea</List>
 		<List recon_name="Pareiasauridae" recon_no="37557">Pareiasauridae</List>
 		<List recon_name="Testudines" recon_no="56475">TESTUDINES</List>
-		<List recon_name="Captorhinidae" recon_no="37495">Captorhinidae</List>
+		<List recon_name="Captorhinus_laticeps,Captorhinus_aguti,Captorhinikos_valensis,Captorhinikos_chozaensis,Captorhinoides_valensis,Hecatogomphius_kavejevi,Kahneria_seltina,Labidosaurikos_meachami,Labidosaurus_hamatus,Moradisaurus_grandis,Protocaptorhinus_pricei,Rhiodenticulatus_heatoni,Romeria_texana,Rothianiscus_multidonta" recon_no="134970;90718;120855;120856;120860;135588;119509;119515;134918;134810;135429;135851;134834;135792">Captorhinidae</List>
 		<List recon_name="Protorothyrididae" recon_no="37486">Protorothyrididae</List>
 		<List recon_name="Araeoscelidae" recon_no="37772">Araeoscelididae</List>
 		<List recon_name="Claudiosauridae" recon_no="38165">Claudiosauridae</List>
-		<List recon_name="Younginiformes" recon_no="92226">Younginiformes</List>
+		<List recon_name="Youngina_capensis,Acerosodontosaurus_piveteaui,Hovasaurus_boulei" recon_no="77037;157602;324156">Younginiformes</List>
 		<List recon_name="Placodontia" recon_no="36529">Placodontia</List>
-		<List recon_name="Eosauropterygia" recon_no="100142">Eosauropterygia</List>
-		<List recon_name="Kuehneosauridae" recon_no="37838">Kuehneosauridae</List>
+		<List recon_name="Anarosaurus_pumilio,Corosaurus_alcovensis,Hanosaurus_hupehensis,Neusticosaurus_edwardsii,Pachypleurosaurus_edwardsi,Serpianosaurus_mirigiolensis" recon_no="375028;139789;170966;373039;373038;142015">Eosauropterygia</List>
+		<List recon_name="Cteniogenys_antiquus,Icarosaurus_siefkeri,Kuehneosaurus_latus,Kuehneosuchus_latissimus,Rhabdopelix_longispinis" recon_no="69385;156159;202965;202967;179137">Kuehneosauridae</List>
 		<List recon_name="Rhynchocephalia" recon_no="54194">RHYNCHOCEPHALIA</List>
 		<List recon_name="Squamata" recon_no="36379">SQUAMATA</List>
-		<List recon_name="Choristodera" recon_no="37784">Choristodera</List>
-		<List recon_name="Prolacertiformes" recon_no="92216">Prolacertiformes</List>
+		<List recon_name="Champsosaurus_albertensis,Champsosaurus_natator,Champsosaurus_tenuis,Cteniogenys_antiquus,Simoedosaurus_dakotensis,Tchoiria_namsarai" recon_no="67588;67587;67579;69385;202271;120455">Choristodera</List>
+		<List recon_name="Boreopricea_funerea,Cosesaurus_aviceps,Kadimakara_australiensis,Macrocnemus_bassanii,Malerisaurus_robinsonae,Prolacerta_broomi,Prolacertoides_jimusarensis,Protorosaurus_speneri,Tanystropheus_longobardicus,Tanytrachelos_ahynis,Trachelosaurus_fischeri" recon_no="163341;329410;138952;141599;138926;138933;100433;95836;180927;138947;248610">Prolacertiformes</List>
 		<List recon_name="Archosauriformes" recon_no="57091">ARCHOSAURIFORMES</List>
-		<List recon_name="Rhynchosauria" recon_no="159212">Rhynchosauria</List>
+		<List recon_name="Hyperodapedon_huxleyi,Hyperodapedon_gordoni" recon_no="100723;146404">Rhynchosauria</List>
 		<List recon_name="Trilophosauridae" recon_no="38200">Trilophosauridae</List>
 	</Taxa>
 	<Characters>

@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Castanhinha, R.</List>
 			<List>Araujo, R.</List>
 			<List>Junior, L. C.</List>
@@ -21,7 +21,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="99">
 		<List recon_name="Biarmosuchus_tener" recon_no="335875">Biarmosuchus</List>
 		<List recon_name="Hipposaurus_boonstrai" recon_no="96179">Hipposaurus</List>
@@ -47,7 +47,7 @@
 		<List recon_name="Eosimops_newtoni" recon_no="346715">Eosimops</List>
 		<List recon_name="Diictodon_feliceps" recon_no="332332">Diictodon</List>
 		<List recon_name="Robertia_broomiana" recon_no="336113">Robertia</List>
-		<List recon_name="Pristerodon" recon_no="39058">Pristerodon</List>
+		<List recon_name="Pristerodon_mackayi" recon_no="56843">Pristerodon</List>
 		<List recon_name="Endothiodon_bathystoma" recon_no="56838">Endothiodon</List>
 		<List recon_name="Emydops_oweni,Emydops_platyceps,Emydops_longus,Emydops_parvus,Emydops_arctatus,Emydops_minor,Emydops_minimus" recon_no="196018;201034;200132;198434;197858;56854;200879">Emydops</List>
 		<List recon_name="Dicynodontoides_recurvidens,Dicynodontoides_nowacki" recon_no="337545;337547">Dicynodontoides</List>

@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Brinkman, D.</List>
 			<List>Eberth, D. A.</List>
 		</Author>
@@ -14,7 +14,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="7">
 		<List recon_name="Casea" recon_no="38915">Casea</List>
 		<List recon_name="Varanops_brevirostris" recon_no="91795">Varanops</List>

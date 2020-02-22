@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Oliveira, T. V.</List>
 			<List>Soares, M. B.</List>
 			<List>Schultz, C. L.</List>
@@ -15,7 +15,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="21">
 		<List recon_name="Cyonosaurus" recon_no="39114">Cyonosaurus</List>
 		<List recon_name="Lycosuchus" recon_no="56795">Lycosuchus</List>

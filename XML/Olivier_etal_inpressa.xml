@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Olivier, C.</List>
 			<List>Battail, B.</List>
 			<List>Bourquin, S.</List>
@@ -18,7 +18,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="106">
 		<List recon_name="Biarmosuchus_tener" recon_no="335875">Biarmosuchus</List>
 		<List recon_name="Hipposaurus_boonstrai" recon_no="96179">Hipposaurus_boonstrai</List>
@@ -52,7 +52,7 @@
 		<List recon_name="Niassodon_mfumukasi" recon_no="353124">Niassodon_mfumukasi</List>
 		<List recon_name="Digalodon_rubidgei" recon_no="323837">Digalodon_rubidgei</List>
 		<List recon_name="Emydops_oweni,Emydops_platyceps,Emydops_longus,Emydops_parvus,Emydops_arctatus,Emydops_minor,Emydops_minimus" recon_no="196018;201034;200132;198434;197858;56854;200879">Emydops</List>
-		<List recon_name="Dicynodontoides" recon_no="249571">Dicynodontoides</List>
+		<List recon_name="Dicynodontoides_recurvidens,Dicynodontoides_nowacki" recon_no="337545;337547">Dicynodontoides</List>
 		<List recon_name="Kombuisia_frerensis" recon_no="109013">Kombuisia_frerensis</List>
 		<List recon_name="Myosaurus_gracilis" recon_no="178200">Myosaurus_gracilis</List>
 		<List recon_name="Sauroscaptor_tharavati" recon_no="346930">Sauroscaptor_tharavati</List>

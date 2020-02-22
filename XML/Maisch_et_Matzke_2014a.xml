@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Maisch, M. W.</List>
 			<List>Matzke, A. T.</List>
 		</Author>
@@ -14,7 +14,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="19">
 		<List recon_name="Dicynodon_lacerticeps" recon_no="91716">Dicynodon</List>
 		<List recon_name="Dinanomodon_gilli" recon_no="332235">Dinanomodon</List>

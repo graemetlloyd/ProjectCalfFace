@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Reisz, R. R.</List>
 			<List>LeBlanc, A. R. H.</List>
 			<List>Sidor, C. A.</List>
@@ -17,7 +17,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="21">
 		<List recon_name="Protorothyris_archeri" recon_no="135430">Protorothyris</List>
 		<List recon_name="Paleothyris_acadiana" recon_no="138002">Paleothyris</List>

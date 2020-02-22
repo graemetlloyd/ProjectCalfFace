@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Brocklehurst, N.</List>
 			<List>Brink, K. S.</List>
 		</Author>
@@ -14,25 +14,25 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="21">
-		<List recon_name="DELETE" recon_no="-1">Varanopidae</List>
-		<List recon_name="DELETE" recon_no="-1">Ophiacodontidae</List>
-		<List recon_name="DELETE" recon_no="-1">Edaphosauridae</List>
+		<List recon_name="Varanopidae" recon_no="91792">Varanopidae</List>
+		<List recon_name="Archaeothyris_florensis,Echinerpeton_intermedium" recon_no="122328;123515">Ophiacodontidae</List>
+		<List recon_name="Edaphosaurus_colohistion,Ianthasaurus_hardestiorum,Lupeosaurus_kayi" recon_no="122353;138234;381817">Edaphosauridae</List>
 		<List recon_name="Haptodus_garnettensis" recon_no="122358">Haptodus_garnettensis</List>
 		<List recon_name="Cryptovenator_hirschbergeri" recon_no="185994">Cryptovenator</List>
 		<List recon_name="Pantelosaurus_saxonicus" recon_no="138246">Pantelosaurus</List>
 		<List recon_name="Cutleria_wilmarthi" recon_no="138249">Cutleria</List>
 		<List recon_name="Ianthodon_schultzei" recon_no="196920">Ianthodon</List>
 		<List recon_name="Sphenacodon_ferocior" recon_no="122488">Sphenacodon_ferocior</List>
-		<List recon_name="DELETE" recon_no="-1">Ctenospondylus</List>
+		<List recon_name="Ctenospondylus" recon_no="38903">Ctenospondylus</List>
 		<List recon_name="Dimetrodon_milleri" recon_no="122782">Dimetrodon_milleri</List>
 		<List recon_name="Dimetrodon_limbatus" recon_no="344229">Dimetrodon_limbatus</List>
 		<List recon_name="Dimetrodon_grandis" recon_no="122786">Dimetrodon_grandis</List>
 		<List recon_name="Secodontosaurus_obtusidens" recon_no="346266">Secodontosaurus</List>
-		<List recon_name="Biarmosuchus" recon_no="38938">Biarmosuchus</List>
+		<List recon_name="Biarmosuchus_tener,Biarmosuchus_cf_tener_PIN_1758_slash_7_et_18" recon_no="335875;38938">Biarmosuchus</List>
 		<List recon_name="Ctenorhachis_jacksoni" recon_no="346070">Ctenorhachis</List>
-		<List recon_name="Dinocephalia" recon_no="38949">Dinocephalia</List>
+		<List recon_name="Anteosaurus_crassifrons,Anteosaurus_magnificus,Moschops_koupensis,Struthiocephalus_kitchingi,Struthiocephalus_whaitsi" recon_no="380700;362285;380542;380511;380512">Dinocephalia</List>
 		<List recon_name="Tetraceratops_insignis" recon_no="145255">Tetraceratops</List>
 		<List recon_name="Raranimus_dashankouensis" recon_no="164055">Raranimus</List>
 		<List recon_name="Hipposaurus" recon_no="39102">Hipposaurus</List>

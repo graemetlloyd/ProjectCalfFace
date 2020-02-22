@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Campione, N. E.</List>
 			<List>Reisz, R. R.</List>
 		</Author>
@@ -14,7 +14,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="11">
 		<List recon_name="Cotylorhynchus" recon_no="38917">Cotylorhynchus</List>
 		<List recon_name="Ophiacodon" recon_no="38888">Ophiacodon</List>

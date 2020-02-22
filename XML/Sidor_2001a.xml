@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Sidor, C. A.</List>
 		</Author>
 		<Year>2001</Year>
@@ -13,7 +13,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="126">
 		<List recon_name="Oedaleops_campi" recon_no="122198">Oedaleops_campi</List>
 		<List recon_name="Eothyris_parkeyi" recon_no="122195">Eothyris_parkeyi</List>

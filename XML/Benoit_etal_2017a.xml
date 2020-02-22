@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Benoit, J.</List>
 			<List>Jasinoski, S. C.</List>
 			<List>Fernandez, V.</List>
@@ -16,7 +16,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="24">
 		<List recon_name="DELETE" recon_no="-1">Gorgonopsia</List>
 		<List recon_name="Euchambersia_mirabilis" recon_no="377640">Euchambersia_mirabilis</List>

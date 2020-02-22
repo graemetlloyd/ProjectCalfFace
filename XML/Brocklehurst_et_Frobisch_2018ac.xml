@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Brocklehurst, N.</List>
 			<List>Frobisch, J.</List>
 		</Author>
@@ -14,7 +14,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="38">
 		<List recon_name="Seymouria" recon_no="37223">Seymouria</List>
 		<List recon_name="Limnoscelis" recon_no="37232">Limnoscelis</List>

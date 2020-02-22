@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Kissel, R. A.</List>
 			<List>Reisz, R. R.</List>
 		</Author>
@@ -18,7 +18,7 @@
 			<List>Wilson, M. V. H.</List>
 			<List>Cloutier, R.</List>
 		</Editor>
- 	</Source>
+	</Source>
 	<Taxa number="12">
 		<List recon_name="Aerosaurus_wellesi,Mycterosaurus_longiceps,Varanosaurus_acutirostris" recon_no="122318;122319;137915">Varanopseidae</List>
 		<List recon_name="Archaeothyris_florensis,Echinerpeton_intermedium" recon_no="122328;123515">Ophiacodontidae</List>

@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Kammerer, C. F.</List>
 			<List>Frobisch, J.</List>
 			<List>Angielczyk, K. D.</List>
@@ -15,7 +15,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="98">
 		<List recon_name="Biarmosuchus_tener" recon_no="335875">Biarmosuchus</List>
 		<List recon_name="Hipposaurus_boonstrai" recon_no="96179">Hipposaurus</List>

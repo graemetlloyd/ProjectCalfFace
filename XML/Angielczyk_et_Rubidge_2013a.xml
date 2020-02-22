@@ -53,7 +53,7 @@
 		<List recon_name="Katumbia_parringtoni" recon_no="346611">Katumbia</List>
 		<List recon_name="Odontocyclops_whaitsi" recon_no="339820">Odontocyclops</List>
 		<List recon_name="Pelanomodon_moschops" recon_no="338976">Pelanomodon</List>
-    <List recon_name="Lanthanostegus_mohoii" recon_no="164272">Lanthanostegus</List>
+		<List recon_name="Lanthanostegus_mohoii" recon_no="164272">Lanthanostegus</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

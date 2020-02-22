@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Martinelli, A. G.</List>
 			<List>Kammerer, C. F.</List>
 			<List>Melo, T. P.</List>
@@ -20,7 +20,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="55">
 		<List recon_name="Charassognathus" recon_no="140430">Charassognathus</List>
 		<List recon_name="Procynosuchus" recon_no="39172">Procynosuchus</List>

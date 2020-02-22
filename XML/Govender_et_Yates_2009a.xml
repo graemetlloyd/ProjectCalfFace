@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Govender, R.</List>
 			<List>Yates, A.</List>
 		</Author>
@@ -14,7 +14,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="21">
 		<List recon_name="Aulacephalodon" recon_no="39016">Aulacephalodon</List>
 		<List recon_name="Dicynodon_lacerticeps" recon_no="91716">Dicynodon</List>

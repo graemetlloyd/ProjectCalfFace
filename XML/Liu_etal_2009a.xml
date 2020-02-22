@@ -39,7 +39,7 @@
 		<List recon_name="Suminia_getmanovi" recon_no="203391">Suminia</List>
 		<List recon_name="Gorgonops_torvus" recon_no="56786">Gorgonops</List>
 		<List recon_name="Lycaenops_ornatus,Lycaenops_angusticeps,Lycaenops_minor,Lycaenops_tenuirostris,Lycaenops_microdon,Lycaenops_kingwilli" recon_no="341016;341018;335426;341023;335427;341020">Lycaenops</List>
-    <List recon_name="Cyonosaurus_longiceps,Cyonosaurus_rubidgei" recon_no="340820;340823">Cyonosaurus</List>
+		<List recon_name="Cyonosaurus_longiceps,Cyonosaurus_rubidgei" recon_no="340820;340823">Cyonosaurus</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

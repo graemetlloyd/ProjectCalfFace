@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Martinelli, A. G.</List>
 			<List>Soares, M. B.</List>
 			<List>Schwanke, C.</List>
@@ -15,7 +15,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="35">
 		<List recon_name="Procynosuchus_delaharpeae" recon_no="323823">Procynosuchus</List>
 		<List recon_name="Galesaurus_planiceps" recon_no="56872">Galesaurus</List>

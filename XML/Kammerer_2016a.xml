@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Kammerer, C. E.</List>
 		</Author>
 		<Year>2016</Year>
@@ -13,7 +13,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="15">
 		<List recon_name="Biarmosuchus_tener" recon_no="335875">Biarmosuchus_tener</List>
 		<List recon_name="Hipposaurus_boonstrai" recon_no="96179">Hipposaurus_boonstrai</List>

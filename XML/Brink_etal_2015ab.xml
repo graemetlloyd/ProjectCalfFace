@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Brink, K. S.</List>
 			<List>Maddin, H. C.</List>
 			<List>Evans, D. C.</List>
@@ -16,7 +16,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="24">
 		<List recon_name="Haptodus_garnettensis" recon_no="122358">Haptodus</List>
 		<List recon_name="Dimetrodon_teutonis,Dimetrodon_limbatus" recon_no="137166;344229">Dimetrodon</List>

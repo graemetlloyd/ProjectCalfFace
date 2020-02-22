@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Lucas, S. G.</List>
 			<List>Rinehart, L. F.</List>
 			<List>Celeskey, M. D.</List>
@@ -15,7 +15,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="12">
 		<List recon_name="Mycterosaurus_longiceps" recon_no="122319">Mycterosaurus</List>
 		<List recon_name="Ophiacodon" recon_no="38888">Ophiacodon</List>

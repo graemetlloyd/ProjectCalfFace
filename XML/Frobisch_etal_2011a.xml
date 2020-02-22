@@ -20,10 +20,10 @@
 	</Source>
 	<Taxa number="15">
 		<List recon_name="Varanopidae" recon_no="91792">Varanopidae</List>
-		<List recon_name="Ophiacodontidae" recon_no="38884">Ophiacodontidae</List>
-		<List recon_name="Edaphosauridae" recon_no="38910">Edaphosauridae</List>
+		<List recon_name="Archaeothyris_florensis,Echinerpeton_intermedium" recon_no="122328;123515">Ophiacodontidae</List>
+		<List recon_name="Edaphosaurus_colohistion,Ianthasaurus_hardestiorum,Lupeosaurus_kayi" recon_no="122353;138234;381817">Edaphosauridae</List>
 		<List recon_name="Haptodus_garnettensis" recon_no="122358">Haptodus</List>
-		<List recon_name="Palaeohatteria" recon_no="138241">Palaeohatteria</List>
+		<List recon_name="Palaeohatteria_longicaudata" recon_no="138242">Palaeohatteria</List>
 		<List recon_name="Pantelosaurus_saxonicus" recon_no="138246">Pantelosaurus</List>
 		<List recon_name="Ianthodon_schultzei" recon_no="196920">Ianthodon</List>
 		<List recon_name="Cutleria_wilmarthi" recon_no="138249">Cutleria</List>
@@ -32,8 +32,8 @@
 		<List recon_name="Dimetrodon_milleri,Dimetrodon_limbatus,Dimetrodon_grandis" recon_no="122782;344229;122786">Dimetrodon</List>
 		<List recon_name="Secodontosaurus_obtusidens" recon_no="346266">Secodontosaurus</List>
 		<List recon_name="Cryptovenator_hirschbergeri" recon_no="185994">Cryptovenator</List>
-		<List recon_name="Biarmosuchus" recon_no="38938">Biarmosuchus</List>
-		<List recon_name="Dinocephalia" recon_no="38949">Dinocephalia</List>
+		<List recon_name="Biarmosuchus_tener,Biarmosuchus_cf_tener_PIN_1758_slash_7_et_18" recon_no="335875;38938">Biarmosuchus</List>
+		<List recon_name="Anteosaurus_crassifrons,Anteosaurus_magnificus,Moschops_koupensis,Struthiocephalus_kitchingi,Struthiocephalus_whaitsi" recon_no="380700;362285;380542;380511;380512">Dinocephalia</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

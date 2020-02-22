@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Kammerer, C. F.</List>
 			<List>Angielczyk, K. D.</List>
 			<List>Frobisch, J.</List>
@@ -15,7 +15,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="87">
 		<List recon_name="Biseridens_qilianicus" recon_no="137794">Biseridens</List>
 		<List recon_name="Anomocephalus_africanus" recon_no="180709">Anomocephalus</List>

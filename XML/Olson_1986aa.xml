@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Olson, E. C.</List>
 		</Author>
 		<Year>1986</Year>
@@ -18,7 +18,7 @@
 			<List>Roth, J. J.</List>
 			<List>Roth, E. C.</List>
 		</Editor>
- 	</Source>
+	</Source>
 	<Taxa number="16">
 		<List recon_name="DELETE" recon_no="-1">Haptodus</List>
 		<List recon_name="DELETE" recon_no="-1">Dimetrodon</List>

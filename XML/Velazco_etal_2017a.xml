@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Velazco, P. M.</List>
 			<List>Buczek, A. J.</List>
 			<List>Novacek, M. J.</List>
@@ -15,7 +15,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="17">
 		<List recon_name="Oligokyphus" recon_no="39215">Oligokyphus</List>
 		<List recon_name="Bienotherium" recon_no="39209">Bienotherium</List>

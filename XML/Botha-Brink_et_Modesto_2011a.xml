@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Botha-Brink, J.</List>
 			<List>Modesto, S. P.</List>
 		</Author>
@@ -14,7 +14,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="15">
 		<List recon_name="Gorgonopsia" recon_no="39095">Gorgonopsia</List>
 		<List recon_name="Lycosuchus_vanderrieti" recon_no="56796">Lycosuchus</List>

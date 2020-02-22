@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Romano, M.</List>
 			<List>Ronchi, A.</List>
 			<List>Maganuco, S.</List>
@@ -16,7 +16,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="27">
 		<List recon_name="Captorhinus_aguti" recon_no="90718">Captorhinus</List>
 		<List recon_name="Limnoscelis_paludis" recon_no="113848">Limnoscelis</List>
@@ -59,6 +59,6 @@
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
 	<Filename>Romano_etal_2017ab</Filename>
-  <Parent>Romano_et_Nicosia_2015a</Parent>
+	<Parent>Romano_et_Nicosia_2015a</Parent>
 	<Sibling/>
 </SourceTree>

@@ -16,13 +16,13 @@
 		<Editor/>
 	</Source>
 	<Taxa number="27">
-		<List recon_name="Captorhinus_aguti" recon_no="134887">Captorhinus</List>
+		<List recon_name="Captorhinus_aguti" recon_no="90718">Captorhinus</List>
 		<List recon_name="Limnoscelis_paludis" recon_no="113848">Limnoscelis</List>
-		<List recon_name="Diadectes_sideropelicus,Diadectes_tenuitectus,Diadectes_sp_FMNH_C_184,Diadectes_sp_FMNH_UC_1075" recon_no="320982;345914;37247;37247">Diadectes</List>
+		<List recon_name="Diadectes_sideropelicus,Diadectes_tenuitectus,Diadectes_sp_FMNH_C_184,Diadectes_sp_FMNH_UC_1075" recon_no="320982;320994;37247;37247">Diadectes</List>
 		<List recon_name="Varanops_brevirostris" recon_no="91795">Varanops</List>
-		<List recon_name="Ophiacodon_uniformis,Ophiacodon_retroversus,Ophiacodon_mirus,Ophiacodon_sp_FMNH_UC_1156" recon_no="138049;123420;123418;38888">Ophiacodon</List>
+		<List recon_name="Ophiacodon_uniformis,Ophiacodon_retroversus,Ophiacodon_mirus,Ophiacodon_sp_FMNH_UC_1156" recon_no="123419;123420;123418;38888">Ophiacodon</List>
 		<List recon_name="Edaphosaurus_boanerges,Edaphosaurus_pogonias" recon_no="122352;81711">Edaphosaurus</List>
-		<List recon_name="Dimetrodon_booneorum,Dimetrodon_dollovianus,Dimetrodon_gigashomogenes,Dimetrodon_grandis,Dimetrodon_limbatus,Dimetrodon_loomisi,Dimetrodon_natalis,Dimetrodon_sp_FMNH_UC_18,Dimetrodon_sp_FMNH_UC_49,Dimetrodon_sp_FMNH_UC_414,Dimetrodon_sp_FMNH_UC_753,Dimetrodon_sp_FMNH_UC_756,Dimetrodon_sp_FMNH_UC_1153,Dimetrodon_sp_FMNH_UC_1174,Dimetrodon_sp_FMNH_P_12761,Dimetrodon_sp_FMNH_P_12762" recon_no="122783;122785;138123;138059;344229;90738;54971;38904;38904;38904;38904;38904;38904;38904;38904;38904">Dimetrodon</List>
+		<List recon_name="Dimetrodon_booneorum,Dimetrodon_dollovianus,Dimetrodon_gigashomogenes,Dimetrodon_grandis,Dimetrodon_limbatus,Dimetrodon_loomisi,Dimetrodon_natalis,Dimetrodon_sp_FMNH_UC_18,Dimetrodon_sp_FMNH_UC_49,Dimetrodon_sp_FMNH_UC_414,Dimetrodon_sp_FMNH_UC_753,Dimetrodon_sp_FMNH_UC_756,Dimetrodon_sp_FMNH_UC_1153,Dimetrodon_sp_FMNH_UC_1174,Dimetrodon_sp_FMNH_P_12761,Dimetrodon_sp_FMNH_P_12762" recon_no="122783;122785;138123;122786;344229;90738;122781;38904;38904;38904;38904;38904;38904;38904;38904;38904">Dimetrodon</List>
 		<List recon_name="Sphenacodon_ferox" recon_no="122487">Sphenacodon</List>
 		<List recon_name="Casea_broilii" recon_no="113850">Casea_broilii</List>
 		<List recon_name="Caseopsis_agilis" recon_no="123400">Caseopsis_agilis</List>

@@ -23,7 +23,7 @@
 	<Taxa number="14">
 		<List recon_name="Mesosaurus_tenuidens,Milleretta_rubidgei,Captorhinus_aguti,Captorhinus_laticeps,Captorhinus_magnus" recon_no="149291;148135;90718;134970;134993">Reptilia</List>
 		<List recon_name="Eothyris_parkeyi" recon_no="122195">Eothyris</List>
-		<List recon_name="Oedaleops" recon_no="38900">Oedaleops</List>
+		<List recon_name="Oedaleops_campi" recon_no="122198">Oedaleops</List>
 		<List recon_name="Cotylorhynchus" recon_no="38917">Cotylorhynchus</List>
 		<List recon_name="Archaeothyris_florensis" recon_no="122328">Archaeothyris</List>
 		<List recon_name="Ophiacodon" recon_no="38888">Ophiacodon</List>

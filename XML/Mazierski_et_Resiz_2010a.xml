@@ -16,12 +16,12 @@
 		<Editor/>
 	</Source>
 	<Taxa number="11">
-		<List recon_name="Mycterosaurus" recon_no="38895">Mycterosaurus</List>
-		<List recon_name="Ophiacodon" recon_no="38888">Ophiacodon</List>
-		<List recon_name="Haptodus" recon_no="38905">Haptodus</List>
-		<List recon_name="Ianthasaurus" recon_no="38912">Ianthasaurus</List>
-		<List recon_name="Glaucosaurus" recon_no="38925">Glaucosaurus</List>
-		<List recon_name="Luperosaurus" recon_no="38926">Lupeosaurus</List>
+		<List recon_name="Mycterosaurus_longiceps" recon_no="122319">Mycterosaurus</List>
+		<List recon_name="Ophiacodon_mirus" recon_no="123418">Ophiacodon</List>
+		<List recon_name="Haptodus_garnettensis" recon_no="122358">Haptodus</List>
+		<List recon_name="Ianthasaurus_hardestiorum" recon_no="138234">Ianthasaurus</List>
+		<List recon_name="Glaucosaurus_megalops" recon_no="123517">Glaucosaurus</List>
+		<List recon_name="Lupeosaurus_kayi" recon_no="381817">Lupeosaurus</List>
 		<List recon_name="Edaphosaurus_colohistion" recon_no="122353">Edaphosaurus_colohistion</List>
 		<List recon_name="Edaphosaurus_novomexicanus" recon_no="122351">Edaphosaurus_novomexicanus</List>
 		<List recon_name="Edaphosaurus_boanerges" recon_no="122352">Edaphosaurus_boanerges</List>

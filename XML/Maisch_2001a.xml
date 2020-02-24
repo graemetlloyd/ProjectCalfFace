@@ -15,24 +15,24 @@
 		<Editor/>
 	</Source>
 	<Taxa number="18">
-		<List recon_name="Dicynodon" recon_no="39019">Dicynodon</List>
-		<List recon_name="Dinanomodon" recon_no="196982">Dinamomodon</List>
-		<List recon_name="Kannemeyeria" recon_no="39030">Kannemeyeria</List>
-		<List recon_name="Wadiasaurus" recon_no="39047">Wadiasaurus</List>
+		<List recon_name="Dicynodon_lacerticeps" recon_no="91716">Dicynodon</List>
+		<List recon_name="Dinanomodon_gilli" recon_no="332235">Dinamomodon</List>
+		<List recon_name="Kannemeyeria_simocephala" recon_no="337836">Kannemeyeria</List>
+		<List recon_name="Wadiasaurus_indicus" recon_no="177547">Wadiasaurus</List>
 		<List recon_name="Shansiodon_wangi,Shansiodon_wuhsiangensis" recon_no="266006;266008">Shansiodon</List>
-		<List recon_name="Vinceria" recon_no="39045">Vinceria</List>
-		<List recon_name="Tetragonias" recon_no="39042">Tetragonias</List>
-		<List recon_name="Rhinodicynodon" recon_no="39037">Rhinodicynodon</List>
-		<List recon_name="Stahleckeria" recon_no="39041">Stahleckeria</List>
-		<List recon_name="Angonisaurus" recon_no="39023">Angonisaurus</List>
-		<List recon_name="Placerias" recon_no="39034">Placerias</List>
-		<List recon_name="Ischigualastia" recon_no="39029">Ischigualastia</List>
-		<List recon_name="Rhadiodromus" recon_no="39036">Rhadiodromeus</List>
-		<List recon_name="Dinodontosaurus" recon_no="39026">Dinodontosaurus</List>
-		<List recon_name="Rechnisaurus" recon_no="39031">Rechnisaurus</List>
-		<List recon_name="Sangusaurus" recon_no="39038">Sangusaurus</List>
-		<List recon_name="Parakannemeyeria" recon_no="39032">Parakannemeyeria</List>
-		<List recon_name="Sinokannemeyeria" recon_no="39033">Sinokannemeyeria</List>
+		<List recon_name="Vinceria_andina,Vinceria_argentinensis" recon_no="66675;177559">Vinceria</List>
+		<List recon_name="Tetragonias_njalilus" recon_no="339031">Tetragonias</List>
+		<List recon_name="Rhinodicynodon_gracile" recon_no="170517">Rhinodicynodon</List>
+		<List recon_name="Stahleckeria_potens" recon_no="100820">Stahleckeria</List>
+		<List recon_name="Angonisaurus_cruickshanki" recon_no="178256">Angonisaurus</List>
+		<List recon_name="Placerias_hesternus" recon_no="155546">Placerias</List>
+		<List recon_name="Ischigualastia_jenseni" recon_no="54412">Ischigualastia</List>
+		<List recon_name="Rhadiodromus_klimovi" recon_no="141743">Rhadiodromeus</List>
+		<List recon_name="Dinodontosaurus_pedroanum" recon_no="178082">Dinodontosaurus</List>
+		<List recon_name="Rechnisaurus_cristarhynchus" recon_no="177546">Rechnisaurus</List>
+		<List recon_name="Sangusaurus_parringtonii,Sangusaurus_edentatus" recon_no="377471;172534">Sangusaurus</List>
+		<List recon_name="Parakannemeyeria_youngi" recon_no="265996">Parakannemeyeria</List>
+		<List recon_name="Sinokannemeyeria_yingchiaoensis" recon_no="266005">Sinokannemeyeria</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

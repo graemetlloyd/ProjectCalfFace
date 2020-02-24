@@ -22,60 +22,60 @@
 		<Editor/>
 	</Source>
 	<Taxa number="55">
-		<List recon_name="Charassognathus" recon_no="140430">Charassognathus</List>
+		<List recon_name="Charassognathus_gracilis" recon_no="140432">Charassognathus</List>
 		<List recon_name="Procynosuchus" recon_no="39172">Procynosuchus</List>
-		<List recon_name="Dvinia" recon_no="39174">Dvinia</List>
-		<List recon_name="Cynosaurus" recon_no="39178">Cynosaurus</List>
-		<List recon_name="Galesaurus" recon_no="39177">Galesaurus</List>
-		<List recon_name="Progalesaurus" recon_no="171915">Progalesaurus</List>
-		<List recon_name="Thrinaxodon" recon_no="39179">Thrinaxodon</List>
-		<List recon_name="Nanictosaurus" recon_no="260286">Nanictosaurus</List>
-		<List recon_name="Platycraniellus" recon_no="39181">Platycraniellus</List>
+		<List recon_name="Dvinia_prima" recon_no="343342">Dvinia</List>
+		<List recon_name="Cynosaurus_suppostus" recon_no="343365">Cynosaurus</List>
+		<List recon_name="Galesaurus_planiceps" recon_no="56872">Galesaurus</List>
+		<List recon_name="Progalesaurus_lootbergensis" recon_no="171916">Progalesaurus</List>
+		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">Thrinaxodon</List>
+		<List recon_name="Nanictosaurus_kitchingi" recon_no="343373">Nanictosaurus</List>
+		<List recon_name="Platycraniellus_elegans" recon_no="171919">Platycraniellus</List>
 		<List recon_name="Cynognathus" recon_no="39186">Cynognathus</List>
 		<List recon_name="Diademodon" recon_no="39189">Diademodon</List>
 		<List recon_name="Trirachodon" recon_no="39194">Trirachodon</List>
-		<List recon_name="Langbergia" recon_no="171943">Langbergia</List>
+		<List recon_name="Langbergia_modisei" recon_no="171944">Langbergia</List>
 		<List recon_name="Cricodon" recon_no="39192">Cricodon</List>
-		<List recon_name="Sinognathus" recon_no="39193">Sinognathus</List>
-		<List recon_name="Beishanodon" recon_no="265900">Beishanodon</List>
-		<List recon_name="Pascualgnathus" recon_no="39197">Pascualgnathus</List>
-		<List recon_name="Traversodon" recon_no="39206">Traversodon</List>
-		<List recon_name="Andescynodon" recon_no="39196">Andescynodon</List>
-		<List recon_name="Scalenodon" recon_no="39204">Scalenodon</List>
+		<List recon_name="Sinognathus_gracilis" recon_no="265894">Sinognathus</List>
+		<List recon_name="Beishanodon_youngi" recon_no="265901">Beishanodon</List>
+		<List recon_name="Pascualgnathus_polanskii" recon_no="117951">Pascualgnathus</List>
+		<List recon_name="Traversodon_stahleckeri" recon_no="100828">Traversodon</List>
+		<List recon_name="Andescynodon_mendozensis" recon_no="66674">Andescynodon</List>
+		<List recon_name="Scalenodon_angustifrons" recon_no="177679">Scalenodon_angustifrons</List>
 		<List recon_name="Luangwa" recon_no="39202">Luangwa</List>
-		<List recon_name="Boreogomphodon" recon_no="57567">Boreogomphodon</List>
-		<List recon_name="Arctotraversodon" recon_no="146587">Arctotraversodon</List>
-		<List recon_name="Nanogomphodon" recon_no="172447">Nanogomphodon</List>
+		<List recon_name="Boreogomphodon_jeffersoni" recon_no="57568">Boreogomphodon</List>
+		<List recon_name="Arctotraversodon_plemmyridon" recon_no="146588">Arctotraversodon</List>
+		<List recon_name="Nanogomphodon_wildi" recon_no="172448">Nanogomphodon</List>
 		<List recon_name="Massetognathus" recon_no="39203">Massetognathus</List>
-		<List recon_name="Santacruzodon" recon_no="171912">Santacruzodon</List>
-		<List recon_name="Dadadon" recon_no="167265">Dadadon</List>
+		<List recon_name="Santacruzodon_hopsoni" recon_no="171913">Santacruzodon</List>
+		<List recon_name="Dadadon_isaloi" recon_no="167266">Dadadon</List>
 		<List recon_name="Mandagomphodon_hirschsoni" recon_no="302113">Mandagomphodon_hirschoni</List>
 		<List recon_name="Scalenodon_attridgei" recon_no="302111">Mandagomphodon_attridgei</List>
-		<List recon_name="Gomphodontosuchus" recon_no="39207">Gomphodontosuchus</List>
-		<List recon_name="Menadon" recon_no="167261">Menadon</List>
+		<List recon_name="Gomphodontosuchus_brasiliensis" recon_no="100826">Gomphodontosuchus</List>
+		<List recon_name="Menadon_besairiei" recon_no="167263">Menadon</List>
 		<List recon_name="Exaeretodon" recon_no="39200">Exaeretodon</List>
-		<List recon_name="Scalenodontoides" recon_no="39205">Scalenodontoides</List>
-		<List recon_name="Protuberum" recon_no="172338">Protuberum</List>
-		<List recon_name="Lumkuia" recon_no="95413">Lumkuia</List>
-		<List recon_name="Ecteninion" recon_no="67453">Ecteninion</List>
-		<List recon_name="Trucidocynodon" recon_no="171975">Trucidocynodon</List>
+		<List recon_name="Scalenodontoides_macrodontes" recon_no="178335">Scalenodontoides</List>
+		<List recon_name="Protuberum_cabralensis" recon_no="172339">Protuberum</List>
+		<List recon_name="Lumkuia_fuzzi" recon_no="95414">Lumkuia</List>
+		<List recon_name="Ecteninion_lunensis" recon_no="67454">Ecteninion</List>
+		<List recon_name="Trucidocynodon_riograndensis" recon_no="171976">Trucidocynodon</List>
 		<List recon_name="Chiniquodon" recon_no="39222">Chiniquodon</List>
 		<List recon_name="Aleodon_brachyrhamphus" recon_no="177680">Aleodon_brachyramphus</List>
 		<List recon_name="Aleodon_cromptoni" recon_no="371893">Aleodon_cromptoni</List>
-		<List recon_name="Probainognathus" recon_no="39225">Probainognathus</List>
-		<List recon_name="Therioherpeton" recon_no="39228">Therioherpeton</List>
+		<List recon_name="Probainognathus_jenseni" recon_no="80895">Probainognathus</List>
+		<List recon_name="Therioherpeton_cargnini" recon_no="95407">Therioherpeton</List>
 		<List recon_name="Oligokyphus" recon_no="39215">Oligokyphus</List>
-		<List recon_name="Kayentatherium" recon_no="39213">Kayentatherium</List>
+		<List recon_name="Kayentatherium_wellesi" recon_no="175105">Kayentatherium</List>
 		<List recon_name="Tritylodon" recon_no="39217">Tritylodon</List>
 		<List recon_name="Bienotherium" recon_no="39209">Bienotherium</List>
-		<List recon_name="Riograndia" recon_no="95409">Riograndia</List>
-		<List recon_name="Chaliminia" recon_no="39230">Chaliminia</List>
-		<List recon_name="Elliotherium" recon_no="178271">Elliotherium</List>
+		<List recon_name="Riograndia_guaibensis" recon_no="178232">Riograndia</List>
+		<List recon_name="Chaliminia_musteloides" recon_no="174512">Chaliminia</List>
+		<List recon_name="Elliotherium_kersteni" recon_no="178273">Elliotherium</List>
 		<List recon_name="Pachygenelus_monus" recon_no="56650">Pachygenelus</List>
-		<List recon_name="Diarthrognathus" recon_no="39231">Diarthrognathus</List>
-		<List recon_name="Brasilodon" recon_no="174537">Brasilodon</List>
-		<List recon_name="Brasilitherium" recon_no="174539">Brasilitherium</List>
-		<List recon_name="Sinoconodon" recon_no="39747">Sinoconodon</List>
+		<List recon_name="Diarthrognathus_broomi" recon_no="171985">Diarthrognathus</List>
+		<List recon_name="Brasilodon_quadrangularis" recon_no="174538">Brasilodon</List>
+		<List recon_name="Brasilitherium_riograndensis" recon_no="174540">Brasilitherium</List>
+		<List recon_name="Sinoconodon_rigneyi" recon_no="203414">Sinoconodon</List>
 		<List recon_name="Morganucodon" recon_no="39753">Morganucodon</List>
 	</Taxa>
 	<Characters>

@@ -23,16 +23,16 @@
 		<List recon_name="DELETE" recon_no="-1">Haptodus</List>
 		<List recon_name="DELETE" recon_no="-1">Dimetrodon</List>
 		<List recon_name="DELETE" recon_no="-1">Edaphosaurus</List>
-		<List recon_name="DELETE" recon_no="-1">Phthinosuchus</List>
-		<List recon_name="DELETE" recon_no="-1">Phthinosaurus</List>
+		<List recon_name="Phthinosuchus_discor" recon_no="358573">Phthinosuchus</List>
+		<List recon_name="Phthinosaurus_borissiaki" recon_no="361720">Phthinosaurus</List>
 		<List recon_name="DELETE" recon_no="-1">Eotitanops</List>
-		<List recon_name="DELETE" recon_no="-1">Gorgodon</List>
+		<List recon_name="Gorgodon_minutus" recon_no="142568">Gorgodon</List>
 		<List recon_name="DELETE" recon_no="-1">Biarmosuchus</List>
-		<List recon_name="DELETE" recon_no="-1">Archaeosyodon</List>
+		<List recon_name="Archaeosyodon_praeventor" recon_no="358606">Archaeosyodon</List>
 		<List recon_name="DELETE" recon_no="-1">Eosyodon</List>
 		<List recon_name="DELETE" recon_no="-1">Estemmenosuchus</List>
-		<List recon_name="DELETE" recon_no="-1">Dimacrodon</List>
-		<List recon_name="DELETE" recon_no="-1">Otsheria</List>
+		<List recon_name="Dimacrodon_hottoni" recon_no="137165">Dimacrodon</List>
+		<List recon_name="Otsheria_netzvetajevi" recon_no="361890">Otsheria</List>
 		<List recon_name="DELETE" recon_no="-1">Gorgonopsian</List>
 		<List recon_name="DELETE" recon_no="-1">Brithopodan</List>
 		<List recon_name="DELETE" recon_no="-1">Dicynodont</List>

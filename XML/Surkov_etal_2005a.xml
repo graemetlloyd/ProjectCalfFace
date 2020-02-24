@@ -19,15 +19,15 @@
 	<Taxa number="27">
 		<List recon_name="Eodicynodon" recon_no="39008">Eodicynodon</List>
 		<List recon_name="Robertia" recon_no="39072">Robertia</List>
-		<List recon_name="Diictodon" recon_no="39075">Diictodon</List>
+		<List recon_name="Diictodon_feliceps" recon_no="332332">Diictodon</List>
 		<List recon_name="Pristerodon" recon_no="39058">Pristerodon</List>
 		<List recon_name="Cistecephalus" recon_no="39069">Cistecephalus</List>
-		<List recon_name="Kawingasaurus" recon_no="39070">Kawingasaurus</List>
-		<List recon_name="Tropidostoma" recon_no="39054">Tropidostoma</List>
+		<List recon_name="Kawingasaurus_fossilis" recon_no="346140">Kawingasaurus</List>
+		<List recon_name="Tropidostoma_dubium" recon_no="331592">Tropidostoma</List>
 		<List recon_name="Kingoria" recon_no="39077">Kingoria</List>
 		<List recon_name="Oudenodon" recon_no="39052">Oudenodon</List>
 		<List recon_name="Aulacephalodon" recon_no="39016">Aulacephalodon</List>
-		<List recon_name="Pelanomodon" recon_no="196980">Pelanomodon</List>
+		<List recon_name="Pelanomodon_moschops" recon_no="338976">Pelanomodon</List>
 		<List recon_name="Dicynodon_sp_SGU_104_slash_3884" recon_no="39019">Dicynodon_sp</List>
 		<List recon_name="Dicynodon_trigonocephalus" recon_no="339794">D_trigonocephalus</List>
 		<List recon_name="Lystrosaurus_georgi" recon_no="122702">Lystrosaurus_georgi</List>
@@ -35,15 +35,15 @@
 		<List recon_name="Lystrosaurus_maccaigi" recon_no="122672">L_mccaigi</List>
 		<List recon_name="Lystrosaurus_curvatus" recon_no="139951">L_curvatus</List>
 		<List recon_name="Kannemeyeria" recon_no="39030">Kannemeyeria</List>
-		<List recon_name="Rhinodicynodon" recon_no="39037">Rhinodicynodon</List>
-		<List recon_name="Tetragonias" recon_no="39042">Tetragonias</List>
-		<List recon_name="Angonisaurus" recon_no="39023">Angonisaurus</List>
-		<List recon_name="Dinodontosaurus" recon_no="39026">Dinodontosaurus</List>
-		<List recon_name="Rechnisaurus" recon_no="39031">Rechnisaurus</List>
-		<List recon_name="Stahleckeria" recon_no="39041">Stahleckeria</List>
-		<List recon_name="Placerias" recon_no="39034">Placerias</List>
-		<List recon_name="Ischigualastia" recon_no="39029">Ischigualastia</List>
-		<List recon_name="Zambiasaurus" recon_no="39039">Zambiasaurus</List>
+		<List recon_name="Rhinodicynodon_gracile" recon_no="170517">Rhinodicynodon</List>
+		<List recon_name="Tetragonias_njalilus" recon_no="339031">Tetragonias</List>
+		<List recon_name="Angonisaurus_cruickshanki" recon_no="178256">Angonisaurus</List>
+		<List recon_name="Dinodontosaurus_pedroanum" recon_no="178082">Dinodontosaurus</List>
+		<List recon_name="Rechnisaurus_cristarhynchus" recon_no="177546">Rechnisaurus</List>
+		<List recon_name="Stahleckeria_potens" recon_no="100820">Stahleckeria</List>
+		<List recon_name="Placerias_hesternus" recon_no="155546">Placerias</List>
+		<List recon_name="Ischigualastia_jenseni" recon_no="54412">Ischigualastia</List>
+		<List recon_name="Zambiasaurus_submersus" recon_no="172532">Zambiasaurus</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

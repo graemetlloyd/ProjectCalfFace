@@ -21,24 +21,24 @@
 	</Source>
 	<Taxa number="46">
 		<List recon_name="DELETE" recon_no="-1">Limnoscelis</List>
-		<List recon_name="DELETE" recon_no="-1">Tseajaia</List>
-		<List recon_name="DELETE" recon_no="-1">Milleropsis</List>
-		<List recon_name="DELETE" recon_no="-1">Australothyris</List>
-		<List recon_name="DELETE" recon_no="-1">Erpetonyx</List>
-		<List recon_name="DELETE" recon_no="-1">Paleothyris</List>
+		<List recon_name="Tseajaia_campi" recon_no="120742">Tseajaia</List>
+		<List recon_name="Milleropsis_pricei" recon_no="148139">Milleropsis</List>
+		<List recon_name="Australothyris_smithi" recon_no="147935">Australothyris</List>
+		<List recon_name="Erpetonyx_arsenaultorum" recon_no="324114">Erpetonyx</List>
+		<List recon_name="Paleothyris_acadiana" recon_no="138002">Paleothyris</List>
 		<List recon_name="DELETE" recon_no="-1">Protorothyris</List>
 		<List recon_name="DELETE" recon_no="-1">Captorhinus</List>
 		<List recon_name="DELETE" recon_no="-1">Oedaleops_OLD</List>
 		<List recon_name="DELETE" recon_no="-1">Oedaleops_NEW</List>
 		<List recon_name="DELETE" recon_no="-1">Oedaleops_SKULL</List>
-		<List recon_name="DELETE" recon_no="-1">Vaughnictis</List>
-		<List recon_name="DELETE" recon_no="-1">Eothyris</List>
-		<List recon_name="DELETE" recon_no="-1">Datheosaurus</List>
-		<List recon_name="DELETE" recon_no="-1">Callibrachion</List>
-		<List recon_name="DELETE" recon_no="-1">Eocasea</List>
+		<List recon_name="Vaughnictis_smithae" recon_no="345992">Vaughnictis</List>
+		<List recon_name="Eothyris_parkeyi" recon_no="122195">Eothyris</List>
+		<List recon_name="Datheosaurus_macrourus" recon_no="147881">Datheosaurus</List>
+		<List recon_name="Callibrachion_gaudryi" recon_no="345972">Callibrachion</List>
+		<List recon_name="Eocasea_martini" recon_no="292123">Eocasea</List>
 		<List recon_name="DELETE" recon_no="-1">Casea</List>
-		<List recon_name="DELETE" recon_no="-1">Echinerpeton</List>
-		<List recon_name="DELETE" recon_no="-1">Archaeothyris</List>
+		<List recon_name="Echinerpeton_intermedium" recon_no="123515">Echinerpeton</List>
+		<List recon_name="Archaeothyris_florensis" recon_no="122328">Archaeothyris</List>
 		<List recon_name="DELETE" recon_no="-1">Varanosaurus</List>
 		<List recon_name="DELETE" recon_no="-1">Ophiacodon</List>
 		<List recon_name="Ianthodon_schultzei" recon_no="196920">Ianthodon</List>
@@ -51,7 +51,7 @@
 		<List recon_name="DELETE" recon_no="-1">GEN_NOV_SPEC_NOV</List>
 		<List recon_name="DELETE" recon_no="-1">indet_Thuringia</List>
 		<List recon_name="DELETE" recon_no="-1">Mesenosaurus</List>
-		<List recon_name="DELETE" recon_no="-1">Mycterosaurus</List>
+		<List recon_name="Mycterosaurus_longiceps" recon_no="122319">Mycterosaurus</List>
 		<List recon_name="DELETE" recon_no="-1">Heleosaurus_OLD</List>
 		<List recon_name="DELETE" recon_no="-1">SAM_dash_PK_dash_K8305</List>
 		<List recon_name="Elliotsmithia_longiceps" recon_no="140622">Elliotsmithia</List>

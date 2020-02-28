@@ -16,8 +16,8 @@
 		<Editor/>
 	</Source>
 	<Taxa number="8">
-		<List recon_name="Dimetrodon" recon_no="38904">Dimetrodon</List>
-		<List recon_name="Hipposaurus" recon_no="39102">Hipposaurus</List>
+		<List recon_name="Dimetrodon_limbatus" recon_no="344229">Dimetrodon</List>
+		<List recon_name="Hipposaurus_sp_CGP/1/66,Hipposaurus_boonstrai" recon_no="39102;96179">Hipposaurus</List>
 		<List recon_name="Proburnetia_viatkensis" recon_no="140409">Proburnetia</List>
 		<List recon_name="Burnetia_alta" recon_no="140406">Burnetia</List>
 		<List recon_name="Bullacephalus_jacksoni" recon_no="335886">Bullacephalus</List>

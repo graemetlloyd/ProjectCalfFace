@@ -17,12 +17,12 @@
 		<Editor/>
 	</Source>
 	<Taxa number="38">
-		<List recon_name="Seymouria" recon_no="37223">Seymouria</List>
-		<List recon_name="Limnoscelis" recon_no="37232">Limnoscelis</List>
+		<List recon_name="Seymouria_baylorensis,Seymouria_grandis,Seymouria sanjuanensis" recon_no="137488;346166;93510">Seymouria</List>
+		<List recon_name="Limnoscelis_dynatis,Limnoscelis_paludis" recon_no="115315;113848">Limnoscelis</List>
 		<List recon_name="Orobates_pabsti" recon_no="154063">Orobates</List>
 		<List recon_name="Eothyris_parkeyi" recon_no="122195">Eothyris</List>
 		<List recon_name="Archaeovenator_hamiltonensis" recon_no="138746">Archaeovenator</List>
-		<List recon_name="Captorhinus" recon_no="37497">Captorhinus</List>
+		<List recon_name="Captorhinus_aguti,Captorhinus_laticeps" recon_no="90718;134970">Captorhinus</List>
 		<List recon_name="Rhiodenticulatus_heatoni" recon_no="135851">Rhiodenticulatus</List>
 		<List recon_name="Petrolacosaurus_kansensis" recon_no="138231">Petrolacosaurus</List>
 		<List recon_name="Youngina_capensis" recon_no="77037">Youngina</List>
@@ -40,7 +40,7 @@
 		<List recon_name="Pareiasuchus_nasicornis" recon_no="139016">Pareiasuchus</List>
 		<List recon_name="Scutosaurus_karpinskii" recon_no="159720">Scutosaurus</List>
 		<List recon_name="Procolophon_trigoniceps" recon_no="56758">Procolophon</List>
-		<List recon_name="Owenetta" recon_no="37521">Owenetta</List>
+		<List recon_name="Owenetta_kitchingorum,Owenetta_rubidgei" recon_no="121092;136937">Owenetta</List>
 		<List recon_name="Barasaurus_besairiei" recon_no="157552">Barasaurus</List>
 		<List recon_name="Bashkyroleter_mesensis" recon_no="137140">Bashkyroleter_mesensis</List>
 		<List recon_name="Bashkyroleter_bashkyricus" recon_no="137135">Bashkyroleter_bashkyricus</List>

@@ -21,21 +21,21 @@
 		</Editor>
 	</Source>
 	<Taxa number="15">
-		<List recon_name="Haptodus" recon_no="38905">Haptodus</List>
-		<List recon_name="Dimetrodon" recon_no="38904">Dimetrodon</List>
-		<List recon_name="Patranomodon" recon_no="109357">Patronomodon</List>
-		<List recon_name="Suminia" recon_no="180710">Suminia</List>
-		<List recon_name="Syodon" recon_no="38959">Syodon</List>
-		<List recon_name="Titanophoneus" recon_no="38960">Titanophoneus</List>
-		<List recon_name="Titanosuchidae" recon_no="38974">Titanosuchidae</List>
-		<List recon_name="Estemmenosuchus" recon_no="38965">Estemmenosuchus</List>
-		<List recon_name="Biarmosuchus" recon_no="38938">Biarmosuchus</List>
-		<List recon_name="Hipposaurus" recon_no="39102">Hipposaurus</List>
-		<List recon_name="Lycaenodon" recon_no="39098">Lycaenodon</List>
-		<List recon_name="Herpetoskylax" recon_no="335887">Herpetoskylax</List>
-		<List recon_name="Ictidorhinus" recon_no="39097">Ictidorhinus</List>
-		<List recon_name="Lemurosaurus" recon_no="39099">Lemurosaurus</List>
-		<List recon_name="Lobalopex" recon_no="140411">Lobalopex</List>
+		<List recon_name="Haptodus_garnettensis" recon_no="122358">Haptodus</List>
+		<List recon_name="Dimetrodon_limbatus" recon_no="344229">Dimetrodon</List>
+		<List recon_name="Patranomodon_nyaphulii" recon_no="109359">Patronomodon</List>
+		<List recon_name="Suminia_getmanovi" recon_no="203391">Suminia</List>
+		<List recon_name="Syodon_efremovi" recon_no="357010">Syodon</List>
+		<List recon_name="Titanophoneus_potens" recon_no="139331">Titanophoneus</List>
+		<List recon_name="Titanosuchidae_indet_SAM-PK-12213b Titanosuchus_sp_SAM-PK-K287,Jonkeria_sp_SAM-PK-11884,Jonkeria_sp_SAM-PK-12030,Jonkeria_sp_AMNH_5633,Jonkeria_sp_AMNH_5634" recon_no="38974;38976;38975;38975;38975;38975">Titanosuchidae</List>
+		<List recon_name="Estemmenosuchus_mirabilis,Estemmenosuchus_uralensis" recon_no="361885;361883">Estemmenosuchus</List>
+		<List recon_name="Biarmosuchus_tener" recon_no="335875">Biarmosuchus</List>
+		<List recon_name="Hipposaurus_sp_CGP/1/66,Hipposaurus_boonstrai" recon_no="39102;96179">Hipposaurus</List>
+		<List recon_name="Lycaenodon_longiceps" recon_no="335890">Lycaenodon</List>
+		<List recon_name="Herpetoskylax_hopsoni" recon_no="335888">Herpetoskylax</List>
+		<List recon_name="Ictidorhinus_martinsi" recon_no="335891">Ictidorhinus</List>
+		<List recon_name="Lemurosaurus_pricei" recon_no="96182">Lemurosaurus</List>
+		<List recon_name="Lobalopex_mordax" recon_no="140412">Lobalopex</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

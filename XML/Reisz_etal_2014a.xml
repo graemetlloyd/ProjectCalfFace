@@ -17,17 +17,17 @@
 		<Editor/>
 	</Source>
 	<Taxa number="33">
-		<List recon_name="Seymouria" recon_no="37223">Seymouria</List>
-		<List recon_name="Limnoscelidae" recon_no="37231">Limnoscelidae</List>
-		<List recon_name="Diadectidae" recon_no="37246">Diadectidae</List>
+		<List recon_name="Seymouria_baylorensis,Seymouria_grandis,Seymouria sanjuanensis" recon_no="137488;346166;93510">Seymouria</List>
+		<List recon_name="Limnoscelis_dynatis,Limnoscelis_paludis" recon_no="115315;113848">Limnoscelidae</List>
+		<List recon_name="Desmatodon_hollandi,Diadectes_carinatus,Diadectes_lentus" recon_no="321002;346263;346261">Diadectidae</List>
 		<List recon_name="Synapsida" recon_no="99791">Synapsida</List>
-		<List recon_name="Captorhinidae" recon_no="37495">Captorhinidae</List>
+		<List recon_name="Eocaptorhinus_Heaton,Captorhinus_aguti,Captorhinus_laticeps,Labidosaurus_hamatus,Kahneria_seltina,Moradisaurus_grandis,Protocaptorhinus_pricei,Rhiodenticulatus_heatoni,Romeria_prima" recon_no="1979;90718;34970;134918;119509;134810;135429;135851;135432">Captorhinidae</List>
 		<List recon_name="Paleothyris_acadiana" recon_no="138002">Paleothyris</List>
-		<List recon_name="Araeoscelidia" recon_no="99775">Araeoscelidia</List>
-		<List recon_name="Younginiformes" recon_no="92226">Younginiformes</List>
-		<List recon_name="Mesosauridae" recon_no="37578">Mesosauridae</List>
+		<List recon_name="Araeoscelis_casei,Araeoscelis_gracilis,Kadaliosaurus_priscus,Petrolacosaurus_kansensis" recon_no="138984;113849;324121;138231">Araeoscelidia</List>
+		<List recon_name="Acerosodontosaurus_piveteaui,Tangasaurus_mennelli,Hovasaurus_boulei,Thadeosaurus_colcanapi,Kenyasaurus_mariakaniensis" recon_no="157602;143044;324156;138551;142948">Younginiformes</List>
+		<List recon_name="Mesosaurus_tenuidens" recon_no="149291">Mesosauridae</List>
 		<List recon_name="Eunotosaurus_africanus" recon_no="56889">Eunotosaurus</List>
-		<List recon_name="Millerettidae" recon_no="37568">Millerettidae</List>
+		<List recon_name="Milleretta_rubidgei,Millerinoides_acutirostris,Milleropsis_pricei,Millerosaurus_nuffieldi,Millerosaurus_ornatus" recon_no="148135;121360;148139;148173;121353">Millerettidae</List>
 		<List recon_name="Australothyris_smithi" recon_no="147935">Australothyris</List>
 		<List recon_name="Microleter_mckinzieorum" recon_no="204049">Microleter</List>
 		<List recon_name="Nyctiphruretus_acudens" recon_no="139947">Nyctiphruretus</List>
@@ -38,7 +38,7 @@
 		<List recon_name="Pareiasuchus_nasicornis" recon_no="139016">Pareiasuchus</List>
 		<List recon_name="Scutosaurus_karpinskii" recon_no="159720">Scutosaurus</List>
 		<List recon_name="Procolophon_trigoniceps" recon_no="56758">Procolophon</List>
-		<List recon_name="Owenetta" recon_no="37521">Owenetta</List>
+		<List recon_name="Owenetta_kitchingorum,Owenetta_rubidgei" recon_no="121092;136937">Owenetta</List>
 		<List recon_name="Barasaurus_besairiei" recon_no="157552">Barasaurus</List>
 		<List recon_name="Bashkyroleter_mesensis" recon_no="137140">Bashkyroleter_mesensis</List>
 		<List recon_name="Bashkyroleter_bashkyricus" recon_no="137135">Bashkyroleter_bashkyricus</List>

@@ -17,7 +17,7 @@
 		<Editor/>
 	</Source>
 	<Taxa number="30">
-		<List recon_name="Seymouria_baylorensis,Seymouria_grandis,Seymouria sanjuanensis" recon_no="137488;346166;93510">Seymouria</List>
+		<List recon_name="Seymouria_baylorensis,Seymouria_grandis,Seymouria_sanjuanensis" recon_no="137488;346166;93510">Seymouria</List>
 		<List recon_name="Limnoscelis_dynatis,Limnoscelis_paludis" recon_no="115315;113848">Limnoscelidae</List>
 		<List recon_name="Desmatodon_hollandi,Diadectes_carinatus,Diadectes_lentus" recon_no="321002;346263;346261">Diadectidae</List>
 		<List recon_name="Synapsida" recon_no="99791">Synapsida</List>

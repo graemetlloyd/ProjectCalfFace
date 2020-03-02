@@ -27,10 +27,10 @@
 		<List recon_name="Suminia_getmanovi" recon_no="203391">Suminia</List>
 		<List recon_name="Syodon_efremovi" recon_no="357010">Syodon</List>
 		<List recon_name="Titanophoneus_potens" recon_no="139331">Titanophoneus</List>
-		<List recon_name="Titanosuchidae_indet_SAM-PK-12213b Titanosuchus_sp_SAM-PK-K287,Jonkeria_sp_SAM-PK-11884,Jonkeria_sp_SAM-PK-12030,Jonkeria_sp_AMNH_5633,Jonkeria_sp_AMNH_5634" recon_no="38974;38976;38975;38975;38975;38975">Titanosuchidae</List>
+		<List recon_name="Titanosuchidae_indet_SAM_dash_PK_dash_12213b,Titanosuchus_sp_SAM_dash_PK_dash_K287,Jonkeria_sp_SAM_dash_PK_dash_11884,Jonkeria_sp_SAM_dash_PK_dash_12030,Jonkeria_sp_AMNH_5633,Jonkeria_sp_AMNH_5634" recon_no="38974;38976;38975;38975;38975;38975">Titanosuchidae</List>
 		<List recon_name="Estemmenosuchus_mirabilis,Estemmenosuchus_uralensis" recon_no="361885;361883">Estemmenosuchus</List>
 		<List recon_name="Biarmosuchus_tener" recon_no="335875">Biarmosuchus</List>
-		<List recon_name="Hipposaurus_sp_CGP/1/66,Hipposaurus_boonstrai" recon_no="39102;96179">Hipposaurus</List>
+		<List recon_name="Hipposaurus_sp_CGP_slash_1_slash_66,Hipposaurus_boonstrai" recon_no="39102;96179">Hipposaurus</List>
 		<List recon_name="Lycaenodon_longiceps" recon_no="335890">Lycaenodon</List>
 		<List recon_name="Herpetoskylax_hopsoni" recon_no="335888">Herpetoskylax</List>
 		<List recon_name="Ictidorhinus_martinsi" recon_no="335891">Ictidorhinus</List>

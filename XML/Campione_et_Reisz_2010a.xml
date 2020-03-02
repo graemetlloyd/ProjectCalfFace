@@ -16,7 +16,7 @@
 		<Editor/>
 	</Source>
 	<Taxa number="11">
-		<List recon_name=="Cotylorhynchus_bransoni,Cotylorhynchus_hancocki,Cotylorhynchus_romeri" recon_no="120922;122303;122218">Cotylorhynchus</List>
+		<List recon_name="Cotylorhynchus_bransoni,Cotylorhynchus_hancocki,Cotylorhynchus_romeri" recon_no="120922;122303;122218">Cotylorhynchus</List>
 		<List recon_name="Ophiacodon_hilli,Ophiacodon_major,Ophiacodon_mirus,Ophiacodon_navajovicus,Ophiacodon_retroversus,Ophiacodon_uniformis" recon_no="122335;122336;123418;122334;123420;123419">Ophiacodon</List>
 		<List recon_name="Mycterosaurus_longiceps" recon_no="122319">Mycterosaurus</List>
 		<List recon_name="Mesenosaurus_efremovi,Mesenosaurus_romeri" recon_no="404057;141851">Mesenosaurus</List>

@@ -19,8 +19,8 @@
 	</Source>
 	<Taxa number="9">
 		<List recon_name="Sauropsida" recon_no="135358">Sauropsida</List>
-		<List recon_name="Caseasauria" recon_no="140369">Caseasauria</List>
-		<List recon_name="Ophiacodontidae" recon_no="38884">Ophiacodontidae</List>
+		<List recon_name="Casea_broilii,Casea_rutena" recon_no="113850;122217">Caseasauria</List>
+		<List recon_name="Archaeothyris_florensis,Ophiacodon_hilli,Ophiacodon_major,Ophiacodon_mirus,Ophiacodon_navajovicus,Ophiacodon_retroversus,Ophiacodon_uniformis" recon_no="122328;122335;122336;123418;122334;123420;123419">Ophiacodontidae</List>
 		<List recon_name="Mycterosaurus_longiceps" recon_no="122319">Mycterosaurus</List>
 		<List recon_name="Mesenosaurus_efremovi,Mesenosaurus_romeri" recon_no="404057;141851">Mesenosaurus</List>
 		<List recon_name="Elliotsmithia_longiceps" recon_no="140622">Elliotsmithia</List>

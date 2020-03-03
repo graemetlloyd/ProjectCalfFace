@@ -17,9 +17,9 @@
 		<Editor/>
 	</Source>
 	<Taxa number="17">
-		<List recon_name="Oligokyphus" recon_no="39215">Oligokyphus</List>
-		<List recon_name="Bienotherium" recon_no="39209">Bienotherium</List>
-		<List recon_name="Bienotheroides" recon_no="39210">Bienotheroides</List>
+		<List recon_name="Oligokyphus_biserialis,Oligokyphus_lufengensis,Oligokyphus_major,Oligokyphus_minor,Oligokyphus_triserialis" recon_no="207525;178204;252539;252543;207524">Oligokyphus</List>
+		<List recon_name="Bienotherium_magnum,Bienotherium_minor,Bienotherium_yunnanense" recon_no="174083;252060;64289">Bienotherium</List>
+		<List recon_name="Bienotheroides_shartegensis,Bienotheroides_ultimus,Bienotheroides_wansienensis,Bienotheroides_zigongensis" recon_no="106777;255011;112542;260786">Bienotheroides</List>
 		<List recon_name="Bocatherium_mexicanum" recon_no="252017">Bocatherium</List>
 		<List recon_name="Dianzhongia_longirostrata" recon_no="252930">Dianzhongia</List>
 		<List recon_name="Dinnebitodon_amarali" recon_no="403879">Dinnebitodon</List>
@@ -29,7 +29,7 @@
 		<List recon_name="Polistodon_chuannanensis" recon_no="136473">Polistodon</List>
 		<List recon_name="Stereognathus_ooliticus" recon_no="207504">Stereognathus</List>
 		<List recon_name="Tritylodon" recon_no="39217">Tritylodon</List>
-		<List recon_name="Xenocretosuchus" recon_no="254183">Xenocretosuchus</List>
+		<List recon_name="Xenocretosuchus_sibiricus" recon_no="361940">Xenocretosuchus</List>
 		<List recon_name="Yunnanodon_brevirostre" recon_no="252933">Yunnanodon</List>
 		<List recon_name="Yuanotherium_minor" recon_no="264011">Yuanotherium</List>
 		<List recon_name="Shartegodon_altai" recon_no="392861">Shartegodon</List>

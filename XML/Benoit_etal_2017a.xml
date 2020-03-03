@@ -18,7 +18,7 @@
 		<Editor/>
 	</Source>
 	<Taxa number="24">
-		<List recon_name="DELETE" recon_no="-1">Gorgonopsia</List>
+		<List recon_name="Gorgonopsia_indet_BP/1/155,Aelurosaurus_sp_BP/1/216" recon_no="39095;39109">Gorgonopsia</List>
 		<List recon_name="Euchambersia_mirabilis" recon_no="377640">Euchambersia_mirabilis</List>
 		<List recon_name="Olivierosuchus_parringtoni" recon_no="260285">Olivierosuchus_parringtoni</List>
 		<List recon_name="Theriognathus_microps" recon_no="343308">Theriognathus_microps</List>
@@ -32,14 +32,14 @@
 		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">Thrinaxodon_liorhinus</List>
 		<List recon_name="Diademodon_tetragonus" recon_no="171986">Diademodon_tetragonus</List>
 		<List recon_name="Trirachodon_berryi" recon_no="56887">Trirachodon_berryi</List>
-		<List recon_name="DELETE" recon_no="-1">trirachodontid_indet</List>
+		<List recon_name="Trirachodontidae_indet_BP/1/4534" recon_no="39191">trirachodontid_indet</List>
 		<List recon_name="Massetognathus_pascuali" recon_no="80893">Massetognathus_pascuali</List>
 		<List recon_name="Exaeretodon_frenguellii" recon_no="117949">Exaeretodon_frenguelli</List>
 		<List recon_name="Lumkuia_fuzzi" recon_no="95414">Lumkuia_fuzzi</List>
 		<List recon_name="Ecteninion_lunensis" recon_no="67454">Ecteninion_lunensis</List>
 		<List recon_name="Chiniquodon_theotonicus" recon_no="100823">Chiniquodon_theotonicus</List>
 		<List recon_name="Probainognathus_jenseni" recon_no="80895">Probainognathus_jenseni</List>
-		<List recon_name="DELETE" recon_no="-1">Tritylodontidae</List>
+		<List recon_name="Tritylodon_longaevus" recon_no="177562">Tritylodontidae</List>
 		<List recon_name="Brasilitherium_riograndensis" recon_no="174540">Brasilitherium_riograndensis</List>
 		<List recon_name="DELETE" recon_no="-1">Mammaliaformes</List>
 	</Taxa>

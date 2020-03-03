@@ -17,14 +17,14 @@
 	</Source>
 	<Taxa number="28">
 		<List recon_name="Tseajaia_campi" recon_no="120742">Tseajaia</List>
-		<List recon_name="Casea" recon_no="38915">Casea</List>
+		<List recon_name="Casea_broilii,Casea_rutena" recon_no="113850;122217">Casea</List>
 		<List recon_name="Eothyris_parkeyi" recon_no="122195">Eothyris</List>
 		<List recon_name="Archaeothyris_florensis" recon_no="122328">Archaeothyris</List>
-		<List recon_name="Ophiacodon" recon_no="38888">Ophiacodon</List>
+		<List recon_name="Ophiacodon_hilli,Ophiacodon_major,Ophiacodon_mirus,Ophiacodon_navajovicus,Ophiacodon_retroversus,Ophiacodon_uniformis" recon_no="122335;122336;123418;122334;123420;123419">Ophiacodon</List>
 		<List recon_name="Mycterosaurus_longiceps" recon_no="122319">Mycterosaurus</List>
-		<List recon_name="Mesenosaurus" recon_no="37777">Mesenosaurus</List>
+		<List recon_name="Mesenosaurus_efremovi,Mesenosaurus_romeri" recon_no="404057;141851">Mesenosaurus</List>
 		<List recon_name="Elliotsmithia_longiceps" recon_no="140622">Elliotsmithia</List>
-		<List recon_name="Aerosaurus" recon_no="38893">Aerosaurus</List>
+		<List recon_name="Aerosaurus_greenleeorum,Aerosaurus_wellesi" recon_no="122317;122318">Aerosaurus</List>
 		<List recon_name="Varanops_brevirostris" recon_no="91795">Varanops</List>
 		<List recon_name="Varanodon_agilis" recon_no="120891">Varanodon</List>
 		<List recon_name="Archaeovenator_hamiltonensis" recon_no="138746">Archaeovenator</List>

@@ -17,21 +17,21 @@
 		<Editor/>
 	</Source>
 	<Taxa number="15">
-		<List recon_name="Dimetrodon" recon_no="38904">Dimetrodon</List>
-		<List recon_name="Biarmosuchus" recon_no="38938">Biarmosuchus</List>
+		<List recon_name="Dimetrodon_limbatus" recon_no="70401">Dimetrodon</List>
+		<List recon_name="Biarmosuchus_tener" recon_no="335875">Biarmosuchus</List>
 		<List recon_name="Herpetoskylax_hopsoni" recon_no="335888">Herpetoskylax</List>
 		<List recon_name="Syodon_biarmicum" recon_no="357010">Syodon</List>
-		<List recon_name="Titanophoneus" recon_no="38960">Titanophoneus</List>
-		<List recon_name="Estemmenosuchus" recon_no="38965">Estemmenosuchus</List>
+		<List recon_name="Titanophoneus_potens" recon_no="139331">Titanophoneus</List>
+		<List recon_name="Estemmenosuchus_mirabilis" recon_no="361885">Estemmenosuchus</List>
 		<List recon_name="Biseridens_qilianicus" recon_no="137794">Biseridens</List>
 		<List recon_name="Anomocephalus_africanus" recon_no="180709">Anomocephalus</List>
 		<List recon_name="Patranomodon_nyaphulii" recon_no="109359">Patranomodon</List>
 		<List recon_name="Otsheria_netzvetajevi" recon_no="361890">Otsheria</List>
-		<List recon_name="Ulemica" recon_no="180711">Ulemica</List>
+		<List recon_name="Venyukovia_prima,Ulemica_invisa,Ulemica_efremovi" recon_no="361889;361898;361899">Ulemica</List>
 		<List recon_name="Suminia_getmanovi" recon_no="203391">Suminia</List>
 		<List recon_name="Galeops_whaitsi" recon_no="367358">Galeops</List>
-		<List recon_name="Eodicynodon" recon_no="39008">Eodicynodon</List>
-		<List recon_name="Gorgonops" recon_no="39118">Gorgonops</List>
+		<List recon_name="Eodicynodon_oosthuizeni" recon_no="164714">Eodicynodon</List>
+		<List recon_name="Gorgonops_dixeyi,Gorgonops_eupachygnathus,Gorgonops_kaiseri,Gorgonops_longifrons,Gorgonops_torvus,Gorgonops_whaitsi" recon_no="340881;340879;340880;340856;56786;340850">Gorgonops</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

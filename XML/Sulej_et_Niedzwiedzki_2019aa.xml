@@ -114,7 +114,7 @@
 		<List recon_name="Eubrachiosaurus_browni" recon_no="155538">Eubrachiosaurus</List>
 		<List recon_name="Zambiasaurus_submersus" recon_no="172532">Zambiasaurus</List>
 		<List recon_name="Shaanbeikannemeyeria_buerdongia,Shaanbeikannemeyeria_xilougouensis" recon_no="265975;265978">Shaanbeikannemeyeria</List>
-		<List recon_name="DELETE" recon_no="-1">Lisowicia_bojani</List>
+		<List recon_name="Lisowicia_bojani" recon_no="409768">Lisowicia_bojani</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

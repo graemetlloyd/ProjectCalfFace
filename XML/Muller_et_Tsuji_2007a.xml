@@ -33,7 +33,7 @@
 		<List recon_name="Procolophon_trigoniceps" recon_no="56758">Procolophon</List>
 		<List recon_name="Owenetta_kitchingorum,Owenetta_rubidgei" recon_no="121092;136937">Owenetta</List>
 		<List recon_name="Barasaurus_besairiei" recon_no="157552">Barasaurus</List>
-		<List recon_name="Eocaptorhinus_Heaton,Captorhinus_aguti,Captorhinus_laticeps,Labidosaurus_hamatus,Kahneria_seltina,Moradisaurus_grandis,Protocaptorhinus_pricei,Rhiodenticulatus_heatoni,Romeria_prima" recon_no="1979;90718;34970;134918;119509;134810;135429;135851;135432">Captorhinidae</List>
+		<List recon_name="Eocaptorhinus_laticeps,Captorhinus_aguti,Captorhinus_laticeps,Labidosaurus_hamatus,Kahneria_seltina,Moradisaurus_grandis,Protocaptorhinus_pricei,Rhiodenticulatus_heatoni,Romeria_prima" recon_no="134878;90718;134970;134918;119509;134810;135429;135851;135432">Captorhinidae</List>
 		<List recon_name="Paleothyris_acadiana" recon_no="138002">Paleothyris</List>
 		<List recon_name="Araeoscelis_casei,Araeoscelis_gracilis,Kadaliosaurus_priscus,Petrolacosaurus_kansensis" recon_no="138984;113849;324121;138231">Araeoscelidia</List>
 		<List recon_name="Acerosodontosaurus_piveteaui,Tangasaurus_mennelli,Hovasaurus_boulei,Thadeosaurus_colcanapi,Kenyasaurus_mariakaniensis" recon_no="157602;143044;324156;138551;142948">Younginiformes</List>

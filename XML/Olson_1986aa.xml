@@ -31,7 +31,7 @@
     <List recon_name="Archaeosyodon_praeventor" recon_no="358606">Archaeosyodon</List>
 		<List recon_name="DELETE" recon_no="-1">Eosyodon</List>
 		<List recon_name="DELETE" recon_no="-1">Estemmenosuchus</List>
-    <List recon_name="DELETE" recon_no="-1">Dimacrodon</List>
+    <List recon_name="Dimacrodon_hottoni" recon_no="137165">Dimacrodon</List>
     <List recon_name="Otsheria_netzvetajevi" recon_no="361890">Otsheria</List>
 		<List recon_name="DELETE" recon_no="-1">Gorgonopsian</List>
 		<List recon_name="DELETE" recon_no="-1">Brithopodan</List>

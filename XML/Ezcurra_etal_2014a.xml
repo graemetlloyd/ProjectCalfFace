@@ -29,17 +29,17 @@
 		<List recon_name="Varanops_brevirostris" recon_no="91795">Varanops</List>
 		<List recon_name="Varanodon_agilis" recon_no="120891">Varanodon</List>
 		<List recon_name="Archaeovenator_hamiltonensis" recon_no="138746">Archaeovenator</List>
-		<List recon_name="Captorhinus" recon_no="37497">Captorhinus</List>
+		<List recon_name="Captorhinus_aguti" recon_no="134887">Captorhinus</List>
 		<List recon_name="Paleothyris_acadiana" recon_no="138002">Paleothyris</List>
 		<List recon_name="Petrolacosaurus_kansensis" recon_no="138231">Petrolacosaurus</List>
-		<List recon_name="Araeoscelis" recon_no="37773">Araeoscelis</List>
+		<List recon_name="Araeoscelis_casei" recon_no="138984">Araeoscelis</List>
 		<List recon_name="Apsisaurus_witteri" recon_no="138856">Apsisaurus</List>
 		<List recon_name="Coelurosauravus_elivensis" recon_no="137997">Coelurosauravus</List>
 		<List recon_name="Acerosodontosaurus_piveteaui" recon_no="157602">Acerosodontosaurus</List>
 		<List recon_name="Youngina_capensis" recon_no="77037">Youngina</List>
 		<List recon_name="Trilophosaurus_buettneri" recon_no="64922">Trilophosaurus_buettneri</List>
 		<List recon_name="Prolacerta_broomi" recon_no="138933">Prolacerta</List>
-		<List recon_name="Planocephalosaurus" recon_no="37825">Planocephalosaurus</List>
+		<List recon_name="Planocephalosaurus_robinsonae" recon_no="253695">Planocephalosaurus</List>
 		<List recon_name="Chalarodon_madagascariensis" recon_no="373814">Chalarodon_madagascariensis</List>
 		<List recon_name="Huehuecuetzpalli_mixtecus" recon_no="202659">Huehuecuetzpalli</List>
 		<List recon_name="Dalinghosaurus_longidigitus" recon_no="197002">Dalinghosaurus</List>
@@ -55,7 +55,7 @@
 		<List recon_name="Paliguana_whitei" recon_no="144690">Paliguana</List>
 		<List recon_name="Macrocnemus_bassanii" recon_no="141599">Macrocnemus_bassanii</List>
 		<List recon_name="Noteosuchus_colletti" recon_no="139802">Noteosuchus_colletti</List>
-		<List recon_name="Gephyrosaurus" recon_no="37811">Gephyrosaurus</List>
+		<List recon_name="Gephyrosaurus_bridensis" recon_no="64136">Gephyrosaurus</List>
 		<List recon_name="Eorasaurus_olsoni" recon_no="276144">Eorasaurus_olsoni</List>
 	</Taxa>
 	<Characters>

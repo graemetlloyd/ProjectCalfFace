@@ -41,7 +41,7 @@
 		<List recon_name="Probainognathus_jenseni" recon_no="80895">Probainognathus_jenseni</List>
 		<List recon_name="Tritylodon_longaevus" recon_no="177562">Tritylodontidae</List>
 		<List recon_name="Brasilitherium_riograndensis" recon_no="174540">Brasilitherium_riograndensis</List>
-		<List recon_name="DELETE" recon_no="-1">Mammaliaformes</List>
+		<List recon_name="Morganucodon_oehleri,Morganucodon_watsoni,Sinoconodon_rigneyi" recon_no="203398;203396;203414">Mammaliaformes</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

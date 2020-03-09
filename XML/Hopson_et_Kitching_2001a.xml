@@ -19,28 +19,28 @@
 		<List recon_name="Gorgonopsidae" recon_no="39107">Gorgonopsid</List>
 		<List recon_name="Lycosuchus_vanderrieti" recon_no="56796">Lycosuchus</List>
 		<List recon_name="Dvinia_prima" recon_no="343342">Dvinia</List>
-		<List recon_name="Procynosuchus" recon_no="39172">Procynosuchus</List>
+		<List recon_name="Aelurodraco_microps" recon_no="343332">Procynosuchus</List>
 		<List recon_name="Galesaurus_planiceps" recon_no="56872">Galesaurus</List>
 		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">Thrinaxodon</List>
-		<List recon_name="Cynognathus" recon_no="39186">Cynognathus</List>
-		<List recon_name="Diademodon" recon_no="39189">Diademodon</List>
-		<List recon_name="Trirachodon" recon_no="39194">Trirachodon</List>
+		<List recon_name="Cynognathus_platyceps" recon_no="56880">Cynognathus</List>
+		<List recon_name="Diademodon_tetragonus" recon_no="171986">Diademodon</List>
+		<List recon_name="Trirachodon_kannemeyeri" recon_no="56886">Trirachodon</List>
 		<List recon_name="Pascualgnathus_polanskii" recon_no="117951">Pascualgnathus</List>
 		<List recon_name="Scalenodon_angustifrons" recon_no="177679">Scalenodon_angustifrons</List>
 		<List recon_name="Scalenodon_hirschsoni" recon_no="302110">Scalenodon_hirschoni</List>
 		<List recon_name="Luangwa_drysdalli" recon_no="172477">Luangwa</List>
-		<List recon_name="Massetognathus" recon_no="39203">Massetognathus</List>
+		<List recon_name="Massetognathus_pascuali" recon_no="80893">Massetognathus</List>
 		<List recon_name="Gomphodontosuchus_brasiliensis" recon_no="100826">Gomphodontosuchus</List>
-		<List recon_name="Exaeretodon" recon_no="39200">Exaeretodon</List>
+		<List recon_name="Exaeretodon_riograndensis" recon_no="333700">Exaeretodon</List>
 		<List recon_name="Tritylodontidae" recon_no="39208">Tritylodontidae</List>
 		<List recon_name="Lumkuia_fuzzi" recon_no="95414">Lumkuia</List>
 		<List recon_name="Probainognathus_jenseni" recon_no="80895">Probainognathus</List>
 		<List recon_name="Ecteninion_lunensis" recon_no="67454">Ecteninion</List>
 		<List recon_name="Probelesodon" recon_no="39226">Probelesodon</List>
 		<List recon_name="Aleodon_brachyrhamphus,Aleodon_cromptoni" recon_no="177680;371893">Aleodon</List>
-		<List recon_name="Chiniquodon" recon_no="39222">Chiniquodon</List>
+		<List recon_name="Chiniquodon_theotonicus" recon_no="100823">Chiniquodon</List>
 		<List recon_name="Pachygenelus_monus" recon_no="56650">Pachygenelus</List>
-		<List recon_name="Morganucodon" recon_no="39753">Morganucodon</List>
+		<List recon_name="Morganucodon_oehleri,Morganucodon_watsoni" recon_no="203398;203396">Morganucodon</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

@@ -28,35 +28,35 @@
 		<List recon_name="Paleothyris_acadiana" recon_no="138002">Paleothyris</List>
 		<List recon_name="DELETE" recon_no="-1">Protorothyris</List>
 		<List recon_name="DELETE" recon_no="-1">Captorhinus</List>
-		<List recon_name="DELETE" recon_no="-1">Oedaleops_OLD</List>
-		<List recon_name="DELETE" recon_no="-1">Oedaleops_NEW</List>
-		<List recon_name="DELETE" recon_no="-1">Oedaleops_SKULL</List>
+		<List recon_name="Oedaleops_campi" recon_no="122198">Oedaleops_OLD</List>
+		<List recon_name="Oedaleops_campi" recon_no="122198">Oedaleops_NEW</List>
+		<List recon_name="Oedaleops_campi" recon_no="122198">Oedaleops_SKULL</List>
 		<List recon_name="Vaughnictis_smithae" recon_no="345992">Vaughnictis</List>
 		<List recon_name="Eothyris_parkeyi" recon_no="122195">Eothyris</List>
 		<List recon_name="Datheosaurus_macrourus" recon_no="147881">Datheosaurus</List>
 		<List recon_name="Callibrachion_gaudryi" recon_no="345972">Callibrachion</List>
 		<List recon_name="Eocasea_martini" recon_no="292123">Eocasea</List>
-		<List recon_name="DELETE" recon_no="-1">Casea</List>
+		<List recon_name="Casea_broilii" recon_no="113850">Casea</List>
 		<List recon_name="Echinerpeton_intermedium" recon_no="123515">Echinerpeton</List>
 		<List recon_name="Archaeothyris_florensis" recon_no="122328">Archaeothyris</List>
-		<List recon_name="DELETE" recon_no="-1">Varanosaurus</List>
-		<List recon_name="DELETE" recon_no="-1">Ophiacodon</List>
+		<List recon_name="Varanosaurus_acutirostris" recon_no="137915">Varanosaurus</List>
+		<List recon_name="Ophiacodon_uniformis,Ophiacodon_retroversus,Ophiacodon_navajovicus,Ophiacodon_mirus,Ophiacodon_major,Ophiacodon_hilli" recon_no="123419;123420;122334;123418;122336;122335">Ophiacodon</List>
 		<List recon_name="Ianthodon_schultzei" recon_no="196920">Ianthodon</List>
 		<List recon_name="Ianthasaurus_hardestiorum" recon_no="138234">Ianthasaurus</List>
-		<List recon_name="DELETE" recon_no="-1">Haptodus</List>
+		<List recon_name="Haptodus_garnettensis" recon_no="122358">Haptodus</List>
 		<List recon_name="Milosaurus_mccordi" recon_no="123521">Milosaurus</List>
 		<List recon_name="Archaeovenator_hamiltonensis" recon_no="138746">Archaeovenator</List>
 		<List recon_name="Pyozia_mesenensis" recon_no="140623">Pyozia</List>
 		<List recon_name="Apsisaurus_witteri" recon_no="138856">Apsisaurus</List>
 		<List recon_name="DELETE" recon_no="-1">GEN_NOV_SPEC_NOV</List>
 		<List recon_name="DELETE" recon_no="-1">indet_Thuringia</List>
-		<List recon_name="DELETE" recon_no="-1">Mesenosaurus</List>
+		<List recon_name="Mesenosaurus_romeri" recon_no="141851">Mesenosaurus</List>
 		<List recon_name="Mycterosaurus_longiceps" recon_no="122319">Mycterosaurus</List>
-		<List recon_name="DELETE" recon_no="-1">Heleosaurus_OLD</List>
-		<List recon_name="DELETE" recon_no="-1">SAM_dash_PK_dash_K8305</List>
+		<List recon_name="Heleosaurus_scholtzi" recon_no="138659">Heleosaurus_OLD</List>
+		<List recon_name="Microvaranops_parentis" recon_no="371903">SAM_dash_PK_dash_K8305</List>
 		<List recon_name="Elliotsmithia_longiceps" recon_no="140622">Elliotsmithia</List>
-		<List recon_name="DELETE" recon_no="-1">BP_slash_I_slash_5678</List>
-		<List recon_name="DELETE" recon_no="-1">SAM_dash_PK_dash_K10407</List>
+		<List recon_name="Heleosaurus_sp_BP_slash_I_slash_5678" recon_no="38304">BP_slash_I_slash_5678</List>
+		<List recon_name="Varanopidae_indet_SAM_dash_PK_dash_K10407" recon_no="95329">SAM_dash_PK_dash_K10407</List>
 		<List recon_name="Anningia_megalops" recon_no="148038">Anningia</List>
 		<List recon_name="Aerosaurus_wellesi" recon_no="122318">Aerosaurus_wellesi</List>
 		<List recon_name="Aerosaurus_greenleeorum" recon_no="122317">A_greenleeorum</List>

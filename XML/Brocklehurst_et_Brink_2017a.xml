@@ -16,7 +16,7 @@
 		<Editor/>
 	</Source>
 	<Taxa number="21">
-		<List recon_name="Varanopidae" recon_no="91792">Varanopidae</List>
+		<List recon_name="Archaeovenator_hamiltonensis,Pyozia_mesenensis,Mycterosaurus_longiceps,Aerosaurus_wellesi,Aerosaurus_greenleeorum,Varanops_brevirostris,Varanodon_agilis,Watongia_meieri,Tambacarnifex_unguifalcatus,Ruthiromia_elcobriensis" recon_no="138746;140623;122319;122318;122317;122316;120891;141909;292125;122322">Varanopidae</List>
 		<List recon_name="Archaeothyris_florensis,Echinerpeton_intermedium" recon_no="122328;123515">Ophiacodontidae</List>
 		<List recon_name="Edaphosaurus_colohistion,Ianthasaurus_hardestiorum,Lupeosaurus_kayi" recon_no="122353;138234;381817">Edaphosauridae</List>
 		<List recon_name="Haptodus_garnettensis" recon_no="122358">Haptodus_garnettensis</List>
@@ -25,7 +25,7 @@
 		<List recon_name="Cutleria_wilmarthi" recon_no="138249">Cutleria</List>
 		<List recon_name="Ianthodon_schultzei" recon_no="196920">Ianthodon</List>
 		<List recon_name="Sphenacodon_ferocior" recon_no="122488">Sphenacodon_ferocior</List>
-		<List recon_name="Ctenospondylus" recon_no="38903">Ctenospondylus</List>
+		<List recon_name="Ctenospondylus_casei,Ctenospondylus_ninevehensis" recon_no="122592;122593">Ctenospondylus</List>
 		<List recon_name="Dimetrodon_milleri" recon_no="122782">Dimetrodon_milleri</List>
 		<List recon_name="Dimetrodon_limbatus" recon_no="344229">Dimetrodon_limbatus</List>
 		<List recon_name="Dimetrodon_grandis" recon_no="122786">Dimetrodon_grandis</List>
@@ -35,7 +35,7 @@
 		<List recon_name="Anteosaurus_crassifrons,Anteosaurus_magnificus,Moschops_koupensis,Struthiocephalus_kitchingi,Struthiocephalus_whaitsi" recon_no="380700;362285;380542;380511;380512">Dinocephalia</List>
 		<List recon_name="Tetraceratops_insignis" recon_no="145255">Tetraceratops</List>
 		<List recon_name="Raranimus_dashankouensis" recon_no="164055">Raranimus</List>
-		<List recon_name="Hipposaurus" recon_no="39102">Hipposaurus</List>
+		<List recon_name="Hipposaurus_brinki" recon_no="335892">Hipposaurus</List>
 		<List recon_name="Bathygnathus_borealis" recon_no="65123">Bathygnathus_borealis</List>
 	</Taxa>
 	<Characters>

@@ -18,14 +18,14 @@
 	</Source>
 	<Taxa number="33">
 		<List recon_name="Archaeothyris_florensis" recon_no="122328">Archaeothyris</List>
-		<List recon_name="DELETE" recon_no="-1">Varanosaurus</List>
-		<List recon_name="DELETE" recon_no="-1">Ophiacodon_spp</List>
+		<List recon_name="Varanosaurus_acutirostris" recon_no="137915">Varanosaurus</List>
+		<List recon_name="Ophiacodon_uniformis,Ophiacodon_retroversus,Ophiacodon_navajovicus,Ophiacodon_mirus,Ophiacodon_major,Ophiacodon_hilli" recon_no="123419;123420;122334;123418;122336;122335">Ophiacodon_spp</List>
 		<List recon_name="Ianthodon_schultzei" recon_no="196920">Ianthodon</List>
 		<List recon_name="Haptodus_garnettensis" recon_no="122358">Haptodus_garnettensis</List>
-		<List recon_name="DELETE" recon_no="-1">Palaeohatteriidae</List>
+		<List recon_name="Palaeohatteria_longicaudata,Pantelosaurus_saxonicus" recon_no="138242;138246">Palaeohatteriidae</List>
 		<List recon_name="Ianthasaurus_hardestiorum" recon_no="138234">Ianthasaurus</List>
 		<List recon_name="Xyrospondylus_ecordi" recon_no="138230">Xyrospondylus</List>
-		<List recon_name="DELETE" recon_no="-1">KUVP_1425</List>
+		<List recon_name="Edaphosaurus_sp_KUVP_1425" recon_no="38911">KUVP_1425</List>
 		<List recon_name="Bohemiclavulus_mirabilis" recon_no="397947">Bohemiclavulus_mirabilis</List>
 		<List recon_name="Glaucosaurus_megalops" recon_no="123517">Glaucosaurus</List>
 		<List recon_name="Lupeosaurus_kayi" recon_no="381817">Lupeosaurus</List>
@@ -36,20 +36,20 @@
 		<List recon_name="Edaphosaurus_cruciger" recon_no="346264">Edaphosaurus_cruciger</List>
 		<List recon_name="Edaphosaurus_credneri" recon_no="346041">Edaphosaurus_credneri</List>
 		<List recon_name="Edaphosaurus_mirabilis" recon_no="346038">Edaphosaurus_mirabilis</List>
-		<List recon_name="DELETE" recon_no="-1">SaP_344</List>
-		<List recon_name="DELETE" recon_no="-1">Belebey</List>
-		<List recon_name="DELETE" recon_no="-1">Ianthasaurus_Holotype</List>
-		<List recon_name="DELETE" recon_no="-1">Ianthasaurus_ROM_29942</List>
-		<List recon_name="DELETE" recon_no="-1">Ianthasaurus_ROM_29941</List>
-		<List recon_name="DELETE" recon_no="-1">Ianthasaurus_ROM_29940</List>
-		<List recon_name="DELETE" recon_no="-1">Ianthasaurus_ROM_37751</List>
-		<List recon_name="DELETE" recon_no="-1">Ianthasaurus_ROM_59933</List>
-		<List recon_name="DELETE" recon_no="-1">Ianthsaurus_FO_284</List>
-		<List recon_name="DELETE" recon_no="-1">Badger_Creek</List>
-		<List recon_name="DELETE" recon_no="-1">SYN_Garnett</List>
-		<List recon_name="DELETE" recon_no="-1">SYN_pointed_teeth</List>
-		<List recon_name="DELETE" recon_no="-1">SYNOPSIS_Ianthasaurus</List>
-		<List recon_name="DELETE" recon_no="-1">NMMNH_P_dash_70796</List>
+		<List recon_name="Edaphosaurus_sp_SaP_344" recon_no="38911">SaP_344</List>
+		<List recon_name="Belebey_augustodunensis" recon_no="310820">Belebey</List>
+		<List recon_name="Ianthasaurus_hardestiorum" recon_no="138234">Ianthasaurus_Holotype</List>
+		<List recon_name="Ianthasaurus_hardestiorum" recon_no="138234">Ianthasaurus_ROM_29942</List>
+		<List recon_name="Ianthasaurus_hardestiorum" recon_no="138234">Ianthasaurus_ROM_29941</List>
+		<List recon_name="Ianthasaurus_hardestiorum" recon_no="138234">Ianthasaurus_ROM_29940</List>
+		<List recon_name="Ianthasaurus_hardestiorum" recon_no="138234">Ianthasaurus_ROM_37751</List>
+		<List recon_name="Ianthasaurus_hardestiorum" recon_no="138234">Ianthasaurus_ROM_59933</List>
+		<List recon_name="Ianthasaurus_hardestiorum" recon_no="138234">Ianthsaurus_FO_284</List>
+		<List recon_name="Edaphosauridae_indet_CM_47699" recon_no="38910">Badger_Creek</List>
+		<List recon_name="Ianthasaurus_hardestiorum" recon_no="138234">SYN_Garnett</List>
+		<List recon_name="Ianthasaurus_hardestiorum" recon_no="138234">SYN_pointed_teeth</List>
+		<List recon_name="Ianthasaurus_hardestiorum" recon_no="138234">SYNOPSIS_Ianthasaurus</List>
+		<List recon_name="Gordodon_kraineri" recon_no="409766">NMMNH_P_dash_70796</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

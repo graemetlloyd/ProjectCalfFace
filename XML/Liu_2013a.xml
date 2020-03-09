@@ -15,15 +15,15 @@
 		<Editor/>
 	</Source>
 	<Taxa number="14">
-		<List recon_name="Biarmosuchus" recon_no="38938">Biarmosuchus</List>
-		<List recon_name="Estemmenosuchus" recon_no="38965">Estemmenosuchus</List>
-		<List recon_name="Ulemosaurus" recon_no="139387">Ulemosaurus</List>
+		<List recon_name="Biarmosuchus_tener" recon_no="335875">Biarmosuchus</List>
+		<List recon_name="Estemmenosuchus_uralensis" recon_no="361883">Estemmenosuchus</List>
+		<List recon_name="Ulemosaurus_svijagensis" recon_no="139388">Ulemosaurus</List>
 		<List recon_name="Tapinocaninus_pamelae" recon_no="367365">Tapinocaninus</List>
 		<List recon_name="Archaeosyodon_praeventor" recon_no="358606">Archaeosyodon</List>
 		<List recon_name="Sinophoneus_yumenensis" recon_no="137801">Sinophoneus</List>
 		<List recon_name="Titanophoneus_adamanteus" recon_no="358627">Tadamanteus</List>
 		<List recon_name="Titanophoneus_potens" recon_no="139331">Tpotens</List>
-		<List recon_name="Anteosaurus" recon_no="38971">Anteosaurus</List>
+		<List recon_name="Anteosaurus_magnificus" recon_no="362285">Anteosaurus</List>
 		<List recon_name="Pampaphoneus_biccai" recon_no="356255">Pampaphoneus</List>
 		<List recon_name="Notosyodon_gusevi" recon_no="345409">Notosyodon</List>
 		<List recon_name="Syodon_biarmicum" recon_no="357010">Syodon</List>

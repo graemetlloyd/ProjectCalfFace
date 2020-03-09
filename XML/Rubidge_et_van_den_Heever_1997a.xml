@@ -20,7 +20,7 @@
 		<List recon_name="Anteosauridae" recon_no="38970">Anteosauridae</List>
 		<List recon_name="Estemmenosuchidae" recon_no="38964">Estemennosuch</List>
 		<List recon_name="Titanosuchidae" recon_no="38974">Titanosuchid</List>
-		<List recon_name="Styracocephalidae" recon_no="95335">Styracocephal</List>
+		<List recon_name="Styracocephalus_platyrhynchus" recon_no="367368">Styracocephal</List>
 		<List recon_name="Tapinocephalidae" recon_no="38978">Tapinocephal</List>
 	</Taxa>
 	<Characters>

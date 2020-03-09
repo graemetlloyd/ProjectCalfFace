@@ -17,15 +17,15 @@
 		<Editor/>
 	</Source>
 	<Taxa number="9">
-		<List recon_name="Varanopseidae" recon_no="38892">Varanopseidae</List>
-		<List recon_name="Ophiacodontidae" recon_no="38884">Ophiacodontidae</List>
-		<List recon_name="Edaphosauridae" recon_no="38910">Edaphosauridae</List>
-		<List recon_name="Haptodus" recon_no="38905">Haptodus</List>
-		<List recon_name="Sphenacodon" recon_no="38909">Sphenacodon</List>
-		<List recon_name="Ctenospondylus" recon_no="38903">Ctenopsondylus</List>
-		<List recon_name="Dimetrodon" recon_no="38904">Dimetrodon</List>
+		<List recon_name="Mycterosaurus_longiceps,Varanops_brevirostris,Aerosaurus_greenleeorum,Aerosaurus_wellesi,Varanodon_agilis" recon_no="122319;91795;122317;122318;120891">Varanopseidae</List>
+		<List recon_name="Archaeothyris_florensis,Ophiacodon_hilli,Ophiacodon_major,Ophiacodon_mirus,Ophiacodon_navajovicus,Ophiacodon_retroversus,Ophiacodon_uniformis,Varanosaurus_wichitaensis,Varanosaurus_acutirostris" recon_no="122328;122328;122335;122336;123418;122334;123420;123419;139019;137915">Ophiacodontidae</List>
+		<List recon_name="Edaphosaurus_novomexicanus,Ianthasaurus_hardestiorum" recon_no="122351;138234">Edaphosauridae</List>
+		<List recon_name="Haptodus_baylei,Haptodus_garnettensis" recon_no="122354;122358">Haptodus</List>
+		<List recon_name="Sphenacodon_ferox,Sphenacodon_britannicus,Sphenacodon_ferocior" recon_no="122487;147997;122488">Sphenacodon</List>
+		<List recon_name="Ctenospondylus_casei,Ctenospondylus_ninevehensis" recon_no="122592;122593">Ctenopsondylus</List>
+		<List recon_name="Dimetrodon_limbatus" recon_no="70401">Dimetrodon</List>
 		<List recon_name="Secodontosaurus_obtusidens" recon_no="346266">Secontosaurus</List>
-		<List recon_name="Therapsida" recon_no="145256">Therapsida</List>
+		<List recon_name="Titanophoneus_potens,Titanophoneus_adamanteus,Biarmosuchus_tener,Syodon_biarmicum,Venyukovia_prima" recon_no="139331;358627;335875;357010;361889">Therapsida</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

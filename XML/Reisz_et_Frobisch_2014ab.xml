@@ -30,7 +30,7 @@
 		<List recon_name="Ennatosaurus_tecton" recon_no="122314">Ennatosaurus_tecton</List>
 		<List recon_name="Archaeovenator_hamiltonensis" recon_no="138746">Hamiltonia</List>
 		<List recon_name="Oedaleops_campi" recon_no="122198">Oedaleops</List>
-		<List recon_name="Ophiacodon" recon_no="38888">Ophiacodon</List>
+		<List recon_name="Ophiacodon_hilli,Ophiacodon_major,Ophiacodon_mirus,Ophiacodon_navajovicus,Ophiacodon_retroversus,Ophiacodon_uniformis" recon_no="122335;122336;123418;122334;123420;123419" recon_no="38888">Ophiacodon</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

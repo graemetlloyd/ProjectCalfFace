@@ -15,15 +15,15 @@
 		<Editor/>
 	</Source>
 	<Taxa number="12">
-		<List recon_name="Eodicynodon" recon_no="39008">Eodicynodon</List>
-		<List recon_name="Robertia" recon_no="39072">Robertia</List>
+		<List recon_name="Eodicynodon_oosthuizeni,Eodicynodon_oelofseni" recon_no="164714;109360">Eodicynodon</List>
+		<List recon_name="Robertia_broomiana" recon_no="336113">Robertia</List>
 		<List recon_name="Diictodon_feliceps" recon_no="332332">Diictodon</List>
-		<List recon_name="Pristerodon" recon_no="39058">Pristerodon</List>
-		<List recon_name="Cistecephalus" recon_no="39069">Cistecephalus</List>
-		<List recon_name="Kingoria" recon_no="39077">Kingoria</List>
-		<List recon_name="Dicynodon" recon_no="39019">Dicynodon</List>
-		<List recon_name="Lystrosaurus" recon_no="39049">Lystrosaurus</List>
-		<List recon_name="Kannemeyeria" recon_no="39030">Kannemeyeria</List>
+		<List recon_name="Pristerodon_sp_SAM-PK-10161,Pristerodon_sp_SAM-PK-10141,Pristerodon_sp_SAM-PK-K09997" recon_no="39058;39058;39058">Pristerodon</List>
+		<List recon_name="Cistecephalus_microrhinus" recon_no="56851">Cistecephalus</List>
+		<List recon_name="Kingoria_galecephala,Kingoria_nowacki" recon_no="346522;337546">Kingoria</List>
+		<List recon_name="Dicynodon_sp_SAM-PK-K6580,Dicynodon_sp_SAM-PK-12002,Dicynodon_sp_SAM-PK-K00138,Dicynodon_sp_SAM-PK-K1687,Dicynodon_grandis,Dicynodon_trigonocephalus" recon_no="39019;39019;39019;39019;337588;339794">Dicynodon</List>
+		<List recon_name="Lystrosaurus_sp_SAM-PK-K1371,Lystrosaurus_sp_SAM-PK-K01415,Lystrosaurus_murrayi,Protosphyraena_sp_SAM-PK-K08083" recon_no="39049;39049;122595;35294">Lystrosaurus</List>
+		<List recon_name="Kannemeyeria_sp_SAM-PK-K04826,Kannemeyeria_sp_SAM-PK-11269,Kannemeyeria_sp_SAM-PK-2771" recon_no="39030;39030;39030">Kannemeyeria</List>
 		<List recon_name="Wadiasaurus_indicus" recon_no="177547">Wadiasaurus</List>
 		<List recon_name="Stahleckeria_potens" recon_no="100820">Stahleckeria</List>
 		<List recon_name="Placerias_hesternus" recon_no="155546">Placerias</List>

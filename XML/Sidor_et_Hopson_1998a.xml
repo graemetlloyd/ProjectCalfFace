@@ -16,10 +16,10 @@
 		<Editor/>
 	</Source>
 	<Taxa number="21">
-		<List recon_name="Archaeothyris_florensis,Ophiacodon_hilli,Ophiacodon_major,Ophiacodon_mirus,Ophiacodon_navajovicus,Ophiacodon_retroversus,Ophiacodon_uniformis,Varanosaurus_wichitaensis,Varanosaurus_acutirostris" recon_no="122328;122328;122335;122336;123418;122334;123420;123419;139019;137915">Ophiacodontidae</List>
+		<List recon_name="Archaeothyris_florensis,Ophiacodon_hilli,Ophiacodon_major,Ophiacodon_mirus,Ophiacodon_navajovicus,Ophiacodon_retroversus,Ophiacodon_uniformis,Varanosaurus_wichitaensis,Varanosaurus_acutirostris" recon_no="122328;122335;122336;123418;122334;123420;123419;139019;137915">Ophiacodontidae</List>
 		<List recon_name="Edaphosaurus_novomexicanus,Ianthasaurus_hardestiorum" recon_no="122351;138234">Edaphosauridae</List>
 		<List recon_name="Haptodus_baylei,Haptodus_garnettensis" recon_no="122354;122358">Haptodus</List>
-		<List recon_name="Sphenacodon_ferox,Sphenacodon_britannicus,Sphenacodon_ferocior,Secodontosaurus_obtusidens" recon_no="122487;147997;122488;138129">Sphenacodontidae</List>
+		<List recon_name="Sphenacodon_ferox,Sphenacodon_britannicus,Sphenacodon_ferocior,Secodontosaurus_obtusidens" recon_no="122487;147997;122488;346266">Sphenacodontidae</List>
 		<List recon_name="Biarmosuchia" recon_no="67361">Biarmosuchia</List>
 		<List recon_name="Eotitanosuchus" recon_no="38940">Eotitanosuchus</List>
 		<List recon_name="Anteosauridae" recon_no="38970">Anteosauridae</List>

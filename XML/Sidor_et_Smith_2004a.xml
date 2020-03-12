@@ -19,7 +19,7 @@
 		<List recon_name="Gorgonopsidae" recon_no="39107">Gorgonopsidae</List>
 		<List recon_name="Lycosuchus_vanderrieti" recon_no="56796">Lycosuchus</List>
 		<List recon_name="Dvinia_prima" recon_no="343342">Dvinia</List>
-		<List recon_name="Procynosuchus" recon_no="39172">Procynosuchus</List>
+		<List recon_name="Procynosuchus_delaharpeae" recon_no="323823">Procynosuchus</List>
 		<List recon_name="Cynosaurus_suppostus" recon_no="343365">Cynosaurus</List>
 		<List recon_name="Progalesaurus_lootbergensis" recon_no="171916">Progalesaurus</List>
 		<List recon_name="Galesaurus_planiceps" recon_no="56872">Galesaurus</List>
@@ -27,7 +27,7 @@
 		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">Thrinaxodon</List>
 		<List recon_name="Platycraniellus_elegans" recon_no="171919">Platycraniellus</List>
 		<List recon_name="Lumkuia_fuzzi" recon_no="95414">Lumkuia</List>
-		<List recon_name="Trirachodon" recon_no="39194">Trirachodon</List>
+		<List recon_name="Trirachodon_kannemeyeri" recon_no="56886">Trirachodon</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

@@ -19,18 +19,18 @@
 	</Source>
 	<Taxa number="13">
 		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">Thrinaxodon</List>
-		<List recon_name="Cynognathus" recon_no="39186">Cynognathus</List>
+		<List recon_name="Cynognathus_platyceps" recon_no="56880">Cynognathus</List>
 		<List recon_name="Lumkuia_fuzzi" recon_no="95414">Lumkuia</List>
 		<List recon_name="Ecteninion_lunensis" recon_no="67454">Ecteninion</List>
-		<List recon_name="Probelesodon" recon_no="39226">Probelesodon</List>
-		<List recon_name="Chiniquodon" recon_no="39222">Chiniquodon</List>
+		<List recon_name="Probelesodon_lewisi" recon_no="80892">Probelesodon</List>
+		<List recon_name="Chiniquodon_theotonicus" recon_no="100823">Chiniquodon</List>
 		<List recon_name="Probainognathus_jenseni" recon_no="80895">Probainognathus</List>
 		<List recon_name="Therioherpeton_cargnini" recon_no="95407">Therioherpeton</List>
 		<List recon_name="Riograndia_guaibensis" recon_no="178232">Riograndia</List>
 		<List recon_name="Pachygenelus_monus" recon_no="56650">Pachygenelus</List>
 		<List recon_name="Brasilitherium_riograndensis" recon_no="174540">Brasilitherium</List>
 		<List recon_name="Brasilodon_quadrangularis" recon_no="174538">Brasilodon</List>
-		<List recon_name="Morganucodon" recon_no="39753">Morganucodon</List>
+		<List recon_name="Morganucodon_oehleri,Morganucodon_watsoni" recon_no="203398;203396">Morganucodon</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

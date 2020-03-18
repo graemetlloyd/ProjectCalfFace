@@ -20,29 +20,29 @@
 	</Source>
 	<Taxa number="24">
 		<List recon_name="Patranomodon_nyaphulii" recon_no="109359">Patranomodon</List>
-		<List recon_name="Aulacephalodon" recon_no="39016">Aulacephalodon</List>
-		<List recon_name="Cistecephalus" recon_no="39069">Cistecephalus</List>
+		<List recon_name="Aulacephalodon_bainii" recon_no="333234">Aulacephalodon</List>
+		<List recon_name="Cistecephalus_microrhinus" recon_no="56851">Cistecephalus</List>
 		<List recon_name="Daptocephalus_leoniceps" recon_no="297477">Daptocephalus</List>
-		<List recon_name="Dicynodon" recon_no="39019">Dicynodon</List>
+		<List recon_name="Dicynodon_lacerticeps" recon_no="91716">Dicynodon</List>
 		<List recon_name="Diictodon_feliceps" recon_no="332332">Diictodon</List>
 		<List recon_name="Dinanomodon_gilli" recon_no="332235">Dinanomodon</List>
-		<List recon_name="Dolichuranus" recon_no="39027">Dolichuranus</List>
-		<List recon_name="Endothiodon" recon_no="39012">Endothiodon</List>
-		<List recon_name="Eodicynodon" recon_no="39008">Eodicynodon</List>
+		<List recon_name="Dolichuranus_primaevus" recon_no="172547">Dolichuranus</List>
+		<List recon_name="Endothiodon_bathystoma" recon_no="56838">Endothiodon</List>
+		<List recon_name="Eodicynodon_oosthuizeni" recon_no="164714">Eodicynodon</List>
 		<List recon_name="Ischigualastia_jenseni" recon_no="54412">Ischigualastia</List>
-		<List recon_name="Kannemeyeria" recon_no="39030">Kannemeyeria</List>
-		<List recon_name="Kingoria" recon_no="39077">Kingoria</List>
-		<List recon_name="Lystrosaurus" recon_no="39049">Lystrosaurus</List>
+		<List recon_name="Kannemeyeria_simocephala" recon_no="337836">Kannemeyeria</List>
+		<List recon_name="Dicynodontoides_recurvidens,Dicynodontoides_nowacki,Kingoria_duvenhagei,Kingoria_howardi,Kingoria_gracilis" recon_no="337545;337547;337553;337672;337551">Kingoria</List>
+		<List recon_name="Lystrosaurus_maccaigi,Lystrosaurus_declivis,Lystrosaurus_murrayi,Lystrosaurus_curvatus,Lystrosaurus_georgi" recon_no="122672;140319;122595;139951;122702">Lystrosaurus</List>
 		<List recon_name="Myosaurus_gracilis" recon_no="178200">Myosaurus</List>
-		<List recon_name="Oudenodon" recon_no="39052">Oudenodon</List>
+		<List recon_name="Oudenodon_bainii" recon_no="91713">Oudenodon</List>
 		<List recon_name="Pelanomodon_moschops" recon_no="338976">Pelanomodon</List>
-		<List recon_name="Pristerodon" recon_no="39058">Pristerodon</List>
-		<List recon_name="Rhachiocephalus" recon_no="39053">Rhachiocephalus</List>
-		<List recon_name="Robertia" recon_no="39072">Robertia</List>
+		<List recon_name="Pristerodon_mackayi" recon_no="56843">Pristerodon</List>
+		<List recon_name="Rhachiocephalus_magnus,Rhachiocephalus_behemoth,Rhachiocephalus_usiliensis,Rhachiocephalus_sp_SAM_PK_K01393,Pelanomodon_wesselsi,Dicynodon_scheepersi,Megacyclops_whaitsi,Platycyclops_haughtoni,Rhachiocephalus_sp_USNM_410287,Rhachiocephalus_sp_UMZC_T1283" recon_no="338940;345574;345356;39053;345360;339706;345241;342569;39053;39053">Rhachiocephalus</List>
+		<List recon_name="Robertia_broomiana" recon_no="336113">Robertia</List>
 		<List recon_name="Shansiodon_wangi,Shansiodon_wuhsiangensis" recon_no="266006;266008">Shansiodon</List>
 		<List recon_name="Stahleckeria_potens" recon_no="100820">Stahleckeria</List>
 		<List recon_name="Tetragonias_njalilus" recon_no="339031">Tetragonias</List>
-		<List recon_name="Vinceria" recon_no="39045">Vinceria</List>
+		<List recon_name="Vinceria_andina,Vinceria_argentinensis" recon_no="66675;177559">Vinceria</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

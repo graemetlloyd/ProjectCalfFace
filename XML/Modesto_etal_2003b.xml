@@ -18,16 +18,16 @@
 		<Editor/>
 	</Source>
 	<Taxa number="11">
-		<List recon_name="Titanophoneus" recon_no="38960">Titanophoneus</List>
+		<List recon_name="Titanophoneus_potens" recon_no="139331">Titanophoneus</List>
 		<List recon_name="Patranomodon_nyaphulii" recon_no="109359">Patranomodon</List>
 		<List recon_name="Galeops_whaitsi" recon_no="367358">Galeops</List>
 		<List recon_name="Eodicynodon_oelofseni" recon_no="109360">Eodicynodon_oelofseni</List>
 		<List recon_name="Eodicynodon_oosthuizeni" recon_no="164714">Eodicynodon_ooshuizeni</List>
 		<List recon_name="Diictodon_feliceps" recon_no="332332">Diictodon</List>
-		<List recon_name="Robertia" recon_no="39072">Robertia</List>
+		<List recon_name="Robertia_broomiana" recon_no="336113">Robertia</List>
 		<List recon_name="Brachyprosopus_broomi" recon_no="295501">Chelydontops</List>
-		<List recon_name="Pristerodon" recon_no="39058">Pristerodon</List>
-		<List recon_name="Emydops" recon_no="39063">Emydops</List>
+		<List recon_name="Pristerodon_sp_BP_slash_1_slash_2390,Pristerodon_sp_BP_slash_1_slash_2412,Pristerodon_sp_BP_slash_1_slash_2642,Pristerodon_sp_SAM_PK_dash_K1658,Pristerodon_sp_SAM_PK10153" recon_no="39058;39058;39058;39058;39058">Pristerodon</List>
+		<List recon_name="Emydops_sp_BP_slash_1_slash_2366,Emydops_sp_SAM_PK3721,Emydops_sp_SAM_PK10148,Emydops_sp_SAM_PK11060" recon_no="39063;39063;39063;39063">Emydops</List>
 		<List recon_name="Colobodectes_cluveri" recon_no="229052">Colobdectes</List>
 	</Taxa>
 	<Characters>

@@ -19,22 +19,22 @@
 	<Taxa number="21">
 		<List recon_name="Cyonosaurus" recon_no="39114">Cyonosaurus</List>
 		<List recon_name="Lycosuchus_vanderrieti" recon_no="56796">Lycosuchus</List>
-		<List recon_name="Bauria" recon_no="39167">Bauria</List>
-		<List recon_name="Procynosuchus" recon_no="39172">Procynosuchus</List>
+		<List recon_name="Bauria_cynops" recon_no="174511">Bauria</List>
+		<List recon_name="Procynosuchus_delaharpeae" recon_no="323823">Procynosuchus</List>
 		<List recon_name="Galesaurus_planiceps" recon_no="56872">Galesaurus</List>
 		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">Thrinaxodon</List>
-		<List recon_name="Cynognathus" recon_no="39186">Cynognathus</List>
-		<List recon_name="Diademodon" recon_no="39189">Diademodon</List>
-		<List recon_name="Massetognathus" recon_no="39203">Massetognathus</List>
-		<List recon_name="Exaeretodon" recon_no="39200">Exaeretodon</List>
-		<List recon_name="Chiniquodon" recon_no="39222">Chiniquodon</List>
+		<List recon_name="Cynognathus_minor" recon_no="177560">Cynognathus</List>
+		<List recon_name="Diademodon_tetragonus" recon_no="171986">Diademodon</List>
+		<List recon_name="Massetognathus_pascuali,Massetognathus_ochagaviae" recon_no="80893;117947">Massetognathus</List>
+		<List recon_name="Exaeretodon_frenguellii,Exaeretodon_riograndensis" recon_no="117949;333700">Exaeretodon</List>
+		<List recon_name="Chiniquodon_theotonicus,Chiniquodon_sanjuanensis" recon_no="100823;177696">Chiniquodon</List>
 		<List recon_name="Lumkuia_fuzzi" recon_no="95414">Lumkuia</List>
 		<List recon_name="Ecteninion_lunensis" recon_no="67454">Ecteninion</List>
 		<List recon_name="Probainognathus_jenseni" recon_no="80895">Probainognathus</List>
 		<List recon_name="Pachygenelus_monus" recon_no="56650">Pachygenelus</List>
 		<List recon_name="Brasilodon_quadrangularis" recon_no="174538">Brasilodon</List>
 		<List recon_name="Brasilitherium_riograndensis" recon_no="174540">Brasilitherium</List>
-		<List recon_name="Oligokyphus" recon_no="39215">Oligokyphus</List>
+		<List recon_name="Oligokyphus_major,Oligokyphus_minor" recon_no="252539;252543">Oligokyphus</List>
 		<List recon_name="Kayentatherium_wellesi" recon_no="175105">Kayentatherium</List>
 		<List recon_name="Morganucodon" recon_no="39753">Morganucodon</List>
 		<List recon_name="Trucidocynodon_riograndensis" recon_no="171976">Trucidocynodon</List>

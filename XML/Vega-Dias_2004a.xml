@@ -17,18 +17,18 @@
 		<Editor/>
 	</Source>
 	<Taxa number="14">
-		<List recon_name="Dicynodon" recon_no="39019">Dicynodon</List>
-		<List recon_name="Lystrosaurus" recon_no="39049">Lystrosaurus</List>
+		<List recon_name="Dicynodon_trigonocephalus" recon_no="339794">Dicynodon</List>
+		<List recon_name="Lystrosaurus_declivis,Lystrosaurus_murrayi,Lystrosaurus_maccaigi,Lystrosaurus_platyceps,Lystrosaurus_oviceps,Lystrosaurus_curvatus" recon_no="140319;122595;122672;122675;122677;56864">Lystrosaurus</List>
 		<List recon_name="Shansiodon_wangi,Shansiodon_wuhsiangensis" recon_no="266006;266008">Shansiodon</List>
 		<List recon_name="Tetragonias_njalilus" recon_no="339031">Tetragonias</List>
-		<List recon_name="Kannemeyeria" recon_no="39030">Kannemeyeria</List>
+		<List recon_name="Kannemeyeria_vjuschkovi,Kannemeyeria_simocephala,Kannemeyeria_wilsoni" recon_no="170520;337836;323814">Kannemeyeria</List>
 		<List recon_name="Wadiasaurus_indicus" recon_no="177547">Wadiasaurus</List>
-		<List recon_name="Parakannemeyeria" recon_no="39032">Parakannemeyeria</List>
-		<List recon_name="Sinokannemeyeria" recon_no="39033">Sinokannemeyeria</List>
+		<List recon_name="Parakannemeyeria_dolichocephala,Parakannemeyeria_ningwuensis,Parakannemeyeria_youngi" recon_no="265984;265998;265996">Parakannemeyeria</List>
+		<List recon_name="Sinokannemeyeria_pearsoni,Sinokannemeyeria_yingchiaoensis" recon_no="100301;266005">Sinokannemeyeria</List>
 		<List recon_name="Angonisaurus_cruickshanki" recon_no="178256">Angonisaurus</List>
 		<List recon_name="Stahleckeria_potens" recon_no="100820">Stahleckeria</List>
 		<List recon_name="Ischigualastia_jenseni" recon_no="54412">Ischigualastia</List>
-		<List recon_name="Jachaleria" recon_no="178102">Jachaleria</List>
+		<List recon_name="Jachaleria_candelariensis" recon_no="178424">Jachaleria</List>
 		<List recon_name="Dinodontosaurus_pedroanum" recon_no="178082">Dinodontosaurs</List>
 		<List recon_name="Placerias_hesternus" recon_no="155546">Placerias</List>
 	</Taxa>

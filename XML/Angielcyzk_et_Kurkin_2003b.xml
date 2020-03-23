@@ -40,8 +40,8 @@
 		<List recon_name="Interpresosaurus_blomi" recon_no="201003">Interpresosaurus</List>
 		<List recon_name="Elph_borealis" recon_no="159717">Elph</List>
 		<List recon_name="Dicynodon_trautscholdi" recon_no="298051">Dicynodon_trautscholdi</List>
-		<List recon_name="Delectosaurus" recon_no="200989">Delectosaurus</List>
-		<List recon_name="Vivaxosaurus" recon_no="202551">Vivaxosaurus</List>
+		<List recon_name="Delectosaurus_berezhanensis,Delectosaurus_arefjevi" recon_no="200991;200990">Delectosaurus</List>
+		<List recon_name="Vivaxosaurus_permirus" recon_no="202552">Vivaxosaurus</List>
 		<List recon_name="Dicynodon_amalitzkii" recon_no="296874">Dicynodon_amalitzkii</List>
 		<List recon_name="Australobarbarus_kotelnitshi,Australobarbarus_platycephalus" recon_no="202548;202546">Australobarbarus</List>
 	</Taxa>

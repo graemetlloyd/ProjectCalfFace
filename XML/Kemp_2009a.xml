@@ -15,20 +15,20 @@
 		<Editor/>
 	</Source>
 	<Taxa number="21">
-		<List recon_name="Aulacephalodon" recon_no="39016">Aulacephalodon</List>
+		<List recon_name="Aulacephalodon_bainii" recon_no="333234">Aulacephalodon</List>
 		<List recon_name="Dicynodon_lacerticeps" recon_no="91716">Dicynodon</List>
-		<List recon_name="Vivaxosaurus" recon_no="202551">Vivaxosaurus</List>
+		<List recon_name="Vivaxosaurus_permirus" recon_no="202552">Vivaxosaurus</List>
 		<List recon_name="Lystrosaurus_curvatus" recon_no="139951">Lystrosaurus</List>
 		<List recon_name="Shansiodon_wangi,Shansiodon_wuhsiangensis" recon_no="266006;266008">Shansiodon</List>
 		<List recon_name="Tetragonias_njalilus" recon_no="339031">Tetragonias</List>
 		<List recon_name="Kannemeyeria_argentinensis" recon_no="177555">Kannemeyeria_argentinensis</List>
 		<List recon_name="Wadiasaurus_indicus" recon_no="177547">Wadiasaurus</List>
-		<List recon_name="Kannemeyeria" recon_no="39030">Kannemeyeria</List>
+		<List recon_name="Kannemeyeria_lophorhinus" recon_no="172541">Kannemeyeria</List>
 		<List recon_name="Dolichuranus_primaevus" recon_no="172547">Dolichuranus</List>
 		<List recon_name="Dolichuranus_primaevus" recon_no="172547">Dolichuranus_cranial_only</List>
-		<List recon_name="DELETE" recon_no="-1">Morphotype_B</List>
-		<List recon_name="DELETE" recon_no="-1">Parakannemeyeria</List>
-		<List recon_name="DELETE" recon_no="-1">Sinokannemeyeria</List>
+		<List recon_name="Kannemeyeria_sp_SAM_PK_1073,Kannemeyeria_sp_BP_dash_1_dash_3518,Kannemeyeria_sp_BP_dash_1_dash_994,Kannemeyeria_sp_BP_dash_1_dash_1669,Kannemeyeria_sp_SAM_PK_11262" recon_no="39030;39030;39030;39030;39030">Morphotype_B</List>
+		<List recon_name="Parakannemeyeria_dolichocephala,Parakannemeyeria_ningwuensis,Parakannemeyeria_youngi" recon_no="265984;265998;265996">Parakannemeyeria</List>
+		<List recon_name=" Sinokannemeyeria_pearsoni,Sinokannemeyeria_yingchiaoensis" recon_no="100301;266005">Sinokannemeyeria</List>
 		<List recon_name="Dinodontosaurus_pedroanum" recon_no="178082">Dinodontosaurus</List>
 		<List recon_name="Placerias_hesternus" recon_no="155546">Placerias</List>
 		<List recon_name="Angonisaurus_cruickshanki" recon_no="178256">Angonisaurus</List>

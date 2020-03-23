@@ -119,9 +119,9 @@
 		<List recon_name="Compsodon_helmoedi" recon_no="346691">Compsodon_helmoedi</List>
 		<List recon_name="Pentasaurus_goggai" recon_no="367243">Pentasaurus_goggai</List>
 		<List recon_name="Thliptosaurus_imperforatus" recon_no="385251">Thliptosaurus_imperforatus</List>
-		<List recon_name="DELETE" recon_no="-1">Ufudocyclops_mukanelai</List>
-		<List recon_name="DELETE" recon_no="-1">Dicynodon_angielczyki</List>
-		<List recon_name="DELETE" recon_no="-1">Daptocephalus_huenei</List>
+		<List recon_name="Ufudocyclops_mukanelai" recon_no="412191">Ufudocyclops_mukanelai</List>
+		<List recon_name="Dicynodon_angielczyki" recon_no="412192">Dicynodon_angielczyki</List>
+		<List recon_name="Daptocephalus_huenei" recon_no="412201">Daptocephalus_huenei</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

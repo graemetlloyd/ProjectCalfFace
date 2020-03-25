@@ -21,10 +21,10 @@
 		<List recon_name="Eothyris_parkeyi" recon_no="122195">Eothyris</List>
 		<List recon_name="Mycterosaurus_longiceps" recon_no="122319">Mycterosaurus</List>
 		<List recon_name="Ophiacodontidae" recon_no="38884">Ophiacodontidae</List>
-		<List recon_name="Haptodus" recon_no="38905">Haptodus</List>
+		<List recon_name="Haptodus_garnettensis" recon_no="122358">Haptodus</List>
 		<List recon_name="Glaucosaurus_megalops" recon_no="123517">Glaucosaurus</List>
 		<List recon_name="Ianthasaurus_hardestiorum" recon_no="138234">Ianthasaurus</List>
-		<List recon_name="Edaphosaurus" recon_no="38911">Edaphosaurus</List>
+		<List recon_name="Edaphosaurus_novomexicanus" recon_no="122351">Edaphosaurus</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

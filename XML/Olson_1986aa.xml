@@ -20,22 +20,22 @@
 		</Editor>
 	</Source>
 	<Taxa number="16">
-		<List recon_name="DELETE" recon_no="-1">Haptodus</List>
-		<List recon_name="DELETE" recon_no="-1">Dimetrodon</List>
-		<List recon_name="DELETE" recon_no="-1">Edaphosaurus</List>
+		<List recon_name="Haptodus_longicaudatus,Haptodus_saxonicus" recon_no="138243;138247">Haptodus</List>
+		<List recon_name="Dimetrodon_limbatus" recon_no="344229">Dimetrodon</List>
+		<List recon_name="Edaphosaurus_boanerges,Edaphosaurus_mirabilis,Edaphosaurus_raymondi" recon_no="122352;346038;346039">Edaphosaurus</List>
 		<List recon_name="Phthinosuchus_discors" recon_no="358573">Phthinosuchus</List>
 		<List recon_name="Phthinosaurus_borissiaki" recon_no="361720">Phthinosaurus</List>
 		<List recon_name="DELETE" recon_no="-1">Eotitanops</List>
 		<List recon_name="Gorgodon_minutus" recon_no="142568">Gorgodon</List>
-		<List recon_name="DELETE" recon_no="-1">Biarmosuchus</List>
+		<List recon_name="Biarmosuchus_tener" recon_no="335875">Biarmosuchus</List>
 		<List recon_name="Archaeosyodon_praeventor" recon_no="358606">Archaeosyodon</List>
-		<List recon_name="DELETE" recon_no="-1">Eosyodon</List>
-		<List recon_name="DELETE" recon_no="-1">Estemmenosuchus</List>
+		<List recon_name="Eosyodon_hudsoni" recon_no="150424">Eosyodon</List>
+		<List recon_name="Estemmenosuchus_uralensis" recon_no="361883">Estemmeno361883suchus</List>
 		<List recon_name="Dimacrodon_hottoni" recon_no="137165">Dimacrodon</List>
 		<List recon_name="Otsheria_netzvetajevi" recon_no="361890">Otsheria</List>
-		<List recon_name="DELETE" recon_no="-1">Gorgonopsian</List>
-		<List recon_name="DELETE" recon_no="-1">Brithopodan</List>
-		<List recon_name="DELETE" recon_no="-1">Dicynodont</List>
+		<List recon_name="Watongia_meieri" recon_no="141909">Gorgonopsian</List>
+		<List recon_name="Archaeosyodon_praeventor" recon_no="358606">Brithopodan</List>
+		<List recon_name="Placerias_hesternus" recon_no="155546">Dicynodont</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

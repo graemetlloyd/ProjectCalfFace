@@ -22,11 +22,11 @@
 	<Taxa number="7">
 		<List recon_name="DELETE" recon_no="-1">Eotherapsids</List>
 		<List recon_name="DELETE" recon_no="-1">Eutherapsids</List>
-		<List recon_name="DELETE" recon_no="-1">Dinocephalians</List>
-		<List recon_name="DELETE" recon_no="-1">Dicynodonts</List>
-		<List recon_name="DELETE" recon_no="-1">Gorgonopsians</List>
-		<List recon_name="DELETE" recon_no="-1">Therocephalians</List>
-		<List recon_name="DELETE" recon_no="-1">Cynodonts</List>
+		<List recon_name="Dinocephalia" recon_no="38949">Dinocephalians</List>
+		<List recon_name="Placerias_hesternus" recon_no="155546">Dicynodonts</List>
+		<List recon_name="Watongia_meieri" recon_no="141909">Gorgonopsians</List>
+		<List recon_name="Therocephalia" recon_no="39130">Therocephalians</List>
+		<List recon_name="Cynodontia" recon_no="39168">Cynodonts</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

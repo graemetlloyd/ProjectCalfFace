@@ -16,24 +16,24 @@
 		<Editor/>
 	</Source>
 	<Taxa number="19">
-		<List recon_name="Eodicynodon" recon_no="39008">Eodicynodon</List>
-		<List recon_name="Emydops" recon_no="39063">Emydops</List>
-		<List recon_name="Robertia" recon_no="39072">Robertia</List>
-		<List recon_name="Pristerodon" recon_no="39058">Pristerodon</List>
+		<List recon_name="Eodicynodon_oosthuizeni" recon_no="164714">Eodicynodon</List>
+		<List recon_name="Emydops_oweni,Emydops_platyceps,Emydops_longus,Emydops_parvus,Emydops_arctatus,Emydops_minor,Emydops_minimus" recon_no="196018;201034;200132;198434;197858;56854;200879">Emydops</List>
+		<List recon_name="Robertia_broomiana" recon_no="336113">Robertia</List>
+		<List recon_name="Pristerodon_sp_SAM_dash_PK_dash_006560,Pristerodon_sp_SAM_dash_PK_dash_010153,Pristerodon_sp_SAM_dash_PK_dash_K01658" recon_no="39058;39058;39058">Pristerodon</List>
 		<List recon_name="Diictodon_feliceps" recon_no="332332">Diictodon</List>
-		<List recon_name="Kingoria" recon_no="39077">Kingoria</List>
-		<List recon_name="Dicynodon" recon_no="39019">Dicynodon</List>
-		<List recon_name="Aulacocephalodon" recon_no="323815">Aulacocephalodon</List>
-		<List recon_name="Lystrosaurus" recon_no="39049">Lystrosaurus</List>
-		<List recon_name="Kannemeyeria" recon_no="39030">Kannemeyeria</List>
+		<List recon_name="Kingoria_nowacki" recon_no="337546">Kingoria</List>
+		<List recon_name="Dicynodon_leoniceps,Dicynodon_sp_PIN_4415_dash_1,Dicynodon_sp_SAM_dash_PK_dash_K07482,Dicynodon_sp_SAM_dash_PK_dash_K07011" recon_no="56867;39019;39019;39019">Dicynodon</List>
+		<List recon_name="Aulacocephalodon_sp_SAM_dash_PK_dash_K06064" recon_no="323815">Aulacocephalodon</List>
+		<List recon_name="Lystrosaurus_sp_CAMZM_T758,Lystrosaurus_curvatus" recon_no="39049;139951">Lystrosaurus</List>
+		<List recon_name="Kannemeyeria_simocephalus" recon_no="337835">Kannemeyeria</List>
 		<List recon_name="Rechnisaurus_cristarhynchus" recon_no="177546">Rechnisaurus</List>
 		<List recon_name="Stahleckeria_potens" recon_no="100820">Stahleckeria</List>
-		<List recon_name="Rhadiodromus" recon_no="39036">Rhadiodromus</List>
+		<List recon_name="Rhadiodromus_sp_PIN_1579_dash_14" recon_no="39036">Rhadiodromus</List>
 		<List recon_name="Angonisaurus_cruickshanki" recon_no="178256">Angonisaurus</List>
 		<List recon_name="Shansiodon_wangi,Shansiodon_wuhsiangensis" recon_no="266006;266008">Shansiodon</List>
 		<List recon_name="Tetragonias_njalilus" recon_no="339031">Tetragonias</List>
 		<List recon_name="Placerias_hesternus" recon_no="155546">Placerias</List>
-		<List recon_name="Sangusaurus" recon_no="39038">Sangusaurus</List>
+		<List recon_name="Sangusaurus_parringtonii" recon_no="377471">Sangusaurus</List>
 		<List recon_name="Uralokannemeyeria_vjuschkovi" recon_no="170519">Uralokannemeyeria</List>
 	</Taxa>
 	<Characters>

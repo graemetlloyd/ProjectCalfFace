@@ -28,6 +28,7 @@ WriteMorphNexus(Synapsida$FullMRPMatrix, paste(MetatreeDirectory, "/SynapsidaFUL
 WriteMorphNexus(Synapsida$STRMRPMatrix, paste(MetatreeDirectory, "/SynapsidaSTR.nex", sep = ""))
 WriteMorphTNT(Synapsida$FullMRPMatrix, paste(MetatreeDirectory, "/SynapsidaFULL.tnt", sep = ""))
 WriteMorphTNT(Synapsida$STRMRPMatrix, paste(MetatreeDirectory, "/SynapsidaSTR.tnt", sep = ""))
+write.table(Synapsida$SafelyRemovedTaxa, "~/Documents/Publications/in prep/Synapsid metatree - Spencer/ProjectCalfFace/Metatree/STR.txt", row.names = FALSE)
 
 # Add analysis block to STR TNT:
 STRTNT <- readLines(paste(MetatreeDirectory, "/SynapsidaSTR.tnt", sep = ""))

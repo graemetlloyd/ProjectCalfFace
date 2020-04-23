@@ -11,7 +11,7 @@ Aleodon_spp,Anisian,247.2,Carnian,227,combination of ranges in Braocklehurst (20
 Aleodon_brachyrhamphus,Late Anisian,247.2,Early Ladinian,237,Braocklehurst 2015 phd thesis,
 Aleodon_cromptoni,Ladinian,242,Early Carnian,227,Martinelli et al. 2017,
 Alierasaurus_ronchii, late early Permian,283.5,early middle Permian,268.8,"Romano, Marco, and Umberto Nicosia. ""Alierasaurus ronchii, gen. et sp. nov., a caseid from the Permian of Sardinia, Italy."" Journal of Vertebrate Paleontology 34.4 (2014): 900-913.; I took dates from Kungurian to Roadian",
-“Aloposaurus” (GPIT/RE/7124) ,,254,,254,radiometric date,
+Aloposaurus_sp_GPIT_RE_7124 ,,254,,254,radiometric date,
 Alopecodon_priscus,Capitanian,265.1,Capitanian,259.1,Huttenlocker and Smith (2017),
 Andescynodon_mendozensis,Anisian,247.2,Anisian,242,,
 Angelosaurus_romeri,Roadian,272.95,Roadian,268.8,,
@@ -60,8 +60,8 @@ Bolotridon_frerensis,Late Olenekian,251.2,Anisian,242,Brocklehurst pdh thesis,
 Bonacynodon_schultzi,Ladinian,242,Carnian,227,"Martinelli et al. (2017, papers in palaeo)",
 Boreogomphodon_jeffersoni,Carnian,237,Carnian,227,,
 Botucaraitherium_belarminoi,Norian,227,Norian,208.5,"Martinelli et al. (2017, papers in palaeo)",
-BP/1/7098,Capitanian,265.1,Capitanian,259.1,Day et al. (2018; Paleobiology),
-BP/1/155 ,,255,,255,radiometric date,
+BP_1_7098,Capitanian,265.1,Capitanian,259.1,Day et al. (2018; Paleobiology),
+BP_1_155 ,,255,,255,radiometric date,
 Brachyprosopus_broomi,Capitanian,265.1,Capitanian,259.1,Day et al. (2018; Paleobiology),
 Brasilitherium_riograndensis,Norian,227,Norian,208.5,,
 Brasilodon_spp,Norian,227,Norian,208.5,"Martinelli et al. (2017, papers in palaeo)",
@@ -82,8 +82,7 @@ Cerdosuchoides_brevidens,Wuchiapingian,259.1,Changhsingian,251.902,Huttenlocker 
 Chaliminia_musteloides,Norian,227,Norian,208.5,Martinelli and Rougier (2007),
 Charassognathus_gracilis,Wuchiapingian,259.1,Wuchiapingian,254.14,,
 Chiniquodon_spp,Anisian,247.2,Carnian,227,,
-Chiniquodon_sanjuanensis,,231.7,,225,"Abdala, F.; Giannini, N. P. (2002). ""Chiniquodontid cynodonts: systematic and morphometric considerations"". Palaeontology. 45 (6): 1151–1170. doi:10.1111/1475-4983.00280; Cancha de Bochas Member of the Ischigualasto Formation, Ischigualasto-Villa Unión Basin; Wallace, Rachel Veronica Simon. 2018. A new close mammal relative and the origin and evolution of the mammalian central nervous system (PhD thesis)
-, 1–224. The University of Texas at Austin. Accessed 2019-03-29. northwestern Argentina; earliest Carnian",
+Chiniquodon_sanjuanensis,,231.7,,225,,
 Chiniquodon_theotonicus,,235,,205.6,fossil works,
 Choerosaurus_dejageri,Wuchiapingian,256.5,Wuchiapingian,256.5,radiometric date,
 Chthonosaurus_velocidens,Wuchiapingian,259.1,Changhsingian,251.902,Huttenlocker and Smith (2017),
@@ -157,7 +156,7 @@ Dinodontosaurus_pedroanum,Ladinian,242,early Carnian,227,Brocklehurst pdh thesis
 Dinogorgon_rubidgei,Wuchiapingian,259.1,Changhsingian,251.902,Kammerer (2016 rubidgeine paper); range reflects uncertainty surrounding exact stratigraphic placement of specimens,
 Dinosaurus_murchisoni,,268,,265,fossil works,
 Dolichuranus_primaevus,Anisian,247.2,Anisian,242,"Omingonde Formation; Damiani, R., Vasconcelos, C., Renaut, A., Hancox, J. and Yates, A. 2007. Dolichuranus primaevus (Therapsida: Anomodontia) from the Middle Triassic of Namibia and its phylogenetic relationships. Palaeontology",
-Dixeya (GPIT/RE/7119) ,,254,,254,radiomatric date,
+Dixeya_sp_GPIT_RE_7119 ,,254,,254,radiomatric date,
 Dryolestes,,151,,151,radiometric date,
 Dvinia_prima,Wuchiapingian,259.1,Changhsingian,251.902,modified so all taxa from this locality are consistent,
 Echinerpetodon_intermedium,Moscovian,315.2,Moscovian,307,PBDB,
@@ -525,63 +524,3 @@ Yuanotherium_spp,Oxfordian,163.5,Oxfordian,157.3,Gaetano et al. (2017),
 Yuanotherium_minor,Oxfordian,163.5,Oxfordian,157.3,Gaetano et al. (2017),
 Yunannodon_brevirostre,Sinemurian,199.3,Pliensbachian,182.7,Gaetano et al. (2017),
 Zambiasaurus_submersus,Anisian,247.2,Ladinian,237,Frobisch (2008),
-,,,,,,
-Common ancestor of Diadectes and Amniota,,,,,,324.5
-Synapsida + Sauropsida,,,,,,320
-Caseasauria + Eupelycosauria,,,,,,313.6
-Varanosaurus + Sphenacomorpha,,,,,,307.65
-Sphenacodontidae + Therapsida,,,,,,305.35
-Biarmosuchia + Eutherapsida,,,,,,271
-Hipposaurus + (Burnetiamorpha): ,,,,,,268.5
-Herpetoskylax + Burnetiamorpha,,,,,,265
-Lemurosaurus + Leucocephalus,,,,,,260
-Dinocephalia + Neotherapsida,,,,,,270
-Anomodontia + Theriodontia,,,,,,268.5
-Patranomodon + Dicynodontia,,,,,,267.5
-Common ancestor of Eodicynodon and Lystrosaurus,,,,,,266.5
-Common ancestor of Diictodon and Lystrosaurus,,,,,,264
-Common ancestor of Pristerodon and Lystrosaurus,,,,,,263
-Endothiodontia + Therochelonia,,,,,,262.5
-Endothiodontia,,,,,,262
-Abajudon +Endothiodon,,,,,,261.5
-Endothiodon tolani + Endothiodon bathystoma,,,,,,261
-Emydopoidea + Bidentalia,,,,,,262
-Dicynodontoides + Cistecephalidae,,,,,,259
-Kawingasaurus + Kembawacela,,,,,,256
-Common ancestor of Oudenodon and Lystrosaurus,,,,,,258
-Common ancestor of Aulacephalodon and Lystrosaurus,,,,,,257.5
-Common ancestor of Lystrosaurus and Sangusaurus,,,,,,255
-Lystrosaurus declivis + Lystrosauruus murrayi,,,,,,253
-Gorgonopsia + Eutheriodontia,,,,,,265.5
-'Aloposaurus' + Scylacocephalus + Lycaenops + Dixeya + BP/1/155,,,,,,262
-Therocephalia + Cynodontia,,,,,,265
-Akidnognathidae + Baurioidea,,,,,,260.26
-Olivierosuchus + Euchambersia,,,,,,257
-Common ancestor of Ictidosuchoides and Microgomphodon,,,,,,259.5
-Common ancestor of Mupashi and Microgomphodon,,,,,,259
-Common ancestor of Choerosaurus and Microgomphodon,,,,,,258
-Common ancestor of Procynosuchus and mammals,,,,,,259
-Epicynodontia,,,,,,258
-Common ancestor of Galesaurus and mammals,,,,,,257
-Common ancestor of Thrinaxodon and mammals,,,,,,256
-Eucynodontia,,,,,,253.48
-Common ancestor of Trirachodontidae and Massetognathus,,,,,,249.34
-Common ancestor of Trirachodon and Cricodon,,,,,,247.5
-Common ancestor of Scalenodon and Massetognathus,,,,,,239
-Common ancestor of Luangwa and Massetognathus,,,,,,238
-Common ancestor of Lumkuia and mammals,,,,,,244
-Common ancestor of Chiniquodon and mammals,,,,,,238
-Common ancestor of Riograndia and mammals,,,,,,234
-Common ancestor of Tritylodontidae + Pseudotherium and mammals,,,,,,233
-Common ancestor of Pseudotherium and Tritylodontidae,,,,,,232
-Common ancestor of Tritylodon and Oligokyphus,,,,,,204.9
-Common ancestor of Brasilodon and mammals,,,,,,232
-Common ancestor of Morganucodonta and mammals,,,,,,231.4
-Common ancestor of Morganucodon and Megazostrodon,,,,,,208.5
-Common ancestor of Hadrocodium and mammals,,,,,,214
-Common ancestor of Dryolestes and Theria,,,,,,168.3
-Common ancestor of Captorhinidae and Diapsida,,,,,,318
-Captorhinus and Labidosaurus,,,,,,286
-Common ancestor of Youngina and Sauria,,,,,,263
-Common ancestor of Testudines and Archosauromorpha,,,,,,262
-Common ancestor of Prolacerta and Archosauriformes,,,,,,254

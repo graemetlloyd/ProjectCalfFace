@@ -5,10 +5,10 @@ library(paleotree)
 library(strap)
 
 # Read trees in from GitHub:
-Trees <- ape::read.tree("~/Desktop/Desktop - Spencer???s MacBook Pro (2)/NSF metatree/ProjectCalfFace/Trees/MPTs.tre")
+Trees <- ape::read.tree("https://raw.githubusercontent.com/graemetlloyd/ProjectCalfFace/master/Trees/MPTs.tre")
 
 # Read in age data from GitHub:
-AgeData <- read.table("~/Desktop/Desktop - Spencer???s MacBook Pro (2)/NSF metatree/ProjectCalfFace/Recovered_Age_Data.csv", sep =",", header = TRUE)
+AgeData <- read.table("https://raw.githubusercontent.com/graemetlloyd/ProjectCalfFace/master/Recovered_Age_Data.csv", sep =",", header = TRUE)
 
 # First reformat step for paleotree:
 PaleotreeAgeData <- AgeData[!is.na(AgeData[, "FAD"]), c("X...Taxon", "FAD", "LAD")]
@@ -17,6 +17,12 @@ PaleotreeAgeData <- AgeData[!is.na(AgeData[, "FAD"]), c("X...Taxon", "FAD", "LAD
 PaleotreeAgeData  <- matrix(c(PaleotreeAgeData[, "FAD"], PaleotreeAgeData[, "LAD"]), ncol = 2, dimnames = list(PaleotreeAgeData[, "X...Taxon"], c("FAD", "LAD")))
 
 tree = Trees[[1]]
+
+NodeListWithDates <- read.table("https://raw.githubusercontent.com/graemetlloyd/ProjectCalfFace/master/min_node_dates_for_r.csv", header = TRUE)
+
+
+
+
 
 # TImescale just first tree using equal method:
 x <- paleotree::timePaleoPhy(tree, timeData = PaleotreeAgeData, type = "equal", vartime = 1,node.mins=NodeListWithDates[[1]])

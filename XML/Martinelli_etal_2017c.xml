@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Martinelli, A. G.</List>
+			<List>Eltink, E.</List>
+			<List>Da-Rosa, A. A. S.</List>
+			<List>Langer, M. C.</List>
+		</Author>
+		<Year>2017</Year>
+		<Title>A new cynodont from the Santa Maria formation, south Brazil, improves Late Triassic probainognathian diversity</Title>
+		<Journal>Papers in Palaeontology</Journal>
+		<Volume>3</Volume>
+		<Pages>401-423</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="39">
+		<List recon_name="Procynosuchus_delaharpeae" recon_no="323823">Procynosuchus_delaharpeae</List>
+		<List recon_name="Galesaurus_planiceps" recon_no="56872">Galesaurus_planiceps</List>
+		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">Thrinaxodon_liorhinus</List>
+		<List recon_name="Platycraniellus_elegans" recon_no="171919">Platycraniellus_elegans</List>
+		<List recon_name="Cynognathus_crateronotus" recon_no="56878">Cynognathus_crateronotus</List>
+		<List recon_name="Diademodon_tetragonus" recon_no="171986">Diademodon_tetragonus</List>
+		<List recon_name="Trirachodon_berryi" recon_no="56887">Trirachodon_berryi</List>
+		<List recon_name="Sinognathus_gracilis" recon_no="265894">Sinognathus_gracilis</List>
+		<List recon_name="Langbergia_modisei" recon_no="171944">Langbergia_modisei</List>
+		<List recon_name="Pascualgnathus_polanskii" recon_no="117951">Pascualgnathus_polanskii</List>
+		<List recon_name="Luangwa_drysdalli" recon_no="172477">Luangwa_drysdalli</List>
+		<List recon_name="Massetognathus_pascuali" recon_no="80893">Massetognathus_pascuali</List>
+		<List recon_name="Exaeretodon_argentinus" recon_no="376276">Exaeretodon_argentinus</List>
+		<List recon_name="Scalenodon_angustifrons" recon_no="177679">Scalenodon_angustifrons</List>
+		<List recon_name="Mandagomphodon_hirschsoni" recon_no="302113">Mandagomphodon_hirschoni</List>
+		<List recon_name="Chiniquodon_theotonicus" recon_no="100823">Chiniquodon_theotonicus</List>
+		<List recon_name="Lumkuia_fuzzi" recon_no="95414">Lumkuia_fuzzi</List>
+		<List recon_name="Ecteninion_lunensis" recon_no="67454">Ectenion_lunensis</List>
+		<List recon_name="Probainognathus_jenseni" recon_no="80895">Probainognathus_jenseni</List>
+		<List recon_name="Bonacynodon_schultzi" recon_no="371752">Bonacynodon_schultzi</List>
+		<List recon_name="Therioherpeton_cargnini" recon_no="95407">Therioherpeton_cargnini</List>
+		<List recon_name="Riograndia_guaibensis" recon_no="178232">Riograndia_guaibaensis</List>
+		<List recon_name="Pachygenelus_monus" recon_no="56650">Pachygenelus_monus</List>
+		<List recon_name="Prozostrodon_brasiliensis" recon_no="172333">Prozostrodon_brasiliensis</List>
+		<List recon_name="Botucaraitherium_belarminoi" recon_no="333720">Botucaraitherium_belarminoi</List>
+		<List recon_name="Protheriodon_estudianti" recon_no="162286">Protheriodon_estudianti</List>
+		<List recon_name="Brasilodon_quadrangularis" recon_no="174538">Brasilodon_quardangularis</List>
+		<List recon_name="Brasilitherium_riograndensis" recon_no="174540">Brasilitherium_riograndensis</List>
+		<List recon_name="Tritylodon_longaevus" recon_no="177562">Tritylodon_longaevus</List>
+		<List recon_name="Oligokyphus_major" recon_no="252539">Oligokyphus_major</List>
+		<List recon_name="Bienotherium_yunnanense" recon_no="64289">Bienotherium_yunnanense</List>
+		<List recon_name="Kayentatherium_wellesi" recon_no="175105">Kayentatherium_wellesi</List>
+		<List recon_name="Adelobasileus_cromptoni" recon_no="53176">Adelobasileus_cromptoni</List>
+		<List recon_name="Sinoconodon_rigneyi" recon_no="203414">Sinoconodon_rigneyi</List>
+		<List recon_name="Morganucodon_oehleri" recon_no="203398">Morganucodon_oehleri</List>
+		<List recon_name="Alemoatherium_huebneri" recon_no="371885">Alemoatherium_huebneri</List>
+		<List recon_name="Charruodon_tetracuspidatus" recon_no="333701">Charruodon_tetracuspidatus</List>
+		<List recon_name="Santacruzgnathus_abdalai" recon_no="371749">Santacruzgnathus_abdalai</List>
+		<List recon_name="Microconodon_tenuirostris" recon_no="172468">Microconodon_tenuirostris</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="145">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Martinelli_etal_2017c</Filename>
+	<Parent>Martinelli_etal_2016a</Parent>
+	<Sibling/>
+</SourceTree>

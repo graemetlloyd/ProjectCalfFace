@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Muizon, C.</List>
+			<List>Ladeveze, S.</List>
+			<List>Selva, C.</List>
+			<List>Vignaud, R.</List>
+			<List>Goussard, F.</List>
+		</Author>
+		<Year>2018</Year>
+		<Title><em>Allqokirus australis</em> (Sparassodonta, Metatheria) from the early Palaeocene of Tiupampa (Bolivia) and the rise of the metatherian carnivorous radiation in South America</Title>
+		<Journal>Geodiversitas</Journal>
+		<Volume>40</Volume>
+		<Pages>363-459</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List recon_name="DELETE" recon_no="-1">Prokennalestes</List>
+		<List recon_name="DELETE" recon_no="-1">Asioryctes</List>
+		<List recon_name="DELETE" recon_no="-1">Maelestes</List>
+		<List recon_name="Kokopellia_juddi" recon_no="47450">Kokopellia</List>
+		<List recon_name="DELETE" recon_no="-1">Deltatheridium</List>
+		<List recon_name="DELETE" recon_no="-1">Deltatheroides</List>
+		<List recon_name="DELETE" recon_no="-1">Asiatherium</List>
+		<List recon_name="DELETE" recon_no="-1">Eodelphis</List>
+		<List recon_name="DELETE" recon_no="-1">Didelphodon</List>
+		<List recon_name="DELETE" recon_no="-1">Mimoperadectes_dash_Peradectes</List>
+		<List recon_name="DELETE" recon_no="-1">Herpetotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Amphiperatherium_dash_Peratherium</List>
+		<List recon_name="DELETE" recon_no="-1">Didelphis</List>
+		<List recon_name="DELETE" recon_no="-1">Metachirus</List>
+		<List recon_name="DELETE" recon_no="-1">Monodelphis</List>
+		<List recon_name="DELETE" recon_no="-1">Pucadelphys</List>
+		<List recon_name="DELETE" recon_no="-1">Andinodelphys</List>
+		<List recon_name="Mayulestes_ferox" recon_no="246573">Mayulestes</List>
+		<List recon_name="Allqokirus_australis" recon_no="246574">Allqokirus</List>
+		<List recon_name="DELETE" recon_no="-1">Patene</List>
+		<List recon_name="Hondadelphys_fieldsi" recon_no="251322">Hondadelphys</List>
+		<List recon_name="DELETE" recon_no="-1">Sallacyon</List>
+		<List recon_name="DELETE" recon_no="-1">Notogale</List>
+		<List recon_name="DELETE" recon_no="-1">Sipalocyon</List>
+		<List recon_name="DELETE" recon_no="-1">Cladosictis</List>
+		<List recon_name="DELETE" recon_no="-1">Lycopsis</List>
+		<List recon_name="DELETE" recon_no="-1">Pharsophorus</List>
+		<List recon_name="DELETE" recon_no="-1">Prothylacynus</List>
+		<List recon_name="Borhyaena_tuberata" recon_no="53751">Borhyaena_tuberata</List>
+		<List recon_name="Arctodictis_sinclairi" recon_no="336437">Arctodictis_sinclairi</List>
+		<List recon_name="Australohyaena_antiqua" recon_no="337340">Australohyaena</List>
+		<List recon_name="DELETE" recon_no="-1">Callistoe</List>
+		<List recon_name="DELETE" recon_no="-1">Paraborhyaena</List>
+		<List recon_name="Thylacosmilus_atrox" recon_no="291870">Thylacosmilus</List>
+		<List recon_name="DELETE" recon_no="-1">Dromiciops</List>
+		<List recon_name="DELETE" recon_no="-1">Dasyurus</List>
+		<List recon_name="DELETE" recon_no="-1">Sminthopsis</List>
+		<List recon_name="DELETE" recon_no="-1">Thylacinus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="364">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Muizon_etal_2018a</Filename>
+	<Parent>Forasiepi_etal_inpressa</Parent>
+	<Sibling/>
+</SourceTree>

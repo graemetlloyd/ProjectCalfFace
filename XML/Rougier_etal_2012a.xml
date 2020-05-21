@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rougier, G. W.</List>
+			<List>Wible, J. R.</List>
+			<List>Beck, R. M. D.</List>
+			<List>Apesteguia, S.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>The Miocene mammal <em>Necrolestes</em> demonstrates the survival of a Mesozoic nontherian lineage into the late Cenozoic of South America</Title>
+		<Journal>Proceedings of the National Academy of Sciences, USA</Journal>
+		<Volume>109</Volume>
+		<Pages>20053-20058</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="58">
+		<List recon_name="Probainognathus" recon_no="39225">Probainognathus</List>
+		<List recon_name="Tritylodontidae" recon_no="39208">Tritylodontids</List>
+		<List recon_name="DELETE" recon_no="-1">Tritheledontids</List>
+		<List recon_name="Adelobasileus_cromptoni" recon_no="53176">Adelobasileus</List>
+		<List recon_name="Sinoconodon" recon_no="39747">Sinoconodon</List>
+		<List recon_name="Morganucodon" recon_no="39753">Morganucodon</List>
+		<List recon_name="Megazostrodon" recon_no="39752">Megazostrodon</List>
+		<List recon_name="Dinnetherium_nezorum" recon_no="175122">Dinnetherium</List>
+		<List recon_name="Haldanodon_exspectatus" recon_no="203425">Haldanodon</List>
+		<List recon_name="Hadrocodium" recon_no="91337">Hadrocodium</List>
+		<List recon_name="Kuehneotherium" recon_no="39864">Kuehneotherium</List>
+		<List recon_name="Pseudotribos_robustus" recon_no="130176">Pseudotribos</List>
+		<List recon_name="Ambondro" recon_no="89614">Ambondro</List>
+		<List recon_name="Ausktribosphenos" recon_no="89615">Ausktribosphenos</List>
+		<List recon_name="Henosferus_molus" recon_no="185170">Henosferus</List>
+		<List recon_name="Asfaltomylos" recon_no="89612">Asfaltomylos</List>
+		<List recon_name="Bishops" recon_no="100594">Bishops</List>
+		<List recon_name="Steropodon" recon_no="39741">Steropodon</List>
+		<List recon_name="Teinolophos_trusleri" recon_no="137612">Teinolophos</List>
+		<List recon_name="Obdurodon" recon_no="39739">Obdurodon</List>
+		<List recon_name="DELETE" recon_no="-1">Ornithorynchus</List>
+		<List recon_name="Gobiconodon" recon_no="39757">Gobiconodon</List>
+		<List recon_name="Amphilestes" recon_no="39755">Amphilestes</List>
+		<List recon_name="Jeholodens" recon_no="197842">Jeholodens</List>
+		<List recon_name="Priacodon" recon_no="39766">Priacodon</List>
+		<List recon_name="Trioracodon" recon_no="39768">Trioracodon</List>
+		<List recon_name="Tinodon" recon_no="52339">Tinodon</List>
+		<List recon_name="Peramus" recon_no="39884">Peramus</List>
+		<List recon_name="Vincelestes" recon_no="67458">Vincelestes</List>
+		<List recon_name="Kielantherium" recon_no="39918">Kielantherium</List>
+		<List recon_name="Deltatheridium" recon_no="39920">Deltatheridium</List>
+		<List recon_name="Asiatherium" recon_no="183887">Asiatherium</List>
+		<List recon_name="Kokopellia_juddi" recon_no="47450">Kokopellia</List>
+		<List recon_name="Pucadelphys" recon_no="246332">Pucadelphys</List>
+		<List recon_name="Didelphis" recon_no="39959">Didelphis</List>
+		<List recon_name="Pappotherium" recon_no="39924">Pappotherium</List>
+		<List recon_name="Erinaceus" recon_no="40375">Erinaceus</List>
+		<List recon_name="Asioryctes" recon_no="40213">Asioryctes</List>
+		<List recon_name="Prokennalestes_minor,Prokennalestes_trofimovi" recon_no="185139;137755">Prokennalestes</List>
+		<List recon_name="Zhangheotheriidae" recon_no="156658">Zhangheotheriids</List>
+		<List recon_name="DELETE" recon_no="-1">Amphitheridae</List>
+		<List recon_name="Henkelotherium" recon_no="204736">Henkelotherium</List>
+		<List recon_name="Dryolestes" recon_no="39893">Dryolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Laolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Amblotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Comotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Mesungulatum</List>
+		<List recon_name="DELETE" recon_no="-1">Coloniatherium</List>
+		<List recon_name="DELETE" recon_no="-1">Reigitherium</List>
+		<List recon_name="DELETE" recon_no="-1">Peligrotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Groebertherium</List>
+		<List recon_name="DELETE" recon_no="-1">Leonardus</List>
+		<List recon_name="DELETE" recon_no="-1">Foxraptor</List>
+		<List recon_name="DELETE" recon_no="-1">Paurodon</List>
+		<List recon_name="DELETE" recon_no="-1">Cronopio</List>
+		<List recon_name="DELETE" recon_no="-1">Drescheratherium</List>
+		<List recon_name="DELETE" recon_no="-1">Necrolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Spalacotherium</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="317">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rougier_etal_2012a</Filename>
+	<Parent>Rougier_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

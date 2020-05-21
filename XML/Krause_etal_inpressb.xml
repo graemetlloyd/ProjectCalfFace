@@ -1,0 +1,130 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Krause, D. W.</List>
+			<List>Hoffman, S.</List>
+			<List>Hu, Y.-M.</List>
+			<List>Wible, J. R.</List>
+			<List>Rougier, G. W.</List>
+			<List>Kirk, E. C.</List>
+			<List>Groenke, J. R.</List>
+			<List>Rogers, R. R.</List>
+			<List>Rossie, J. B.</List>
+			<List>Schultz, J. A.</List>
+			<List>Evans, A. R.</List>
+			<List>von Koenigswald, W.</List>
+			<List>Rahantarisca, L. J.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Skeleton of a Cretaceous mammal from Madagascar reflects long-term insularity</Title>
+		<Journal>Nature</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="84">
+		<List recon_name="DELETE" recon_no="-1">Thrinaxodon</List>
+		<List recon_name="DELETE" recon_no="-1">Probainognathus</List>
+		<List recon_name="DELETE" recon_no="-1">Cynognathus</List>
+		<List recon_name="DELETE" recon_no="-1">Diademodon</List>
+		<List recon_name="DELETE" recon_no="-1">Exaeretodon</List>
+		<List recon_name="DELETE" recon_no="-1">Oligokyphus</List>
+		<List recon_name="DELETE" recon_no="-1">Kayentatherium</List>
+		<List recon_name="DELETE" recon_no="-1">Yunnanodon</List>
+		<List recon_name="DELETE" recon_no="-1">Bocatherium</List>
+		<List recon_name="DELETE" recon_no="-1">Bienotheroides</List>
+		<List recon_name="DELETE" recon_no="-1">Bienotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Pachygenelus</List>
+		<List recon_name="DELETE" recon_no="-1">Brasilodon</List>
+		<List recon_name="DELETE" recon_no="-1">Riograndia</List>
+		<List recon_name="DELETE" recon_no="-1">Sinoconodon</List>
+		<List recon_name="DELETE" recon_no="-1">Morganucodon</List>
+		<List recon_name="DELETE" recon_no="-1">Megazostrodon</List>
+		<List recon_name="DELETE" recon_no="-1">Hadrocodium</List>
+		<List recon_name="DELETE" recon_no="-1">Haldanodon</List>
+		<List recon_name="DELETE" recon_no="-1">Pseudotribos</List>
+		<List recon_name="DELETE" recon_no="-1">Ornithorhynchus</List>
+		<List recon_name="DELETE" recon_no="-1">Steropodon</List>
+		<List recon_name="DELETE" recon_no="-1">Teinolophos</List>
+		<List recon_name="DELETE" recon_no="-1">Obdurodon</List>
+		<List recon_name="DELETE" recon_no="-1">Megaconus</List>
+		<List recon_name="DELETE" recon_no="-1">Haramiyavia</List>
+		<List recon_name="DELETE" recon_no="-1">Thomasia</List>
+		<List recon_name="DELETE" recon_no="-1">Arboroharamiya_j</List>
+		<List recon_name="DELETE" recon_no="-1">Arboroharamiya_a</List>
+		<List recon_name="DELETE" recon_no="-1">Xianshou_l</List>
+		<List recon_name="DELETE" recon_no="-1">Xianshou_s</List>
+		<List recon_name="DELETE" recon_no="-1">Shenshou</List>
+		<List recon_name="DELETE" recon_no="-1">Qishou</List>
+		<List recon_name="DELETE" recon_no="-1">Maiopatagium</List>
+		<List recon_name="DELETE" recon_no="-1">Vilevolodon</List>
+		<List recon_name="DELETE" recon_no="-1">Cifelliodon</List>
+		<List recon_name="DELETE" recon_no="-1">Adalatherium</List>
+		<List recon_name="DELETE" recon_no="-1">Vintana</List>
+		<List recon_name="DELETE" recon_no="-1">Ferugliotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Trapalcotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Bharattherium</List>
+		<List recon_name="DELETE" recon_no="-1">Gondwanatherium</List>
+		<List recon_name="DELETE" recon_no="-1">Lavanify</List>
+		<List recon_name="DELETE" recon_no="-1">Sudamerica</List>
+		<List recon_name="DELETE" recon_no="-1">Galulatherium</List>
+		<List recon_name="DELETE" recon_no="-1">Greniodon</List>
+		<List recon_name="DELETE" recon_no="-1">Jeholbaatar</List>
+		<List recon_name="DELETE" recon_no="-1">Rugosodon</List>
+		<List recon_name="DELETE" recon_no="-1">Guimarota_paulchoffatiidae</List>
+		<List recon_name="DELETE" recon_no="-1">Sinobaatar</List>
+		<List recon_name="DELETE" recon_no="-1">Plagiaulacidae</List>
+		<List recon_name="DELETE" recon_no="-1">Ptilodus</List>
+		<List recon_name="DELETE" recon_no="-1">Taeniolabis</List>
+		<List recon_name="DELETE" recon_no="-1">Lambdopsalis</List>
+		<List recon_name="DELETE" recon_no="-1">Catopsbaatar</List>
+		<List recon_name="DELETE" recon_no="-1">Chulsanbaatar</List>
+		<List recon_name="DELETE" recon_no="-1">Nemegtbaatar</List>
+		<List recon_name="DELETE" recon_no="-1">Kryptobaatar</List>
+		<List recon_name="DELETE" recon_no="-1">Gobiconodon</List>
+		<List recon_name="DELETE" recon_no="-1">Repenomamus</List>
+		<List recon_name="DELETE" recon_no="-1">Yanoconodon</List>
+		<List recon_name="DELETE" recon_no="-1">Jeholodens</List>
+		<List recon_name="DELETE" recon_no="-1">Akidolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Zhangheotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Maotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Cronopio</List>
+		<List recon_name="DELETE" recon_no="-1">Henkelotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Dryolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Vincelestes</List>
+		<List recon_name="DELETE" recon_no="-1">Eomaia</List>
+		<List recon_name="DELETE" recon_no="-1">Juramaia</List>
+		<List recon_name="DELETE" recon_no="-1">Asioryctes</List>
+		<List recon_name="DELETE" recon_no="-1">Ukhaatherium</List>
+		<List recon_name="DELETE" recon_no="-1">Zalambdalestes</List>
+		<List recon_name="DELETE" recon_no="-1">Erinaceus</List>
+		<List recon_name="DELETE" recon_no="-1">Gomphos</List>
+		<List recon_name="DELETE" recon_no="-1">Tribosphenomys</List>
+		<List recon_name="DELETE" recon_no="-1">Dasypus</List>
+		<List recon_name="DELETE" recon_no="-1">Asiatherium</List>
+		<List recon_name="DELETE" recon_no="-1">Deltatheridium</List>
+		<List recon_name="DELETE" recon_no="-1">Pucadelphys</List>
+		<List recon_name="DELETE" recon_no="-1">Didelphis</List>
+		<List recon_name="DELETE" recon_no="-1">Sinodelphys</List>
+		<List recon_name="DELETE" recon_no="-1">Ambolestes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="530">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Krause_etal_inpressb</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

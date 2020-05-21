@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Martin, T.</List>
+			<List>Marugan-Lobon, J.</List>
+			<List>Vullo, R.</List>
+			<List>Martin-Abad, H.</List>
+			<List>Luo, Z.-X.</List>
+			<List>Buscalioni, A. D.</List>
+		</Author>
+		<Year>2015</Year>
+		<Title>A Cretaceous eutriconodont and integument evolution in early mammals</Title>
+		<Journal>Nature</Journal>
+		<Volume>526</Volume>
+		<Pages>380-384</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List recon_name="Sinoconodon_rigneyi" recon_no="203414">Sinoconodon</List>
+		<List recon_name="Morganucodon" recon_no="39753">Morganucodon</List>
+		<List recon_name="Erythrotherium_parringtoni" recon_no="203402">Erythrotherium</List>
+		<List recon_name="Megazostrodon_rudnerae" recon_no="178199">Megazostrodon</List>
+		<List recon_name="Dinnetherium_nezorum" recon_no="175122">Dinnetherium</List>
+		<List recon_name="Kuehneotherium_praecursoris" recon_no="206725">Kuehneotherium</List>
+		<List recon_name="Haldanodon_exspectatus" recon_no="203425">Haldanodon</List>
+		<List recon_name="Docodon" recon_no="39775">Docodon</List>
+		<List recon_name="Castorocauda_lutrasimilis" recon_no="72329">Castorocauda</List>
+		<List recon_name="Phascolotherium_bucklandi" recon_no="207503">Phascolotherium</List>
+		<List recon_name="Amphilestes_broderipii" recon_no="203412">Amphilestes</List>
+		<List recon_name="Hakusanodon_archaeus" recon_no="106806">Hakusanodon</List>
+		<List recon_name="Juchilestes_liaoningensis" recon_no="197849">Juchilestes</List>
+		<List recon_name="Spinolestes_xenarthrosus" recon_no="331039">Spinolestes</List>
+		<List recon_name="Gobiconodon" recon_no="39757">Gobiconodon</List>
+		<List recon_name="Repenomamus" recon_no="67605">Repenomamus</List>
+		<List recon_name="Jeholodens_jenkinsi" recon_no="197843">Jeholodens</List>
+		<List recon_name="Yanoconodon_allini" recon_no="65083">Yanoconodon</List>
+		<List recon_name="Liaoconodon_hui" recon_no="239722">Liaoconodon</List>
+		<List recon_name="Argentoconodon_fariasorum" recon_no="53114">Argentoconodon</List>
+		<List recon_name="Volaticotherium_antiquus" recon_no="91434">Volaticotherium</List>
+		<List recon_name="Trioracodon" recon_no="39768">Trioracodon</List>
+		<List recon_name="Triconodon_mordax" recon_no="203406">Triconodon</List>
+		<List recon_name="Priacodon" recon_no="39766">Priacodon</List>
+		<List recon_name="Arundelconodon_hottoni" recon_no="44330">Arundelconodon</List>
+		<List recon_name="Meiconodon_lii,Meiconodon_setoguchii" recon_no="216655;216656">Meiconodon</List>
+		<List recon_name="Astroconodon" recon_no="39763">Astroconodon</List>
+		<List recon_name="Alticonodon_lindoei" recon_no="43945">Alticonodon</List>
+		<List recon_name="Corviconodon" recon_no="39764">Corviconodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="90">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Martin_etal_2015aa</Filename>
+	<Parent>Gaetano_et_Rougier_2011a</Parent>
+	<Sibling/>
+</SourceTree>

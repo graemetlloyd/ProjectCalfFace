@@ -1,0 +1,110 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Muizon, C.</List>
+			<List>Billet, G.</List>
+			<List>Argot, C.</List>
+			<List>Ladeveze, S.</List>
+			<List>Goussard, F.</List>
+		</Author>
+		<Year>2015</Year>
+		<Title><em>Alcidedorbignya inopinata</em>, a basal pantodont (Placentalia, Mammalia) from the early Palaeocene of Bolivia: anatomy, phylogeny and palaeobiology</Title>
+		<Journal>Geodiversitas</Journal>
+		<Volume>37</Volume>
+		<Pages>397-634</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="72">
+		<List recon_name="Vincelestes_neuquenianus" recon_no="141361">Vincelestes</List>
+		<List recon_name="Deltatheridium" recon_no="39920">Deltatheridium</List>
+		<List recon_name="Mayulestes_ferox" recon_no="246573">Mayulestes</List>
+		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys</List>
+		<List recon_name="Eomaia_scansoria" recon_no="67563">Eomaia</List>
+		<List recon_name="Prokennalestes" recon_no="185140">Prokennalestes</List>
+		<List recon_name="Zhelestes_temirkazyk" recon_no="203027">Zhelestes</List>
+		<List recon_name="Cimolestes" recon_no="40235">Cimolestes</List>
+		<List recon_name="Maelestes_gobiensis" recon_no="143918">Maelestes</List>
+		<List recon_name="Kennalestes_gobiensis" recon_no="57349">Kennalestes</List>
+		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
+		<List recon_name="Kulbeckia_kulbecke" recon_no="137977">Kulbeckia</List>
+		<List recon_name="Zalambdalestes" recon_no="40217">Zalambdalestes</List>
+		<List recon_name="Leptictis" recon_no="40260">Leptictis</List>
+		<List recon_name="DELETE" recon_no="-1">Didelphodus</List>
+		<List recon_name="DELETE" recon_no="-1">Alcidedorbignya</List>
+		<List recon_name="DELETE" recon_no="-1">Pantolambda</List>
+		<List recon_name="DELETE" recon_no="-1">Bemalambda</List>
+		<List recon_name="DELETE" recon_no="-1">Harpyodus</List>
+		<List recon_name="DELETE" recon_no="-1">Coryphodon</List>
+		<List recon_name="DELETE" recon_no="-1">Azygonyx</List>
+		<List recon_name="DELETE" recon_no="-1">Trogosus</List>
+		<List recon_name="Protungulatum" recon_no="40211">Protungulatum</List>
+		<List recon_name="Vulpavus" recon_no="40991">Vulpavus</List>
+		<List recon_name="Miacis" recon_no="40979">Miacis</List>
+		<List recon_name="DELETE" recon_no="-1">Cynodictis</List>
+		<List recon_name="DELETE" recon_no="-1">Diacodexis</List>
+		<List recon_name="DELETE" recon_no="-1">Dichobune</List>
+		<List recon_name="DELETE" recon_no="-1">Acotherulum</List>
+		<List recon_name="Hyopsodus" recon_no="42250">Hyopsodus</List>
+		<List recon_name="Meniscotherium" recon_no="42262">Meniscotherium</List>
+		<List recon_name="Phenacodus" recon_no="42288">Phenacodus</List>
+		<List recon_name="DELETE" recon_no="-1">Pleuraspidotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Maiorana</List>
+		<List recon_name="DELETE" recon_no="-1">Baioconodon</List>
+		<List recon_name="DELETE" recon_no="-1">Arctocyonides</List>
+		<List recon_name="DELETE" recon_no="-1">Arctocyon</List>
+		<List recon_name="Ptilocercus" recon_no="97164">Ptilocercus</List>
+		<List recon_name="Plesiadapis" recon_no="40738">Plesiadapis</List>
+		<List recon_name="DELETE" recon_no="-1">Northarctus</List>
+		<List recon_name="Adapis" recon_no="40750">Adapis</List>
+		<List recon_name="Tribosphenomys" recon_no="91624">Tribosphenomys</List>
+		<List recon_name="Paramys" recon_no="41408">Paramys</List>
+		<List recon_name="Rhombomylus" recon_no="41362">Rhombomylus</List>
+		<List recon_name="Gomphos" recon_no="41364">Gomphos</List>
+		<List recon_name="Mimotona" recon_no="41367">Mimotona</List>
+		<List recon_name="Blarina" recon_no="40457">Blarina</List>
+		<List recon_name="Erinaceus" recon_no="40375">Erinaceus</List>
+		<List recon_name="DELETE" recon_no="-1">Solenodon</List>
+		<List recon_name="Eoryctes_melanus" recon_no="46177">Eoryctes</List>
+		<List recon_name="Potamogale_velox" recon_no="231780">Potamogale</List>
+		<List recon_name="DELETE" recon_no="-1">Tenrec</List>
+		<List recon_name="Orycteropus" recon_no="43318">Orycteropus</List>
+		<List recon_name="DELETE" recon_no="-1">Rhynchocyon</List>
+		<List recon_name="Procavia" recon_no="43295">Procavia</List>
+		<List recon_name="Moeritherium" recon_no="43238">Moeritherium</List>
+		<List recon_name="Chaetophractus" recon_no="43530">Chaetophractus</List>
+		<List recon_name="DELETE" recon_no="-1">Dasypus</List>
+		<List recon_name="Bradypus" recon_no="72263">Bradypus</List>
+		<List recon_name="Tamandua" recon_no="83035">Tamandua</List>
+		<List recon_name="DELETE" recon_no="-1">Colbertia</List>
+		<List recon_name="DELETE" recon_no="-1">Plesiotypotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Protypotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Adinotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Notostylops</List>
+		<List recon_name="DELETE" recon_no="-1">Pyrotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Trigonostylops</List>
+		<List recon_name="DELETE" recon_no="-1">Astrapotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Miguelsoria</List>
+		<List recon_name="DELETE" recon_no="-1">Proterotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Macrauchenia</List>
+		<List recon_name="DELETE" recon_no="-1">Carodnia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="426">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Muizon_etal_2015a</Filename>
+	<Parent>Wible_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

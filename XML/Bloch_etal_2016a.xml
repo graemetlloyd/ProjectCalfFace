@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bloch, J. I.</List>
+			<List>Chester, S. G. B.</List>
+			<List>Silcox, M. T.</List>
+		</Author>
+		<Year>2016</Year>
+		<Title>Cranial anatomy of Paleogene Micromomyidae and implications for early primate evolution</Title>
+		<Journal>Journal of Human Evolution</Journal>
+		<Volume>96</Volume>
+		<Pages>58-81</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="34">
+		<List recon_name="DELETE" recon_no="-1">Ukhaatherium</List>
+		<List recon_name="DELETE" recon_no="-1">Leptictidae</List>
+		<List recon_name="DELETE" recon_no="-1">Erinaceus</List>
+		<List recon_name="DELETE" recon_no="-1">Echinosorex</List>
+		<List recon_name="DELETE" recon_no="-1">Hemiechinus</List>
+		<List recon_name="DELETE" recon_no="-1">Ottoryctes</List>
+		<List recon_name="DELETE" recon_no="-1">Pararyctes</List>
+		<List recon_name="DELETE" recon_no="-1">Paleoryctes</List>
+		<List recon_name="DELETE" recon_no="-1">Uintacyon</List>
+		<List recon_name="Vulpavus_profectus" recon_no="52682">Vulpavus_profectus</List>
+		<List recon_name="DELETE" recon_no="-1">Solenodon</List>
+		<List recon_name="DELETE" recon_no="-1">Sorex_sp</List>
+		<List recon_name="Suncus_murinus" recon_no="231476">Suncus_murinus</List>
+		<List recon_name="DELETE" recon_no="-1">Rhombomylus</List>
+		<List recon_name="Ptilocercus_lowii" recon_no="234229">Ptilocercus_lowii</List>
+		<List recon_name="Tupaia_glis" recon_no="234212">Tupaia_glis</List>
+		<List recon_name="DELETE" recon_no="-1">Genetta_sp</List>
+		<List recon_name="Cynocephalus_volans" recon_no="206240">Cynocephalus_volans</List>
+		<List recon_name="DELETE" recon_no="-1">Gypsonictops</List>
+		<List recon_name="Carcinella_sigei" recon_no="385514">Carcinella_sigei</List>
+		<List recon_name="Labidolemur_kayi" recon_no="47455">Labidolemur_kayi</List>
+		<List recon_name="DELETE" recon_no="-1">Apatemys</List>
+		<List recon_name="Heterohyus_nanus" recon_no="92326">Heterohyus_nanus</List>
+		<List recon_name="DELETE" recon_no="-1">Jepsenella</List>
+		<List recon_name="DELETE" recon_no="-1">Sinclairella</List>
+		<List recon_name="DELETE" recon_no="-1">Purgatorius</List>
+		<List recon_name="DELETE" recon_no="-1">Carpolestidae</List>
+		<List recon_name="DELETE" recon_no="-1">Plesiadapidae</List>
+		<List recon_name="DELETE" recon_no="-1">Paromomyidae</List>
+		<List recon_name="DELETE" recon_no="-1">Microsyopidae</List>
+		<List recon_name="DELETE" recon_no="-1">Micromomyidae</List>
+		<List recon_name="Altanius_orlovi" recon_no="101080">Altanius_orlovi</List>
+		<List recon_name="DELETE" recon_no="-1">Adapidae</List>
+		<List recon_name="DELETE" recon_no="-1">Omomyidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="240">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bloch_etal_2016a</Filename>
+	<Parent>Silcox_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

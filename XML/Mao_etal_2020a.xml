@@ -1,0 +1,161 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Mao, F.-Y.</List>
+			<List>Hu, Y.-M.</List>
+			<List>Li, C.-K.</List>
+			<List>Wang, Y.-Q.</List>
+			<List>Chase, M. H.</List>
+			<List>Smith, A. K.</List>
+			<List>Meng, J.</List>
+		</Author>
+		<Year>2020</Year>
+		<Title>Integrated hearing and chewing modules decoupled in a Cretaceous stem therian mammal</Title>
+		<Journal>Science</Journal>
+		<Volume>367</Volume>
+		<Pages>305-308</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="121">
+		<List recon_name="DELETE" recon_no="-1">Thrinaxodon</List>
+		<List recon_name="DELETE" recon_no="-1">Massetognathus</List>
+		<List recon_name="DELETE" recon_no="-1">Probainognathus</List>
+		<List recon_name="DELETE" recon_no="-1">Tritylodontids</List>
+		<List recon_name="DELETE" recon_no="-1">Pachygenelus</List>
+		<List recon_name="DELETE" recon_no="-1">Adelobasileus</List>
+		<List recon_name="DELETE" recon_no="-1">Sinoconodon</List>
+		<List recon_name="DELETE" recon_no="-1">Morganucodon</List>
+		<List recon_name="DELETE" recon_no="-1">Megazostrodon</List>
+		<List recon_name="DELETE" recon_no="-1">Haldanodon</List>
+		<List recon_name="DELETE" recon_no="-1">Castorocauda</List>
+		<List recon_name="DELETE" recon_no="-1">Eleutherodon</List>
+		<List recon_name="DELETE" recon_no="-1">Sineleutherus</List>
+		<List recon_name="DELETE" recon_no="-1">Thomasia</List>
+		<List recon_name="DELETE" recon_no="-1">Haramiyavia</List>
+		<List recon_name="DELETE" recon_no="-1">Vintana_A</List>
+		<List recon_name="DELETE" recon_no="-1">Arboroharamiya_jenkinsi</List>
+		<List recon_name="DELETE" recon_no="-1">Arboroharamiya_allinhopsoni</List>
+		<List recon_name="DELETE" recon_no="-1">Xianshou_linglong</List>
+		<List recon_name="DELETE" recon_no="-1">Xianshou_songae</List>
+		<List recon_name="DELETE" recon_no="-1">Shenshou</List>
+		<List recon_name="DELETE" recon_no="-1">Rugosodon</List>
+		<List recon_name="DELETE" recon_no="-1">Kuehneodon</List>
+		<List recon_name="DELETE" recon_no="-1">Sinobaatar</List>
+		<List recon_name="DELETE" recon_no="-1">Plagiaulacids</List>
+		<List recon_name="DELETE" recon_no="-1">Cimolodontans</List>
+		<List recon_name="DELETE" recon_no="-1">Hadrocodium</List>
+		<List recon_name="DELETE" recon_no="-1">Shuotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Pseudotribos</List>
+		<List recon_name="DELETE" recon_no="-1">Asfaltomylos</List>
+		<List recon_name="DELETE" recon_no="-1">Ambondro</List>
+		<List recon_name="DELETE" recon_no="-1">Ausktribosphenos</List>
+		<List recon_name="DELETE" recon_no="-1">Bishops</List>
+		<List recon_name="DELETE" recon_no="-1">Teinolophos</List>
+		<List recon_name="DELETE" recon_no="-1">Steropodon</List>
+		<List recon_name="DELETE" recon_no="-1">Obdurodon</List>
+		<List recon_name="DELETE" recon_no="-1">Ornithorhynchus</List>
+		<List recon_name="DELETE" recon_no="-1">Tachyglossus</List>
+		<List recon_name="DELETE" recon_no="-1">Fruitafossor</List>
+		<List recon_name="DELETE" recon_no="-1">Gobiconodon</List>
+		<List recon_name="DELETE" recon_no="-1">Repenomamus</List>
+		<List recon_name="DELETE" recon_no="-1">Amphilestes</List>
+		<List recon_name="DELETE" recon_no="-1">Yanoconodon</List>
+		<List recon_name="DELETE" recon_no="-1">Liaoconodon</List>
+		<List recon_name="DELETE" recon_no="-1">Jeholodens</List>
+		<List recon_name="DELETE" recon_no="-1">Trioracodon</List>
+		<List recon_name="DELETE" recon_no="-1">Priacodon</List>
+		<List recon_name="DELETE" recon_no="-1">Tinodon</List>
+		<List recon_name="DELETE" recon_no="-1">Akidolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Spalacotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Zhangheotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Maotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Origolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Anebodon</List>
+		<List recon_name="DELETE" recon_no="-1">Lactodens</List>
+		<List recon_name="DELETE" recon_no="-1">Kiyatherium</List>
+		<List recon_name="DELETE" recon_no="-1">Dryolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Henkelotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Amphitherium</List>
+		<List recon_name="DELETE" recon_no="-1">Peramus</List>
+		<List recon_name="DELETE" recon_no="-1">Vincelestes</List>
+		<List recon_name="DELETE" recon_no="-1">Nanolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Kielantherium</List>
+		<List recon_name="DELETE" recon_no="-1">Aegialodon</List>
+		<List recon_name="DELETE" recon_no="-1">Montanalestes</List>
+		<List recon_name="DELETE" recon_no="-1">Prokennalestes</List>
+		<List recon_name="DELETE" recon_no="-1">Murtoilestes</List>
+		<List recon_name="DELETE" recon_no="-1">Eomaia</List>
+		<List recon_name="DELETE" recon_no="-1">Juramaia</List>
+		<List recon_name="DELETE" recon_no="-1">Kennalestes</List>
+		<List recon_name="DELETE" recon_no="-1">Asioryctes</List>
+		<List recon_name="DELETE" recon_no="-1">Ukhaatherium</List>
+		<List recon_name="DELETE" recon_no="-1">Zalambdalestes</List>
+		<List recon_name="DELETE" recon_no="-1">Daulestes</List>
+		<List recon_name="DELETE" recon_no="-1">Aspanlestes</List>
+		<List recon_name="DELETE" recon_no="-1">Eoungulatum</List>
+		<List recon_name="DELETE" recon_no="-1">Cimolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Gypsonictops</List>
+		<List recon_name="DELETE" recon_no="-1">Protungulatum</List>
+		<List recon_name="DELETE" recon_no="-1">Erinaceus</List>
+		<List recon_name="DELETE" recon_no="-1">Leptictis</List>
+		<List recon_name="DELETE" recon_no="-1">Canis</List>
+		<List recon_name="DELETE" recon_no="-1">Felis</List>
+		<List recon_name="DELETE" recon_no="-1">Rattus</List>
+		<List recon_name="DELETE" recon_no="-1">Oryctolagus</List>
+		<List recon_name="DELETE" recon_no="-1">Bradypus</List>
+		<List recon_name="DELETE" recon_no="-1">Tamandua</List>
+		<List recon_name="DELETE" recon_no="-1">Glyptotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Dasypus</List>
+		<List recon_name="DELETE" recon_no="-1">Chaetophractus</List>
+		<List recon_name="DELETE" recon_no="-1">Euphractus</List>
+		<List recon_name="DELETE" recon_no="-1">Holoclemensia</List>
+		<List recon_name="DELETE" recon_no="-1">Deltatheridium</List>
+		<List recon_name="DELETE" recon_no="-1">Atokatheridium</List>
+		<List recon_name="DELETE" recon_no="-1">Sulestes</List>
+		<List recon_name="DELETE" recon_no="-1">Asiatherium</List>
+		<List recon_name="DELETE" recon_no="-1">Kokopellia</List>
+		<List recon_name="DELETE" recon_no="-1">Anchistodelphys</List>
+		<List recon_name="DELETE" recon_no="-1">Albertatherium</List>
+		<List recon_name="DELETE" recon_no="-1">Didelphodon</List>
+		<List recon_name="DELETE" recon_no="-1">Pediomys</List>
+		<List recon_name="DELETE" recon_no="-1">Turgidodon</List>
+		<List recon_name="DELETE" recon_no="-1">Mayulestes</List>
+		<List recon_name="DELETE" recon_no="-1">Pucadelphys</List>
+		<List recon_name="DELETE" recon_no="-1">Andinodelphys</List>
+		<List recon_name="DELETE" recon_no="-1">Didelphis</List>
+		<List recon_name="DELETE" recon_no="-1">Marmosa</List>
+		<List recon_name="DELETE" recon_no="-1">Caenolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Dasyurus</List>
+		<List recon_name="DELETE" recon_no="-1">Perameles</List>
+		<List recon_name="DELETE" recon_no="-1">Dromiciops</List>
+		<List recon_name="DELETE" recon_no="-1">Thylacomyidae</List>
+		<List recon_name="DELETE" recon_no="-1">Macropus</List>
+		<List recon_name="DELETE" recon_no="-1">Acrobates</List>
+		<List recon_name="DELETE" recon_no="-1">Phascolarctos</List>
+		<List recon_name="DELETE" recon_no="-1">Vombatus</List>
+		<List recon_name="DELETE" recon_no="-1">Phalanger</List>
+		<List recon_name="DELETE" recon_no="-1">Pseudocheirus</List>
+		<List recon_name="DELETE" recon_no="-1">Petauroides</List>
+		<List recon_name="DELETE" recon_no="-1">Volaticotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Sinodelphys</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="505">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Mao_etal_2020a</Filename>
+	<Parent>Han_etal_inpressb</Parent>
+	<Sibling/>
+</SourceTree>

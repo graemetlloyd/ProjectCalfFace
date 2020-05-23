@@ -1,0 +1,39 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=25 NCHAR=23 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Heptodon_posticus        00000000000000000000000
+Hyrachyus_eximius        10000000000000000000000
+Hyrachyus_princeps       11100000000000000000000
+Rostriamynodon_grangeri  11111000000000000000000
+Amynodon_advenus         11111000000000000000000
+F_totadentata            11110111100000000000000
+Pappaceras_confluens     11110111110000000000000
+Pappaceras_minuta        11110111010000000000000
+Pap_meiomenus            11110111000000000000000
+Triplopus_cubitalis      11000000001000000000000
+H_nebraskensis           11000000001111000000000
+Pro_meridionale          11000000001100000000000
+Epitriplopus_uintensis   11000000001110000000000
+Triplopides_rieli        11000000001111100000000
+Ardynia_praecox          11000000001111100000000
+Eggysodon_osborni        11110100000000011100000
+Allacerops_turgaica      11110100000000011100000
+Proeggysodon_qiui        11110100000000011000000
+J_sharamurenensis        11110100000000010011000
+U_intermedium            11110100000000010011100
+Par_grangeri             11110100000000010011100
+Uintaceras_radinskyi     11110110000000000000000
+Teletaceras_borissiaki   11110100000000010010010
+Trigonias_osborni        11110100000000010010011
+S_occidentalis           11110100000000010010011
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

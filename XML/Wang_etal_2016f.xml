@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wang, H.-B.</List>
+			<List>Bai, B.</List>
+			<List>Meng, J.</List>
+			<List>Wang, Y.-Q.</List>
+		</Author>
+		<Year>2016</Year>
+		<Title>Earliest known unequivocal rhinocerotoid sheds new light on the origin of Giant Rhinos and phylogeny of early rhinocerotoids</Title>
+		<Journal>Scientific Reports</Journal>
+		<Volume>6</Volume>
+		<Pages>39607</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List recon_name="DELETE" recon_no="-1">Heptodon_posticus</List>
+		<List recon_name="Hyrachyus_eximius" recon_no="47274">Hyrachyus_eximius</List>
+		<List recon_name="DELETE" recon_no="-1">Hyrachyus_princeps</List>
+		<List recon_name="DELETE" recon_no="-1">Rostriamynodon_grangeri</List>
+		<List recon_name="DELETE" recon_no="-1">Amynodon_advenus</List>
+		<List recon_name="DELETE" recon_no="-1">F_totadentata</List>
+		<List recon_name="DELETE" recon_no="-1">Pappaceras_confluens</List>
+		<List recon_name="DELETE" recon_no="-1">Pappaceras_minuta</List>
+		<List recon_name="DELETE" recon_no="-1">Pap_meiomenus</List>
+		<List recon_name="DELETE" recon_no="-1">Triplopus_cubitalis</List>
+		<List recon_name="DELETE" recon_no="-1">H_nebraskensis</List>
+		<List recon_name="DELETE" recon_no="-1">Pro_meridionale</List>
+		<List recon_name="DELETE" recon_no="-1">Epitriplopus_uintensis</List>
+		<List recon_name="DELETE" recon_no="-1">Triplopides_rieli</List>
+		<List recon_name="DELETE" recon_no="-1">Ardynia_praecox</List>
+		<List recon_name="DELETE" recon_no="-1">Eggysodon_osborni</List>
+		<List recon_name="DELETE" recon_no="-1">Allacerops_turgaica</List>
+		<List recon_name="DELETE" recon_no="-1">Proeggysodon_qiui</List>
+		<List recon_name="DELETE" recon_no="-1">J_sharamurenensis</List>
+		<List recon_name="DELETE" recon_no="-1">U_intermedium</List>
+		<List recon_name="DELETE" recon_no="-1">Par_grangeri</List>
+		<List recon_name="DELETE" recon_no="-1">Uintaceras_radinskyi</List>
+		<List recon_name="DELETE" recon_no="-1">Teletaceras_borissiaki</List>
+		<List recon_name="Trigonias_osborni" recon_no="52444">Trigonias_osborni</List>
+		<List recon_name="DELETE" recon_no="-1">S_occidentalis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="203">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wang_etal_2016f</Filename>
+	<Parent>Antoine_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

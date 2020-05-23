@@ -1,0 +1,103 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bi, S.-D.</List>
+			<List>Zheng, X.-T.</List>
+			<List>Wang, X.-L.</List>
+			<List>Cignetti, N. E.</List>
+			<List>Yang, S.-L.</List>
+			<List>Wible, J. R.</List>
+		</Author>
+		<Year>2018</Year>
+		<Title>An Early Cretaceous eutherian and the placental-marsupial dichotomy</Title>
+		<Journal>Nature</Journal>
+		<Volume>558</Volume>
+		<Pages>390-395</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="64">
+		<List recon_name="DELETE" recon_no="-1">Zhangheotherium_quinquecuspidens</List>
+		<List recon_name="DELETE" recon_no="-1">Henkelotherium_guimarotae</List>
+		<List recon_name="DELETE" recon_no="-1">Dryolestes_leirensis</List>
+		<List recon_name="DELETE" recon_no="-1">Cronopio_dentiacutus</List>
+		<List recon_name="DELETE" recon_no="-1">Necrolestes_patagonensis</List>
+		<List recon_name="DELETE" recon_no="-1">Palaeoxonodon_ooliticus</List>
+		<List recon_name="DELETE" recon_no="-1">Nanolestes_drescherae</List>
+		<List recon_name="DELETE" recon_no="-1">Peramus</List>
+		<List recon_name="DELETE" recon_no="-1">Vincelestes_neuquenianus</List>
+		<List recon_name="DELETE" recon_no="-1">Kielantherium_gobiensis</List>
+		<List recon_name="DELETE" recon_no="-1">Aegialodon_dawsoni</List>
+		<List recon_name="DELETE" recon_no="-1">Montanalestes_keeblerorum</List>
+		<List recon_name="DELETE" recon_no="-1">Prokennalestes</List>
+		<List recon_name="DELETE" recon_no="-1">Murtoilestes_abramovi</List>
+		<List recon_name="DELETE" recon_no="-1">Sinodelphys_szalayi</List>
+		<List recon_name="DELETE" recon_no="-1">Ambolestes_zhoui</List>
+		<List recon_name="DELETE" recon_no="-1">Acristatherium_yanensis</List>
+		<List recon_name="DELETE" recon_no="-1">Eomaia_scansoria</List>
+		<List recon_name="DELETE" recon_no="-1">Juramaia_sinensis</List>
+		<List recon_name="DELETE" recon_no="-1">Sasayamamylos_kawaii</List>
+		<List recon_name="DELETE" recon_no="-1">Bobolestes_zenge</List>
+		<List recon_name="DELETE" recon_no="-1">Eozhelestes_mangit</List>
+		<List recon_name="DELETE" recon_no="-1">Paranyctoides</List>
+		<List recon_name="DELETE" recon_no="-1">Parazhelestes</List>
+		<List recon_name="DELETE" recon_no="-1">Aspanlestes_aptap</List>
+		<List recon_name="DELETE" recon_no="-1">Eoungulatum_kudukensis</List>
+		<List recon_name="DELETE" recon_no="-1">Batodon_tenuis</List>
+		<List recon_name="DELETE" recon_no="-1">Maelestes_gobiensis</List>
+		<List recon_name="DELETE" recon_no="-1">Daulestes</List>
+		<List recon_name="DELETE" recon_no="-1">Bulaklestes_kezbe</List>
+		<List recon_name="DELETE" recon_no="-1">Uchkudukodon_nessovi</List>
+		<List recon_name="DELETE" recon_no="-1">Kennalestes_gobiensis</List>
+		<List recon_name="DELETE" recon_no="-1">Asioryctes_nemegtensis</List>
+		<List recon_name="DELETE" recon_no="-1">Ukhaatherium_nessovi</List>
+		<List recon_name="DELETE" recon_no="-1">Zhangolestes_jilinensis</List>
+		<List recon_name="DELETE" recon_no="-1">Kulbeckia_kulbecke</List>
+		<List recon_name="DELETE" recon_no="-1">Barunlestes_butleri</List>
+		<List recon_name="DELETE" recon_no="-1">Zalambdalestes_lechei</List>
+		<List recon_name="DELETE" recon_no="-1">Gypsonictops</List>
+		<List recon_name="DELETE" recon_no="-1">Solenodon_paradoxus</List>
+		<List recon_name="DELETE" recon_no="-1">Leptictis</List>
+		<List recon_name="DELETE" recon_no="-1">Dasypus_novemcinctus</List>
+		<List recon_name="DELETE" recon_no="-1">Ptilocercus_lowii</List>
+		<List recon_name="DELETE" recon_no="-1">Deltatheridium_pretirtuberculare</List>
+		<List recon_name="DELETE" recon_no="-1">Oklatheridium</List>
+		<List recon_name="DELETE" recon_no="-1">Lotheridium_mengi</List>
+		<List recon_name="DELETE" recon_no="-1">Atokatheridium_boreni</List>
+		<List recon_name="DELETE" recon_no="-1">Sulestes_karakshi</List>
+		<List recon_name="DELETE" recon_no="-1">Asiatherium_reshetovi</List>
+		<List recon_name="DELETE" recon_no="-1">Kokopellia_juddi</List>
+		<List recon_name="DELETE" recon_no="-1">Anchistodelphys</List>
+		<List recon_name="DELETE" recon_no="-1">Didelphodon_vorax</List>
+		<List recon_name="DELETE" recon_no="-1">Mayulestes_ferox</List>
+		<List recon_name="DELETE" recon_no="-1">Pucadelphys_andinus</List>
+		<List recon_name="DELETE" recon_no="-1">Andinodelphys_cochabambensis</List>
+		<List recon_name="DELETE" recon_no="-1">Didelphis_virginiana</List>
+		<List recon_name="DELETE" recon_no="-1">Dromiciops_gliroides</List>
+		<List recon_name="DELETE" recon_no="-1">Orycteropus_afer</List>
+		<List recon_name="DELETE" recon_no="-1">Cimolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Altacreodus_magnus</List>
+		<List recon_name="DELETE" recon_no="-1">Ambilestes_cerberoides</List>
+		<List recon_name="DELETE" recon_no="-1">Scollardius_propalaeryctes</List>
+		<List recon_name="DELETE" recon_no="-1">Zhalmouzia_bazhanovi</List>
+		<List recon_name="DELETE" recon_no="-1">Nanocuris_improvida</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="401">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bi_etal_2018a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

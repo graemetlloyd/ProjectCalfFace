@@ -26,7 +26,7 @@ IncludeSpecimenLevelOTUs = TRUE
 BackboneConstraint = NULL
 MonophylyConstraint = NULL
 ExcludeTaxonomyMRP = FALSE
-#SpeciesToExclude=c()
+
 # Build synpasida metatree:
 Synapsida <- metatree::Metatree(MRPDirectory = MRPDirectory, XMLDirectory = XMLDirectory, TargetClade = TargetClade, InclusiveDataList = InclusiveDataList, ExclusiveDataList = ExclusiveDataList, MissingSpecies = MissingSpecies, SpeciesToExclude = SpeciesToExclude, RelativeWeights = RelativeWeights, WeightCombination = WeightCombination, ReportContradictionsToScreen = ReportContradictionsToScreen)
 

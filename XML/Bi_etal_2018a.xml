@@ -20,70 +20,70 @@
 		<Editor/>
 	</Source>
 	<Taxa number="64">
-		<List recon_name="DELETE" recon_no="-1">Zhangheotherium_quinquecuspidens</List>
-		<List recon_name="DELETE" recon_no="-1">Henkelotherium_guimarotae</List>
-		<List recon_name="DELETE" recon_no="-1">Dryolestes_leirensis</List>
-		<List recon_name="DELETE" recon_no="-1">Cronopio_dentiacutus</List>
-		<List recon_name="DELETE" recon_no="-1">Necrolestes_patagonensis</List>
-		<List recon_name="DELETE" recon_no="-1">Palaeoxonodon_ooliticus</List>
-		<List recon_name="DELETE" recon_no="-1">Nanolestes_drescherae</List>
+		<List recon_name="Zhangheotherium_quinquecuspidens" recon_no="65258">Zhangheotherium_quinquecuspidens</List>
+		<List recon_name="Henkelotherium_guimarotae" recon_no="212375">Henkelotherium_guimarotae</List>
+		<List recon_name="Dryolestes_leirensis" recon_no="212351">Dryolestes_leirensis</List>
+		<List recon_name="Cronopio_dentiacutus" recon_no="204734">Cronopio_dentiacutus</List>
+		<List recon_name="Necrolestes_patagonensis" recon_no="244538">Necrolestes_patagonensis</List>
+		<List recon_name="Palaeoxonodon_ooliticus" recon_no="206737">Palaeoxonodon_ooliticus</List>
+		<List recon_name="Nanolestes_drescherae" recon_no="213203">Nanolestes_drescherae</List>
 		<List recon_name="DELETE" recon_no="-1">Peramus</List>
-		<List recon_name="DELETE" recon_no="-1">Vincelestes_neuquenianus</List>
-		<List recon_name="DELETE" recon_no="-1">Kielantherium_gobiensis</List>
-		<List recon_name="DELETE" recon_no="-1">Aegialodon_dawsoni</List>
-		<List recon_name="DELETE" recon_no="-1">Montanalestes_keeblerorum</List>
+		<List recon_name="Vincelestes_neuquenianus" recon_no="141361">Vincelestes_neuquenianus</List>
+		<List recon_name="Kielantherium_gobiensis" recon_no="113800">Kielantherium_gobiensis</List>
+		<List recon_name="Aegialodon_dawsoni" recon_no="175106">Aegialodon_dawsoni</List>
+		<List recon_name="Montanalestes_keeblerorum" recon_no="48803">Montanalestes_keeblerorum</List>
 		<List recon_name="DELETE" recon_no="-1">Prokennalestes</List>
-		<List recon_name="DELETE" recon_no="-1">Murtoilestes_abramovi</List>
-		<List recon_name="DELETE" recon_no="-1">Sinodelphys_szalayi</List>
-		<List recon_name="DELETE" recon_no="-1">Ambolestes_zhoui</List>
-		<List recon_name="DELETE" recon_no="-1">Acristatherium_yanensis</List>
-		<List recon_name="DELETE" recon_no="-1">Eomaia_scansoria</List>
-		<List recon_name="DELETE" recon_no="-1">Juramaia_sinensis</List>
-		<List recon_name="DELETE" recon_no="-1">Sasayamamylos_kawaii</List>
-		<List recon_name="DELETE" recon_no="-1">Bobolestes_zenge</List>
-		<List recon_name="DELETE" recon_no="-1">Eozhelestes_mangit</List>
+		<List recon_name="Murtoilestes_abramovi" recon_no="213234">Murtoilestes_abramovi</List>
+		<List recon_name="Sinodelphys_szalayi" recon_no="91354">Sinodelphys_szalayi</List>
+		<List recon_name="Ambolestes_zhoui" recon_no="371742">Ambolestes_zhoui</List>
+		<List recon_name="Acristatherium_yanensis" recon_no="197847">Acristatherium_yanensis</List>
+		<List recon_name="Eomaia_scansoria" recon_no="67563">Eomaia_scansoria</List>
+		<List recon_name="Juramaia_sinensis" recon_no="196928">Juramaia_sinensis</List>
+		<List recon_name="Sasayamamylos_kawaii" recon_no="264072">Sasayamamylos_kawaii</List>
+		<List recon_name="Bobolestes_zenge" recon_no="137733">Bobolestes_zenge</List>
+		<List recon_name="Eozhelestes_mangit" recon_no="137738">Eozhelestes_mangit</List>
 		<List recon_name="DELETE" recon_no="-1">Paranyctoides</List>
 		<List recon_name="DELETE" recon_no="-1">Parazhelestes</List>
-		<List recon_name="DELETE" recon_no="-1">Aspanlestes_aptap</List>
-		<List recon_name="DELETE" recon_no="-1">Eoungulatum_kudukensis</List>
-		<List recon_name="DELETE" recon_no="-1">Batodon_tenuis</List>
-		<List recon_name="DELETE" recon_no="-1">Maelestes_gobiensis</List>
+		<List recon_name="Aspanlestes_aptap" recon_no="137972">Aspanlestes_aptap</List>
+		<List recon_name="Eoungulatum_kudukensis" recon_no="213248">Eoungulatum_kudukensis</List>
+		<List recon_name="Batodon_tenuis" recon_no="44482">Batodon_tenuis</List>
+		<List recon_name="Maelestes_gobiensis" recon_no="143918">Maelestes_gobiensis</List>
 		<List recon_name="DELETE" recon_no="-1">Daulestes</List>
-		<List recon_name="DELETE" recon_no="-1">Bulaklestes_kezbe</List>
-		<List recon_name="DELETE" recon_no="-1">Uchkudukodon_nessovi</List>
-		<List recon_name="DELETE" recon_no="-1">Kennalestes_gobiensis</List>
-		<List recon_name="DELETE" recon_no="-1">Asioryctes_nemegtensis</List>
-		<List recon_name="DELETE" recon_no="-1">Ukhaatherium_nessovi</List>
-		<List recon_name="DELETE" recon_no="-1">Zhangolestes_jilinensis</List>
-		<List recon_name="DELETE" recon_no="-1">Kulbeckia_kulbecke</List>
-		<List recon_name="DELETE" recon_no="-1">Barunlestes_butleri</List>
-		<List recon_name="DELETE" recon_no="-1">Zalambdalestes_lechei</List>
+		<List recon_name="Bulaklestes_kezbe" recon_no="81053">Bulaklestes_kezbe</List>
+		<List recon_name="Uchkudukodon_nessovi" recon_no="81051">Uchkudukodon_nessovi</List>
+		<List recon_name="Kennalestes_gobiensis" recon_no="57349">Kennalestes_gobiensis</List>
+		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes_nemegtensis</List>
+		<List recon_name="Ukhaatherium_nessovi" recon_no="137753">Ukhaatherium_nessovi</List>
+		<List recon_name="Zhangolestes_jilinensis" recon_no="102838">Zhangolestes_jilinensis</List>
+		<List recon_name="Kulbeckia_kulbecke" recon_no="137977">Kulbeckia_kulbecke</List>
+		<List recon_name="Barunlestes_butleri" recon_no="57289">Barunlestes_butleri</List>
+		<List recon_name="Zalambdalestes_lechei" recon_no="70459">Zalambdalestes_lechei</List>
 		<List recon_name="DELETE" recon_no="-1">Gypsonictops</List>
-		<List recon_name="DELETE" recon_no="-1">Solenodon_paradoxus</List>
+		<List recon_name="Solenodon_paradoxus" recon_no="385513">Solenodon_paradoxus</List>
 		<List recon_name="DELETE" recon_no="-1">Leptictis</List>
-		<List recon_name="DELETE" recon_no="-1">Dasypus_novemcinctus</List>
-		<List recon_name="DELETE" recon_no="-1">Ptilocercus_lowii</List>
-		<List recon_name="DELETE" recon_no="-1">Deltatheridium_pretirtuberculare</List>
+		<List recon_name="Dasypus_novemcinctus" recon_no="45560">Dasypus_novemcinctus</List>
+		<List recon_name="Ptilocercus_lowii" recon_no="234229">Ptilocercus_lowii</List>
+		<List recon_name="Deltatheridium_pretrituberculare" recon_no="70456">Deltatheridium_pretirtuberculare</List>
 		<List recon_name="DELETE" recon_no="-1">Oklatheridium</List>
-		<List recon_name="DELETE" recon_no="-1">Lotheridium_mengi</List>
-		<List recon_name="DELETE" recon_no="-1">Atokatheridium_boreni</List>
-		<List recon_name="DELETE" recon_no="-1">Sulestes_karakshi</List>
-		<List recon_name="DELETE" recon_no="-1">Asiatherium_reshetovi</List>
-		<List recon_name="DELETE" recon_no="-1">Kokopellia_juddi</List>
+		<List recon_name="Lotheridium_mengi" recon_no="319138">Lotheridium_mengi</List>
+		<List recon_name="Atokatheridium_boreni" recon_no="44378">Atokatheridium_boreni</List>
+		<List recon_name="Sulestes_karakshi" recon_no="137970">Sulestes_karakshi</List>
+		<List recon_name="Asiatherium_reshetovi" recon_no="183890">Asiatherium_reshetovi</List>
+		<List recon_name="Kokopellia_juddi" recon_no="47450">Kokopellia_juddi</List>
 		<List recon_name="DELETE" recon_no="-1">Anchistodelphys</List>
-		<List recon_name="DELETE" recon_no="-1">Didelphodon_vorax</List>
-		<List recon_name="DELETE" recon_no="-1">Mayulestes_ferox</List>
-		<List recon_name="DELETE" recon_no="-1">Pucadelphys_andinus</List>
-		<List recon_name="DELETE" recon_no="-1">Andinodelphys_cochabambensis</List>
-		<List recon_name="DELETE" recon_no="-1">Didelphis_virginiana</List>
-		<List recon_name="DELETE" recon_no="-1">Dromiciops_gliroides</List>
-		<List recon_name="DELETE" recon_no="-1">Orycteropus_afer</List>
+		<List recon_name="Didelphodon_vorax" recon_no="45711">Didelphodon_vorax</List>
+		<List recon_name="Mayulestes_ferox" recon_no="246573">Mayulestes_ferox</List>
+		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys_andinus</List>
+		<List recon_name="Andinodelphys_cochabambensis" recon_no="266231">Andinodelphys_cochabambensis</List>
+		<List recon_name="Didelphis_virginiana" recon_no="45705">Didelphis_virginiana</List>
+		<List recon_name="Dromiciops_gliroides" recon_no="234408">Dromiciops_gliroides</List>
+		<List recon_name="Orycteropus_afer" recon_no="119862">Orycteropus_afer</List>
 		<List recon_name="DELETE" recon_no="-1">Cimolestes</List>
-		<List recon_name="DELETE" recon_no="-1">Altacreodus_magnus</List>
-		<List recon_name="DELETE" recon_no="-1">Ambilestes_cerberoides</List>
-		<List recon_name="DELETE" recon_no="-1">Scollardius_propalaeryctes</List>
-		<List recon_name="DELETE" recon_no="-1">Zhalmouzia_bazhanovi</List>
-		<List recon_name="DELETE" recon_no="-1">Nanocuris_improvida</List>
+		<List recon_name="Altacreodus_magnus" recon_no="331293">Altacreodus_magnus</List>
+		<List recon_name="Ambilestes_cerberoides" recon_no="331295">Ambilestes_cerberoides</List>
+		<List recon_name="Scollardius_propalaeoryctes" recon_no="331297">Scollardius_propalaeryctes</List>
+		<List recon_name="Zhalmouzia_bazhanovi" recon_no="249249">Zhalmouzia_bazhanovi</List>
+		<List recon_name="Nanocuris_improvida" recon_no="109639">Nanocuris_improvida</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Han, G.</List>
+			<List>Meng, J.</List>
+		</Author>
+		<Year>2016</Year>
+		<Title>A new spalacolestine mammal from the Early Cretaceous Jehol Biota and implications for the morphology, phylogeny, and palaeobiology of Laurasian 'symmetrodontans'</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>178</Volume>
+		<Pages>343-380</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List recon_name="DELETE" recon_no="-1">Morganuccodon</List>
+		<List recon_name="DELETE" recon_no="-1">Gobiotheriodon</List>
+		<List recon_name="DELETE" recon_no="-1">Kuehneotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Tinodon</List>
+		<List recon_name="DELETE" recon_no="-1">Akidolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Heishanlestes</List>
+		<List recon_name="DELETE" recon_no="-1">Maotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Spalacolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Spalacotheridium</List>
+		<List recon_name="DELETE" recon_no="-1">Spalacotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Spalacotheroides</List>
+		<List recon_name="DELETE" recon_no="-1">Symmetrodontoides</List>
+		<List recon_name="DELETE" recon_no="-1">Symmetrolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Yaverlestes</List>
+		<List recon_name="DELETE" recon_no="-1">Zhangheotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Lactodens</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="29">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Han_et_Meng_2016a</Filename>
+	<Parent>Sweetman_2008a</Parent>
+	<Sibling/>
+</SourceTree>

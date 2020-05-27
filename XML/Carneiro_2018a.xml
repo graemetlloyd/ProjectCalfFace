@@ -1,0 +1,111 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carneiro, L. M.</List>
+		</Author>
+		<Year>2018</Year>
+		<Title>A new species of <em>Varalphadon</em> (Mammalia, Metatheria, Sparassodonta) from the upper Cenomanian of southern Utah, North America: phylogenetic and biogeographic insights</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>84</Volume>
+		<Pages>88-96</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="77">
+		<List recon_name="Kielantherium_gobiense" recon_no="204152">Kielantherium_gobiense</List>
+		<List recon_name="Juramaia_sinensis" recon_no="196928">Juramaia_sinensis</List>
+		<List recon_name="Prokennalestes_abramovi" recon_no="203457">Prokennalestes_abramovi</List>
+		<List recon_name="Holoclemensia_texana" recon_no="47068">Holoclemensia_texana</List>
+		<List recon_name="Pappotherium_pattersoni" recon_no="49766">Pappotherium_pattersoni</List>
+		<List recon_name="Oklatheridium_szalayi" recon_no="204004">Oklatheridium_szalayi</List>
+		<List recon_name="Atokatheridium_boreni" recon_no="44378">Atokatheridium_boreni</List>
+		<List recon_name="Sulestes_karakshi" recon_no="137970">Sulestes_karakshi</List>
+		<List recon_name="Tsagandelta_dashzevegi" recon_no="319140">Tsagandelta_dashzevegi</List>
+		<List recon_name="Nanocuris_improvida" recon_no="109639">Nanocuris_improvida</List>
+		<List recon_name="Deltatheroides_cretacicus" recon_no="70457">Deltatheroides_cretacicus</List>
+		<List recon_name="Deltatheridium_pretrituberculare" recon_no="70456">Deltatheridium_pretrituberculare</List>
+		<List recon_name="Lotheridium_mengi" recon_no="319138">Lotheridium_mengi</List>
+		<List recon_name="Asiatherium_reshetovi" recon_no="183890">Asiatherium_reshetovi</List>
+		<List recon_name="Kokopellia_juddi" recon_no="47450">Kokopellia_juddi</List>
+		<List recon_name="Iqualadelphis_lactea" recon_no="47365">Iqualadelphis_lactea</List>
+		<List recon_name="DELETE" recon_no="-1">Anchistodelphys_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Varalphadon_spp</List>
+		<List recon_name="Allqokirus_australis" recon_no="246574">Allqokirus_australis</List>
+		<List recon_name="Patene_simpsoni" recon_no="247100">Patene_simpsoni</List>
+		<List recon_name="Nemolestes_spalacotherinus" recon_no="315855">Nemolestes_spalacotherinus</List>
+		<List recon_name="Hondadelphys_fieldsi" recon_no="251322">Hondadelphys_fieldsi</List>
+		<List recon_name="DELETE" recon_no="-1">Sipalocyon_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Borhyaenoidea</List>
+		<List recon_name="DELETE" recon_no="-1">Pariadens_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Eodelphis_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Didelphodon_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Aquiladelphis_spp</List>
+		<List recon_name="Pediomys_elegans" recon_no="50063">Pediomys_elegans</List>
+		<List recon_name="DELETE" recon_no="-1">Protolambda_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Leptalestes_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Eomicrobiotherium_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Pachybiotherium_spp</List>
+		<List recon_name="Szalinia_gracilis" recon_no="139750">Szalinia_gracilis</List>
+		<List recon_name="Gaylordia_macrocynodonta" recon_no="247083">Gaylordia_macrocynodonta</List>
+		<List recon_name="Tiulordia_floresi" recon_no="266233">Tiulordia_floresi</List>
+		<List recon_name="DELETE" recon_no="-1">Minusculodelphis_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Peradectes_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Thylacodon_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Mimoperadectes_spp</List>
+		<List recon_name="Andinodelphys_cochabambensis" recon_no="266231">Andinodelphys_cochabambensis</List>
+		<List recon_name="Mayulestes_ferox" recon_no="246573">Mayulestes_ferox</List>
+		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys_andinus</List>
+		<List recon_name="DELETE" recon_no="-1">Protalphadon_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Eoalphadon_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Alphadon_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Albertatherium_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Nortedelphys_spp</List>
+		<List recon_name="Hatcheritherium_alpha" recon_no="160062">Hatcheritherium_alpha</List>
+		<List recon_name="Zeusdelphys_complicatus" recon_no="247304">Zeusdelphys_complicatus</List>
+		<List recon_name="Ectocentrocristus_foxi" recon_no="45964">Ectocentrocristus_foxi</List>
+		<List recon_name="Varalphadon_crebreforme" recon_no="52630">Varalphadon_crebreforme</List>
+		<List recon_name="Mirandatherium_alipioi" recon_no="250731">Mirandatherium_alipioi</List>
+		<List recon_name="DELETE" recon_no="-1">Procaroloameghinia_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Caroloameghinia_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Dakotadens_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Iugomortiferum_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Turgidodon_spp</List>
+		<List recon_name="Roberthoffstetteria_nationalgeographica" recon_no="139784">Roberthoffstetteria_nationalgeographica</List>
+		<List recon_name="DELETE" recon_no="-1">Eudolops_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Kramadolops_spp</List>
+		<List recon_name="Epidolops_ameghinoi" recon_no="247098">Epidolops_ameghinoi</List>
+		<List recon_name="DELETE" recon_no="-1">Rosendolops_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Prepidolops_spp</List>
+		<List recon_name="Sillustania_quechuense" recon_no="264922">Sillustania_quechuense</List>
+		<List recon_name="Wamradolops_tsullodon" recon_no="276020">Wamradolops_tsullodon</List>
+		<List recon_name="DELETE" recon_no="-1">Klohnia_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Argyrolagus_scagliai</List>
+		<List recon_name="Herpetotherium_valens" recon_no="46901">Herpetotherium_valens</List>
+		<List recon_name="DELETE" recon_no="-1">Didelphis_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Glasbius_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Protodidelphis_spp</List>
+		<List recon_name="Carolocoutoia_ferigoloi" recon_no="247300">Carolocoutoia_ferigoloi</List>
+		<List recon_name="DELETE" recon_no="-1">Caenolestes_spp</List>
+		<List recon_name="Dromiciops_gliroides" recon_no="234408">Dromiciops_gliroides</List>
+		<List recon_name="DELETE" recon_no="-1">Microbiotherium_spp</List>
+		<List recon_name="DELETE" recon_no="-1">Dasyurus_spp</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="324">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carneiro_2018a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

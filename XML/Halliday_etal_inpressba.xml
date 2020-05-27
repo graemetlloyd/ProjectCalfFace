@@ -1,0 +1,213 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Halliday, T. J. D.</List>
+			<List>Upchurch, P.</List>
+			<List>Goswami, A.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Resolving the relationships of Paleocene placental mammals</Title>
+		<Journal>Biological Reviews</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="177">
+		<List recon_name="DELETE" recon_no="-1">Peramus</List>
+		<List recon_name="DELETE" recon_no="-1">Deltatheridium</List>
+		<List recon_name="DELETE" recon_no="-1">Bobolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Paranyctoides</List>
+		<List recon_name="DELETE" recon_no="-1">Sheikhdzheilia</List>
+		<List recon_name="DELETE" recon_no="-1">Alostera</List>
+		<List recon_name="DELETE" recon_no="-1">Lainodon</List>
+		<List recon_name="DELETE" recon_no="-1">Avitotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Gallolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Parazhelestes</List>
+		<List recon_name="DELETE" recon_no="-1">Aspanlestes</List>
+		<List recon_name="DELETE" recon_no="-1">Zhelestes</List>
+		<List recon_name="DELETE" recon_no="-1">Cimolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Maelestes</List>
+		<List recon_name="DELETE" recon_no="-1">Batodon</List>
+		<List recon_name="DELETE" recon_no="-1">Bulaklestes</List>
+		<List recon_name="DELETE" recon_no="-1">Daulestes</List>
+		<List recon_name="DELETE" recon_no="-1">Uchkudukodon</List>
+		<List recon_name="DELETE" recon_no="-1">Kennalestes</List>
+		<List recon_name="DELETE" recon_no="-1">Asioryctes</List>
+		<List recon_name="DELETE" recon_no="-1">Ukhaatherium</List>
+		<List recon_name="DELETE" recon_no="-1">Kulbeckia</List>
+		<List recon_name="DELETE" recon_no="-1">Zhangolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Alymlestes</List>
+		<List recon_name="DELETE" recon_no="-1">Zalambdalestes</List>
+		<List recon_name="DELETE" recon_no="-1">Barunlestes</List>
+		<List recon_name="DELETE" recon_no="-1">Gypsonictops</List>
+		<List recon_name="DELETE" recon_no="-1">Leptictis</List>
+		<List recon_name="DELETE" recon_no="-1">Purgatorius</List>
+		<List recon_name="DELETE" recon_no="-1">Protungulatum</List>
+		<List recon_name="DELETE" recon_no="-1">Vulpavus</List>
+		<List recon_name="DELETE" recon_no="-1">Miacis</List>
+		<List recon_name="DELETE" recon_no="-1">Diacodexis</List>
+		<List recon_name="DELETE" recon_no="-1">Hyopsodus</List>
+		<List recon_name="DELETE" recon_no="-1">Meniscotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Phenacodus</List>
+		<List recon_name="DELETE" recon_no="-1">Ptilocercus</List>
+		<List recon_name="DELETE" recon_no="-1">Notharctus</List>
+		<List recon_name="DELETE" recon_no="-1">Plesiadapis</List>
+		<List recon_name="DELETE" recon_no="-1">Adapis</List>
+		<List recon_name="DELETE" recon_no="-1">Tribosphenomys</List>
+		<List recon_name="DELETE" recon_no="-1">Paramys</List>
+		<List recon_name="DELETE" recon_no="-1">Rhombomylus</List>
+		<List recon_name="DELETE" recon_no="-1">Gomphos</List>
+		<List recon_name="DELETE" recon_no="-1">Blarina</List>
+		<List recon_name="DELETE" recon_no="-1">Solenodon</List>
+		<List recon_name="DELETE" recon_no="-1">Eoryctes</List>
+		<List recon_name="DELETE" recon_no="-1">Potamogale</List>
+		<List recon_name="DELETE" recon_no="-1">Rhynchocyon</List>
+		<List recon_name="DELETE" recon_no="-1">Procavia</List>
+		<List recon_name="DELETE" recon_no="-1">Chaetophractus</List>
+		<List recon_name="DELETE" recon_no="-1">Bradypus</List>
+		<List recon_name="DELETE" recon_no="-1">Tamandua</List>
+		<List recon_name="DELETE" recon_no="-1">Puercolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Chacopterygus</List>
+		<List recon_name="DELETE" recon_no="-1">Betonnia</List>
+		<List recon_name="DELETE" recon_no="-1">Procerberus</List>
+		<List recon_name="DELETE" recon_no="-1">Dissacus</List>
+		<List recon_name="DELETE" recon_no="-1">Chriacus</List>
+		<List recon_name="DELETE" recon_no="-1">Eohippus</List>
+		<List recon_name="DELETE" recon_no="-1">Hyracotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Protoselene</List>
+		<List recon_name="DELETE" recon_no="-1">Hapalodectes</List>
+		<List recon_name="DELETE" recon_no="-1">Pachyaena</List>
+		<List recon_name="DELETE" recon_no="-1">Ankalagon</List>
+		<List recon_name="DELETE" recon_no="-1">Eoconodon</List>
+		<List recon_name="DELETE" recon_no="-1">Mimatuta</List>
+		<List recon_name="DELETE" recon_no="-1">Oxyclaenus</List>
+		<List recon_name="DELETE" recon_no="-1">Cantius</List>
+		<List recon_name="DELETE" recon_no="-1">Apatemys</List>
+		<List recon_name="DELETE" recon_no="-1">Thryptacodon</List>
+		<List recon_name="DELETE" recon_no="-1">Desmatoclaenus</List>
+		<List recon_name="DELETE" recon_no="-1">Loxolophus</List>
+		<List recon_name="DELETE" recon_no="-1">Lambertocyon</List>
+		<List recon_name="DELETE" recon_no="-1">Didelphodus</List>
+		<List recon_name="DELETE" recon_no="-1">Acmeodon</List>
+		<List recon_name="DELETE" recon_no="-1">Gelastops</List>
+		<List recon_name="DELETE" recon_no="-1">Utaetus</List>
+		<List recon_name="DELETE" recon_no="-1">Bunophorus</List>
+		<List recon_name="DELETE" recon_no="-1">Tubulodon</List>
+		<List recon_name="DELETE" recon_no="-1">Adapisorex</List>
+		<List recon_name="DELETE" recon_no="-1">Echinosorex</List>
+		<List recon_name="DELETE" recon_no="-1">Litocherus</List>
+		<List recon_name="DELETE" recon_no="-1">Escavadodon</List>
+		<List recon_name="DELETE" recon_no="-1">Centetodon</List>
+		<List recon_name="DELETE" recon_no="-1">Prolimnocyon</List>
+		<List recon_name="DELETE" recon_no="-1">Pyrocyon</List>
+		<List recon_name="DELETE" recon_no="-1">Molinodus</List>
+		<List recon_name="DELETE" recon_no="-1">Prodiacodon</List>
+		<List recon_name="DELETE" recon_no="-1">Wyolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Palaeanodon</List>
+		<List recon_name="DELETE" recon_no="-1">Eomanis</List>
+		<List recon_name="DELETE" recon_no="-1">Eurotamandua</List>
+		<List recon_name="DELETE" recon_no="-1">Mixodectes</List>
+		<List recon_name="DELETE" recon_no="-1">Leptacodon</List>
+		<List recon_name="DELETE" recon_no="-1">Palaeoryctes</List>
+		<List recon_name="DELETE" recon_no="-1">Aaptoryctes</List>
+		<List recon_name="DELETE" recon_no="-1">Pararyctes</List>
+		<List recon_name="DELETE" recon_no="-1">Aphronorus</List>
+		<List recon_name="DELETE" recon_no="-1">Bessoecetor</List>
+		<List recon_name="DELETE" recon_no="-1">Palaeosinopa</List>
+		<List recon_name="DELETE" recon_no="-1">Anisonchus</List>
+		<List recon_name="DELETE" recon_no="-1">Conacodon</List>
+		<List recon_name="DELETE" recon_no="-1">Ectoconus</List>
+		<List recon_name="DELETE" recon_no="-1">Hemithlaeus</List>
+		<List recon_name="DELETE" recon_no="-1">Periptychus</List>
+		<List recon_name="DELETE" recon_no="-1">Haploconus</List>
+		<List recon_name="DELETE" recon_no="-1">Tetraclaenodon</List>
+		<List recon_name="DELETE" recon_no="-1">Copecion</List>
+		<List recon_name="DELETE" recon_no="-1">Ectocion</List>
+		<List recon_name="DELETE" recon_no="-1">Saxonella</List>
+		<List recon_name="DELETE" recon_no="-1">Cynocephalus</List>
+		<List recon_name="DELETE" recon_no="-1">Onychodectes</List>
+		<List recon_name="DELETE" recon_no="-1">Uropsilus</List>
+		<List recon_name="DELETE" recon_no="-1">Desmana</List>
+		<List recon_name="DELETE" recon_no="-1">Homogalax</List>
+		<List recon_name="DELETE" recon_no="-1">Goniacodon</List>
+		<List recon_name="DELETE" recon_no="-1">Tupaia</List>
+		<List recon_name="DELETE" recon_no="-1">Viverravus</List>
+		<List recon_name="DELETE" recon_no="-1">Arctocyon</List>
+		<List recon_name="DELETE" recon_no="-1">Homacodon</List>
+		<List recon_name="DELETE" recon_no="-1">Teilhardimys</List>
+		<List recon_name="DELETE" recon_no="-1">Orthaspidotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Pleuraspidotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Hilalia</List>
+		<List recon_name="DELETE" recon_no="-1">Heptodon</List>
+		<List recon_name="DELETE" recon_no="-1">Mesonyx</List>
+		<List recon_name="DELETE" recon_no="-1">Sinonyx</List>
+		<List recon_name="DELETE" recon_no="-1">Macrocranion</List>
+		<List recon_name="DELETE" recon_no="-1">Alsaticopithecus</List>
+		<List recon_name="DELETE" recon_no="-1">Wyonycteris</List>
+		<List recon_name="DELETE" recon_no="-1">Parapternodus</List>
+		<List recon_name="DELETE" recon_no="-1">Bisonalveus</List>
+		<List recon_name="DELETE" recon_no="-1">Pentacodon</List>
+		<List recon_name="DELETE" recon_no="-1">Asiostylops</List>
+		<List recon_name="DELETE" recon_no="-1">Arctostylops</List>
+		<List recon_name="DELETE" recon_no="-1">Elpidophorus</List>
+		<List recon_name="DELETE" recon_no="-1">Worlandia</List>
+		<List recon_name="DELETE" recon_no="-1">Plagiomene</List>
+		<List recon_name="DELETE" recon_no="-1">Elphidotarsius</List>
+		<List recon_name="DELETE" recon_no="-1">Esthonyx</List>
+		<List recon_name="DELETE" recon_no="-1">Alcidedorbignya</List>
+		<List recon_name="DELETE" recon_no="-1">Pantolambda</List>
+		<List recon_name="DELETE" recon_no="-1">Titanoides</List>
+		<List recon_name="DELETE" recon_no="-1">Coryphodon</List>
+		<List recon_name="DELETE" recon_no="-1">Cyriacotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Dipsalidictis</List>
+		<List recon_name="DELETE" recon_no="-1">Didymictis</List>
+		<List recon_name="DELETE" recon_no="-1">Uintacyon</List>
+		<List recon_name="DELETE" recon_no="-1">Claenodon</List>
+		<List recon_name="DELETE" recon_no="-1">Anacodon</List>
+		<List recon_name="DELETE" recon_no="-1">Apheliscus</List>
+		<List recon_name="DELETE" recon_no="-1">Haplomylus</List>
+		<List recon_name="DELETE" recon_no="-1">Domnina</List>
+		<List recon_name="DELETE" recon_no="-1">Tytthaena</List>
+		<List recon_name="DELETE" recon_no="-1">Onychonycteris</List>
+		<List recon_name="DELETE" recon_no="-1">Icaronycteris</List>
+		<List recon_name="DELETE" recon_no="-1">Lambdotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Litolophus</List>
+		<List recon_name="DELETE" recon_no="-1">Gobiohyus</List>
+		<List recon_name="DELETE" recon_no="-1">Leptomeryx</List>
+		<List recon_name="DELETE" recon_no="-1">Poebrotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Oreotalpa</List>
+		<List recon_name="DELETE" recon_no="-1">Pakicetus</List>
+		<List recon_name="DELETE" recon_no="-1">Rodhocetus</List>
+		<List recon_name="DELETE" recon_no="-1">Indohyus</List>
+		<List recon_name="DELETE" recon_no="-1">Elomeryx</List>
+		<List recon_name="DELETE" recon_no="-1">Chambius</List>
+		<List recon_name="DELETE" recon_no="-1">Todralestes</List>
+		<List recon_name="DELETE" recon_no="-1">Dilambdogale</List>
+		<List recon_name="DELETE" recon_no="-1">Widanelfarasia</List>
+		<List recon_name="DELETE" recon_no="-1">Protictis</List>
+		<List recon_name="DELETE" recon_no="-1">Lessnessina</List>
+		<List recon_name="DELETE" recon_no="-1">Eritherium</List>
+		<List recon_name="DELETE" recon_no="-1">Pteropus</List>
+		<List recon_name="DELETE" recon_no="-1">Simpsonotus</List>
+		<List recon_name="DELETE" recon_no="-1">Protolipterna</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="681">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Halliday_etal_inpressba</Filename>
+	<Parent/>
+	<Sibling>Halliday_etal_inpressbb</Sibling>
+</SourceTree>

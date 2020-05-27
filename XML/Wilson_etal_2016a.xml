@@ -1,0 +1,86 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wilson, G. P.</List>
+			<List>Ekdale, E. G.</List>
+			<List>Hoganson, J. W.</List>
+			<List>Calede, J. J.</List>
+			<List>Linden, A. V.</List>
+		</Author>
+		<Year>2016</Year>
+		<Title>A large carnivorous mammal from the Late Cretaceous and the North American origin of marsupials</Title>
+		<Journal>Nature Communications</Journal>
+		<Volume>7</Volume>
+		<Pages>13734</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="48">
+		<List recon_name="DELETE" recon_no="-1">Amphitherium_et_Dryolestidae</List>
+		<List recon_name="DELETE" recon_no="-1">Peramus</List>
+		<List recon_name="DELETE" recon_no="-1">Vincelestes</List>
+		<List recon_name="DELETE" recon_no="-1">Kielantherium</List>
+		<List recon_name="DELETE" recon_no="-1">Potamotelses</List>
+		<List recon_name="DELETE" recon_no="-1">Kermackia</List>
+		<List recon_name="DELETE" recon_no="-1">Holoclemensia</List>
+		<List recon_name="DELETE" recon_no="-1">Pappotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Deltatheridium</List>
+		<List recon_name="DELETE" recon_no="-1">Deltatheroides</List>
+		<List recon_name="DELETE" recon_no="-1">Tsagandelta</List>
+		<List recon_name="DELETE" recon_no="-1">Oklatheridium</List>
+		<List recon_name="DELETE" recon_no="-1">Sulestes</List>
+		<List recon_name="DELETE" recon_no="-1">Atokatheridium</List>
+		<List recon_name="DELETE" recon_no="-1">Nanocuris</List>
+		<List recon_name="DELETE" recon_no="-1">Lotheridium</List>
+		<List recon_name="DELETE" recon_no="-1">Gurlin_Tsav_Skull</List>
+		<List recon_name="DELETE" recon_no="-1">Pariadens</List>
+		<List recon_name="DELETE" recon_no="-1">Kokopellia</List>
+		<List recon_name="DELETE" recon_no="-1">Anchistodelphys</List>
+		<List recon_name="DELETE" recon_no="-1">Iugomortiferum</List>
+		<List recon_name="DELETE" recon_no="-1">Aenigmadelphys</List>
+		<List recon_name="DELETE" recon_no="-1">Didelphodon</List>
+		<List recon_name="DELETE" recon_no="-1">Eodelphis</List>
+		<List recon_name="DELETE" recon_no="-1">Pediomys</List>
+		<List recon_name="DELETE" recon_no="-1">Albertatherium</List>
+		<List recon_name="DELETE" recon_no="-1">Alphadon</List>
+		<List recon_name="DELETE" recon_no="-1">Turgidodon</List>
+		<List recon_name="DELETE" recon_no="-1">Glasbius</List>
+		<List recon_name="DELETE" recon_no="-1">Asiatherium</List>
+		<List recon_name="DELETE" recon_no="-1">Mayulestes</List>
+		<List recon_name="DELETE" recon_no="-1">Borhyaenids</List>
+		<List recon_name="DELETE" recon_no="-1">Pucadelphys</List>
+		<List recon_name="DELETE" recon_no="-1">Andinodelphys</List>
+		<List recon_name="DELETE" recon_no="-1">Jaskhadelphys</List>
+		<List recon_name="DELETE" recon_no="-1">Marmosa</List>
+		<List recon_name="DELETE" recon_no="-1">Didelphis</List>
+		<List recon_name="DELETE" recon_no="-1">Dasyurids</List>
+		<List recon_name="DELETE" recon_no="-1">Dromiciops</List>
+		<List recon_name="DELETE" recon_no="-1">Prokennalestes</List>
+		<List recon_name="DELETE" recon_no="-1">Bobolestes</List>
+		<List recon_name="DELETE" recon_no="-1">Asioryctes</List>
+		<List recon_name="DELETE" recon_no="-1">Kennalestes</List>
+		<List recon_name="DELETE" recon_no="-1">Zalambdalestes</List>
+		<List recon_name="DELETE" recon_no="-1">Aspanlestes</List>
+		<List recon_name="DELETE" recon_no="-1">Leptictids</List>
+		<List recon_name="DELETE" recon_no="-1">Herpetotherium</List>
+		<List recon_name="DELETE" recon_no="-1">Mimo_Peradectes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="164">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wilson_etal_2016a</Filename>
+	<Parent>Rougier_etal_2015a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -31,15 +31,15 @@ ExcludeTaxonomyMRP = FALSE
 Synapsida <- metatree::Metatree(MRPDirectory = MRPDirectory, XMLDirectory = XMLDirectory, TargetClade = TargetClade, InclusiveDataList = InclusiveDataList, ExclusiveDataList = ExclusiveDataList, MissingSpecies = MissingSpecies, SpeciesToExclude = SpeciesToExclude, RelativeWeights = RelativeWeights, WeightCombination = WeightCombination, ReportContradictionsToScreen = ReportContradictionsToScreen)
 
 # Enter constraint string (from Sidor and Hopson 1998, their Figure 2):
-Sidor_et_Hopson_1998_Figure_2_Newick <- "(Ophiacodontidae,(Edaphosauridae,(Haptodus,(Sphenacodontidae,(Biarmosuchia,((Anteosauridae,Estemmenosuchidae),(Anomodontia,(Gorgonopidae,(Therocephalia,(Dvinia,(Procynosuchus,(Galesauridae,(Thrinaxodon,(Cynognathus,(Chiniquodon,(Probainognathus,(Tritheledontidae,(Sinoconodon,Morganucodon))))))))))))))))));"
+Sidor_et_Hopson_1998_Figure_2_Newick <- "(Ophiacodontidae,(Edaphosauridae,(Haptodus,(Sphenacodontidae,(Biarmosuchia,((Anteosauridae,Estemmenosuchidae),(Anomodontia,(Gorgonopidae,(Therocephalia,(Dvinia,(Procynosuchus,(Galesauridae,(Thrinaxodon,((Cynognathus,Gomphodontia),(Chiniquodon,(Probainognathus,(Tritheledontidae,(Sinoconodon,(Morganucodon,Morganucodontidae)))))))))))))))))));"
 
 # The following taxonomic changes were made to make this work with the current PBDB taxonomy:
 #
 # 1. Gorgonopsidae -> Gorgonopidae
-# 2. Morgaucodontidae -> Morganucodon
+# 2. Morgaucodontidae -> (Morganucodon,Morganucodontidae)
 # 3. Probelesodon -> Chiniquodon
-# 4. Cynognathia -> Cynognathus
-# 5. Eotitanosuchus is just removed (now in Bairmosuchia)
+# 4. Cynognathia -> (Cynognathus,Gomphodontia)
+# 5. Eotitanosuchus is just removed (now in Biarmosuchia)
 
 # For each OTU:
 for(i in ape::read.tree(text = Sidor_et_Hopson_1998_Figure_2_Newick)$tip.label) {

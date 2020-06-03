@@ -31,37 +31,48 @@ ExcludeTaxonomyMRP = FALSE
 Synapsida <- metatree::Metatree(MRPDirectory = MRPDirectory, XMLDirectory = XMLDirectory, TargetClade = TargetClade, InclusiveDataList = InclusiveDataList, ExclusiveDataList = ExclusiveDataList, MissingSpecies = MissingSpecies, SpeciesToExclude = SpeciesToExclude, RelativeWeights = RelativeWeights, WeightCombination = WeightCombination, ReportContradictionsToScreen = ReportContradictionsToScreen)
 
 # Enter constraint string (from Sidor and Hopson 1998, their Figure 2):
-Sidor_et_Hopson_1998_Figure_2_Newick <- "(Ophiacodontidae,(Edaphosauridae,(Haptodus,(Sphenacodontidae,(Biarmosuchia,((Anteosauridae,Estemmenosuchidae),(Anomodontia,(Gorgonopidae,(Therocephalia,(Dvinia,(Procynosuchus,(Galesauridae,(Thrinaxodon,((Cynognathus,Gomphodontia),(Chiniquodon,(Probainognathus,(Tritheledontidae,(Sinoconodon,(Morganucodon,Morganucodontidae)))))))))))))))))));"
+Sidor_et_Hopson_1998_Figure_2_Newick <- "(Ophiacodontidae,(Edaphosauridae,(Haptodus,(Sphenacodontidae,(Biarmosuchia,((Anteosauridae,Estemmenosuchidae),(Anomodontia,(Gorgonopidae,(Therocephalia,(Dvinia,(Procynosuchus,(Galesauridae,(Thrinaxodon,(Cynognathus_et_Gomphodontia,(Chiniquodon,(Probainognathus,(Tritheledontidae,(Sinoconodon,Morganucodon))))))))))))))))));"
 
 # The following taxonomic changes were made to make this work with the current PBDB taxonomy:
 #
 # 1. Gorgonopsidae -> Gorgonopidae
-# 2. Morgaucodontidae -> (Morganucodon,Morganucodontidae)
+# 2. Morgaucodontidae -> Morganucodon
 # 3. Probelesodon -> Chiniquodon
-# 4. Cynognathia -> (Cynognathus,Gomphodontia)
+# 4. Cynognathia -> Cynognathus_et_Gomphodontia
 # 5. Eotitanosuchus is just removed (now in Biarmosuchia)
 
 # For each OTU:
 for(i in ape::read.tree(text = Sidor_et_Hopson_1998_Figure_2_Newick)$tip.label) {
   
-  # Find tips assigned to the OTU in the metatree:
-  TipsFound <- Synapsida$TaxonomyTree$tip.label[FindDescendants(ape::Ntip(Synapsida$TaxonomyTree) + which(unlist(lapply(strsplit(Synapsida$TaxonomyTree$node.label, split = "_"), function(x) any(x == i)))), Synapsida$TaxonomyTree)]
+  # Create empty tip vector:
+  AllTips <- vector(mode = "character")
   
-  # If no descendant found check if there is just a single tip:
-  if(length(TipsFound) == 0) TipsFound <- Synapsida$TaxonomyTree$tip.label[unlist(lapply(strsplit(Synapsida$TaxonomyTree$tip.label, split = "_"), function(x) x[1] == i))]
-  
-  # If nothing found at all stop and warn user:
-  if(length(TipsFound) == 0) stop(paste(i, "breaks things."))
-  
+  # For each sub-tip found:
+  for(j in strsplit(i, "_et_")[[1]]) {
+    
+    # Find tips assigned to the OTU in the metatree:
+    TipsFound <- Synapsida$TaxonomyTree$tip.label[FindDescendants(ape::Ntip(Synapsida$TaxonomyTree) + which(unlist(lapply(strsplit(Synapsida$TaxonomyTree$node.label, split = "_"), function(x) any(x == j)))), Synapsida$TaxonomyTree)]
+    
+    # If no descendant found check if there is just a single tip:
+    if(length(TipsFound) == 0) TipsFound <- Synapsida$TaxonomyTree$tip.label[unlist(lapply(strsplit(Synapsida$TaxonomyTree$tip.label, split = "_"), function(x) x[1] == j))]
+    
+    # If nothing found at all stop and warn user:
+    if(length(TipsFound) == 0) stop(paste(i, "breaks things."))
+    
+    # Add tips found to all tips vector:
+    AllTips <- sort(c(AllTips, TipsFound))
+    
+  }
+
   # If not monotypic then form clade from tips as Newick string:
-  if(length(TipsFound) > 1) TipsFound <- paste("(", paste(TipsFound, collapse = ","), ")", sep = "")
+  if(length(AllTips) > 1) AllTips <- paste("(", paste(AllTips, collapse = ","), ")", sep = "")
   
   # Overwrite OTU name with species assigned to it:
-  Sidor_et_Hopson_1998_Figure_2_Newick <- gsub(i, TipsFound, Sidor_et_Hopson_1998_Figure_2_Newick)
+  Sidor_et_Hopson_1998_Figure_2_Newick <- gsub(i, AllTips, Sidor_et_Hopson_1998_Figure_2_Newick)
   
 }
 
-# COnvert Newick string to ape formatted tree:
+# Convert Newick string to ape formatted tree:
 ConstraintTree <- ape::read.tree(text = Sidor_et_Hopson_1998_Figure_2_Newick)
 
 # Build MRP matrix from full constraint tree:

@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Abdala, F.</List>
+			<List>Gaetano, L. C.</List>
+			<List>Smith, R. M. H.</List>
+			<List>Rubidge, B. S.</List>
+		</Author>
+		<Year>2019</Year>
+		<Title>A new large cynodont from the Late Permian (Lopingian) of the South African Karoo Basin and its phylogenetic significance</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>186</Volume>
+		<Pages>983-1005</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List recon_name="Cyniscopoides_broomi" recon_no="340825">Cyonosaurus</List>
+		<List recon_name="Lycosuchus_vanderrieti" recon_no="56796">Lycosuchus_vanderrieti</List>
+		<List recon_name="Glanosuchus_macrops" recon_no="56804">Glanosuchus_macrops</List>
+		<List recon_name="Hofmeyria_atavus" recon_no="367363">Hofmeyria_atavus</List>
+		<List recon_name="Annatherapsidus_petri" recon_no="362214">Anatherapsidus_petri</List>
+		<List recon_name="Microgomphodon_oligocynus" recon_no="56885">Microgomphodon_oligocynus</List>
+		<List recon_name="Theriognathus_microps" recon_no="343308">Theriognathus_microps</List>
+		<List recon_name="Moschorhinus_kitchingi" recon_no="178202">Moschorhinus_kitchingi</List>
+		<List recon_name="Charassognathus_gracilis" recon_no="140432">Charassognathus_gracilis</List>
+		<List recon_name="Abdalodon_diastematicus" recon_no="375341">Abdalodon_diastematicus</List>
+		<List recon_name="Dvinia_prima" recon_no="343342">Dviniia_prima</List>
+		<List recon_name="Procynosuchus_delaharpeae" recon_no="323823">Procynosuchus_delaharpeae</List>
+		<List recon_name="Vetusodon_elikhulu" recon_no="391801">Vetusodon</List>
+		<List recon_name="Cynosaurus_suppostus" recon_no="343365">Cynosaurus_suppostus</List>
+		<List recon_name="Nanictosaurus_kitchingi" recon_no="343373">Nanictosaurus_kitchingi</List>
+		<List recon_name="Galesaurus_planiceps" recon_no="56872">Galesaurus_planiceps</List>
+		<List recon_name="Progalesaurus_lootbergensis" recon_no="171916">Progalesaurus_lootsbergensis</List>
+		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">Thrinaxodon_liorhinus</List>
+		<List recon_name="Platycraniellus_elegans" recon_no="171919">Platycraniellus_elegans</List>
+		<List recon_name="Cynognathus_crateronotus" recon_no="56878">Cynognathus_crateronotus</List>
+		<List recon_name="Lumkuia_fuzzi" recon_no="95414">Lumkuia_fuzzi</List>
+		<List recon_name="Trirachodon_berryi" recon_no="56887">Trirachodon_berryi</List>
+		<List recon_name="Diademodon_tetragonus" recon_no="171986">Diademodon_tetragonus</List>
+		<List recon_name="Probainognathus_jenseni" recon_no="80895">Probainognathus_jenseni</List>
+		<List recon_name="Chiniquodon_theotonicus" recon_no="100823">Chiniquodon_theotonicus</List>
+		<List recon_name="Aleodon_brachyrhamphus" recon_no="177680">Aleodon_brachyramphus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="84">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Abdala_etal_2019a</Filename>
+	<Parent>Abdala_2007a</Parent>
+	<Sibling/>
+</SourceTree>

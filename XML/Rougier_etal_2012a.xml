@@ -22,58 +22,58 @@
 		<List recon_name="Tritylodontidae" recon_no="39208">Tritylodontids</List>
 		<List recon_name="DELETE" recon_no="-1">Tritheledontids</List>
 		<List recon_name="Adelobasileus_cromptoni" recon_no="53176">Adelobasileus</List>
-		<List recon_name="Sinoconodon" recon_no="39747">Sinoconodon</List>
+		<List recon_name="Sinoconodon_rigneyi" recon_no="203414">Sinoconodon</List>
 		<List recon_name="Morganucodon" recon_no="39753">Morganucodon</List>
-		<List recon_name="Megazostrodon" recon_no="39752">Megazostrodon</List>
+		<List recon_name="Megazostrodon_rudnerae" recon_no="178199">Megazostrodon</List>
 		<List recon_name="Dinnetherium_nezorum" recon_no="175122">Dinnetherium</List>
 		<List recon_name="Haldanodon_exspectatus" recon_no="203425">Haldanodon</List>
-		<List recon_name="Hadrocodium" recon_no="91337">Hadrocodium</List>
-		<List recon_name="Kuehneotherium" recon_no="39864">Kuehneotherium</List>
+		<List recon_name="Hadrocodium_wui" recon_no="91338">Hadrocodium</List>
+		<List recon_name="Kuehneotherium_praecursoris" recon_no="206725">Kuehneotherium</List>
 		<List recon_name="Pseudotribos_robustus" recon_no="130176">Pseudotribos</List>
-		<List recon_name="Ambondro" recon_no="89614">Ambondro</List>
-		<List recon_name="Ausktribosphenos" recon_no="89615">Ausktribosphenos</List>
+		<List recon_name="Ambondro_mahabo" recon_no="156674">Ambondro</List>
+		<List recon_name="Ausktribosphenos_nyktos" recon_no="106453">Ausktribosphenos</List>
 		<List recon_name="Henosferus_molus" recon_no="185170">Henosferus</List>
-		<List recon_name="Asfaltomylos" recon_no="89612">Asfaltomylos</List>
-		<List recon_name="Bishops" recon_no="100594">Bishops</List>
-		<List recon_name="Steropodon" recon_no="39741">Steropodon</List>
+		<List recon_name="Asfaltomylos_patagonicus" recon_no="208897">Asfaltomylos</List>
+		<List recon_name="Bishops_whitmorei" recon_no="100743">Bishops</List>
+		<List recon_name="Steropodon_galmani" recon_no="166544">Steropodon</List>
 		<List recon_name="Teinolophos_trusleri" recon_no="137612">Teinolophos</List>
 		<List recon_name="Obdurodon" recon_no="39739">Obdurodon</List>
 		<List recon_name="DELETE" recon_no="-1">Ornithorynchus</List>
 		<List recon_name="Gobiconodon" recon_no="39757">Gobiconodon</List>
-		<List recon_name="Amphilestes" recon_no="39755">Amphilestes</List>
-		<List recon_name="Jeholodens" recon_no="197842">Jeholodens</List>
+		<List recon_name="Amphilestes_broderipii " recon_no="NA">Amphilestes</List>
+		<List recon_name="Jeholodens_jenkinsi" recon_no="197843">Jeholodens</List>
 		<List recon_name="Priacodon" recon_no="39766">Priacodon</List>
 		<List recon_name="Trioracodon" recon_no="39768">Trioracodon</List>
 		<List recon_name="Tinodon" recon_no="52339">Tinodon</List>
 		<List recon_name="Peramus" recon_no="39884">Peramus</List>
-		<List recon_name="Vincelestes" recon_no="67458">Vincelestes</List>
-		<List recon_name="Kielantherium" recon_no="39918">Kielantherium</List>
+		<List recon_name="Vincelestes_neuquenianus" recon_no="141361">Vincelestes</List>
+		<List recon_name="Kielantherium_gobiensis" recon_no="113800">Kielantherium</List>
 		<List recon_name="Deltatheridium" recon_no="39920">Deltatheridium</List>
-		<List recon_name="Asiatherium" recon_no="183887">Asiatherium</List>
+		<List recon_name="Asiatherium_reshetovi" recon_no="183890">Asiatherium</List>
 		<List recon_name="Kokopellia_juddi" recon_no="47450">Kokopellia</List>
-		<List recon_name="Pucadelphys" recon_no="246332">Pucadelphys</List>
+		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys</List>
 		<List recon_name="Didelphis" recon_no="39959">Didelphis</List>
-		<List recon_name="Pappotherium" recon_no="39924">Pappotherium</List>
+		<List recon_name="Pappotherium_pattersoni" recon_no="49766">Pappotherium</List>
 		<List recon_name="Erinaceus" recon_no="40375">Erinaceus</List>
-		<List recon_name="Asioryctes" recon_no="40213">Asioryctes</List>
+		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
 		<List recon_name="Prokennalestes_minor,Prokennalestes_trofimovi" recon_no="185139;137755">Prokennalestes</List>
-		<List recon_name="Zhangheotheriidae" recon_no="156658">Zhangheotheriids</List>
-		<List recon_name="DELETE" recon_no="-1">Amphitheridae</List>
-		<List recon_name="Henkelotherium" recon_no="204736">Henkelotherium</List>
+		<List recon_name="Anebodon_luoi,Kiyatherium_cardiodens" recon_no="371286;216648">Zhangheotheriids</List>
+		<List recon_name="Amphibetulimus_krasnolutskii" recon_no="257526">Amphitheridae</List>
+		<List recon_name="Henkelotherium_guimarotae" recon_no="212375">Henkelotherium</List>
 		<List recon_name="Dryolestes" recon_no="39893">Dryolestes</List>
 		<List recon_name="DELETE" recon_no="-1">Laolestes</List>
 		<List recon_name="DELETE" recon_no="-1">Amblotherium</List>
-		<List recon_name="DELETE" recon_no="-1">Comotherium</List>
+		<List recon_name="Comotherium_richi" recon_no="57708">Comotherium</List>
 		<List recon_name="DELETE" recon_no="-1">Mesungulatum</List>
-		<List recon_name="DELETE" recon_no="-1">Coloniatherium</List>
-		<List recon_name="DELETE" recon_no="-1">Reigitherium</List>
-		<List recon_name="DELETE" recon_no="-1">Peligrotherium</List>
+		<List recon_name="Coloniatherium_cilinskii" recon_no="206767">Coloniatherium</List>
+		<List recon_name="Reigitherium_bunodonta" recon_no="206772">Reigitherium</List>
+		<List recon_name="Peligrotherium_tropicalis" recon_no="246789">Peligrotherium</List>
 		<List recon_name="DELETE" recon_no="-1">Groebertherium</List>
-		<List recon_name="DELETE" recon_no="-1">Leonardus</List>
-		<List recon_name="DELETE" recon_no="-1">Foxraptor</List>
-		<List recon_name="DELETE" recon_no="-1">Paurodon</List>
-		<List recon_name="DELETE" recon_no="-1">Cronopio</List>
-		<List recon_name="DELETE" recon_no="-1">Drescheratherium</List>
+		<List recon_name="Leonardus_cuspidatus" recon_no="207630">Leonardus</List>
+		<List recon_name="Foxraptor_atrox" recon_no="57646">Foxraptor</List>
+		<List recon_name="Paurodon_valens" recon_no="57727">Paurodon</List>
+		<List recon_name="Cronopio_dentiacutus" recon_no="204734">Cronopio</List>
+		<List recon_name="Drescheratherium_acutum" recon_no="212374">Drescheratherium</List>
 		<List recon_name="DELETE" recon_no="-1">Necrolestes</List>
 		<List recon_name="DELETE" recon_no="-1">Spalacotherium</List>
 	</Taxa>

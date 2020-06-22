@@ -17,17 +17,17 @@
 		<Editor/>
 	</Source>
 	<Taxa number="34">
-		<List recon_name="DELETE" recon_no="-1">Ukhaatherium</List>
+		<List recon_name="Ukhaatherium_nessovi" recon_no="137753">Ukhaatherium</List>
 		<List recon_name="DELETE" recon_no="-1">Leptictidae</List>
 		<List recon_name="DELETE" recon_no="-1">Erinaceus</List>
-		<List recon_name="DELETE" recon_no="-1">Echinosorex</List>
-		<List recon_name="DELETE" recon_no="-1">Hemiechinus</List>
-		<List recon_name="DELETE" recon_no="-1">Ottoryctes</List>
+		<List recon_name="Echinosorex_gymnura" recon_no="385327">Echinosorex</List>
+		<List recon_name="Hemiechinus_auritus" recon_no="385511">Hemiechinus</List>
+		<List recon_name="Ottoryctes_winkleri" recon_no="385512">Ottoryctes</List>
 		<List recon_name="DELETE" recon_no="-1">Pararyctes</List>
 		<List recon_name="DELETE" recon_no="-1">Paleoryctes</List>
 		<List recon_name="DELETE" recon_no="-1">Uintacyon</List>
 		<List recon_name="Vulpavus_profectus" recon_no="52682">Vulpavus_profectus</List>
-		<List recon_name="DELETE" recon_no="-1">Solenodon</List>
+		<List recon_name="Solenodon_paradoxus" recon_no="385513">Solenodon</List>
 		<List recon_name="DELETE" recon_no="-1">Sorex_sp</List>
 		<List recon_name="Suncus_murinus" recon_no="231476">Suncus_murinus</List>
 		<List recon_name="DELETE" recon_no="-1">Rhombomylus</List>
@@ -40,8 +40,8 @@
 		<List recon_name="Labidolemur_kayi" recon_no="47455">Labidolemur_kayi</List>
 		<List recon_name="DELETE" recon_no="-1">Apatemys</List>
 		<List recon_name="Heterohyus_nanus" recon_no="92326">Heterohyus_nanus</List>
-		<List recon_name="DELETE" recon_no="-1">Jepsenella</List>
-		<List recon_name="DELETE" recon_no="-1">Sinclairella</List>
+		<List recon_name="Jepsenella_praepropera" recon_no="47420">Jepsenella</List>
+		<List recon_name="Sinclairella_dakotensis" recon_no="51581">Sinclairella</List>
 		<List recon_name="DELETE" recon_no="-1">Purgatorius</List>
 		<List recon_name="DELETE" recon_no="-1">Carpolestidae</List>
 		<List recon_name="DELETE" recon_no="-1">Plesiadapidae</List>

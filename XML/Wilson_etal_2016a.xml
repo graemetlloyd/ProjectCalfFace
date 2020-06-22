@@ -21,46 +21,46 @@
 	<Taxa number="48">
 		<List recon_name="DELETE" recon_no="-1">Amphitherium_et_Dryolestidae</List>
 		<List recon_name="DELETE" recon_no="-1">Peramus</List>
-		<List recon_name="DELETE" recon_no="-1">Vincelestes</List>
-		<List recon_name="DELETE" recon_no="-1">Kielantherium</List>
-		<List recon_name="DELETE" recon_no="-1">Potamotelses</List>
-		<List recon_name="DELETE" recon_no="-1">Kermackia</List>
-		<List recon_name="DELETE" recon_no="-1">Holoclemensia</List>
-		<List recon_name="DELETE" recon_no="-1">Pappotherium</List>
+		<List recon_name="Vincelestes_neuquenianus" recon_no="141361">Vincelestes</List>
+		<List recon_name="Kielantherium_gobiensis" recon_no="113800">Kielantherium</List>
+		<List recon_name="Potamotelses_aquilensis" recon_no="50649">Potamotelses</List>
+		<List recon_name="Kermackia_texana" recon_no="47439">Kermackia</List>
+		<List recon_name="Holoclemensia_texana" recon_no="47068">Holoclemensia</List>
+		<List recon_name="Pappotherium_pattersoni" recon_no="49766">Pappotherium</List>
 		<List recon_name="DELETE" recon_no="-1">Deltatheridium</List>
-		<List recon_name="DELETE" recon_no="-1">Deltatheroides</List>
-		<List recon_name="DELETE" recon_no="-1">Tsagandelta</List>
+		<List recon_name="Deltatheroides_cretacicus" recon_no="70457">Deltatheroides</List>
+		<List recon_name="Tsagandelta_dashzevegi" recon_no="319140">Tsagandelta</List>
 		<List recon_name="DELETE" recon_no="-1">Oklatheridium</List>
-		<List recon_name="DELETE" recon_no="-1">Sulestes</List>
-		<List recon_name="DELETE" recon_no="-1">Atokatheridium</List>
-		<List recon_name="DELETE" recon_no="-1">Nanocuris</List>
-		<List recon_name="DELETE" recon_no="-1">Lotheridium</List>
+		<List recon_name="Sulestes_karakshi" recon_no="137970">Sulestes</List>
+		<List recon_name="Atokatheridium_boreni" recon_no="44378">Atokatheridium</List>
+		<List recon_name="Nanocuris_improvida" recon_no="109639">Nanocuris</List>
+		<List recon_name="Lotheridium_mengi" recon_no="319138">Lotheridium</List>
 		<List recon_name="DELETE" recon_no="-1">Gurlin_Tsav_Skull</List>
 		<List recon_name="DELETE" recon_no="-1">Pariadens</List>
-		<List recon_name="DELETE" recon_no="-1">Kokopellia</List>
+		<List recon_name="Kokopellia_juddi" recon_no="47450">Kokopellia</List>
 		<List recon_name="DELETE" recon_no="-1">Anchistodelphys</List>
-		<List recon_name="DELETE" recon_no="-1">Iugomortiferum</List>
-		<List recon_name="DELETE" recon_no="-1">Aenigmadelphys</List>
+		<List recon_name="Iugomortiferum_thoringtoni " recon_no="NA">Iugomortiferum</List>
+		<List recon_name="Aenigmadelphys_archeri" recon_no="43786">Aenigmadelphys</List>
 		<List recon_name="DELETE" recon_no="-1">Didelphodon</List>
 		<List recon_name="DELETE" recon_no="-1">Eodelphis</List>
-		<List recon_name="DELETE" recon_no="-1">Pediomys</List>
+		<List recon_name="Pediomys_elegans" recon_no="50063">Pediomys</List>
 		<List recon_name="DELETE" recon_no="-1">Albertatherium</List>
 		<List recon_name="DELETE" recon_no="-1">Alphadon</List>
 		<List recon_name="DELETE" recon_no="-1">Turgidodon</List>
 		<List recon_name="DELETE" recon_no="-1">Glasbius</List>
-		<List recon_name="DELETE" recon_no="-1">Asiatherium</List>
-		<List recon_name="DELETE" recon_no="-1">Mayulestes</List>
+		List recon_name="Asiatherium_reshetovi" recon_no="183890">Asiatherium</List>
+		<List recon_name="Mayulestes_ferox" recon_no="246573">Mayulestes</List>
 		<List recon_name="DELETE" recon_no="-1">Borhyaenids</List>
-		<List recon_name="DELETE" recon_no="-1">Pucadelphys</List>
-		<List recon_name="DELETE" recon_no="-1">Andinodelphys</List>
-		<List recon_name="DELETE" recon_no="-1">Jaskhadelphys</List>
+		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys</List>
+		<List recon_name="Andinodelphys_cochabambensis" recon_no="266231">Andinodelphys</List>
+		<List recon_name="Jaskhadelphys_minutus" recon_no="266235">Jaskhadelphys</List>
 		<List recon_name="DELETE" recon_no="-1">Marmosa</List>
 		<List recon_name="DELETE" recon_no="-1">Didelphis</List>
 		<List recon_name="DELETE" recon_no="-1">Dasyurids</List>
 		<List recon_name="DELETE" recon_no="-1">Dromiciops</List>
 		<List recon_name="DELETE" recon_no="-1">Prokennalestes</List>
-		<List recon_name="DELETE" recon_no="-1">Bobolestes</List>
-		<List recon_name="DELETE" recon_no="-1">Asioryctes</List>
+		<List recon_name="Bobolestes_zenge" recon_no="137733">Bobolestes</List>
+		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
 		<List recon_name="DELETE" recon_no="-1">Kennalestes</List>
 		<List recon_name="DELETE" recon_no="-1">Zalambdalestes</List>
 		<List recon_name="DELETE" recon_no="-1">Aspanlestes</List>

@@ -20,27 +20,27 @@
 	</Source>
 	<Taxa number="38">
 		<List recon_name="DELETE" recon_no="-1">Prokennalestes</List>
-		<List recon_name="DELETE" recon_no="-1">Asioryctes</List>
-		<List recon_name="DELETE" recon_no="-1">Maelestes</List>
+		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
+		<List recon_name="Maelestes_gobiensis" recon_no="143918">Maelestes</List>
 		<List recon_name="Kokopellia_juddi" recon_no="47450">Kokopellia</List>
 		<List recon_name="DELETE" recon_no="-1">Deltatheridium</List>
-		<List recon_name="DELETE" recon_no="-1">Deltatheroides</List>
-		<List recon_name="DELETE" recon_no="-1">Asiatherium</List>
+		<List recon_name="Deltatheroides_cretacicus" recon_no="70457">Deltatheroides</List>
+		<List recon_name="Asiatherium_reshetovi" recon_no="183890">Asiatherium</List>
 		<List recon_name="DELETE" recon_no="-1">Eodelphis</List>
 		<List recon_name="DELETE" recon_no="-1">Didelphodon</List>
 		<List recon_name="DELETE" recon_no="-1">Mimoperadectes_dash_Peradectes</List>
 		<List recon_name="DELETE" recon_no="-1">Herpetotherium</List>
 		<List recon_name="DELETE" recon_no="-1">Amphiperatherium_dash_Peratherium</List>
 		<List recon_name="DELETE" recon_no="-1">Didelphis</List>
-		<List recon_name="DELETE" recon_no="-1">Metachirus</List>
+		<List recon_name="Metachirus_nudicaudatus" recon_no="238612">Metachirus</List>
 		<List recon_name="DELETE" recon_no="-1">Monodelphis</List>
-		<List recon_name="DELETE" recon_no="-1">Pucadelphys</List>
-		<List recon_name="DELETE" recon_no="-1">Andinodelphys</List>
+		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys</List>
+		<List recon_name="Andinodelphys_cochabambensis" recon_no="266231">Andinodelphys</List>
 		<List recon_name="Mayulestes_ferox" recon_no="246573">Mayulestes</List>
 		<List recon_name="Allqokirus_australis" recon_no="246574">Allqokirus</List>
 		<List recon_name="DELETE" recon_no="-1">Patene</List>
 		<List recon_name="Hondadelphys_fieldsi" recon_no="251322">Hondadelphys</List>
-		<List recon_name="DELETE" recon_no="-1">Sallacyon</List>
+		<List recon_name="Sallacyon_hoffstetteri" recon_no="245958">Sallacyon</List>
 		<List recon_name="DELETE" recon_no="-1">Notogale</List>
 		<List recon_name="DELETE" recon_no="-1">Sipalocyon</List>
 		<List recon_name="DELETE" recon_no="-1">Cladosictis</List>
@@ -50,8 +50,8 @@
 		<List recon_name="Borhyaena_tuberata" recon_no="53751">Borhyaena_tuberata</List>
 		<List recon_name="Arctodictis_sinclairi" recon_no="336437">Arctodictis_sinclairi</List>
 		<List recon_name="Australohyaena_antiqua" recon_no="337340">Australohyaena</List>
-		<List recon_name="DELETE" recon_no="-1">Callistoe</List>
-		<List recon_name="DELETE" recon_no="-1">Paraborhyaena</List>
+		<List recon_name="Callistoe_vincei" recon_no="334456">Callistoe</List>
+		<List recon_name="Paraborhyaena_boliviana" recon_no="247608">Paraborhyaena</List>
 		<List recon_name="Thylacosmilus_atrox" recon_no="291870">Thylacosmilus</List>
 		<List recon_name="DELETE" recon_no="-1">Dromiciops</List>
 		<List recon_name="DELETE" recon_no="-1">Dasyurus</List>

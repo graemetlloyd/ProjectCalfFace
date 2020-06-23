@@ -112,7 +112,7 @@
 		<List recon_name="DELETE" recon_no="-1">Dasypus</List>
 		<List recon_name="DELETE" recon_no="-1">Chaetophractus</List>
 		<List recon_name="DELETE" recon_no="-1">Euphractus</List>
-		List recon_name="Holoclemensia_texana" recon_no="47068">Holoclemensia</List>
+		<List recon_name="Holoclemensia_texana" recon_no="47068">Holoclemensia</List>
 		<List recon_name="DELETE" recon_no="-1">Deltatheridium</List>
 		<List recon_name="Atokatheridium_boreni" recon_no="44378">Atokatheridium</List>
 		<List recon_name="Sulestes_karakshi" recon_no="137970">Sulestes</List>

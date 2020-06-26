@@ -16,7 +16,7 @@
 	</Source>
 	<Taxa number="77">
 		<List recon_name="Kielantherium_gobiense" recon_no="204152">Kielantherium_gobiense</List>
-		<List recon_name="Juramaia_sinensis" recon_no="196928">Juramaia_sinensis</List>
+		<List recon_name="DELETE" recon_no="-1">Juramaia_sinensis</List>
 		<List recon_name="Prokennalestes_abramovi" recon_no="203457">Prokennalestes_abramovi</List>
 		<List recon_name="Holoclemensia_texana" recon_no="47068">Holoclemensia_texana</List>
 		<List recon_name="Pappotherium_pattersoni" recon_no="49766">Pappotherium_pattersoni</List>
@@ -37,11 +37,11 @@
 		<List recon_name="Patene_simpsoni" recon_no="247100">Patene_simpsoni</List>
 		<List recon_name="Nemolestes_spalacotherinus" recon_no="315855">Nemolestes_spalacotherinus</List>
 		<List recon_name="Hondadelphys_fieldsi" recon_no="251322">Hondadelphys_fieldsi</List>
-		<List recon_name="DELETE" recon_no="-1">Sipalocyon_spp</List>
-		<List recon_name="DELETE" recon_no="-1">Borhyaenoidea</List>
+		<List recon_name="Sipalocyon_gracilis" recon_no="53458">Sipalocyon_spp</List>
+		<List recon_name="Australohyaena_antiqua,Borhyaena_tuberata,Lycopsis_longirostrus,Paraborhyaena_boliviana" recon_no="337340;53751;251556;247608">Borhyaenoidea</List>
 		<List recon_name="Pariadens_kirklandi,Pariadens_mckennai" recon_no="49997;216468">Pariadens_spp</List>
 		<List recon_name="Eodelphis_browni,Eodelphis_cutleri" recon_no="46139;46140">Eodelphis_spp</List>
-		<List recon_name="DELETE" recon_no="-1">Didelphodon_spp</List>
+		<List recon_name="Didelphodon_vorax" recon_no="45711">Didelphodon_spp</List>
 		<List recon_name="DELETE" recon_no="-1">Aquiladelphis_spp</List>
 		<List recon_name="Pediomys_elegans" recon_no="50063">Pediomys_elegans</List>
 		<List recon_name="Protolambda_mcgilli" recon_no="348240">Protolambda_spp</List>
@@ -52,9 +52,9 @@
 		<List recon_name="Gaylordia_macrocynodonta" recon_no="247083">Gaylordia_macrocynodonta</List>
 		<List recon_name="Tiulordia_floresi" recon_no="266233">Tiulordia_floresi</List>
 		<List recon_name="Minusculodelphis_minimus,Minusculodelphis_modicum" recon_no="250704;334411">Minusculodelphis_spp</List>
-		<List recon_name="DELETE" recon_no="-1">Peradectes_spp</List>
+		<List recon_name="Peradectes_elegans" recon_no="50116">Peradectes_spp</List>
 		<List recon_name="Thylacodon_montanensis,Thylacodon_pusillus" recon_no="253245;52295">Thylacodon_spp</List>
-		<List recon_name="DELETE" recon_no="-1">Mimoperadectes_spp</List>
+		<List recon_name="Mimoperadectes_houdei,Mimoperadectes_labrus" recon_no="183882;48642">Mimoperadectes_spp</List>
 		<List recon_name="Andinodelphys_cochabambensis" recon_no="266231">Andinodelphys_cochabambensis</List>
 		<List recon_name="Mayulestes_ferox" recon_no="246573">Mayulestes_ferox</List>
 		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys_andinus</List>
@@ -74,8 +74,8 @@
 		<List recon_name="Iugomortiferum_thoringtoni" recon_no="47410">Iugomortiferum_spp</List>
 		<List recon_name="DELETE" recon_no="-1">Turgidodon_spp</List>
 		<List recon_name="Roberthoffstetteria_nationalgeographica" recon_no="139784">Roberthoffstetteria_nationalgeographica</List>
-		<List recon_name="DELETE" recon_no="-1">Eudolops_spp</List>
-		<List recon_name="DELETE" recon_no="-1">Kramadolops_spp</List>
+		<List recon_name="Eudolops_tetragonus" recon_no="334180">Eudolops_spp</List>
+		<List recon_name="Kramadolops_mckennai,Kramadolops_abanicoi" recon_no="335483;335481">Kramadolops_spp</List>
 		<List recon_name="Epidolops_ameghinoi" recon_no="247098">Epidolops_ameghinoi</List>
 		<List recon_name="Rosendolops_ebaios,Rosendolops_primigenium" recon_no="335468;337212">Rosendolops_spp</List>
 		<List recon_name="Prepidolops_molinai" recon_no="337103">Prepidolops_spp</List>
@@ -84,14 +84,14 @@
 		<List recon_name="Klohnia_charrieri,Klohnia_major" recon_no="337116;335474">Klohnia_spp</List>
 		<List recon_name="DELETE" recon_no="-1">Argyrolagus_scagliai</List>
 		<List recon_name="Herpetotherium_valens" recon_no="46901">Herpetotherium_valens</List>
-		<List recon_name="DELETE" recon_no="-1">Didelphis_spp</List>
+		<List recon_name="Didelphis_marsupialis,Didelphis_albiventris" recon_no="45701;234384">Didelphis_spp</List>
 		<List recon_name="Glasbius_intricatus,Glasbius_twitchelli" recon_no="46652;46653">Glasbius_spp</List>
 		<List recon_name="Protodidelphis_mastodontoides,Protodidelphis_vanzolinii" recon_no="247297;247073">Protodidelphis_spp</List>
 		<List recon_name="Carolocoutoia_ferigoloi" recon_no="247300">Carolocoutoia_ferigoloi</List>
 		<List recon_name="DELETE" recon_no="-1">Caenolestes_spp</List>
 		<List recon_name="Dromiciops_gliroides" recon_no="234408">Dromiciops_gliroides</List>
-		<List recon_name="DELETE" recon_no="-1">Microbiotherium_spp</List>
-		<List recon_name="DELETE" recon_no="-1">Dasyurus_spp</List>
+		<List recon_name="Microbiotherium_gallegosense" recon_no="336909">Microbiotherium_spp</List>
+		<List recon_name="Dasyurus_maculatus,Dasyurus_viverrinus" recon_no="234430;235548">Dasyurus_spp</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

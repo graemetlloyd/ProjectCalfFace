@@ -28,7 +28,7 @@
 	</Source>
 	<Taxa number="84">
 		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">Thrinaxodon</List>
-		<List recon_name="Probainognathus_jenseni" recon_no="80895">Probainognathus</List>
+		<List recon_name="DELETE" recon_no="-1">Probainognathus</List>
 		<List recon_name="Cynognathus_minor" recon_no="177560">Cynognathus</List>
 		<List recon_name="Diademodon_tetragonus" recon_no="171986">Diademodon</List>
 		<List recon_name="Exaeretodon_riograndensis,Exaeretodon_frenguellii" recon_no="333700;117949">Exaeretodon</List>
@@ -97,7 +97,7 @@
 		<List recon_name="Dryolestes_leirensis,Dryolestes_vorax" recon_no="212351;57721">Dryolestes</List>
 		<List recon_name="Vincelestes_neuquenianus" recon_no="141361">Vincelestes</List>
 		<List recon_name="Eomaia_scansoria" recon_no="67563">Eomaia</List>
-		<List recon_name="Juramaia_sinensis" recon_no="196928">Juramaia</List>
+		<List recon_name="DELETE" recon_no="-1">Juramaia</List>
 		<List recon_name="Asioryctes_nemegtensis" recon_no="57288">Asioryctes</List>
 		<List recon_name="Ukhaatherium_nessovi" recon_no="137753">Ukhaatherium</List>
 		<List recon_name="Zalambdalestes_lechei,Zalambdalestes_grangeri" recon_no="70459;57350">Zalambdalestes</List>

@@ -38,7 +38,7 @@
 		<List recon_name="Ambolestes_zhoui" recon_no="371742">Ambolestes_zhoui</List>
 		<List recon_name="Acristatherium_yanensis" recon_no="197847">Acristatherium_yanensis</List>
 		<List recon_name="Eomaia_scansoria" recon_no="67563">Eomaia_scansoria</List>
-		<List recon_name="Juramaia_sinensis" recon_no="196928">Juramaia_sinensis</List>
+		<List recon_name="DELETE" recon_no="-1">Juramaia_sinensis</List>
 		<List recon_name="Sasayamamylos_kawaii" recon_no="264072">Sasayamamylos_kawaii</List>
 		<List recon_name="Bobolestes_zenge" recon_no="137733">Bobolestes_zenge</List>
 		<List recon_name="Eozhelestes_mangit" recon_no="137738">Eozhelestes_mangit</List>

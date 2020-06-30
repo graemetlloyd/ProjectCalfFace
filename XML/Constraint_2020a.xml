@@ -14,7 +14,7 @@
 		<City/>
 		<Editor/>
 	</Source>
-	<Taxa number="332">
+	<Taxa number="331">
 		<List recon_name="DELETE" recon_no="0">allzero</List>
 		<List recon_name="Abajudon_kaayi" recon_no="403971">Abajudon_kaayi</List>
 		<List recon_name="Aelurognathus_tigriceps" recon_no="335408">Aelurognathus_tigriceps</List>
@@ -88,7 +88,6 @@
 		<List recon_name="Dicynodontoides_recurvidens" recon_no="337545">Dicynodontoides_recurvidens</List>
 		<List recon_name="Digalodon_rubidgei" recon_no="323837">Digalodon_rubidgei</List>
 		<List recon_name="Diictodon_feliceps" recon_no="332332">Diictodon_feliceps</List>
-		<List recon_name="Dimacrodon_hottoni" recon_no="137165">Dimacrodon_hottoni</List>
 		<List recon_name="Dimetrodon_angelensis" recon_no="123424">Dimetrodon_angelensis</List>
 		<List recon_name="Dimetrodon_booneorum" recon_no="122783">Dimetrodon_booneorum</List>
 		<List recon_name="Dimetrodon_dollovianus" recon_no="122785">Dimetrodon_dollovianus</List>

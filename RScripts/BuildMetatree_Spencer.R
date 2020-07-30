@@ -67,7 +67,7 @@ ConstraintTree <- ape::read.tree(text = Sidor_et_Hopson_1998_Figure_2_Newick)
 MRP <- metatree::Tree2MRP(ConstraintTree)
 
 # Write MRP to file:
-WriteMorphNexus(MRP, "~/Desktop/Desktop - Spencer’s MacBook Pro (2)/NSF metatree/ProjectCalfFace/MRP/Constraint_2020amrp.nex")
+WriteMatrixNEXUS(MRP, "~/Desktop/Desktop - Spencer’s MacBook Pro (2)/NSF metatree/ProjectCalfFace/MRP/Constraint_2020amrp.nex")
 
 # Get first set of reconciled names:
 ReconciledNames <- rbind(cbind(unlist(lapply(apply(metatree::PaleobiologyDBTaxaQuerier("1", rownames(MRP$Matrix_1$Matrix)[unlist(lapply(strsplit(rownames(MRP$Matrix_1$Matrix), split = "_"), length)) == 2]), 1, as.list), function(x) {x <- unlist(x)[1:2]; unname(gsub("txn:|var:", "", x[!is.na(x)][1]))})), rownames(MRP$Matrix_1$Matrix)[unlist(lapply(strsplit(rownames(MRP$Matrix_1$Matrix), split = "_"), length)) == 2]), if(any(unlist(lapply(strsplit(rownames(MRP$Matrix_1$Matrix), split = "_"), length)) > 3)){ cbind(unlist(lapply(apply(metatree::PaleobiologyDBTaxaQuerier("1", unlist(lapply(strsplit(rownames(MRP$Matrix_1$Matrix)[unlist(lapply(strsplit(rownames(MRP$Matrix_1$Matrix), split = "_"), length)) > 2], split = "_"), function(x) x[1]))), 1, as.list), function(x) {x <- unlist(x)[1:2]; unname(gsub("txn:|var:", "", x[!is.na(x)][1]))})), rownames(MRP$Matrix_1$Matrix)[unlist(lapply(strsplit(rownames(MRP$Matrix_1$Matrix), split = "_"), length)) > 2]) } else {matrix(nrow = 0, ncol = 2)})
@@ -106,10 +106,10 @@ nodelabels(Synapsida$TaxonomyTree$node.label, cex = 0.5)
 dev.off()
 
 # Write out metatree files:
-WriteMorphNexus(Synapsida$FullMRPMatrix, paste(MetatreeDirectory, "/SynapsidaFULL.nex", sep = ""))
-WriteMorphNexus(Synapsida$STRMRPMatrix, paste(MetatreeDirectory, "/SynapsidaSTR.nex", sep = ""))
-WriteMorphTNT(Synapsida$FullMRPMatrix, paste(MetatreeDirectory, "/SynapsidaFULL.tnt", sep = ""))
-WriteMorphTNT(Synapsida$STRMRPMatrix, paste(MetatreeDirectory, "/SynapsidaSTR.tnt", sep = ""))
+WriteMatrixNEXUS(Synapsida$FullMRPMatrix, paste(MetatreeDirectory, "/SynapsidaFULL.nex", sep = ""))
+WriteMatrixNEXUS(Synapsida$STRMRPMatrix, paste(MetatreeDirectory, "/SynapsidaSTR.nex", sep = ""))
+WriteMatrixTNT(Synapsida$FullMRPMatrix, paste(MetatreeDirectory, "/SynapsidaFULL.tnt", sep = ""))
+WriteMatrixTNT(Synapsida$STRMRPMatrix, paste(MetatreeDirectory, "/SynapsidaSTR.tnt", sep = ""))
 write.table(Synapsida$SafelyRemovedTaxa, "~/Desktop/Desktop - Spencer’s MacBook Pro (2)/NSF metatree/ProjectCalfFace/Metatree/STR.txt", row.names = FALSE)
 
 # Add analysis block to STR TNT:

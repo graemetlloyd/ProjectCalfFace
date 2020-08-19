@@ -29,3 +29,5 @@ Common ancestor of Luangwa and Massetognathus,Luangwa_drysdalli,Massetognathus_p
 Common ancestor of Pseudotherium and Tritylodontidae,Pseudotherium_argentinus,Oligokyphus_lufengensis,232
 Common ancestor of Tritylodon and Oligokyphus,Tritylodon_longaevus,Oligokyphus_lufengensis,204.9
 Common ancestor of Morganucodon and Megazostrodon,Morganucodon_oehleri,Megazostrodon_rudnerae,208.5
+Archaeothyris_florensis + Archaeothyris_florensis,Archaeothyris_florensis,Archaeothyris_florensis,320
+fake node to root tree,Archaeothyris_florensis,Oedaleops_campi,320

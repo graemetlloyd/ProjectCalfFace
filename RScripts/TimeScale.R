@@ -67,15 +67,15 @@ for(i in 1:length(Trees)) {
 
 
 # TImescale just first tree using equal method:
-x <- paleotree::timePaleoPhy(tree, timeData = PaleotreeAgeData, type = "equal", vartime = 1,node.mins=NodeListWithDates[[1]])
+x <- paleotree::timePaleoPhy(tree, timeData = PaleotreeAgeData, type = "equal", vartime = 1, node.mins = NodeListWithDates[[1]])
 
-node.mins=NodeListWithDates[[1]]
+node.mins = NodeListWithDates[[1]]
 
 # Plot tree nicely using geoscalePhylo:
-strap::geoscalePhylo(ape::ladderize(x), x.lim = c(325, 66), cex.tip=0.15,label.offset=.5,ages = PaleotreeAgeData[x$tip.label, ])
+strap::geoscalePhylo(ape::ladderize(x), x.lim = c(325, 66), cex.tip = 0.15, label.offset = .5, ages = PaleotreeAgeData[x$tip.label, ])
 
 #Write dated tree to a nexus file that can be opened in FigTree
-ape::write.nexus(x,file="~/Desktop/Dated_Metatree2.nex")
+ape::write.nexus(x, file = "~/Desktop/Dated_Metatree2.nex")
 
 
 #length(rep(0, Trees[[1]]$Nnode))

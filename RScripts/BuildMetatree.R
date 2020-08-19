@@ -79,22 +79,22 @@ ConstraintTree <- ape::read.tree(text = Sidor_et_Hopson_1998_Figure_2_Newick)
 MRP <- metatree::Tree2MRP(ConstraintTree)
 
 # Write MRP to file:
-WriteMorphNexus(MRP, "~/Documents/Publications/in prep/Synapsid metatree - Spencer/ProjectCalfFace/MRP/Constraint_2020amrp.nex")
+Claddis::write_nexus_matrix(MRP, "~/Documents/Publications/in prep/Synapsid metatree - Spencer/ProjectCalfFace/MRP/Constraint_2020amrp.nex")
 
 # Get first set of reconciled names:
-ReconciledNames <- rbind(cbind(unlist(lapply(apply(metatree::PaleobiologyDBTaxaQuerier("1", rownames(MRP$Matrix_1$Matrix)[unlist(lapply(strsplit(rownames(MRP$Matrix_1$Matrix), split = "_"), length)) == 2]), 1, as.list), function(x) {x <- unlist(x)[1:2]; unname(gsub("txn:|var:", "", x[!is.na(x)][1]))})), rownames(MRP$Matrix_1$Matrix)[unlist(lapply(strsplit(rownames(MRP$Matrix_1$Matrix), split = "_"), length)) == 2]), if(any(unlist(lapply(strsplit(rownames(MRP$Matrix_1$Matrix), split = "_"), length)) > 3)){ cbind(unlist(lapply(apply(metatree::PaleobiologyDBTaxaQuerier("1", unlist(lapply(strsplit(rownames(MRP$Matrix_1$Matrix)[unlist(lapply(strsplit(rownames(MRP$Matrix_1$Matrix), split = "_"), length)) > 2], split = "_"), function(x) x[1]))), 1, as.list), function(x) {x <- unlist(x)[1:2]; unname(gsub("txn:|var:", "", x[!is.na(x)][1]))})), rownames(MRP$Matrix_1$Matrix)[unlist(lapply(strsplit(rownames(MRP$Matrix_1$Matrix), split = "_"), length)) > 2]) } else {matrix(nrow = 0, ncol = 2)})
+ReconciledNames <- rbind(cbind(unlist(lapply(apply(metatree::PaleobiologyDBTaxaQuerier("1", rownames(MRP$matrix_1$matrix)[unlist(lapply(strsplit(rownames(MRP$matrix_1$matrix), split = "_"), length)) == 2]), 1, as.list), function(x) {x <- unlist(x)[1:2]; unname(gsub("txn:|var:", "", x[!is.na(x)][1]))})), rownames(MRP$matrix_1$matrix)[unlist(lapply(strsplit(rownames(MRP$matrix_1$matrix), split = "_"), length)) == 2]), if(any(unlist(lapply(strsplit(rownames(MRP$matrix_1$matrix), split = "_"), length)) > 3)){ cbind(unlist(lapply(apply(metatree::PaleobiologyDBTaxaQuerier("1", unlist(lapply(strsplit(rownames(MRP$matrix_1$matrix)[unlist(lapply(strsplit(rownames(MRP$matrix_1$matrix), split = "_"), length)) > 2], split = "_"), function(x) x[1]))), 1, as.list), function(x) {x <- unlist(x)[1:2]; unname(gsub("txn:|var:", "", x[!is.na(x)][1]))})), rownames(MRP$matrix_1$matrix)[unlist(lapply(strsplit(rownames(MRP$matrix_1$matrix), split = "_"), length)) > 2]) } else {matrix(nrow = 0, ncol = 2)})
 
 # Read in constraint XML:
 XML <- ReadMetatreeXML("~/Documents/Publications/in prep/Synapsid metatree - Spencer/ProjectCalfFace/XML/Constraint_2020a.xml")
 
 # Update constraint XML taxon count:
-XML$SourceTree$Taxa$TagSupplement[, "Value"] <- as.character(nrow(MRP$Matrix_1$Matrix))
+XML$SourceTree$Taxa$TagSupplement[, "Value"] <- as.character(nrow(MRP$matrix_1$matrix))
 
 # Update constraint XML (MRP) character count:
-XML$SourceTree$Characters$Other$TagSupplement[, "Value"] <- as.character(ncol(MRP$Matrix_1$Matrix))
+XML$SourceTree$Characters$Other$TagSupplement[, "Value"] <- as.character(ncol(MRP$matrix_1$matrix))
 
 # Update taxonomic reconciliation for constraint tree:
-XML$SourceTree$Taxa$TagContents <- matrix(unname(matrix(c(c("DELETE", ReconciledNames[, 2]), c("0", ReconciledNames[, 1]), c("allzero", ReconciledNames[, 2])), ncol = 3, dimnames = list(c("allzero", ReconciledNames[, 2]), c("recon_name", "recon_no", "ListValue")))[rownames(MRP$Matrix_1$Matrix), ]), ncol = 3, dimnames = list(c(), c("recon_name", "recon_no", "ListValue")))
+XML$SourceTree$Taxa$TagContents <- matrix(unname(matrix(c(c("DELETE", ReconciledNames[, 2]), c("0", ReconciledNames[, 1]), c("allzero", ReconciledNames[, 2])), ncol = 3, dimnames = list(c("allzero", ReconciledNames[, 2]), c("recon_name", "recon_no", "ListValue")))[rownames(MRP$matrix_1$matrix), ]), ncol = 3, dimnames = list(c(), c("recon_name", "recon_no", "ListValue")))
 
 # Write XML to file:
 WriteMetatreeXML(XML, "~/Documents/Publications/in prep/Synapsid metatree - Spencer/ProjectCalfFace/XML/Constraint_2020a.xml")
@@ -118,10 +118,10 @@ nodelabels(Synapsida$TaxonomyTree$node.label, cex = 0.5)
 dev.off()
 
 # Write out metatree files:
-WriteMorphNexus(Synapsida$FullMRPMatrix, paste(MetatreeDirectory, "/SynapsidaFULL.nex", sep = ""))
-WriteMorphNexus(Synapsida$STRMRPMatrix, paste(MetatreeDirectory, "/SynapsidaSTR.nex", sep = ""))
-WriteMorphTNT(Synapsida$FullMRPMatrix, paste(MetatreeDirectory, "/SynapsidaFULL.tnt", sep = ""))
-WriteMorphTNT(Synapsida$STRMRPMatrix, paste(MetatreeDirectory, "/SynapsidaSTR.tnt", sep = ""))
+Claddis::write_nexus_matrix(Synapsida$FullMRPMatrix, paste(MetatreeDirectory, "/SynapsidaFULL.nex", sep = ""))
+Claddis::write_nexus_matrix(Synapsida$STRMRPMatrix, paste(MetatreeDirectory, "/SynapsidaSTR.nex", sep = ""))
+Claddis::write_tnt_matrix(Synapsida$FullMRPMatrix, paste(MetatreeDirectory, "/SynapsidaFULL.tnt", sep = ""))
+Claddis::write_tnt_matrix(Synapsida$STRMRPMatrix, paste(MetatreeDirectory, "/SynapsidaSTR.tnt", sep = ""))
 write.table(Synapsida$SafelyRemovedTaxa, "~/Documents/Publications/in prep/Synapsid metatree - Spencer/ProjectCalfFace/Metatree/STR.txt", row.names = FALSE)
 
 # Add analysis block to STR TNT:

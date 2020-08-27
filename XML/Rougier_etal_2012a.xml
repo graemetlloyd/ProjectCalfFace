@@ -19,7 +19,7 @@
 	</Source>
 	<Taxa number="58">
 		<List recon_name="Probainognathus_jenseni" recon_no="80895">Probainognathus</List>
-		<List recon_name="DELETE" recon_no="39208">Tritylodontids</List>
+		<List recon_name="Tritylodontidae" recon_no="39208">Tritylodontids</List>
 		<List recon_name="DELETE" recon_no="-1">Tritheledontids</List>
 		<List recon_name="Adelobasileus_cromptoni" recon_no="53176">Adelobasileus</List>
 		<List recon_name="Sinoconodon_rigneyi" recon_no="203414">Sinoconodon</List>
@@ -62,7 +62,7 @@
 		<List recon_name="Henkelotherium_guimarotae" recon_no="212375">Henkelotherium</List>
 		<List recon_name="Dryolestes_leirensis,Dryolestes_priscus,Dryolestes_vorax" recon_no="212351;57720;57721">Dryolestes</List>
 		<List recon_name="Laolestes_eminens,Laolestes_goodrichi,Laolestes_hodsoni,Laolestes_oweni" recon_no="57719;212360;212361;212362">Laolestes</List>
-		<List recon_name="Amblotherium_gracilis,Amblotherium_nanum,Amblotherium_pusillum,Amblotherium_soricinum " recon_no="57734;206740;206741;NA">Amblotherium</List>
+		<List recon_name="Amblotherium_gracilis,Amblotherium_nanum,Amblotherium_pusillum,Amblotherium_soricinum" recon_no="57734;206740;206741;57717">Amblotherium</List>
 		<List recon_name="Comotherium_richi" recon_no="57708">Comotherium</List>
 		<List recon_name="Mesungulatum_houssayi,Mesungulatum_lamarquensis" recon_no="67612;140932">Mesungulatum</List>
 		<List recon_name="Coloniatherium_cilinskii" recon_no="206767">Coloniatherium</List>

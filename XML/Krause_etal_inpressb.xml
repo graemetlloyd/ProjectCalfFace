@@ -50,16 +50,16 @@
 		<List recon_name="Ornithorhynchus_anatinus" recon_no="166835">Ornithorhynchus</List>
 		<List recon_name="Steropodon_galmani" recon_no="166544">Steropodon</List>
 		<List recon_name="Teinolophos_trusleri" recon_no="137612">Teinolophos</List>
-		<List recon_name="DELETE" recon_no="-1">Obdurodon</List>
+		<List recon_name="Obdurodon_dicksoni,Obdurodon_insignis,Obdurodon_tharalkooschild" recon_no="166585;166545;285190">Obdurodon</List>
 		<List recon_name="Megaconus_mammaliaformis" recon_no="276072">Megaconus</List>
 		<List recon_name="Haramiyavia_clemmenseni" recon_no="178263">Haramiyavia</List>
-		<List recon_name="DELETE" recon_no="-1">Thomasia</List>
+		<List recon_name="Thomasia_antiqua,Thomasia_hahni,Thomasia_moorei,Thomasia_woutersi" recon_no="204239;208925;208923;208926">Thomasia</List>
 		<List recon_name="Arboroharamiya_jenkinsi" recon_no="276074">Arboroharamiya_j</List>
 		<List recon_name="Arboroharamiya_allinhopsoni" recon_no="106246">Arboroharamiya_a</List>
 		<List recon_name="Xianshou_linglong" recon_no="308737">Xianshou_l</List>
 		<List recon_name="Xianshou_songae" recon_no="308740">Xianshou_s</List>
 		<List recon_name="Shenshou_lui" recon_no="308734">Shenshou</List>
-		<List recon_name="DELETE" recon_no="-1">Qishou</List>
+		<List recon_name="Qishou_jizantang" recon_no="424651">Qishou</List>
 		<List recon_name="Maiopatagium_furculiferum" recon_no="358789">Maiopatagium</List>
 		<List recon_name="Vilevolodon_diplomylos" recon_no="358795">Vilevolodon</List>
 		<List recon_name="Cifelliodon_wahkarmoosuch" recon_no="370749">Cifelliodon</List>
@@ -73,7 +73,7 @@
 		<List recon_name="Sudamerica_ameghinoi" recon_no="206773">Sudamerica</List>
 		<List recon_name="Galulatherium_jenkinsi" recon_no="382701">Galulatherium</List>
 		<List recon_name="Greniodon_sylvaticus" recon_no="327301">Greniodon</List>
-		<List recon_name="DELETE" recon_no="-1">Jeholbaatar</List>
+		<List recon_name="Jeholbaatar_kielanae" recon_no="424646">Jeholbaatar</List>
 		<List recon_name="Rugosodon_eurasiaticus" recon_no="276142">Rugosodon</List>
 		<List recon_name="DELETE" recon_no="-1">Guimarota_paulchoffatiidae</List>
 		<List recon_name="Sinobaatar_fuxinensis,Sinobaatar_xiei,Sinobaatar_lingyuanensis" recon_no="216673;216672;167144">Sinobaatar</List>
@@ -104,11 +104,11 @@
 		<List recon_name="Erinaceus_europaeus" recon_no="104181">Erinaceus</List>
 		<List recon_name="Gomphos_elkema" recon_no="101464">Gomphos</List>
 		<List recon_name="Tribosphenomys_minutus,Tribosphenomys_secundus" recon_no="91626;91627">Tribosphenomys</List>
-		<List recon_name="DELETE" recon_no="-1">Dasypus</List>
+		<List recon_name="Dasypus_(Dasypus)_novemcinctus" recon_no="161184">Dasypus</List>
 		<List recon_name="Asiatherium_reshetovi" recon_no="183890">Asiatherium</List>
 		<List recon_name="Deltatheridium_pretrituberculare" recon_no="70456">Deltatheridium</List>
 		<List recon_name="Pucadelphys_andinus" recon_no="246571">Pucadelphys</List>
-		<List recon_name="DELETE" recon_no="-1">Didelphis</List>
+		<List recon_name="Didelphis_virginiana" recon_no="45705">Didelphis</List>
 		<List recon_name="Sinodelphys_szalayi" recon_no="91354">Sinodelphys</List>
 		<List recon_name="Ambolestes_zhoui" recon_no="371742">Ambolestes</List>
 	</Taxa>

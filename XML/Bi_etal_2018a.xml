@@ -61,7 +61,7 @@
 		<List recon_name="Gypsonictops_hypoconus,Gypsonictops_illuminatus,Gypsonictops_lewisi" recon_no="46754;46755;46756">Gypsonictops</List>
 		<List recon_name="Solenodon_paradoxus" recon_no="385513">Solenodon_paradoxus</List>
 		<List recon_name="Leptictis_acutidens,Leptictis_bullatus,Leptictis_dakotensis,Leptictis_montanus,Leptictis_thomsoni" recon_no="47556;144951;47557;47560;47561">Leptictis</List>
-		<List recon_name="Dasypus_novemcinctus" recon_no="45560">Dasypus_novemcinctus</List>
+		<List recon_name="Dasypus_(Dasypus)_novemcinctus" recon_no="161184">Dasypus_novemcinctus</List>
 		<List recon_name="Ptilocercus_lowii" recon_no="234229">Ptilocercus_lowii</List>
 		<List recon_name="Deltatheridium_pretrituberculare" recon_no="70456">Deltatheridium_pretirtuberculare</List>
 		<List recon_name="Oklatheridium_szalayi,Oklatheridium_minax,Oklatheridium_wiblei" recon_no="204004;204005;319847">Oklatheridium</List>
@@ -78,7 +78,7 @@
 		<List recon_name="Didelphis_virginiana" recon_no="45705">Didelphis_virginiana</List>
 		<List recon_name="Dromiciops_gliroides" recon_no="234408">Dromiciops_gliroides</List>
 		<List recon_name="Orycteropus_afer" recon_no="119862">Orycteropus_afer</List>
-		<List recon_name="Cimolestes_incisus" recon_no="45115">Cimolestes</List>
+		<List recon_name="Cimolestes_incisus,Cimolestes_stirtoni" recon_no="45115;45120">Cimolestes</List>
 		<List recon_name="Altacreodus_magnus" recon_no="331293">Altacreodus_magnus</List>
 		<List recon_name="Ambilestes_cerberoides" recon_no="331295">Ambilestes_cerberoides</List>
 		<List recon_name="Scollardius_propalaeoryctes" recon_no="331297">Scollardius_propalaeryctes</List>

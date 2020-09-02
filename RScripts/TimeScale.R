@@ -7,12 +7,13 @@
 # Load metatree library:
 library(paleotree)
 library(strap)
+library(beepr)
 
 # Read trees in from GitHub:
 Trees <- ape::read.tree("https://raw.githubusercontent.com/graemetlloyd/ProjectCalfFace/master/Trees/MPTs.tre")
 
 # Read in age data from GitHub:
-AgeData <- read.table("https://raw.githubusercontent.com/graemetlloyd/ProjectCalfFace/master/Recovered_Age_Data.csv", sep = ",", header = TRUE)
+AgeData <- read.table("https://raw.githubusercontent.com/graemetlloyd/ProjectCalfFace/master/Ken_plus_Grossnickle_recoved_age_data.csv", sep = ",", header = TRUE)
 
 # First reformat step for paleotree:
 PaleotreeAgeData <- AgeData[!is.na(AgeData[, "FAD"]), c("X...Taxon", "FAD", "LAD")]
@@ -46,7 +47,8 @@ for(i in 1:length(Trees)) {
   for(j in 1:nrow(NodeAgePairs)) {
     
     # Fidn node number and store minimum age in vector:
-    nodeminima[(Claddis::FindAncestor(descs = NodeAgePairs[j, c("Taxon_1", "Taxon_2")], tree = tree) - NTips)] <- NodeAgePairs[j, "Min_Date"]
+    nodeminima[(Claddis::find_mrca(
+      descendant_names = NodeAgePairs[j, c("Taxon_1", "Taxon_2")], tree = tree) - NTips)] <- NodeAgePairs[j, "Min_Date"]
     
   }
   
@@ -55,6 +57,10 @@ for(i in 1:length(Trees)) {
   
 }
 
+beep (3)
+
+x=Trees[[1]]
+strap::geoscalePhylo(ape::ladderize(x), x.lim = c(325, 0), cex.tip=0.15,label.offset=.5, width=1, ages = PaleotreeAgeData[x$tip.label, ])
 
 
 # GRAEME HAS NOT LOOKED BELOW HERE

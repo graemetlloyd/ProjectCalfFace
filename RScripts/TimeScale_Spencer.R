@@ -12,16 +12,18 @@ library(strap)
 Trees <- ape::read.tree("~/Desktop/Desktop - Spencer???s MacBook Pro (2)/NSF metatree/ProjectCalfFace/Trees/MPTs.tre")
 
 # Read in age data from GitHub:
-AgeData <- read.table("~/Desktop/Recovered_Age_Data_Paired_Down_alittle.csv", sep = ",", header = TRUE)
+AgeData <- read.table("~/Desktop/Desktop - Spencer???s MacBook Pro (2)/NSF metatree/ProjectCalfFace/G_plus_A_80mya_and_beore_recovered_age_data.csv", sep = ",", header = TRUE)
 
 # First reformat step for paleotree:
-PaleotreeAgeData <- AgeData[!is.na(AgeData[, "FAD"]), c("X...Taxon", "FAD", "LAD")]
+PaleotreeAgeData <- AgeData[!is.na(AgeData[, "FAD"]), c("Taxon", "FAD", "LAD")]
+# PaleotreeAgeData <- AgeData[!is.na(AgeData[, "FAD"]), c("X...Taxon", "FAD", "LAD")]
 
 # Second reformat step for paleotree:
-PaleotreeAgeData <- matrix(c(PaleotreeAgeData[, "FAD"], PaleotreeAgeData[, "LAD"]), ncol = 2, dimnames = list(PaleotreeAgeData[, "X...Taxon"], c("FAD", "LAD")))
+PaleotreeAgeData <- matrix(c(PaleotreeAgeData[, "FAD"], PaleotreeAgeData[, "LAD"]), ncol = 2, dimnames = list(PaleotreeAgeData[, "Taxon"], c("FAD", "LAD")))
+#PaleotreeAgeData <- matrix(c(PaleotreeAgeData[, "FAD"], PaleotreeAgeData[, "LAD"]), ncol = 2, dimnames = list(PaleotreeAgeData[, "X...Taxon"], c("FAD", "LAD")))
 
 # Read in node age pairs:
-NodeAgePairs <- read.table("~/Desktop/Desktop - Spencer???s MacBook Pro (2)/NSF metatree/ProjectCalfFace/node_dates_from_ken.csv", header = TRUE, sep = ",", stringsAsFactors = FALSE)
+NodeAgePairs <- read.table("~/Desktop/Recovered_Age_Data_paired_down.csv", header = TRUE, sep = ",", stringsAsFactors = FALSE)
 
 # Silly fudgy deleting bits required for now to make things work:
 NodeAgePairs <- NodeAgePairs[-28, ]
@@ -60,22 +62,22 @@ for(i in 1:length(Trees)) {
 # GRAEME HAS NOT LOOKED BELOW HERE
 
 
-
-
-
 x=Trees[[1]]
 strap::geoscalePhylo(ape::ladderize(x), x.lim = c(325, 0), cex.tip=0.10,label.offset=.5, width=1, ages = PaleotreeAgeData[x$tip.label, ])
 
-# TImescale just first tree using equal method:
-x <- paleotree::timePaleoPhy(tree, timeData = PaleotreeAgeData, type = "equal", vartime = 1,node.mins=NodeListWithDates[[1]])
 
-node.mins=NodeListWithDates[[1]]
+
+
+# TImescale just first tree using equal method:
+x <- paleotree::timePaleoPhy(tree, timeData = PaleotreeAgeData, type = "equal", vartime = 1, node.mins = NodeListWithDates[[1]])
+
+node.mins = NodeListWithDates[[1]]
 
 # Plot tree nicely using geoscalePhylo:
-strap::geoscalePhylo(ape::ladderize(x), x.lim = c(325, 66), cex.tip=0.15,label.offset=.5,ages = PaleotreeAgeData[x$tip.label, ])
+strap::geoscalePhylo(ape::ladderize(x), x.lim = c(325, 66), cex.tip = 0.15, label.offset = .5, ages = PaleotreeAgeData[x$tip.label, ])
 
 #Write dated tree to a nexus file that can be opened in FigTree
-ape::write.nexus(x,file="~/Desktop/Dated_Metatree2.nex")
+ape::write.nexus(x, file = "~/Desktop/Dated_Metatree2.nex")
 
 
 #length(rep(0, Trees[[1]]$Nnode))

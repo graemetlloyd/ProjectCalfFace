@@ -1,3 +1,18 @@
+#find xml or mrp that's messed up
+setwd(XMLDirectory); for(i in list.files()) {cat(i); ReadMetatreeXML(i)}
+
+#find OTU in xml or mrp that's messed up
+setwd("~/Desktop/Desktop - Spencer’s MacBook Pro (2)/NSF metatree/ProjectCalfFace")
+
+filename = "Rougier_etal_2012a"
+XMLnames <- metatree::ReadMetatreeXML(paste0("XML/", filename, ".xml"))$Source$Taxa$TagContents[, "ListValue"]
+MRPnames <- rownames(Claddis::read_nexus_matrix(paste0("MRP/", filename, "mrp.nex"))$matrix_1$matrix)
+
+setdiff(XMLnames, MRPnames)
+setdiff(MRPnames, XMLnames)
+
+Muizon_etal_2018a, Rougier_etal_2012a
+
 # SCRIPT TO BUILD METATREE FILES
 
 # Load metatree library:
@@ -29,90 +44,3 @@ ExcludeTaxonomyMRP = FALSE
 # Build synpasida metatree:
 Synapsida <- metatree::Metatree(MRPDirectory = MRPDirectory, XMLDirectory = XMLDirectory, TargetClade = TargetClade, InclusiveDataList = InclusiveDataList, ExclusiveDataList = ExclusiveDataList, MissingSpecies = MissingSpecies, SpeciesToExclude = SpeciesToExclude, RelativeWeights = RelativeWeights, WeightCombination = WeightCombination, IncludeSpecimenLevelOTUs = FALSE, ReportContradictionsToScreen = ReportContradictionsToScreen)
 
-# Enter constraint string (from Sidor and Hopson 1998, their Figure 2):
-Sidor_et_Hopson_1998_Figure_2_Newick <- "(Ophiacodontidae,(Edaphosauridae,(Haptodus,(Sphenacodontidae,(Biarmosuchia,((Anteosauridae,Estemmenosuchidae),(Anomodontia,(Gorgonopidae,(Therocephalia,(Dvinia,(Procynosuchus,(Galesauridae,(Thrinaxodon,(Cynognathus,(Chiniquodon,(Probainognathus,(Tritheledontidae,(Sinoconodon,Morganucodon))))))))))))))))));"
-
-# The following taxonomic changes were made to make this work with the current PBDB taxonomy:
-#
-# 1. Gorgonopsidae -> Gorgonopidae
-# 2. Morgaucodontidae -> Morganucodon
-# 3. Probelesodon -> Chiniquodon
-# 4. Cynognathia -> Cynognathus
-# 5. Eotitanosuchus is just removed (now in Bairmosuchia)
-
-# For each OTU:
-for(i in ape::read.tree(text = Sidor_et_Hopson_1998_Figure_2_Newick)$tip.label) {
-  
-  # Find tips assigned to the OTU in the metatree:
-  TipsFound <- Synapsida$TaxonomyTree$tip.label[FindDescendants(ape::Ntip(Synapsida$TaxonomyTree) + which(unlist(lapply(strsplit(Synapsida$TaxonomyTree$node.label, split = "_"), function(x) any(x == i)))), Synapsida$TaxonomyTree)]
-  
-  # If no descendant found check if there is just a single tip:
-  if(length(TipsFound) == 0) TipsFound <- Synapsida$TaxonomyTree$tip.label[unlist(lapply(strsplit(Synapsida$TaxonomyTree$tip.label, split = "_"), function(x) x[1] == i))]
-  
-  # If nothing found at all stop and warn user:
-  if(length(TipsFound) == 0) stop(paste(i, "breaks things."))
-  
-  # If not monotypic then form clade from tips as Newick string:
-  if(length(TipsFound) > 1) TipsFound <- paste("(", paste(TipsFound, collapse = ","), ")", sep = "")
-  
-  # Overwrite OTU name with species assigned to it:
-  Sidor_et_Hopson_1998_Figure_2_Newick <- gsub(i, TipsFound, Sidor_et_Hopson_1998_Figure_2_Newick)
-  
-}
-
-# COnvert Newick string to ape formatted tree:
-ConstraintTree <- ape::read.tree(text = Sidor_et_Hopson_1998_Figure_2_Newick)
-
-# Build MRP matrix from full constraint tree:
-MRP <- metatree::Tree2MRP(ConstraintTree)
-
-# Write MRP to file:
-WriteMatrixNEXUS(MRP, "~/Desktop/Desktop - Spencer’s MacBook Pro (2)/NSF metatree/ProjectCalfFace/MRP/Constraint_2020amrp.nex")
-
-# Get first set of reconciled names:
-ReconciledNames <- rbind(cbind(unlist(lapply(apply(metatree::PaleobiologyDBTaxaQuerier("1", rownames(MRP$Matrix_1$Matrix)[unlist(lapply(strsplit(rownames(MRP$Matrix_1$Matrix), split = "_"), length)) == 2]), 1, as.list), function(x) {x <- unlist(x)[1:2]; unname(gsub("txn:|var:", "", x[!is.na(x)][1]))})), rownames(MRP$Matrix_1$Matrix)[unlist(lapply(strsplit(rownames(MRP$Matrix_1$Matrix), split = "_"), length)) == 2]), if(any(unlist(lapply(strsplit(rownames(MRP$Matrix_1$Matrix), split = "_"), length)) > 3)){ cbind(unlist(lapply(apply(metatree::PaleobiologyDBTaxaQuerier("1", unlist(lapply(strsplit(rownames(MRP$Matrix_1$Matrix)[unlist(lapply(strsplit(rownames(MRP$Matrix_1$Matrix), split = "_"), length)) > 2], split = "_"), function(x) x[1]))), 1, as.list), function(x) {x <- unlist(x)[1:2]; unname(gsub("txn:|var:", "", x[!is.na(x)][1]))})), rownames(MRP$Matrix_1$Matrix)[unlist(lapply(strsplit(rownames(MRP$Matrix_1$Matrix), split = "_"), length)) > 2]) } else {matrix(nrow = 0, ncol = 2)})
-
-# Read in constraint XML:
-XML <- ReadMetatreeXML("~/Desktop/Desktop - Spencer’s MacBook Pro (2)/NSF metatree/ProjectCalfFace/XML/Constraint_2020a.xml")
-
-# Update constraint XML taxon count:
-XML$SourceTree$Taxa$TagSupplement[, "Value"] <- as.character(nrow(MRP$Matrix_1$Matrix))
-
-# Update constraint XML (MRP) character count:
-XML$SourceTree$Characters$Other$TagSupplement[, "Value"] <- as.character(ncol(MRP$Matrix_1$Matrix))
-
-# Update taxonomic reconciliation for constraint tree:
-XML$SourceTree$Taxa$TagContents <- matrix(unname(matrix(c(c("DELETE", ReconciledNames[, 2]), c("0", ReconciledNames[, 1]), c("allzero", ReconciledNames[, 2])), ncol = 3, dimnames = list(c("allzero", ReconciledNames[, 2]), c("recon_name", "recon_no", "ListValue")))[rownames(MRP$Matrix_1$Matrix), ]), ncol = 3, dimnames = list(c(), c("recon_name", "recon_no", "ListValue")))
-
-# Write XML to file:
-WriteMetatreeXML(XML, "~/Desktop/Desktop - Spencer’s MacBook Pro (2)/NSF metatree/ProjectCalfFace/XML/Constraint_2020a.xml")
-
-# Add constraint to inclusive data list:
-InclusiveDataList <- c(InclusiveDataList, "Constraint_2020a")
-
-# Build updated synpasida metatree with constraint included:
-Synapsida <- metatree::Metatree(MRPDirectory = MRPDirectory, XMLDirectory = XMLDirectory, TargetClade = TargetClade, InclusiveDataList = InclusiveDataList, ExclusiveDataList = ExclusiveDataList, MissingSpecies = MissingSpecies, SpeciesToExclude = SpeciesToExclude, RelativeWeights = RelativeWeights, WeightCombination = WeightCombination, IncludeSpecimenLevelOTUs = FALSE, ReportContradictionsToScreen = ReportContradictionsToScreen, BackboneConstraint = "Constraint_2020a")
-
-# Build constraint tree (for basic checks ahead of building constraint trees):
-pdf("~/Desktop/Desktop - Spencer’s MacBook Pro (2)/NSF metatree/ProjectCalfFace/Metatree/ConstraintTree.pdf", width = 30, height = 50)
-plot(ConstraintTree, cex = 0.3)
-#nodelabels(ConstraintTree$node.label, cex = 0.5)
-dev.off()
-
-# Build taxonomy tree (for basic checks ahead of building constraint trees):
-pdf("~/Desktop/Desktop - Spencer’s MacBook Pro (2)/NSF metatree/ProjectCalfFace/Metatree/TaxonomyTree.pdf", width = 30, height = 50)
-plot(Synapsida$TaxonomyTree, cex = 0.3)
-nodelabels(Synapsida$TaxonomyTree$node.label, cex = 0.5)
-dev.off()
-
-# Write out metatree files:
-WriteMatrixNEXUS(Synapsida$FullMRPMatrix, paste(MetatreeDirectory, "/SynapsidaFULL.nex", sep = ""))
-WriteMatrixNEXUS(Synapsida$STRMRPMatrix, paste(MetatreeDirectory, "/SynapsidaSTR.nex", sep = ""))
-WriteMatrixTNT(Synapsida$FullMRPMatrix, paste(MetatreeDirectory, "/SynapsidaFULL.tnt", sep = ""))
-WriteMatrixTNT(Synapsida$STRMRPMatrix, paste(MetatreeDirectory, "/SynapsidaSTR.tnt", sep = ""))
-write.table(Synapsida$SafelyRemovedTaxa, "~/Desktop/Desktop - Spencer’s MacBook Pro (2)/NSF metatree/ProjectCalfFace/Metatree/STR.txt", row.names = FALSE)
-
-# Add analysis block to STR TNT:
-STRTNT <- readLines(paste(MetatreeDirectory, "/SynapsidaSTR.tnt", sep = ""))
-STRTNT <- gsub("proc/;", "rseed*;\nhold 10;\nxmult=rss fuse 10 drift 10 ratchet 10;\ntsave scratch3.tre;\nsave;\ntsave /;\nrseed*;\nhold 10;\nxmult=rss fuse 10 drift 10 ratchet 10;\ntsave scratch3.tre +;\nsave;\ntsave /;\nrseed*;\nhold 10;\nxmult=rss fuse 10 drift 10 ratchet 10;\ntsave scratch3.tre +;\nsave;\ntsave /;\nrseed*;\nhold 10;\nxmult=rss fuse 10 drift 10 ratchet 10;\ntsave scratch3.tre +;\nsave;\ntsave /;\nrseed*;\nhold 10;\nxmult=rss fuse 10 drift 10 ratchet 10;\ntsave scratch3.tre +;\nsave;\ntsave /;\nhold 1000;\nshortread scratch3.tre;\nbbreak=tbr;\nexport -AllSTRMPTs.nex;\nproc/;", STRTNT)
-write(STRTNT, paste(MetatreeDirectory, "/SynapsidaSTR.tnt", sep = ""))

@@ -60,7 +60,7 @@
 		<List recon_name="Tribosphenomys_minutus,Tribosphenomys_secundus" recon_no="91626;91627">Tribosphenomys</List>
 		<List recon_name="Paramys_copei,Paramys_delicatus,Paramys_taurus" recon_no="49890;49893;49918">Paramys</List>
 		<List recon_name="Rhombomylus_turpanensis" recon_no="333090">Rhombomylus</List>
-		<List recon_name="Gomphos_elkema" recon_no="101464;0">Gomphos</List>
+		<List recon_name="Gomphos_elkema" recon_no="101464">Gomphos</List>
 		<List recon_name="Blarina_brevicauda" recon_no="44538">Blarina</List>
 		<List recon_name="Solenodon_paradoxus" recon_no="385513">Solenodon</List>
 		<List recon_name="Eoryctes_melanus" recon_no="46177">Eoryctes</List>

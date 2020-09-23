@@ -1,0 +1,145 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Liu, J.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title><em>Taoheodon baizhijuni</em>, gen. et sp. nov. (Anomodontia, Dicynodontoidea), from the Upper Permian Sunjiagou Formation of China and its implications</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="111">
+		<List recon_name="Biarmosuchus_tener" recon_no="335875">Biarmosuchus_tener</List>
+		<List recon_name="Hipposaurus_boonstrai" recon_no="96179">Hipposaurus_boonstrai</List>
+		<List recon_name="Archaeosyodon_praeventor" recon_no="358606">Archaeosyodon_praeventor</List>
+		<List recon_name="Titanophoneus_potens" recon_no="139331">Titanophoneus_potens</List>
+		<List recon_name="Gorgonops_torvus" recon_no="56786">Gorgonops_torvus</List>
+		<List recon_name="Lycosuchus_vanderrieti" recon_no="56796">Lycosuchus_vanderrieti</List>
+		<List recon_name="Glanosuchus_macrops" recon_no="56804">Glanosuchus_macrops</List>
+		<List recon_name="Biseridens_qilianicus" recon_no="137794">Biseridens_qilianicus</List>
+		<List recon_name="Anomocephalus_africanus" recon_no="180709">Anomocephalus_africanus</List>
+		<List recon_name="Tiarajudens_eccentricus" recon_no="180707">Tiarajudens_eccentricus</List>
+		<List recon_name="Otsheria_netzvetajevi" recon_no="361890">Otsheria_netzvetajevi</List>
+		<List recon_name="Ulemica_invisa" recon_no="361898">Ulemica</List>
+		<List recon_name="Suminia_getmanovi" recon_no="203391">Suminia_getmanovi</List>
+		<List recon_name="Patranomodon_nyaphulii" recon_no="109359">Patranomodon_nyaphulii</List>
+		<List recon_name="Galeops_whaitsi" recon_no="367358">Galeops_whaitsi</List>
+		<List recon_name="Galepus_jouberti" recon_no="56776">Galepus_jouberti</List>
+		<List recon_name="Galechirus_scholtzi" recon_no="56775">Galechirus_scholtzi</List>
+		<List recon_name="Eodicynodon_oelofseni" recon_no="109360">Eodicynodon_oelofseni</List>
+		<List recon_name="Eodicynodon_oosthuizeni" recon_no="164714">Eodicynodon_oosthuizeni</List>
+		<List recon_name="Colobodectes_cluveri" recon_no="229052">Colobodectes_cluveri</List>
+		<List recon_name="Lanthanostegus_mohoii" recon_no="164272">Lanthanostegus_mohoii</List>
+		<List recon_name="Eosimops_newtoni" recon_no="346715">Eosimops_newtoni</List>
+		<List recon_name="Diictodon_feliceps" recon_no="332332">Diictodon_feliceps</List>
+		<List recon_name="Robertia_broomiana" recon_no="336113">Robertia_broomiana</List>
+		<List recon_name="Prosictodon_dubei" recon_no="366730">Prosictodon_dubei</List>
+		<List recon_name="Endothiodon_bathystoma" recon_no="56838">Endothiodon_bathystoma</List>
+		<List recon_name="Endothiodon_tolani" recon_no="363933">Endothiodon_tolani</List>
+		<List recon_name="Niassodon_mfumukasi" recon_no="353124">Niassodon_mfumukasi</List>
+		<List recon_name="Brachyprosopus_broomi" recon_no="295501">Brachyprosopus_broomi</List>
+		<List recon_name="Pristerodon_mackayi" recon_no="56843">Pristerodon_mackayi</List>
+		<List recon_name="Emydops_oweni,Emydops_platyceps,Emydops_longus,Emydops_parvus,Emydops_arctatus,Emydops_minor,Emydops_minimus" recon_no="196018;201034;200132;198434;197858;56854;200879">Emydops</List>
+		<List recon_name="Digalodon_rubidgei" recon_no="323837">Digalodon_rubidgei</List>
+		<List recon_name="Dicynodontoides_recurvidens,Dicynodontoides_nowacki" recon_no="337545;337547">Dicynodontoides</List>
+		<List recon_name="Kombuisia_frerensis" recon_no="109013">Kombuisia_frerensis</List>
+		<List recon_name="Myosaurus_gracilis" recon_no="178200">Myosaurus_gracilis</List>
+		<List recon_name="Cistecephalus_microrhinus" recon_no="56851">Cistecephalus_microrhinus</List>
+		<List recon_name="Cistecephaloides_boonstrai" recon_no="345907">Cistecephaloides_boonstrai</List>
+		<List recon_name="Kawingasaurus_fossilis" recon_no="346140">Kawingasaurus_fossilis</List>
+		<List recon_name="Daqingshanodon_limbus" recon_no="266015">Daqingshanodon_limbus</List>
+		<List recon_name="Keyseria_benjamini" recon_no="333313">Keyseria_benjamini</List>
+		<List recon_name="Rhachiocephalus_magnus" recon_no="338940">Rhachiocephalus_magnus</List>
+		<List recon_name="Kitchinganomodon_crassus" recon_no="340229">Kitchinganomodon_crassus</List>
+		<List recon_name="Oudenodon_bainii" recon_no="91713">Oudenodon_bainii</List>
+		<List recon_name="Tropidostoma_dubium" recon_no="331592">Tropidostoma_dubium</List>
+		<List recon_name="Australobarbarus_kotelnitshi,Australobarbarus_platycephalus" recon_no="202548;202546">Australobarbarus</List>
+		<List recon_name="Syops_vanhoepeni" recon_no="335021">Syops_vanhoepeni</List>
+		<List recon_name="Odontocyclops_whaitsi" recon_no="339820">Odontocyclops_whaitsi</List>
+		<List recon_name="Idelesaurus_tataricus" recon_no="139088">Idelesaurus_tataricus</List>
+		<List recon_name="Aulacephalodon_bainii" recon_no="333234">Aulacephalodon_bainii</List>
+		<List recon_name="Pelanomodon_moschops" recon_no="338976">Pelanomodon_moschops</List>
+		<List recon_name="Geikia_locusticeps" recon_no="343951">Geikia_locusticeps</List>
+		<List recon_name="Geikia_elginensis" recon_no="157044">Geikia_elginensis</List>
+		<List recon_name="Elph_borealis" recon_no="159717">Elph_borealis</List>
+		<List recon_name="Interpresosaurus_blomi" recon_no="201003">Interpresosaurus_blomi</List>
+		<List recon_name="Katumbia_parringtoni" recon_no="346611">Katumbia_parringtoni</List>
+		<List recon_name="Delectosaurus_arefjevi" recon_no="200990">Delectosaurus_arefjevi</List>
+		<List recon_name="Dicynodon_lacerticeps" recon_no="91716">Dicynodon_lacerticeps</List>
+		<List recon_name="Daptocephalus_leoniceps" recon_no="297477">Daptocephalus_leoniceps</List>
+		<List recon_name="Dinanomodon_gilli" recon_no="332235">Dinanomodon_gilli</List>
+		<List recon_name="Peramodon_amalitzkii" recon_no="343651">Peramodon_amalitzkii</List>
+		<List recon_name="Vivaxosaurus_trautscholdi" recon_no="331912">Vivaxosaurus_trautscholdi</List>
+		<List recon_name="Jimusaria_sinkianensis" recon_no="264123">Jimusaria_sinkiangensis</List>
+		<List recon_name="Sintocephalus_alticeps" recon_no="344268">Sintocephalus_alticeps</List>
+		<List recon_name="Basilodon_woodwardi" recon_no="344044">Basilodon_woodwardi</List>
+		<List recon_name="Turfanodon_bogdaensis" recon_no="100521">Turfanodon_bogdaensis</List>
+		<List recon_name="Gordonia_traquairi" recon_no="157040">Gordonia_traquairi</List>
+		<List recon_name="Euptychognathus_bathyrhynchus" recon_no="343403">Euptychognathus_bathyrhynchus</List>
+		<List recon_name="Lystrosaurus_hedini" recon_no="100525">Lystrosaurus_hedini</List>
+		<List recon_name="Lystrosaurus_maccaigi" recon_no="122672">Lystrosaurus_maccaigi</List>
+		<List recon_name="Lystrosaurus_curvatus" recon_no="139951">Lystrosaurus_curvatus</List>
+		<List recon_name="Lystrosaurus_declivis" recon_no="140319">Lystrosaurus_declivis</List>
+		<List recon_name="Lystrosaurus_murrayi" recon_no="122595">Lystrosaurus_murrayi</List>
+		<List recon_name="Shansiodon_wangi,Shansiodon_wuhsiangensis" recon_no="266006;266008">Shansiodon</List>
+		<List recon_name="Tetragonias_njalilus" recon_no="339031">Tetragonias_njalilus</List>
+		<List recon_name="Vinceria_andina" recon_no="66675">Vinceria_andina</List>
+		<List recon_name="Rhinodicynodon_gracile" recon_no="170517">Rhinodicynodon_gracile</List>
+		<List recon_name="Dinodontosaurus_pedroanum" recon_no="178082">Dinodontosaurus</List>
+		<List recon_name="Angonisaurus_cruickshanki" recon_no="178256">Angonisaurus_cruickshanki</List>
+		<List recon_name="Kannemeyeria_simocephala" recon_no="337836">Kannemeyeria_simocephalus</List>
+		<List recon_name="Kannemeyeria_lophorhinus" recon_no="172541">Kannemeyeria_lophorhinus</List>
+		<List recon_name="Dolichuranus_primaevus" recon_no="172547">Dolichuranus_primaevus</List>
+		<List recon_name="Sinokannemeyeria_yingchiaoensis" recon_no="266005">Sinokannemeyeria</List>
+		<List recon_name="Parakannemeyeria_youngi" recon_no="265996">Parakannemeyeria</List>
+		<List recon_name="Xiyukannemeyeria_brevirostris" recon_no="265926">Xiyukannemeyeria_brevirostris</List>
+		<List recon_name="Rabidosaurus_cristatus" recon_no="170175">Rabidosaurus_cristatus</List>
+		<List recon_name="Rhadiodromus_klimovi" recon_no="141743">Rhadiodromus</List>
+		<List recon_name="Wadiasaurus_indicus" recon_no="177547">Wadiasaurus_indicus</List>
+		<List recon_name="Shaanbeikannemeyeria_buerdongia,Shaanbeikannemeyeria_xilougouensis" recon_no="265975;265978">Shaanbeikannemeyeria</List>
+		<List recon_name="Rechnisaurus_cristarhynchus" recon_no="177546">Rechnisaurus_cristarhynchus</List>
+		<List recon_name="Uralokannemeyeria_vjuschkovi" recon_no="170519">Uralokannemeyeria_vjuschkovi</List>
+		<List recon_name="Zambiasaurus_submersus" recon_no="172532">Zambiasaurus_submersus</List>
+		<List recon_name="Placerias_hesternus" recon_no="155546">Placerias_hesternus</List>
+		<List recon_name="Moghreberia_nmachouensis" recon_no="194203">Moghreberia_nmachouensis</List>
+		<List recon_name="Stahleckeria_potens" recon_no="100820">Stahleckeria_potens</List>
+		<List recon_name="Sangusaurus_parringtonii" recon_no="377471">Sangusaurus_parringtonii</List>
+		<List recon_name="Eubrachiosaurus_browni" recon_no="155538">Eubrachiosaurus_browni</List>
+		<List recon_name="Jachaleria_candelariensis" recon_no="178424">Jachaleria</List>
+		<List recon_name="Ischigualastia_jenseni" recon_no="54412">Ischigualastia_jenseni</List>
+		<List recon_name="Rastodon_procurvidens" recon_no="353126">Rastodon_procurvidens</List>
+		<List recon_name="Sauroscaptor_tharavati" recon_no="346930">Sauroscaptor_tharavati</List>
+		<List recon_name="Bulbasaurus_phylloxyron" recon_no="349896">Bulbasaurus_phylloxyron</List>
+		<List recon_name="Compsodon_helmoedi" recon_no="346691">Compsodon_helmoedi</List>
+		<List recon_name="Pentasaurus_goggai" recon_no="367243">Pentasaurus_goggai</List>
+		<List recon_name="Thliptosaurus_imperforatus" recon_no="385251">Thliptosaurus_imperforatus</List>
+		<List recon_name="Ufudocyclops_mukanelai" recon_no="412191">Ufudocyclops_mukanelai</List>
+		<List recon_name="Dicynodon_angielczyki" recon_no="412192">Dicynodon_angielczyki</List>
+		<List recon_name="Daptocephalus_huenei" recon_no="412201">Daptocephalus_huenei</List>
+		<List recon_name="Counillonia_superoculis" recon_no="386638">LPB_1993_3</List>
+		<List recon_name="Repelinosaurus_robustus" recon_no="386640">LPB_1993_2</List>
+		<List recon_name="Repelinosaurus_robustus" recon_no="386640">LPB_1995_9</List>
+		<List recon_name="Taoheodon_baizhijuni" recon_no="426822">Taoheodon_baizhijuni</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="197">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Liu_inpressa</Filename>
+	<Parent>Olivier_etal_inpressa</Parent>
+	<Sibling/>
+</SourceTree>

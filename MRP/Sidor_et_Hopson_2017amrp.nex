@@ -1,0 +1,41 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=27 NCHAR=27 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Procynosuchus_delaharpeae       000000000000000000000000000
+Galesaurus_planiceps            100000000000000000000000000
+Thrinaxodon_liorhinus           110000000000000000000000000
+Cynognathus_crateronotus        111100000000000000000000000
+Diademodon_tetragonus           111110000000000000000000000
+Trirachodon_berryi              111111110000000000000000000
+Cricodon_kannemeyeri            111111111000000000000000000
+Cricodon_metabolus              111111111000000000000000000
+Langbergia_modisei              111111100000000000000000000
+Pascualgnathus_polanskii        111111000100000000000000000
+Scalenodon_angustifrons         111111000111000000000000000
+Mandagomphodon_hirschsoni       111111000111111100000000000
+Luangwa_drysdalli               111111000111100000000000000
+Massetognathus_pascuali         111111000111110000000000000
+Gomphodontosuchus_brasiliensis  111111000111111010000000000
+Exaeretodon_argentinus          111111000111111010000000000
+Tritylodontidae                 111111000111111100000000000
+Lumkuia_fuzzi                   111000000000000001000000000
+Probainognathus_jenseni         111000000000000001111100000
+Ectininion_lunensis             111000000000000001100000000
+Probelesodon_lewisi             111000000000000001110010000
+Aleodon_brachyrhamphus          111000000000000001111011100
+Chiniquodon_theotonicus         111000000000000001111011100
+Pachygenelus_monus              111000000000000001111101010
+Morganucodon_oehleri            111000000000000001111101010
+Sinognathus_gracilis            111111000110000000000000001
+Beishanodon_youngi              111111000110000000000000001
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

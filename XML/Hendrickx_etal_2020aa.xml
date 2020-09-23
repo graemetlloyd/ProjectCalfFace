@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hendrickx, C.</List>
+			<List>Gaetano,, L. C.</List>
+			<List>Choiniere, J. N.</List>
+			<List>Mocke, H.</List>
+			<List>Abdala, F.</List>
+		</Author>
+		<Year>2020</Year>
+		<Title>A new traversodontid cynodont with a peculiar postcanine dentition from the Middle/Late Triassic of Namibia and dental evolution in basal gomphodonts</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>18</Volume>
+		<Pages>1669-1706</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List recon_name="Aelurodraco_microps" recon_no="343332">Procynosuchus</List>
+		<List recon_name="Galesaurus_planiceps" recon_no="56872">Galesaurus</List>
+		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">Thrinaxodon</List>
+		<List recon_name="Cynognathus_platyceps" recon_no="56880">Cynognathus</List>
+		<List recon_name="Diademodon_tetragonus" recon_no="171986">Diademodon</List>
+		<List recon_name="Trirachodon_kannemeyeri" recon_no="56886">Trirachodon</List>
+		<List recon_name="Cricodon_kannemeyeri,Cricodon_metabolus" recon_no="368659;177670">Cricodon</List>
+		<List recon_name="Langbergia_modisei" recon_no="171944">Langbergia</List>
+		<List recon_name="Pascualgnathus_polanskii" recon_no="117951">Pascualgnathus</List>
+		<List recon_name="Scalenodon_angustifrons" recon_no="177679">Scalenodon</List>
+		<List recon_name="Mandagomphodon_hirschsoni" recon_no="302113">Mandagomphodon</List>
+		<List recon_name="Luangwa_drysdalli" recon_no="172477">Luangwa</List>
+		<List recon_name="Massetognathus_pascuali" recon_no="80893">Massetognathus</List>
+		<List recon_name="Gomphodontosuchus_brasiliensis" recon_no="100826">Gomphodontosuchus</List>
+		<List recon_name="Exaeretodon_riograndensis" recon_no="333700">Exaeretodon</List>
+		<List recon_name="Bienotherium_yunnanense,Bienotheroides_wansienensis,Bocatherium_mexicanum,Kayentatherium_wellesi,Yunnanodon_brevirostre,Tritylodon_longaevus" recon_no="64289;112542;252017;175105;252933;177562">Tritylodontidae</List>
+		<List recon_name="Lumkuia_fuzzi" recon_no="95414">Lumkuia</List>
+		<List recon_name="Probainognathus_jenseni" recon_no="80895">Probainognathus</List>
+		<List recon_name="Ecteninion_lunensis" recon_no="67454">Ectininion</List>
+		<List recon_name="Probelesodon_lewisi" recon_no="80892">Probelesodon</List>
+		<List recon_name="Aleodon_brachyrhamphus,Aleodon_cromptoni" recon_no="177680;371893">Aleodon</List>
+		<List recon_name="Chiniquodon_theotonicus" recon_no="100823">Chiniquodon</List>
+		<List recon_name="Pachygenelus_monus" recon_no="56650">Pachygenelus</List>
+		<List recon_name="Morganucodon_oehleri,Morganucodon_watsoni" recon_no="203398;203396">Morganucodon</List>
+		<List recon_name="Sinognathus_gracilis" recon_no="265894">Sinognathus</List>
+		<List recon_name="Beishanodon_youngi" recon_no="265901">Beishanodon</List>
+		<List recon_name="Etjoia_dentitransitus" recon_no="426820">Etjoia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="75">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hendrickx_etal_2020aa</Filename>
+	<Parent>Sidor_et_Hopson_2017a</Parent>
+	<Sibling/>
+</SourceTree>

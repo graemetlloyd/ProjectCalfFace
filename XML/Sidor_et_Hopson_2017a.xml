@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sidor, C. A.</List>
+			<List>Hopson, J. A.</List>
+		</Author>
+		<Year>2017</Year>
+		<Title><em>Cricodon metabolus</em> (Cynodontia: Gomphodontia) from the Triassic Ntawere Formation of northeastern Zambia: patterns of tooth replacement and a systematic review of the Trirachodontidae</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>37</Volume>
+		<Pages>39-64</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List recon_name="Procynosuchus_delaharpeae" recon_no="323823">Procynosuchus_delaharpeae</List>
+		<List recon_name="Galesaurus_planiceps" recon_no="56872">Galesaurus_planiceps</List>
+		<List recon_name="Thrinaxodon_liorhinus" recon_no="144734">Thrinaxodon_liorhinus</List>
+		<List recon_name="Cynognathus_crateronotus" recon_no="56878">Cynognathus_crateronotus</List>
+		<List recon_name="Diademodon_tetragonus" recon_no="171986">Diademodon_tetragonus</List>
+		<List recon_name="Trirachodon_berryi" recon_no="56887">Trirachodon_berryi</List>
+		<List recon_name="Cricodon_kannemeyeri" recon_no="368659">Cricodon_kannemeyeri</List>
+		<List recon_name="Cricodon_metabolus" recon_no="177670">Cricodon_metabolus</List>
+		<List recon_name="Langbergia_modisei" recon_no="171944">Langbergia_modisei</List>
+		<List recon_name="Pascualgnathus_polanskii" recon_no="117951">Pascualgnathus_polanskii</List>
+		<List recon_name="Scalenodon_angustifrons" recon_no="177679">Scalenodon_angustifrons</List>
+		<List recon_name="Mandagomphodon_hirschsoni" recon_no="302113">Mandagomphodon_hirschsoni</List>
+		<List recon_name="Luangwa_drysdalli" recon_no="172477">Luangwa_drysdalli</List>
+		<List recon_name="Massetognathus_pascuali" recon_no="80893">Massetognathus_pascuali</List>
+		<List recon_name="Gomphodontosuchus_brasiliensis" recon_no="100826">Gomphodontosuchus_brasiliensis</List>
+		<List recon_name="Exaeretodon_argentinus" recon_no="376276">Exaeretodon_argentinus</List>
+		<List recon_name="Bienotherium_yunnanense,Bienotheroides_wansienensis,Bocatherium_mexicanum,Kayentatherium_wellesi,Yunnanodon_brevirostre,Tritylodon_longaevus" recon_no="64289;112542;252017;175105;252933;177562">Tritylodontidae</List>
+		<List recon_name="Lumkuia_fuzzi" recon_no="95414">Lumkuia_fuzzi</List>
+		<List recon_name="Probainognathus_jenseni" recon_no="80895">Probainognathus_jenseni</List>
+		<List recon_name="Ecteninion_lunensis" recon_no="67454">Ectininion_lunensis</List>
+		<List recon_name="Probelesodon_lewisi" recon_no="80892">Probelesodon_lewisi</List>
+		<List recon_name="Aleodon_brachyrhamphus" recon_no="177680">Aleodon_brachyrhamphus</List>
+		<List recon_name="Chiniquodon_theotonicus" recon_no="100823">Chiniquodon_theotonicus</List>
+		<List recon_name="Pachygenelus_monus" recon_no="56650">Pachygenelus_monus</List>
+		<List recon_name="Morganucodon_oehleri" recon_no="203398">Morganucodon_oehleri</List>
+		<List recon_name="Sinognathus_gracilis" recon_no="265894">Sinognathus_gracilis</List>
+		<List recon_name="Beishanodon_youngi" recon_no="265901">Beishanodon_youngi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="75">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sidor_et_Hopson_2017a</Filename>
+	<Parent>Hopson_et_Kitching_2001a</Parent>
+	<Sibling/>
+</SourceTree>

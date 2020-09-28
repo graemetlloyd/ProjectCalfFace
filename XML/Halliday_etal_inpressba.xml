@@ -65,7 +65,7 @@
 		<List recon_name="Solenodon_paradoxus" recon_no="385513">Solenodon</List>
 		<List recon_name="Eoryctes_melanus" recon_no="46177">Eoryctes</List>
 		<List recon_name="Potamogale_velox" recon_no="231780">Potamogale</List>
-		<List recon_name="DELETE" recon_no="-1">Rhynchocyon</List>
+		<List recon_name="Rhynchocyon_cirnei,Rhynchocyon_petersi" recon_no="425136;425135">Rhynchocyon</List>
 		<List recon_name="Procavia_capensis" recon_no="143657">Procavia</List>
 		<List recon_name="Chaetophractus_vellerosus,Chaetophractus_villosus" recon_no="233289;83806">Chaetophractus</List>
 		<List recon_name="Bradypus_griseus,Bradypus_tridactylus" recon_no="235352;104148">Bradypus</List>
@@ -140,7 +140,7 @@
 		<List recon_name="Homacodon_priscus,Homacodon_pucillus,Homacodon_vagans" recon_no="47075;47076;47077">Homacodon</List>
 		<List recon_name="Teilhardimys_brisswalteri,Teilhardimys_musculus,Teilhardimys_reisi" recon_no="252430;252428;252429">Teilhardimys</List>
 		<List recon_name="Orthaspidotherium_edwardsi" recon_no="172038">Orthaspidotherium</List>
-    	<List recon_name="DELETE" recon_no="-1">Pleuraspidotherium</List>
+    	<List recon_name="Pleuraspidotherium_aumonieri" recon_no="425137">Pleuraspidotherium</List>
 		<List recon_name="Hilalia_robusta,Hilalia_saribeya,Hilalia_selanneae,Hilalia_sezerorum" recon_no="100788;100786;100787;100789">Hilalia</List>
 		<List recon_name="Heptodon_calciculus,Heptodon_minimus,Heptodon_niushanensis,Heptodon_posticus" recon_no="46883;374039;345906;46884">Heptodon</List>
 		<List recon_name="Mesonyx_dakotensis,Mesonyx_lanius,Mesonyx_nuhetingensis,Mesonyx_obtusidens,Mesonyx_uqbulakensis" recon_no="48403;54271;332453;48405;332452">Mesonyx</List>
@@ -151,7 +151,7 @@
 		<List recon_name="Parapternodus_antiquus" recon_no="49943">Parapternodus</List>
 		<List recon_name="Bisonalveus_browni,Bisonalveus_holtzmani" recon_no="44533;44534">Bisonalveus</List>
 		<List recon_name="Pentacodon_inversus,Pentacodon_occultus" recon_no="50102;50103">Pentacodon</List>
-		<List recon_name="DELETE" recon_no="-1">Asiostylops</List>
+		<List recon_name="Asiostylops_spanios" recon_no="425132">Asiostylops</List>
 		<List recon_name="Arctostylops_steini" recon_no="44306">Arctostylops</List>
 		<List recon_name="Elpidophorus_elegans,Elpidophorus_minor" recon_no="46067;46068">Elpidophorus</List>
 		<List recon_name="Worlandia_inusitata" recon_no="52706">Worlandia</List>

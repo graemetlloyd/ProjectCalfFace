@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+<Source>
+<Author>
+<List>Kammerer, C. F.</List>
+<List>Masyutin, V.</List>
+</Author>
+<Year>2018</Year>
+<Title>
+A new therocephalian (
+<em>Gorynychus masyutinae</em>
+gen. et sp. nov.) from the Permian Kotelnich locality, Kirov Region, Russia
+</Title>
+<Journal>PeerJ</Journal>
+<Volume>6</Volume>
+<Pages>e4933</Pages>
+<Booktitle/>
+<Publisher/>
+<City/>
+<Editor/>
+</Source>
+<Taxa number="58">
+<List recon_name="Biarmosuchus_tener" recon_no="335875">Biarmosuchus_tener</List>
+<List recon_name="Titanophoneus_potens" recon_no="139331">Titanophoneus_potens</List>
+<List recon_name="Gorgonops_torvus,Lycaenops_angusticeps" recon_no="56786;341018">Gorgonopsia</List>
+<List recon_name="Galeops_whaitsi,Galepus_jouberti" recon_no="367358;56776">Anomodontia</List>
+<List recon_name="Charassognathus_gracilis" recon_no="140432">Charassognathus_gracilis</List>
+<List recon_name="Dvinia_prima" recon_no="343342">Dvinia_prima</List>
+<List recon_name="Procynosuchus_delaharpeae" recon_no="323823">Procynosuchus_delaharpeae</List>
+<List recon_name="Lycosuchus_vanderrieti" recon_no="56796">Lycosuchus_vanderrieti</List>
+<List recon_name="Alopecodon_priscus" recon_no="56788">Alopecodon</List>
+<List recon_name="Glanosuchus_macrops" recon_no="56804">Glanosuchus_macrops</List>
+<List recon_name="Ictidosaurus_angusticeps" recon_no="164327">Ictidosaurus_angusticeps</List>
+<List recon_name="Pardosuchus_whaitsi" recon_no="56799">Pardosuchus</List>
+<List recon_name="Pristerognathus_polyodon" recon_no="56811">Pristerognathus_polyodon</List>
+<List recon_name="Scylacosaurus_sclateri" recon_no="56810">Scylacosaurus</List>
+<List recon_name="Scylacosuchus_orenburgensis" recon_no="362033">Scylacosuchus</List>
+<List recon_name="Annatherapsidus_petri" recon_no="362214">Annatherapsidus</List>
+<List recon_name="Akidnognathidae_indet_USNM_PAL_412421" recon_no="95360">Cist_AZ_akidnog_USNM_PAL_412421</List>
+<List recon_name="Akidnognathus_parvus" recon_no="377639">Akidnognathus_parvus</List>
+<List recon_name="Euchambersia_mirabilis" recon_no="377640">Euchambersia_mirabilis</List>
+<List recon_name="Ophidostoma_tatarinovi" recon_no="364109">Ophidostoma</List>
+<List recon_name="Promoschorhynchus_platyrhinus" recon_no="343201">Promoschorhynchus</List>
+<List recon_name="Olivierosuchus_parringtoni" recon_no="260285">Olivierosuchus_parringtoni</List>
+<List recon_name="Cerdosuchoides_brevidens" recon_no="410493">Cerdosuchoides</List>
+<List recon_name="Moschorhinus_kitchingi" recon_no="178202">Moschorhinus_kitchingi</List>
+<List recon_name="Chthonosaurus_velocidens" recon_no="362211">Chthonosaurus</List>
+<List recon_name="Ichibengops_munyamadziensis" recon_no="341060">Ichibengops</List>
+<List recon_name="Ictidostoma_hemburyi" recon_no="404717">Ictidostoma_hemburyi</List>
+<List recon_name="Microwhaitsia_mendrezi" recon_no="364107">Microwhaitsia</List>
+<List recon_name="Hofmeyria_atavus" recon_no="367363">Hofmeyria_atavus</List>
+<List recon_name="Mirotenthes_digitipes" recon_no="377034">Mirotenthes_digitipes</List>
+<List recon_name="Ictidochampsa_platyceps" recon_no="345741">Ictidochampsa_platyceps</List>
+<List recon_name="Viatkosuchus_sumini" recon_no="362044">Viatkosuchus_sumini</List>
+<List recon_name="Moschowhaitsia_vjuschkovi" recon_no="140599">Moschowhaitsia_vjuschkovi</List>
+<List recon_name="Theriognathus_microps" recon_no="343308">Theriognathus_microps</List>
+<List recon_name="Ictidosuchus_primaevus" recon_no="56835">Ictidosuchus_primaevus</List>
+<List recon_name="Ictidosuchoides_longiceps" recon_no="376352">Ictidosuchoides_longiceps</List>
+<List recon_name="Ictidosuchops_rubidgei" recon_no="346931">Ictidosuchops_rubidgei</List>
+<List recon_name="Regisaurus_jacobi" recon_no="54356">Regisaurus_jacobi</List>
+<List recon_name="Urumchia_lii" recon_no="54355">Urumchia</List>
+<List recon_name="Choerosaurus_dejageri" recon_no="270392">Choerosaurus_dejageri</List>
+<List recon_name="Lycideops_longiceps" recon_no="270393">Lycideops_longiceps</List>
+<List recon_name="Karenites_ornamentatus" recon_no="362216">Karenites_ornamentatus</List>
+<List recon_name="Mupashi_migrator" recon_no="341058">Mupashi</List>
+<List recon_name="Tetracynodon_tenuis" recon_no="270394">Tetracynodon_tenuis</List>
+<List recon_name="Tetracynodon_darti" recon_no="173038">Tetracynodon_darti</List>
+<List recon_name="Scaloposaurus_constrictus" recon_no="56818">Scaloposaurus_constrictus</List>
+<List recon_name="Ericiolacerta_parva" recon_no="376274">Ericiolacerta_parva</List>
+<List recon_name="Silphedosuchus_orenburgensis" recon_no="265689">Silphedosuchus</List>
+<List recon_name="Nothogomphodon_danilovi" recon_no="169922">Nothogomphodon</List>
+<List recon_name="Ordosiodon_youngi" recon_no="265912">Ordosiodon</List>
+<List recon_name="Hazhenia_concava" recon_no="265915">Hazhenia</List>
+<List recon_name="Antecosuchus_ochevi" recon_no="169920">Antecosuchus</List>
+<List recon_name="Bauria_cynops" recon_no="174511">Bauria_cynops</List>
+<List recon_name="Traversodontoides_wangwuensis" recon_no="265902">Traversodontoides</List>
+<List recon_name="Microgomphodon_oligocynus" recon_no="56885">Microgomphodon_oligocynus</List>
+<List recon_name="Perplexisaurus_foveatus" recon_no="196702">Perplexisaurus</List>
+<List recon_name="Gorynychus_masyutinae" recon_no="371926">Gorynychus_masyutinae</List>
+<List recon_name="Shiguaignathus_wangi" recon_no="363956">Shiguaignathus</List>
+</Taxa>
+<Characters>
+<Molecular/>
+<Morphological number="130">
+<Type>Osteology</Type>
+</Morphological>
+<Behavioural/>
+<Other/>
+</Characters>
+<Analysis>
+<Type>Maximum Parsimony</Type>
+</Analysis>
+<Notes>Based on reanalysis of the original matrix.</Notes>
+<Filename>Kammerer_et_Masyutin_2018aa</Filename>
+<Parent>Huttenlocker_et_Smith_2017aa</Parent>
+<Sibling/>
+</SourceTree>

@@ -17,14 +17,14 @@ library(beepr)
 
 
 # First I imported the text file and converted it to a data frame with the third column empty for numbers. ALERT!!! I fixed two places where there were errant underscores, so you need to use the text file listed here (SMSUPDATE at the end of the name).
-listy <- read_lines(file = "~/Desktop/OTU_list_Halliday_etal_2017a_SMSUPDATE.txt") # read_lines just pulls every line of the txt file in as a separate string.
+listy <- read_lines(file = "~/Desktop/Williamson2011.txt") # read_lines just pulls every line of the txt file in as a separate string.
 
 # I used grep to pull out all the lines that included a colon, which gave me all the genera
 genus <- as.vector(listy[grep(listy, pattern = ":", fixed = T)]) 
 # I removed the lines with the two genera not listed in PBDB:
-genus <- genus[genus!="Rhynchocyon:"] 
-genus <- genus[genus!="Asiostylops:"]
-genus <- genus[genus!="Pleuraspidotherium:"]
+#genus <- genus[genus!="Rhynchocyon:"] 
+#genus <- genus[genus!="Asiostylops:"]
+#genus <- genus[genus!="Pleuraspidotherium:"]
 # I used grep to pull out all the lines that included an underscore, which gave me all the genus_species bits
 genus_sp <- as.vector(listy[grep(listy, pattern = "_", fixed = T)])
 

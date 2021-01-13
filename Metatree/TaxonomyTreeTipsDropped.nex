@@ -1,0 +1,1793 @@
+#NEXUS
+[R-package PHYTOOLS, Tue Jan 12 11:36:47 2021]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 890;
+	TAXLABELS
+		Aaptoryctes_ivyi
+		Abajudon_kaayi
+		Abdalodon_diastematicus
+		Acmeodon_secans
+		Acotherulum_saturninum
+		Acristatherium_yanensis
+		Acrobates_pygmaeus
+		Adalatherium_hui
+		Adapis_parisiensis
+		Adapisorex_gaudryi
+		Adelobasileus_cromptoni
+		Adinotherium_ovinum
+		Aegialodon_dawsoni
+		Aelurognathus_tigriceps
+		Aenigmadelphys_archeri
+		Aerosaurus_greenleeorum
+		Agilodocodon_scansorius
+		Akidnognathus_parvus
+		Akidolestes_cifelli
+		Albertatherium_primus
+		Alcidedorbignya_inopinata
+		Alemoatherium_huebneri
+		Aleodon_brachyrhamphus
+		Alierasaurus_ronchii
+		Allacerops_turgaica
+		Allqokirus_australis
+		Alopecodon_priscus
+		Alostera_saskatchewanensis
+		Alphadon_attaragos
+		Alrausuchus_tagax
+		Alsaticopithecus_leemani
+		Altacreodus_magnus
+		Altanius_orlovi
+		Alticonodon_lindoei
+		Alymlestes_kielanae
+		Ambilestes_cerberoides
+		Amblotherium_gracilis
+		Ambolestes_zhoui
+		Ambondro_mahabo
+		Amphibetulimus_krasnolutskii
+		Amphilestes_broderipii
+		Amphiperatherium_ambiguum
+		Amphitherium_prevostii
+		Amynodon_advenus
+		Anacodon_cultridens
+		Anchistodelphys_archibaldi
+		Andescynodon_mendozensis
+		Andinodelphys_cochabambensis
+		Anebodon_luoi
+		Angelosaurus_dolani
+		Angonisaurus_cruickshanki
+		Anisonchus_athelas
+		Ankalagon_saurognathus
+		Annatherapsidus_petri
+		Anningia_megalops
+		Anomocephalus_africanus
+		Antecosuchus_ochevi
+		Anteosaurus_magnificus
+		Apatemys_bellulus
+		Apheliscus_chydaeus
+		Aphronorus_bearspawensis
+		Apsisaurus_witteri
+		Aquiladelphis_incus
+		Arboroharamiya_allinhopsoni
+		Archaeosyodon_praeventor
+		Archaeothyris_florensis
+		Archaeovenator_hamiltonensis
+		Arcius_rougieri
+		Arctocyon_ferox
+		Arctocyonides_arenae
+		Arctodictis_sinclairi
+		Arctognathus_curvimola
+		Arctops_willistoni
+		Arctostylops_steini
+		Arctotraversodon_plemmyridon
+		Ardynia_praecox
+		Argentoconodon_fariasorum
+		Arguimus_khosbajari
+		Argyrolagus_scagliai
+		Arundelconodon_hottoni
+		Asfaltomylos_patagonicus
+		Asiatherium_reshetovi
+		Asioryctes_nemegtensis
+		Asiostylops_spanios
+		Aspanlestes_aptap
+		Astrapotherium_magnum
+		Astroconodon_delicatus
+		Atokatheridium_boreni
+		Aulacephalodon_bainii
+		Ausktribosphenos_nyktos
+		Australobarbarus_kotelnitshi
+		Australohyaena_antiqua
+		Australosyodon_nyaphuli
+		Avitotherium_utahensis
+		Azygonyx_ancylion
+		Baioconodon_nordicus
+		Baldwinonus_dunkardensis
+		Barunlestes_butleri
+		Basilodon_woodwardi
+		Bathmodon_brevipes
+		Bathygnathus_borealis
+		Batodon_tenuis
+		Bauria_cynops
+		Beishanodon_youngi
+		Bemalambda_nanhsiungensis
+		Bessoecetor_krausei
+		Betonnia_tsosia
+		Bharattherium_bonapartei
+		Biarmosuchus_tener
+		Bienotherium_magnum
+		Bienotheroides_shartegensis
+		Biseridens_qilianicus
+		Bishops_whitmorei
+		Bisonalveus_browni
+		Blarina_brevicauda
+		Bobolestes_zenge
+		Bocatherium_mexicanum
+		Bohemiclavulus_mirabilis
+		Bolodon_crassidens
+		Bolotridon_frerensis
+		Bonacynodon_schultzi
+		Boreogomphodon_jeffersoni
+		Borhyaena_tuberata
+		Botucaraitherium_belarminoi
+		Brachyprosopus_broomi
+		Bradypus_griseus
+		Brasilitherium_riograndensis
+		Brasilodon_quadrangularis
+		Bryanictis_microlestes
+		Bulaklestes_kezbe
+		Bulbasaurus_phylloxyron
+		Bullacephalus_jacksoni
+		Bunophorus_etsagicus
+		Burnetia_mirabilis
+		Caenolestes_caniventer
+		Callibrachion_gaudryi
+		Callistoe_vincei
+		Candelariodon_barberenai
+		Canis_adustus
+		Cantius_abditus
+		Carcinella_sigei
+		Carodnia_vieirai
+		Caroloameghinia_mater
+		Carolocoutoia_ferigoloi
+		Carpodaptes_aulacodon
+		Carpolestes_dubius
+		Casea_broilii
+		Caseoides_sanangeloensis
+		Caseopsis_agilis
+		Castorocauda_lutrasimilis
+		Catopsbaatar_catopsaloides
+		Centetodon_aztecus
+		Cerdorhinus_parvidens
+		Cerdosuchoides_brevidens
+		Chacopterygus_minutus
+		Chaetophractus_vellerosus
+		Chalicomomys_antelucanus
+		Chaliminia_musteloides
+		Chambius_kasserinensis
+		Charassognathus_gracilis
+		Charruodon_tetracuspidatus
+		Chiniquodon_sanjuanensis
+		Choerosaurus_dejageri
+		Chriacus_badgleyi
+		Chthonosaurus_velocidens
+		Chulsanbaatar_vulgaris
+		Cifelliodon_wahkarmoosuch
+		Cimolestes_incisus
+		Cistecephaloides_boonstrai
+		Cistecephalus_microrhinus
+		Cladosictis_centralis
+		Claenodon_latidens
+		Clelandina_rubidgei
+		Clepsydrops_collettii
+		Colbertia_lumbrerense
+		Colobodectes_cluveri
+		Coloniatherium_cilinskii
+		Comotherium_richi
+		Compsodon_helmoedi
+		Conacodon_cophater
+		Copecion_brachypternus
+		Corviconodon_montanensis
+		Coryphodon_armatus
+		Cotylorhynchus_bransoni
+		Counillonia_superoculis
+		Cricodon_kannemeyeri
+		Cronopio_dentiacutus
+		Crusafontia_cuencana
+		Cryptovenator_hirschbergeri
+		Ctenorhachis_jacksoni
+		Ctenospondylus_casei
+		Cutleria_wilmarthi
+		Cynocephalus_volans
+		Cynodictis_lacustris
+		Cynognathus_crateronotus
+		Cynosaurus_suppostus
+		Cyonosaurus_longiceps
+		Cyriacotherium_argyreum
+		Dadadon_isaloi
+		Dakotadens_morrowi
+		Daptocephalus_leoniceps
+		Daqingshanodon_limbus
+		DasypusDasypus_novemcinctus
+		Dasyurus_hallucatus
+		Datheosaurus_macrourus
+		Daulestes_inobservabilis
+		Delectosaurus_arefjevi
+		Deltatheridium_nessovi
+		Deltatheroides_cretacicus
+		Dendromaia_unamakiensis
+		Desmana_inflata
+		Desmatoclaenus_dianae
+		Diademodon_tetragonus
+		Dianzhongia_longirostrata
+		Diarthrognathus_broomi
+		Dichobune_leporina
+		Dicynodon_huenie
+		Dicynodontoides_nowacki
+		Didelphis_albiventris
+		Didelphodon_coyi
+		Didelphodus_absarokae
+		Didymictis_altidens
+		Diegocanis_elegans
+		Digalodon_rubidgei
+		Diictodon_feliceps
+		Dilambdogale_gheerbranti
+		Dimacrodon_hottoni
+		Dimetrodon_angelensis
+		Dinanomodon_gilli
+		Dinnebitodon_amarali
+		Dinnetherium_nezorum
+		Dinodontosaurus_pedroanum
+		Dinogorgon_rubidgei
+		Dinosaurus_murchisoni
+		Dipsalidictis_aequidens
+		Dissacus_argenteus
+		Docodon_affinis
+		Docofossor_brachydactylus
+		Dolichuranus_primaevus
+		Domnina_crassigenis
+		Donrussellia_gallica
+		Drescheratherium_acutum
+		Dromiciops_australis
+		Dryolestes_leirensis
+		Dryomomys_szalayi
+		Dvinia_prima
+		Earendil_undomiel
+		Echinerpeton_intermedium
+		Echinosorex_gymnura
+		Ecteninion_lunensis
+		Ectocentrocristus_foxi
+		Ectocion_cedrus
+		Ectoconus_cavigellii
+		Edaphosaurus_boanerges
+		Eggysodon_osborni
+		Eleutherodon_oxfordensis
+		Elliotherium_kersteni
+		Elliotsmithia_longiceps
+		Elomeryx_armatus
+		Elph_borealis
+		Elphidotarsius_florencae
+		Elpidophorus_elegans
+		Emydops_arctatus
+		Endothiodon_bathystoma
+		Ennatosaurus_tecton
+		Eoalphadon_clemensi
+		Eocasea_martini
+		Eoconodon_copanus
+		Eodelphis_browni
+		Eodicynodon_oelofseni
+		Eohippus_angustidens
+		Eomaia_scansoria
+		Eomanis_waldi
+		Eomicrobiotherium_matutinum
+		Eoryctes_melanus
+		Eosimops_newtoni
+		Eothyris_parkeyi
+		Eotitanosuchus_olsoni
+		Eoungulatum_kudukensis
+		Eozhelestes_mangit
+		Epidolops_ameghinoi
+		Epitriplopus_uintensis
+		Ericiolacerta_parva
+		Erinaceus_europaeus
+		Eriphostoma_microdon
+		Eritherium_azzouzorum
+		Erythrotherium_parringtoni
+		Escavadodon_zygus
+		Estemmenosuchus_mirabilis
+		Esthonyx_acutidens
+		Etjoia_dentitransitus
+		Eubrachiosaurus_browni
+		Euchambersia_mirabilis
+		Eudolops_tetragonus
+		Euphractus_sexcinctus
+		Euptychognathus_bathyrhynchus
+		Euromycter_rutena
+		Eurotamandua_joresi
+		Euthlastus_cordiformis
+		Exaeretodon_argentinus
+		Felis_bieti
+		Ferugliotherium_windhauseni
+		Forstercooperia_totadentata
+		Fortunodon_amalitzkii
+		Foxomomys_fremdi
+		Foxraptor_atrox
+		Fruitafossor_windscheffeli
+		Galechirus_scholtzi
+		Galeops_whaitsi
+		Galepus_jouberti
+		Galesaurus_planiceps
+		Gallolestes_agujaensis
+		Galulatherium_jenkinsi
+		Gaylordia_macrocynodonta
+		Geikia_elginensis
+		Gelastops_joni
+		Genetta_genetta
+		Glanosuchus_macrops
+		Glasbius_intricatus
+		Glaucosaurus_megalops
+		Glyptotherium_cylindricum
+		Gobiconodon_borissiaki
+		Gobiohyus_orientalis
+		Gobiotheriodon_infinitus
+		Gomphodontosuchus_brasiliensis
+		Gomphos_elkema
+		Gondwanatherium_patagonicum
+		Goniacodon_gaudryanus
+		Gordodon_kraineri
+		Gordonia_traquairi
+		Gorgodon_minutus
+		Gorgonops_dixeyi
+		Gorynychus_masyutinae
+		Greniodon_sylvaticus
+		Groebertherium_novasi
+		Guimarotodus_inflatus
+		Gujaratia_pakistanensis
+		Gypsonictops_hypoconus
+		Habayia_halbardieri
+		Hadrocodium_wui
+		Hahnodon_taqueti
+		Hakusanodon_archaeus
+		Haldanodon_exspectatus
+		Hapalodectes_anthracinus
+		Haplomylus_bozemanensis
+		Haptodus_baylei
+		Haramiyavia_clemmenseni
+		Harpalodon_sylvestris
+		Harpyodus_decorus
+		Hatcheritherium_alpha
+		Hazhenia_concava
+		Heishanlestes_changi
+		Heleosaurus_scholtzi
+		Hemiechinus_auritus
+		Hemithlaeus_josephi
+		Henkelotherium_guimarotae
+		Henosferus_molus
+		Heptodon_calciculus
+		Herpetoskylax_hopsoni
+		Herpetotherium_fugax
+		Heterohyus_nanus
+		Hilalia_robusta
+		Hipposaurus_boonstrai
+		Hofmeyria_atavus
+		Holoclemensia_texana
+		Homacodon_priscus
+		Homogalax_aureus
+		Hondadelphys_fieldsi
+		Hyopsodus_fangxianensis
+		Hypselohaptodus_grandis
+		Hyrachyus_eximius
+		Hyracodon_nebraskensis
+		Hyracotherium_gabuniai
+		Ianthasaurus_hardestiorum
+		Ianthodon_schultzei
+		Icaronycteris_index
+		Ichibengops_munyamadziensis
+		Ictidochampsa_platyceps
+		Ictidorhinus_martinsi
+		Ictidosaurus_angusticeps
+		Ictidostoma_hemburyi
+		Ictidosuchoides_intermedius
+		Ictidosuchops_rubidgei
+		Ictidosuchus_primaevus
+		Idelesaurus_tataricus
+		Ignacius_clarkforkensis
+		Indohyus_indirae
+		Interpresosaurus_blomi
+		Iqualadelphis_lactea
+		Irajatherium_hernandezi
+		Ischigualastia_jenseni
+		Iugomortiferum_thoringtoni
+		Jachaleria_candelariensis
+		Jaskhadelphys_minutus
+		Jeholbaatar_kielanae
+		Jeholodens_jenkinsi
+		Jepsenella_praepropera
+		Jimusaria_sinkianensis
+		Jonkeria_ingens
+		Juchilestes_liaoningensis
+		Juramaia_sinensis
+		Juxia_sharamurenensis
+		Kannemeyeria_lophorhinus
+		Karenites_ornamentatus
+		Katumbia_parringtoni
+		Kawingasaurus_fossilis
+		Kayentatherium_wellesi
+		Kembawacela_kitchingi
+		Kennalestes_gobiensis
+		Kermackia_texana
+		Keyseria_benjamini
+		Kielantherium_gobiensis
+		Kitchinganomodon_crassus
+		Kiyatherium_cardiodens
+		Klohnia_charrieri
+		Kokopellia_juddi
+		Kombuisia_antarctica
+		Kramadolops_abanicoi
+		Krebsotherium_lusitanicum
+		Kryptobaatar_dashzevegi
+		Kuehneodon_simpsoni
+		Kuehneotherium_praecursoris
+		Kulbeckia_kulbecke
+		Kwazulusaurus_shakai
+		Labidolemur_kayi
+		Lactodens_sheni
+		Lainodon_orueetxebarriai
+		Lambdopsalis_bulla
+		Lambdotherium_popoagicum
+		Lambertocyon_eximius
+		Langbergia_modisei
+		Lanthanostegus_mohoii
+		Laolestes_eminens
+		Lavanify_miolaka
+		Lemurosaurus_pricei
+		Lende_chiweta
+		Leonardus_cuspidatus
+		Leontosaurus_vanderhorsti
+		Leptacodon_acherontus
+		Leptadapis_leenhardti
+		Leptalestes_cooki
+		Leptictis_acutidens
+		Leptomeryx_agatensis
+		Leptotracheliscops_eupachygnathus
+		Lessnessina_packmani
+		Leucocephalus_wewersi
+		Liaoconodon_hui
+		Lisowicia_bojani
+		Litocherus_lacunatus
+		Litolophus_ghazijensis
+		Lobalopex_mordax
+		Lophorhinus_willodenensis
+		Lotheridium_mengi
+		Loxolophodon_furcatus
+		Loxolophus_criswelli
+		Luangwa_drysdalli
+		Lufengia_delicata
+		Lumkuia_fuzzi
+		Lupeosaurus_kayi
+		Lycaenodon_longiceps
+		Lycaenops_angusticeps
+		Lycideops_longiceps
+		Lycopsis_longirostrus
+		Lycosuchus_vanderrieti
+		Lystrosaurus_curvatus
+		Macrauchenia_patagonica
+		Macrocranion_germonpreae
+		Macromerion_schwartzenbergii
+		MacropusMacropus_fuliginosus
+		Macropus_rufogriseus
+		Macrotis_lagotis
+		Maelestes_gobiensis
+		Magnadapis_intermedius
+		Maiopatagium_furculiferum
+		Maiorana_noctiluca
+		Mandagomphodon_hirschsoni
+		Manteodon_youngi
+		Maotherium_asiaticus
+		Marmosa_demerarae
+		Martensius_bromackerensis
+		Massetognathus_ochagaviae
+		Maubeugia_lotharingica
+		Mayulestes_ferox
+		Megaconus_mammaliaformis
+		Megadelphus_lundeliusi
+		Megazostrodon_rudnerae
+		Meiconodon_lii
+		Menadon_besairiei
+		Meniscotherium_chamense
+		Mesenosaurus_efremovi
+		Mesonyx_dakotensis
+		Mesungulatum_houssayi
+		Metachirus_nudicaudatus
+		Miacis_parvivorus
+		Microbiotherium_gallegosense
+		Microclaenodon_assurgens
+		Microconodon_tenuirostris
+		Microgomphodon_oligocynus
+		Micromomys_silvercouleei
+		Microscalenodon_nanus
+		Microsyodon_orlovi
+		Microsyops_annectens
+		Microvaranops_parentis
+		Microwhaitsia_mendrezi
+		Miguelsoria_parayirunhor
+		Millsodon_superstes
+		Milosaurus_mccordi
+		Mimatuta_makpialutae
+		Mimoperadectes_houdei
+		Mimotona_wana
+		Minusculodelphis_minimus
+		Mirandatherium_alipioi
+		Mirotenthes_digitipes
+		Mixodectes_malaris
+		Moeritherium_trigonodon
+		Moghreberia_nmachouensis
+		Molinodus_suarezi
+		Monodelphis_brevicaudata
+		Montanalestes_keeblerorum
+		Montirictus_kuwajimaensis
+		Morganucodon_oehleri
+		Moschops_koupensis
+		Moschorhinus_kitchingi
+		Moschowhaitsia_vjuschkovi
+		Mozomus_shikamai
+		Mupashi_migrator
+		Murtoilestes_abramovi
+		Mycterosaurus_longiceps
+		Mygale_arvernensis
+		Myosaurus_gracilis
+		Nanictosaurus_kitchingi
+		Nannodectes_gidleyi
+		Nanocuris_improvida
+		Nanogomphodon_wildi
+		Nanolestes_drescherae
+		Navajovius_kohlhaasae
+		Necrolestes_mirabilis
+		Nemegtbaatar_gobiensis
+		Nemolestes_spalacotherinus
+		Neosaurus_cynodus
+		Niassodon_mfumukasi
+		Niuksenitia_sukhonensis
+		Nortedelphys_jasoni
+		Notharctus_robustior
+		Nothogomphodon_danilovi
+		Notogale_mitis
+		Notostylops_murinus
+		Notosyodon_gusevi
+		Nuurtherium_baruunensis
+		Obdurodon_dicksoni
+		Odontocyclops_whaitsi
+		Oedaleops_campi
+		Oklatheridium_minax
+		Oligokyphus_biserialis
+		Olivierosuchus_parringtoni
+		Onychodectes_tisonensis
+		Onychonycteris_finneyi
+		Ophiacodon_hilli
+		Ophidostoma_tatarinovi
+		Opisthotomus_astutus
+		Ordosiodon_youngi
+		Oreotalpa_florissantensis
+		Origolestes_lii
+		Ornithorhynchus_anatinus
+		Oromycter_dolesorum
+		Orthaspidotherium_edwardsi
+		Orycteropus_afer
+		Oryctolagus_cuniculus
+		Otsheria_netzvetajevi
+		Ottoryctes_winkleri
+		Oudenodon_bainii
+		Oxyclaenus_corax
+		Pachyaena_gigantea
+		Pachybiotherium_acclinum
+		Pachydectes_elsi
+		Pachygenelus_monus
+		Pakicetus_attocki
+		Palaeanodon_ignavus
+		Palaeolestes_gorei
+		Palaeoryctes_cruoris
+		Palaeosinopa_aestuarium
+		Palaeoxonodon_ooliticus
+		Pampaphoneus_biccai
+		Pantolambda_bathmodon
+		Papio_anubis
+		Pappaceras_confluens
+		Pappotherium_pattersoni
+		Paraborhyaena_boliviana
+		Paraburnetia_sneeubergensis
+		Paraceratherium_grangeri
+		Parakannemeyeria_dolichocephala
+		Paramys_copei
+		Paranyctoides_maleficus
+		Parapternodus_antiquus
+		Pararyctes_pattersoni
+		Parazhelestes_mynbulakensis
+		Pardosuchus_whaitsi
+		Pariadens_kirklandi
+		Paromomys_depressidens
+		Pascualgnathus_polanskii
+		Patene_coluapiensis
+		Patranomodon_nyaphulii
+		Paurodon_valens
+		Pediomys_elegans
+		Pelanomodon_moschops
+		Peligrotherium_tropicalis
+		Pentacodon_inversus
+		Pentasaurus_goggai
+		Peradectes_chesteri
+		Perameles_gunnii
+		Peramus_dubius
+		Peratherium_cuvieri
+		Periptychus_carinidens
+		Perplexisaurus_foveatus
+		Petauroides_volans
+		Phalanger_breviceps
+		Phalangista_cookii
+		Pharsophorus_lacerans
+		Phascolarctos_cinereus
+		Phascolestes_mustelula
+		Phascolotherium_bucklandi
+		Phenacodus_bisonensis
+		Phenacolemur_praecox
+		Phreatophasma_aenigmaticum
+		Phthinosaurus_borissiaki
+		Placerias_hesternus
+		Plagiaulax_becklesii
+		Plagiomene_accola
+		Platychoerops_daubrei
+		Platycraniellus_elegans
+		Plesiadapis_cookei
+		Plesiotypotherium_achirense
+		Pleuraspidotherium_aumonieri
+		Plinthogomphodon_herpetairus
+		Poebrotherium_chadronense
+		Polistodon_chuannanensis
+		Potamogale_velox
+		Potamotelses_aquilensis
+		Prepidolops_molinai
+		Priacodon_fruitaensis
+		Pristerodon_mackayi
+		Pristerognathoides_minor
+		Probainognathus_jenseni
+		Proburnetia_viatkensis
+		Procaroloameghinia_pricei
+		Procavia_capensis
+		Procerberus_andesiticus
+		Procynosuchus_delaharpeae
+		Prodiacodon_concordiarcensis
+		Proeggysodon_qiui
+		Progalesaurus_lootbergensis
+		Prohyracodon_meridionale
+		Prokennalestes_minor
+		Prolimnocyon_antiquus
+		Promoschorhynchus_platyrhinus
+		Pronothodectes_gaoi
+		Prosictodon_dubei
+		Protalphadon_foxi
+		Proterotherium_australe
+		Protheriodon_estudianti
+		Prothylacynus_patagonicus
+		Protictis_agastor
+		Protictoides_aprophatos
+		Protictops_alticuspidens
+		Protochriacus_simplex
+		Protodidelphis_mastodontoides
+		Protolambda_mcgilli
+		Protolipterna_ellipsodontoides
+		Protoselene_griphus
+		Protuberum_cabralensis
+		Protungulatum_donnae
+		Protypotherium_attenuatum
+		Prozostrodon_brasiliensis
+		Pseudobolodon_dryas
+		Pseudochirus_peregrinus
+		Pseudotherium_argentinus
+		Pseudotribos_robustus
+		Pteropus_hypomelanus
+		Ptilocercus_lowii
+		Ptilodus_gnomus
+		Ptomalestes_avidus
+		Pucadelphys_andinus
+		Puercolestes_simpsoni
+		Purgatorius_janisae
+		Pyozia_mesenensis
+		Pyrocyon_dioctetus
+		Pyrotherium_macfaddeni
+		Qishou_jizantang
+		Rabidosaurus_cristatus
+		Raranimus_dashankouensis
+		Rastodon_procurvidens
+		Rattus_flavipectus
+		Rechnisaurus_cristarhynchus
+		Regisaurus_jacobi
+		Reigitherium_bunodonta
+		Repelinosaurus_robustus
+		Repenomamus_giganticus
+		Rhachiocephalus_behemoth
+		Rhadiodromus_klimovi
+		Rhinodicynodon_gracile
+		Rhombomylus_turpanensis
+		Rhynchocyon_cirnei
+		Riograndia_guaibensis
+		Roberthoffstetteria_nationalgeographica
+		Robertia_broomiana
+		Rodhocetus_balochistanensis
+		Rosendolops_ebaios
+		Rosieria_delsatei
+		Rostriamynodon_grangeri
+		Ruberodon_roychowdhurii
+		Rubidgea_atrox
+		Rugosodon_eurasiaticus
+		Ruhuhucerberus_haughtoni
+		Ruthenosaurus_russellorum
+		Ruthiromia_elcobriensis
+		Sallacyon_hoffstetteri
+		Sangusaurus_edentatus
+		Santacruzgnathus_abdalai
+		Santacruzodon_hopsoni
+		Sasayamamylos_kawaii
+		Sauroscaptor_tharavati
+		Saxonella_crepaturae
+		Scalenodon_angustifrons
+		Scalenodontoides_macrodontes
+		Scaloposaurus_constrictus
+		Scollardius_propalaeoryctes
+		Scylacosaurus_sclateri
+		Scylacosuchus_orenburgensis
+		Secodontosaurus_obtusidens
+		Shaanbeikannemeyeria_buerdongia
+		Shansiodon_wangi
+		Shartegodon_altai
+		Sheikhdzheilia_rezvyii
+		Shenshou_lui
+		Shiguaignathus_wangi
+		Shoshonius_bowni
+		Shuotherium_dongi
+		Sillustania_quechuense
+		Silphedosuchus_orenburgensis
+		Simpsonotus_major
+		Sinclairella_dakotensis
+		Sineleutherus_issedonicus
+		Sinobaatar_fuxinensis
+		Sinoconodon_rigneyi
+		Sinodelphys_szalayi
+		Sinognathus_gracilis
+		Sinokannemeyeria_pearsoni
+		Sinonyx_jiashanensis
+		Sinophoneus_yumenensis
+		Sintocephalus_alticeps
+		Sipalocyon_gracilis
+		Siriusgnathus_niemeyerorum
+		Smilesaurus_ferox
+		Smilodectes_gracilis
+		Sminthopsis_crassicaudata
+		Solenodon_paradoxus
+		Sorex_cinereus
+		Spalacolestes_cretulablatta
+		Spalacotheridium_mckennai
+		Spalacotherium_evansae
+		Spalacotheroides_bridwelli
+		Sphenacodon_britannicus
+		Spinolestes_xenarthrosus
+		Stahleckeria_potens
+		Stereognathus_ooliticus
+		Stereophallodon_ciscoensis
+		Stereorhachis_dominans
+		Steropodon_galmani
+		Struthiocephalus_whaitsi
+		Subhyracodon_occidentalis
+		Sudamerica_ameghinoi
+		Sulestes_karakshi
+		Suminia_getmanovi
+		Suncus_murinus
+		Sungeodon_kimkraemerae
+		Sycosaurus_laticeps
+		Symmetrodontoides_canadensis
+		Symmetrolestes_parvus
+		Syodon_biarmicum
+		Syops_vanhoepeni
+		Szalinia_gracilis
+		Tachyglossus_aculeatus
+		Taeniolabis_lamberti
+		Tamandua_tetradactyla
+		Tambacarnifex_unguifalcatus
+		Taoheodon_baizhijuni
+		Tapinocaninus_pamelae
+		Tathiodon_agilis
+		Teilhardimys_brisswalteri
+		Teilhardina_americana
+		Teinolophos_trusleri
+		Teletaceras_borissiaki
+		Tenrec_ecaudatus
+		Tetraceratops_insignis
+		Tetraclaenodon_puercensis
+		Tetracynodon_darti
+		Tetragonias_njalilus
+		Theriognathus_microps
+		Therioherpeton_cargnini
+		Thliptosaurus_imperforatus
+		Thomasia_antiqua
+		Thrinaxodon_liorhinus
+		Thryptacodon_antiquus
+		Thylacinus_cynocephalus
+		Thylacodon_montanensis
+		Thylacosmilus_atrox
+		Tiarajudens_eccentricus
+		Tinimomys_graybulliensis
+		Tinodon_bellus
+		Titanogomphodon_crassus
+		Titanoides_gidleyi
+		Titanophoneus_adamanteus
+		Tiulordia_floresi
+		Todralestes_butleri
+		Trapalcotherium_matuastensis
+		Traversodon_stahleckeri
+		Traversodontoides_wangwuensis
+		Tribosphenomys_minutus
+		Tricentes_subtrigonus
+		Trichasaurus_texensis
+		Triconodon_mordax
+		Trigonias_osborni
+		Trigonostylops_wortmani
+		Trioracodon_ferox
+		Triplopides_rieli
+		Triplopus_cubitalis
+		Trirachodon_berryi
+		Tritheledon_riconoi
+		Tritylodon_longaevus
+		Trogosus_grangeri
+		Tropidostoma_dubium
+		Trucidocynodon_riograndensis
+		Tsagandelta_dashzevegi
+		Tubulodon_atopum
+		Tupaia_belangeri
+		Turfanodon_bogdaensis
+		Turgidodon_lillegraveni
+		Tytthaena_lichna
+		Uchkudukodon_nessovi
+		Ufudocyclops_mukanelai
+		Uintaceras_radinskyi
+		Uintacyon_acutus
+		Ukhaatherium_nessovi
+		Ulemica_efremovi
+		Ulemosaurus_svijagensis
+		Uralokannemeyeria_vjuschkovi
+		Uropsilus_soricipes
+		Urtinotherium_intermedium
+		Urumchia_lii
+		Utaetus_buccatus
+		Varalphadon_crebreforme
+		Varanodon_agilis
+		Varanops_brevirostris
+		Varanosaurus_acutirostris
+		Vaughnictis_smithae
+		Venyukovia_prima
+		Vetusodon_elikhulu
+		Viatkosuchus_sumini
+		Vilevolodon_diplomylos
+		Vincelestes_neuquenianus
+		Vinceria_andina
+		Vintana_sertichi
+		Viverravus_acutus
+		Volaticotherium_antiquus
+		Vombatus_ursinus
+		VulpavusPhlaodectes_ovatus
+		Vulpavus_canavus
+		Wadiasaurus_indicus
+		Wamradolops_tsullodon
+		Watongia_meieri
+		Widanelfarasia_bowni
+		Worlandia_inusitata
+		Wyolestes_apheles
+		Wyonycteris_chalix
+		Xenocretosuchus_sibiricus
+		Xianshou_linglong
+		Xiyukannemeyeria_brevirostris
+		Xyrospondylus_ecordi
+		Yanoconodon_allini
+		Yaverlestes_gassoni
+		Yermakia_domitor
+		Yuanotherium_minor
+		Yunnanodon_brevirostre
+		Zalambdalestes_grangeri
+		Zambiasaurus_submersus
+		Zeusdelphys_complicatus
+		Zhalmouzia_bazhanovi
+		Zhangheotherium_quinquecuspidens
+		Zhangolestes_jilinensis
+		Zhelestes_temirkazyk
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Aaptoryctes_ivyi,
+		2	Abajudon_kaayi,
+		3	Abdalodon_diastematicus,
+		4	Acmeodon_secans,
+		5	Acotherulum_saturninum,
+		6	Acristatherium_yanensis,
+		7	Acrobates_pygmaeus,
+		8	Adalatherium_hui,
+		9	Adapis_parisiensis,
+		10	Adapisorex_gaudryi,
+		11	Adelobasileus_cromptoni,
+		12	Adinotherium_ovinum,
+		13	Aegialodon_dawsoni,
+		14	Aelurognathus_tigriceps,
+		15	Aenigmadelphys_archeri,
+		16	Aerosaurus_greenleeorum,
+		17	Agilodocodon_scansorius,
+		18	Akidnognathus_parvus,
+		19	Akidolestes_cifelli,
+		20	Albertatherium_primus,
+		21	Alcidedorbignya_inopinata,
+		22	Alemoatherium_huebneri,
+		23	Aleodon_brachyrhamphus,
+		24	Alierasaurus_ronchii,
+		25	Allacerops_turgaica,
+		26	Allqokirus_australis,
+		27	Alopecodon_priscus,
+		28	Alostera_saskatchewanensis,
+		29	Alphadon_attaragos,
+		30	Alrausuchus_tagax,
+		31	Alsaticopithecus_leemani,
+		32	Altacreodus_magnus,
+		33	Altanius_orlovi,
+		34	Alticonodon_lindoei,
+		35	Alymlestes_kielanae,
+		36	Ambilestes_cerberoides,
+		37	Amblotherium_gracilis,
+		38	Ambolestes_zhoui,
+		39	Ambondro_mahabo,
+		40	Amphibetulimus_krasnolutskii,
+		41	Amphilestes_broderipii,
+		42	Amphiperatherium_ambiguum,
+		43	Amphitherium_prevostii,
+		44	Amynodon_advenus,
+		45	Anacodon_cultridens,
+		46	Anchistodelphys_archibaldi,
+		47	Andescynodon_mendozensis,
+		48	Andinodelphys_cochabambensis,
+		49	Anebodon_luoi,
+		50	Angelosaurus_dolani,
+		51	Angonisaurus_cruickshanki,
+		52	Anisonchus_athelas,
+		53	Ankalagon_saurognathus,
+		54	Annatherapsidus_petri,
+		55	Anningia_megalops,
+		56	Anomocephalus_africanus,
+		57	Antecosuchus_ochevi,
+		58	Anteosaurus_magnificus,
+		59	Apatemys_bellulus,
+		60	Apheliscus_chydaeus,
+		61	Aphronorus_bearspawensis,
+		62	Apsisaurus_witteri,
+		63	Aquiladelphis_incus,
+		64	Arboroharamiya_allinhopsoni,
+		65	Archaeosyodon_praeventor,
+		66	Archaeothyris_florensis,
+		67	Archaeovenator_hamiltonensis,
+		68	Arcius_rougieri,
+		69	Arctocyon_ferox,
+		70	Arctocyonides_arenae,
+		71	Arctodictis_sinclairi,
+		72	Arctognathus_curvimola,
+		73	Arctops_willistoni,
+		74	Arctostylops_steini,
+		75	Arctotraversodon_plemmyridon,
+		76	Ardynia_praecox,
+		77	Argentoconodon_fariasorum,
+		78	Arguimus_khosbajari,
+		79	Argyrolagus_scagliai,
+		80	Arundelconodon_hottoni,
+		81	Asfaltomylos_patagonicus,
+		82	Asiatherium_reshetovi,
+		83	Asioryctes_nemegtensis,
+		84	Asiostylops_spanios,
+		85	Aspanlestes_aptap,
+		86	Astrapotherium_magnum,
+		87	Astroconodon_delicatus,
+		88	Atokatheridium_boreni,
+		89	Aulacephalodon_bainii,
+		90	Ausktribosphenos_nyktos,
+		91	Australobarbarus_kotelnitshi,
+		92	Australohyaena_antiqua,
+		93	Australosyodon_nyaphuli,
+		94	Avitotherium_utahensis,
+		95	Azygonyx_ancylion,
+		96	Baioconodon_nordicus,
+		97	Baldwinonus_dunkardensis,
+		98	Barunlestes_butleri,
+		99	Basilodon_woodwardi,
+		100	Bathmodon_brevipes,
+		101	Bathygnathus_borealis,
+		102	Batodon_tenuis,
+		103	Bauria_cynops,
+		104	Beishanodon_youngi,
+		105	Bemalambda_nanhsiungensis,
+		106	Bessoecetor_krausei,
+		107	Betonnia_tsosia,
+		108	Bharattherium_bonapartei,
+		109	Biarmosuchus_tener,
+		110	Bienotherium_magnum,
+		111	Bienotheroides_shartegensis,
+		112	Biseridens_qilianicus,
+		113	Bishops_whitmorei,
+		114	Bisonalveus_browni,
+		115	Blarina_brevicauda,
+		116	Bobolestes_zenge,
+		117	Bocatherium_mexicanum,
+		118	Bohemiclavulus_mirabilis,
+		119	Bolodon_crassidens,
+		120	Bolotridon_frerensis,
+		121	Bonacynodon_schultzi,
+		122	Boreogomphodon_jeffersoni,
+		123	Borhyaena_tuberata,
+		124	Botucaraitherium_belarminoi,
+		125	Brachyprosopus_broomi,
+		126	Bradypus_griseus,
+		127	Brasilitherium_riograndensis,
+		128	Brasilodon_quadrangularis,
+		129	Bryanictis_microlestes,
+		130	Bulaklestes_kezbe,
+		131	Bulbasaurus_phylloxyron,
+		132	Bullacephalus_jacksoni,
+		133	Bunophorus_etsagicus,
+		134	Burnetia_mirabilis,
+		135	Caenolestes_caniventer,
+		136	Callibrachion_gaudryi,
+		137	Callistoe_vincei,
+		138	Candelariodon_barberenai,
+		139	Canis_adustus,
+		140	Cantius_abditus,
+		141	Carcinella_sigei,
+		142	Carodnia_vieirai,
+		143	Caroloameghinia_mater,
+		144	Carolocoutoia_ferigoloi,
+		145	Carpodaptes_aulacodon,
+		146	Carpolestes_dubius,
+		147	Casea_broilii,
+		148	Caseoides_sanangeloensis,
+		149	Caseopsis_agilis,
+		150	Castorocauda_lutrasimilis,
+		151	Catopsbaatar_catopsaloides,
+		152	Centetodon_aztecus,
+		153	Cerdorhinus_parvidens,
+		154	Cerdosuchoides_brevidens,
+		155	Chacopterygus_minutus,
+		156	Chaetophractus_vellerosus,
+		157	Chalicomomys_antelucanus,
+		158	Chaliminia_musteloides,
+		159	Chambius_kasserinensis,
+		160	Charassognathus_gracilis,
+		161	Charruodon_tetracuspidatus,
+		162	Chiniquodon_sanjuanensis,
+		163	Choerosaurus_dejageri,
+		164	Chriacus_badgleyi,
+		165	Chthonosaurus_velocidens,
+		166	Chulsanbaatar_vulgaris,
+		167	Cifelliodon_wahkarmoosuch,
+		168	Cimolestes_incisus,
+		169	Cistecephaloides_boonstrai,
+		170	Cistecephalus_microrhinus,
+		171	Cladosictis_centralis,
+		172	Claenodon_latidens,
+		173	Clelandina_rubidgei,
+		174	Clepsydrops_collettii,
+		175	Colbertia_lumbrerense,
+		176	Colobodectes_cluveri,
+		177	Coloniatherium_cilinskii,
+		178	Comotherium_richi,
+		179	Compsodon_helmoedi,
+		180	Conacodon_cophater,
+		181	Copecion_brachypternus,
+		182	Corviconodon_montanensis,
+		183	Coryphodon_armatus,
+		184	Cotylorhynchus_bransoni,
+		185	Counillonia_superoculis,
+		186	Cricodon_kannemeyeri,
+		187	Cronopio_dentiacutus,
+		188	Crusafontia_cuencana,
+		189	Cryptovenator_hirschbergeri,
+		190	Ctenorhachis_jacksoni,
+		191	Ctenospondylus_casei,
+		192	Cutleria_wilmarthi,
+		193	Cynocephalus_volans,
+		194	Cynodictis_lacustris,
+		195	Cynognathus_crateronotus,
+		196	Cynosaurus_suppostus,
+		197	Cyonosaurus_longiceps,
+		198	Cyriacotherium_argyreum,
+		199	Dadadon_isaloi,
+		200	Dakotadens_morrowi,
+		201	Daptocephalus_leoniceps,
+		202	Daqingshanodon_limbus,
+		203	DasypusDasypus_novemcinctus,
+		204	Dasyurus_hallucatus,
+		205	Datheosaurus_macrourus,
+		206	Daulestes_inobservabilis,
+		207	Delectosaurus_arefjevi,
+		208	Deltatheridium_nessovi,
+		209	Deltatheroides_cretacicus,
+		210	Dendromaia_unamakiensis,
+		211	Desmana_inflata,
+		212	Desmatoclaenus_dianae,
+		213	Diademodon_tetragonus,
+		214	Dianzhongia_longirostrata,
+		215	Diarthrognathus_broomi,
+		216	Dichobune_leporina,
+		217	Dicynodon_huenie,
+		218	Dicynodontoides_nowacki,
+		219	Didelphis_albiventris,
+		220	Didelphodon_coyi,
+		221	Didelphodus_absarokae,
+		222	Didymictis_altidens,
+		223	Diegocanis_elegans,
+		224	Digalodon_rubidgei,
+		225	Diictodon_feliceps,
+		226	Dilambdogale_gheerbranti,
+		227	Dimacrodon_hottoni,
+		228	Dimetrodon_angelensis,
+		229	Dinanomodon_gilli,
+		230	Dinnebitodon_amarali,
+		231	Dinnetherium_nezorum,
+		232	Dinodontosaurus_pedroanum,
+		233	Dinogorgon_rubidgei,
+		234	Dinosaurus_murchisoni,
+		235	Dipsalidictis_aequidens,
+		236	Dissacus_argenteus,
+		237	Docodon_affinis,
+		238	Docofossor_brachydactylus,
+		239	Dolichuranus_primaevus,
+		240	Domnina_crassigenis,
+		241	Donrussellia_gallica,
+		242	Drescheratherium_acutum,
+		243	Dromiciops_australis,
+		244	Dryolestes_leirensis,
+		245	Dryomomys_szalayi,
+		246	Dvinia_prima,
+		247	Earendil_undomiel,
+		248	Echinerpeton_intermedium,
+		249	Echinosorex_gymnura,
+		250	Ecteninion_lunensis,
+		251	Ectocentrocristus_foxi,
+		252	Ectocion_cedrus,
+		253	Ectoconus_cavigellii,
+		254	Edaphosaurus_boanerges,
+		255	Eggysodon_osborni,
+		256	Eleutherodon_oxfordensis,
+		257	Elliotherium_kersteni,
+		258	Elliotsmithia_longiceps,
+		259	Elomeryx_armatus,
+		260	Elph_borealis,
+		261	Elphidotarsius_florencae,
+		262	Elpidophorus_elegans,
+		263	Emydops_arctatus,
+		264	Endothiodon_bathystoma,
+		265	Ennatosaurus_tecton,
+		266	Eoalphadon_clemensi,
+		267	Eocasea_martini,
+		268	Eoconodon_copanus,
+		269	Eodelphis_browni,
+		270	Eodicynodon_oelofseni,
+		271	Eohippus_angustidens,
+		272	Eomaia_scansoria,
+		273	Eomanis_waldi,
+		274	Eomicrobiotherium_matutinum,
+		275	Eoryctes_melanus,
+		276	Eosimops_newtoni,
+		277	Eothyris_parkeyi,
+		278	Eotitanosuchus_olsoni,
+		279	Eoungulatum_kudukensis,
+		280	Eozhelestes_mangit,
+		281	Epidolops_ameghinoi,
+		282	Epitriplopus_uintensis,
+		283	Ericiolacerta_parva,
+		284	Erinaceus_europaeus,
+		285	Eriphostoma_microdon,
+		286	Eritherium_azzouzorum,
+		287	Erythrotherium_parringtoni,
+		288	Escavadodon_zygus,
+		289	Estemmenosuchus_mirabilis,
+		290	Esthonyx_acutidens,
+		291	Etjoia_dentitransitus,
+		292	Eubrachiosaurus_browni,
+		293	Euchambersia_mirabilis,
+		294	Eudolops_tetragonus,
+		295	Euphractus_sexcinctus,
+		296	Euptychognathus_bathyrhynchus,
+		297	Euromycter_rutena,
+		298	Eurotamandua_joresi,
+		299	Euthlastus_cordiformis,
+		300	Exaeretodon_argentinus,
+		301	Felis_bieti,
+		302	Ferugliotherium_windhauseni,
+		303	Forstercooperia_totadentata,
+		304	Fortunodon_amalitzkii,
+		305	Foxomomys_fremdi,
+		306	Foxraptor_atrox,
+		307	Fruitafossor_windscheffeli,
+		308	Galechirus_scholtzi,
+		309	Galeops_whaitsi,
+		310	Galepus_jouberti,
+		311	Galesaurus_planiceps,
+		312	Gallolestes_agujaensis,
+		313	Galulatherium_jenkinsi,
+		314	Gaylordia_macrocynodonta,
+		315	Geikia_elginensis,
+		316	Gelastops_joni,
+		317	Genetta_genetta,
+		318	Glanosuchus_macrops,
+		319	Glasbius_intricatus,
+		320	Glaucosaurus_megalops,
+		321	Glyptotherium_cylindricum,
+		322	Gobiconodon_borissiaki,
+		323	Gobiohyus_orientalis,
+		324	Gobiotheriodon_infinitus,
+		325	Gomphodontosuchus_brasiliensis,
+		326	Gomphos_elkema,
+		327	Gondwanatherium_patagonicum,
+		328	Goniacodon_gaudryanus,
+		329	Gordodon_kraineri,
+		330	Gordonia_traquairi,
+		331	Gorgodon_minutus,
+		332	Gorgonops_dixeyi,
+		333	Gorynychus_masyutinae,
+		334	Greniodon_sylvaticus,
+		335	Groebertherium_novasi,
+		336	Guimarotodus_inflatus,
+		337	Gujaratia_pakistanensis,
+		338	Gypsonictops_hypoconus,
+		339	Habayia_halbardieri,
+		340	Hadrocodium_wui,
+		341	Hahnodon_taqueti,
+		342	Hakusanodon_archaeus,
+		343	Haldanodon_exspectatus,
+		344	Hapalodectes_anthracinus,
+		345	Haplomylus_bozemanensis,
+		346	Haptodus_baylei,
+		347	Haramiyavia_clemmenseni,
+		348	Harpalodon_sylvestris,
+		349	Harpyodus_decorus,
+		350	Hatcheritherium_alpha,
+		351	Hazhenia_concava,
+		352	Heishanlestes_changi,
+		353	Heleosaurus_scholtzi,
+		354	Hemiechinus_auritus,
+		355	Hemithlaeus_josephi,
+		356	Henkelotherium_guimarotae,
+		357	Henosferus_molus,
+		358	Heptodon_calciculus,
+		359	Herpetoskylax_hopsoni,
+		360	Herpetotherium_fugax,
+		361	Heterohyus_nanus,
+		362	Hilalia_robusta,
+		363	Hipposaurus_boonstrai,
+		364	Hofmeyria_atavus,
+		365	Holoclemensia_texana,
+		366	Homacodon_priscus,
+		367	Homogalax_aureus,
+		368	Hondadelphys_fieldsi,
+		369	Hyopsodus_fangxianensis,
+		370	Hypselohaptodus_grandis,
+		371	Hyrachyus_eximius,
+		372	Hyracodon_nebraskensis,
+		373	Hyracotherium_gabuniai,
+		374	Ianthasaurus_hardestiorum,
+		375	Ianthodon_schultzei,
+		376	Icaronycteris_index,
+		377	Ichibengops_munyamadziensis,
+		378	Ictidochampsa_platyceps,
+		379	Ictidorhinus_martinsi,
+		380	Ictidosaurus_angusticeps,
+		381	Ictidostoma_hemburyi,
+		382	Ictidosuchoides_intermedius,
+		383	Ictidosuchops_rubidgei,
+		384	Ictidosuchus_primaevus,
+		385	Idelesaurus_tataricus,
+		386	Ignacius_clarkforkensis,
+		387	Indohyus_indirae,
+		388	Interpresosaurus_blomi,
+		389	Iqualadelphis_lactea,
+		390	Irajatherium_hernandezi,
+		391	Ischigualastia_jenseni,
+		392	Iugomortiferum_thoringtoni,
+		393	Jachaleria_candelariensis,
+		394	Jaskhadelphys_minutus,
+		395	Jeholbaatar_kielanae,
+		396	Jeholodens_jenkinsi,
+		397	Jepsenella_praepropera,
+		398	Jimusaria_sinkianensis,
+		399	Jonkeria_ingens,
+		400	Juchilestes_liaoningensis,
+		401	Juramaia_sinensis,
+		402	Juxia_sharamurenensis,
+		403	Kannemeyeria_lophorhinus,
+		404	Karenites_ornamentatus,
+		405	Katumbia_parringtoni,
+		406	Kawingasaurus_fossilis,
+		407	Kayentatherium_wellesi,
+		408	Kembawacela_kitchingi,
+		409	Kennalestes_gobiensis,
+		410	Kermackia_texana,
+		411	Keyseria_benjamini,
+		412	Kielantherium_gobiensis,
+		413	Kitchinganomodon_crassus,
+		414	Kiyatherium_cardiodens,
+		415	Klohnia_charrieri,
+		416	Kokopellia_juddi,
+		417	Kombuisia_antarctica,
+		418	Kramadolops_abanicoi,
+		419	Krebsotherium_lusitanicum,
+		420	Kryptobaatar_dashzevegi,
+		421	Kuehneodon_simpsoni,
+		422	Kuehneotherium_praecursoris,
+		423	Kulbeckia_kulbecke,
+		424	Kwazulusaurus_shakai,
+		425	Labidolemur_kayi,
+		426	Lactodens_sheni,
+		427	Lainodon_orueetxebarriai,
+		428	Lambdopsalis_bulla,
+		429	Lambdotherium_popoagicum,
+		430	Lambertocyon_eximius,
+		431	Langbergia_modisei,
+		432	Lanthanostegus_mohoii,
+		433	Laolestes_eminens,
+		434	Lavanify_miolaka,
+		435	Lemurosaurus_pricei,
+		436	Lende_chiweta,
+		437	Leonardus_cuspidatus,
+		438	Leontosaurus_vanderhorsti,
+		439	Leptacodon_acherontus,
+		440	Leptadapis_leenhardti,
+		441	Leptalestes_cooki,
+		442	Leptictis_acutidens,
+		443	Leptomeryx_agatensis,
+		444	Leptotracheliscops_eupachygnathus,
+		445	Lessnessina_packmani,
+		446	Leucocephalus_wewersi,
+		447	Liaoconodon_hui,
+		448	Lisowicia_bojani,
+		449	Litocherus_lacunatus,
+		450	Litolophus_ghazijensis,
+		451	Lobalopex_mordax,
+		452	Lophorhinus_willodenensis,
+		453	Lotheridium_mengi,
+		454	Loxolophodon_furcatus,
+		455	Loxolophus_criswelli,
+		456	Luangwa_drysdalli,
+		457	Lufengia_delicata,
+		458	Lumkuia_fuzzi,
+		459	Lupeosaurus_kayi,
+		460	Lycaenodon_longiceps,
+		461	Lycaenops_angusticeps,
+		462	Lycideops_longiceps,
+		463	Lycopsis_longirostrus,
+		464	Lycosuchus_vanderrieti,
+		465	Lystrosaurus_curvatus,
+		466	Macrauchenia_patagonica,
+		467	Macrocranion_germonpreae,
+		468	Macromerion_schwartzenbergii,
+		469	MacropusMacropus_fuliginosus,
+		470	Macropus_rufogriseus,
+		471	Macrotis_lagotis,
+		472	Maelestes_gobiensis,
+		473	Magnadapis_intermedius,
+		474	Maiopatagium_furculiferum,
+		475	Maiorana_noctiluca,
+		476	Mandagomphodon_hirschsoni,
+		477	Manteodon_youngi,
+		478	Maotherium_asiaticus,
+		479	Marmosa_demerarae,
+		480	Martensius_bromackerensis,
+		481	Massetognathus_ochagaviae,
+		482	Maubeugia_lotharingica,
+		483	Mayulestes_ferox,
+		484	Megaconus_mammaliaformis,
+		485	Megadelphus_lundeliusi,
+		486	Megazostrodon_rudnerae,
+		487	Meiconodon_lii,
+		488	Menadon_besairiei,
+		489	Meniscotherium_chamense,
+		490	Mesenosaurus_efremovi,
+		491	Mesonyx_dakotensis,
+		492	Mesungulatum_houssayi,
+		493	Metachirus_nudicaudatus,
+		494	Miacis_parvivorus,
+		495	Microbiotherium_gallegosense,
+		496	Microclaenodon_assurgens,
+		497	Microconodon_tenuirostris,
+		498	Microgomphodon_oligocynus,
+		499	Micromomys_silvercouleei,
+		500	Microscalenodon_nanus,
+		501	Microsyodon_orlovi,
+		502	Microsyops_annectens,
+		503	Microvaranops_parentis,
+		504	Microwhaitsia_mendrezi,
+		505	Miguelsoria_parayirunhor,
+		506	Millsodon_superstes,
+		507	Milosaurus_mccordi,
+		508	Mimatuta_makpialutae,
+		509	Mimoperadectes_houdei,
+		510	Mimotona_wana,
+		511	Minusculodelphis_minimus,
+		512	Mirandatherium_alipioi,
+		513	Mirotenthes_digitipes,
+		514	Mixodectes_malaris,
+		515	Moeritherium_trigonodon,
+		516	Moghreberia_nmachouensis,
+		517	Molinodus_suarezi,
+		518	Monodelphis_brevicaudata,
+		519	Montanalestes_keeblerorum,
+		520	Montirictus_kuwajimaensis,
+		521	Morganucodon_oehleri,
+		522	Moschops_koupensis,
+		523	Moschorhinus_kitchingi,
+		524	Moschowhaitsia_vjuschkovi,
+		525	Mozomus_shikamai,
+		526	Mupashi_migrator,
+		527	Murtoilestes_abramovi,
+		528	Mycterosaurus_longiceps,
+		529	Mygale_arvernensis,
+		530	Myosaurus_gracilis,
+		531	Nanictosaurus_kitchingi,
+		532	Nannodectes_gidleyi,
+		533	Nanocuris_improvida,
+		534	Nanogomphodon_wildi,
+		535	Nanolestes_drescherae,
+		536	Navajovius_kohlhaasae,
+		537	Necrolestes_mirabilis,
+		538	Nemegtbaatar_gobiensis,
+		539	Nemolestes_spalacotherinus,
+		540	Neosaurus_cynodus,
+		541	Niassodon_mfumukasi,
+		542	Niuksenitia_sukhonensis,
+		543	Nortedelphys_jasoni,
+		544	Notharctus_robustior,
+		545	Nothogomphodon_danilovi,
+		546	Notogale_mitis,
+		547	Notostylops_murinus,
+		548	Notosyodon_gusevi,
+		549	Nuurtherium_baruunensis,
+		550	Obdurodon_dicksoni,
+		551	Odontocyclops_whaitsi,
+		552	Oedaleops_campi,
+		553	Oklatheridium_minax,
+		554	Oligokyphus_biserialis,
+		555	Olivierosuchus_parringtoni,
+		556	Onychodectes_tisonensis,
+		557	Onychonycteris_finneyi,
+		558	Ophiacodon_hilli,
+		559	Ophidostoma_tatarinovi,
+		560	Opisthotomus_astutus,
+		561	Ordosiodon_youngi,
+		562	Oreotalpa_florissantensis,
+		563	Origolestes_lii,
+		564	Ornithorhynchus_anatinus,
+		565	Oromycter_dolesorum,
+		566	Orthaspidotherium_edwardsi,
+		567	Orycteropus_afer,
+		568	Oryctolagus_cuniculus,
+		569	Otsheria_netzvetajevi,
+		570	Ottoryctes_winkleri,
+		571	Oudenodon_bainii,
+		572	Oxyclaenus_corax,
+		573	Pachyaena_gigantea,
+		574	Pachybiotherium_acclinum,
+		575	Pachydectes_elsi,
+		576	Pachygenelus_monus,
+		577	Pakicetus_attocki,
+		578	Palaeanodon_ignavus,
+		579	Palaeolestes_gorei,
+		580	Palaeoryctes_cruoris,
+		581	Palaeosinopa_aestuarium,
+		582	Palaeoxonodon_ooliticus,
+		583	Pampaphoneus_biccai,
+		584	Pantolambda_bathmodon,
+		585	Papio_anubis,
+		586	Pappaceras_confluens,
+		587	Pappotherium_pattersoni,
+		588	Paraborhyaena_boliviana,
+		589	Paraburnetia_sneeubergensis,
+		590	Paraceratherium_grangeri,
+		591	Parakannemeyeria_dolichocephala,
+		592	Paramys_copei,
+		593	Paranyctoides_maleficus,
+		594	Parapternodus_antiquus,
+		595	Pararyctes_pattersoni,
+		596	Parazhelestes_mynbulakensis,
+		597	Pardosuchus_whaitsi,
+		598	Pariadens_kirklandi,
+		599	Paromomys_depressidens,
+		600	Pascualgnathus_polanskii,
+		601	Patene_coluapiensis,
+		602	Patranomodon_nyaphulii,
+		603	Paurodon_valens,
+		604	Pediomys_elegans,
+		605	Pelanomodon_moschops,
+		606	Peligrotherium_tropicalis,
+		607	Pentacodon_inversus,
+		608	Pentasaurus_goggai,
+		609	Peradectes_chesteri,
+		610	Perameles_gunnii,
+		611	Peramus_dubius,
+		612	Peratherium_cuvieri,
+		613	Periptychus_carinidens,
+		614	Perplexisaurus_foveatus,
+		615	Petauroides_volans,
+		616	Phalanger_breviceps,
+		617	Phalangista_cookii,
+		618	Pharsophorus_lacerans,
+		619	Phascolarctos_cinereus,
+		620	Phascolestes_mustelula,
+		621	Phascolotherium_bucklandi,
+		622	Phenacodus_bisonensis,
+		623	Phenacolemur_praecox,
+		624	Phreatophasma_aenigmaticum,
+		625	Phthinosaurus_borissiaki,
+		626	Placerias_hesternus,
+		627	Plagiaulax_becklesii,
+		628	Plagiomene_accola,
+		629	Platychoerops_daubrei,
+		630	Platycraniellus_elegans,
+		631	Plesiadapis_cookei,
+		632	Plesiotypotherium_achirense,
+		633	Pleuraspidotherium_aumonieri,
+		634	Plinthogomphodon_herpetairus,
+		635	Poebrotherium_chadronense,
+		636	Polistodon_chuannanensis,
+		637	Potamogale_velox,
+		638	Potamotelses_aquilensis,
+		639	Prepidolops_molinai,
+		640	Priacodon_fruitaensis,
+		641	Pristerodon_mackayi,
+		642	Pristerognathoides_minor,
+		643	Probainognathus_jenseni,
+		644	Proburnetia_viatkensis,
+		645	Procaroloameghinia_pricei,
+		646	Procavia_capensis,
+		647	Procerberus_andesiticus,
+		648	Procynosuchus_delaharpeae,
+		649	Prodiacodon_concordiarcensis,
+		650	Proeggysodon_qiui,
+		651	Progalesaurus_lootbergensis,
+		652	Prohyracodon_meridionale,
+		653	Prokennalestes_minor,
+		654	Prolimnocyon_antiquus,
+		655	Promoschorhynchus_platyrhinus,
+		656	Pronothodectes_gaoi,
+		657	Prosictodon_dubei,
+		658	Protalphadon_foxi,
+		659	Proterotherium_australe,
+		660	Protheriodon_estudianti,
+		661	Prothylacynus_patagonicus,
+		662	Protictis_agastor,
+		663	Protictoides_aprophatos,
+		664	Protictops_alticuspidens,
+		665	Protochriacus_simplex,
+		666	Protodidelphis_mastodontoides,
+		667	Protolambda_mcgilli,
+		668	Protolipterna_ellipsodontoides,
+		669	Protoselene_griphus,
+		670	Protuberum_cabralensis,
+		671	Protungulatum_donnae,
+		672	Protypotherium_attenuatum,
+		673	Prozostrodon_brasiliensis,
+		674	Pseudobolodon_dryas,
+		675	Pseudochirus_peregrinus,
+		676	Pseudotherium_argentinus,
+		677	Pseudotribos_robustus,
+		678	Pteropus_hypomelanus,
+		679	Ptilocercus_lowii,
+		680	Ptilodus_gnomus,
+		681	Ptomalestes_avidus,
+		682	Pucadelphys_andinus,
+		683	Puercolestes_simpsoni,
+		684	Purgatorius_janisae,
+		685	Pyozia_mesenensis,
+		686	Pyrocyon_dioctetus,
+		687	Pyrotherium_macfaddeni,
+		688	Qishou_jizantang,
+		689	Rabidosaurus_cristatus,
+		690	Raranimus_dashankouensis,
+		691	Rastodon_procurvidens,
+		692	Rattus_flavipectus,
+		693	Rechnisaurus_cristarhynchus,
+		694	Regisaurus_jacobi,
+		695	Reigitherium_bunodonta,
+		696	Repelinosaurus_robustus,
+		697	Repenomamus_giganticus,
+		698	Rhachiocephalus_behemoth,
+		699	Rhadiodromus_klimovi,
+		700	Rhinodicynodon_gracile,
+		701	Rhombomylus_turpanensis,
+		702	Rhynchocyon_cirnei,
+		703	Riograndia_guaibensis,
+		704	Roberthoffstetteria_nationalgeographica,
+		705	Robertia_broomiana,
+		706	Rodhocetus_balochistanensis,
+		707	Rosendolops_ebaios,
+		708	Rosieria_delsatei,
+		709	Rostriamynodon_grangeri,
+		710	Ruberodon_roychowdhurii,
+		711	Rubidgea_atrox,
+		712	Rugosodon_eurasiaticus,
+		713	Ruhuhucerberus_haughtoni,
+		714	Ruthenosaurus_russellorum,
+		715	Ruthiromia_elcobriensis,
+		716	Sallacyon_hoffstetteri,
+		717	Sangusaurus_edentatus,
+		718	Santacruzgnathus_abdalai,
+		719	Santacruzodon_hopsoni,
+		720	Sasayamamylos_kawaii,
+		721	Sauroscaptor_tharavati,
+		722	Saxonella_crepaturae,
+		723	Scalenodon_angustifrons,
+		724	Scalenodontoides_macrodontes,
+		725	Scaloposaurus_constrictus,
+		726	Scollardius_propalaeoryctes,
+		727	Scylacosaurus_sclateri,
+		728	Scylacosuchus_orenburgensis,
+		729	Secodontosaurus_obtusidens,
+		730	Shaanbeikannemeyeria_buerdongia,
+		731	Shansiodon_wangi,
+		732	Shartegodon_altai,
+		733	Sheikhdzheilia_rezvyii,
+		734	Shenshou_lui,
+		735	Shiguaignathus_wangi,
+		736	Shoshonius_bowni,
+		737	Shuotherium_dongi,
+		738	Sillustania_quechuense,
+		739	Silphedosuchus_orenburgensis,
+		740	Simpsonotus_major,
+		741	Sinclairella_dakotensis,
+		742	Sineleutherus_issedonicus,
+		743	Sinobaatar_fuxinensis,
+		744	Sinoconodon_rigneyi,
+		745	Sinodelphys_szalayi,
+		746	Sinognathus_gracilis,
+		747	Sinokannemeyeria_pearsoni,
+		748	Sinonyx_jiashanensis,
+		749	Sinophoneus_yumenensis,
+		750	Sintocephalus_alticeps,
+		751	Sipalocyon_gracilis,
+		752	Siriusgnathus_niemeyerorum,
+		753	Smilesaurus_ferox,
+		754	Smilodectes_gracilis,
+		755	Sminthopsis_crassicaudata,
+		756	Solenodon_paradoxus,
+		757	Sorex_cinereus,
+		758	Spalacolestes_cretulablatta,
+		759	Spalacotheridium_mckennai,
+		760	Spalacotherium_evansae,
+		761	Spalacotheroides_bridwelli,
+		762	Sphenacodon_britannicus,
+		763	Spinolestes_xenarthrosus,
+		764	Stahleckeria_potens,
+		765	Stereognathus_ooliticus,
+		766	Stereophallodon_ciscoensis,
+		767	Stereorhachis_dominans,
+		768	Steropodon_galmani,
+		769	Struthiocephalus_whaitsi,
+		770	Subhyracodon_occidentalis,
+		771	Sudamerica_ameghinoi,
+		772	Sulestes_karakshi,
+		773	Suminia_getmanovi,
+		774	Suncus_murinus,
+		775	Sungeodon_kimkraemerae,
+		776	Sycosaurus_laticeps,
+		777	Symmetrodontoides_canadensis,
+		778	Symmetrolestes_parvus,
+		779	Syodon_biarmicum,
+		780	Syops_vanhoepeni,
+		781	Szalinia_gracilis,
+		782	Tachyglossus_aculeatus,
+		783	Taeniolabis_lamberti,
+		784	Tamandua_tetradactyla,
+		785	Tambacarnifex_unguifalcatus,
+		786	Taoheodon_baizhijuni,
+		787	Tapinocaninus_pamelae,
+		788	Tathiodon_agilis,
+		789	Teilhardimys_brisswalteri,
+		790	Teilhardina_americana,
+		791	Teinolophos_trusleri,
+		792	Teletaceras_borissiaki,
+		793	Tenrec_ecaudatus,
+		794	Tetraceratops_insignis,
+		795	Tetraclaenodon_puercensis,
+		796	Tetracynodon_darti,
+		797	Tetragonias_njalilus,
+		798	Theriognathus_microps,
+		799	Therioherpeton_cargnini,
+		800	Thliptosaurus_imperforatus,
+		801	Thomasia_antiqua,
+		802	Thrinaxodon_liorhinus,
+		803	Thryptacodon_antiquus,
+		804	Thylacinus_cynocephalus,
+		805	Thylacodon_montanensis,
+		806	Thylacosmilus_atrox,
+		807	Tiarajudens_eccentricus,
+		808	Tinimomys_graybulliensis,
+		809	Tinodon_bellus,
+		810	Titanogomphodon_crassus,
+		811	Titanoides_gidleyi,
+		812	Titanophoneus_adamanteus,
+		813	Tiulordia_floresi,
+		814	Todralestes_butleri,
+		815	Trapalcotherium_matuastensis,
+		816	Traversodon_stahleckeri,
+		817	Traversodontoides_wangwuensis,
+		818	Tribosphenomys_minutus,
+		819	Tricentes_subtrigonus,
+		820	Trichasaurus_texensis,
+		821	Triconodon_mordax,
+		822	Trigonias_osborni,
+		823	Trigonostylops_wortmani,
+		824	Trioracodon_ferox,
+		825	Triplopides_rieli,
+		826	Triplopus_cubitalis,
+		827	Trirachodon_berryi,
+		828	Tritheledon_riconoi,
+		829	Tritylodon_longaevus,
+		830	Trogosus_grangeri,
+		831	Tropidostoma_dubium,
+		832	Trucidocynodon_riograndensis,
+		833	Tsagandelta_dashzevegi,
+		834	Tubulodon_atopum,
+		835	Tupaia_belangeri,
+		836	Turfanodon_bogdaensis,
+		837	Turgidodon_lillegraveni,
+		838	Tytthaena_lichna,
+		839	Uchkudukodon_nessovi,
+		840	Ufudocyclops_mukanelai,
+		841	Uintaceras_radinskyi,
+		842	Uintacyon_acutus,
+		843	Ukhaatherium_nessovi,
+		844	Ulemica_efremovi,
+		845	Ulemosaurus_svijagensis,
+		846	Uralokannemeyeria_vjuschkovi,
+		847	Uropsilus_soricipes,
+		848	Urtinotherium_intermedium,
+		849	Urumchia_lii,
+		850	Utaetus_buccatus,
+		851	Varalphadon_crebreforme,
+		852	Varanodon_agilis,
+		853	Varanops_brevirostris,
+		854	Varanosaurus_acutirostris,
+		855	Vaughnictis_smithae,
+		856	Venyukovia_prima,
+		857	Vetusodon_elikhulu,
+		858	Viatkosuchus_sumini,
+		859	Vilevolodon_diplomylos,
+		860	Vincelestes_neuquenianus,
+		861	Vinceria_andina,
+		862	Vintana_sertichi,
+		863	Viverravus_acutus,
+		864	Volaticotherium_antiquus,
+		865	Vombatus_ursinus,
+		866	VulpavusPhlaodectes_ovatus,
+		867	Vulpavus_canavus,
+		868	Wadiasaurus_indicus,
+		869	Wamradolops_tsullodon,
+		870	Watongia_meieri,
+		871	Widanelfarasia_bowni,
+		872	Worlandia_inusitata,
+		873	Wyolestes_apheles,
+		874	Wyonycteris_chalix,
+		875	Xenocretosuchus_sibiricus,
+		876	Xianshou_linglong,
+		877	Xiyukannemeyeria_brevirostris,
+		878	Xyrospondylus_ecordi,
+		879	Yanoconodon_allini,
+		880	Yaverlestes_gassoni,
+		881	Yermakia_domitor,
+		882	Yuanotherium_minor,
+		883	Yunnanodon_brevirostre,
+		884	Zalambdalestes_grangeri,
+		885	Zambiasaurus_submersus,
+		886	Zeusdelphys_complicatus,
+		887	Zhalmouzia_bazhanovi,
+		888	Zhangheotherium_quinquecuspidens,
+		889	Zhangolestes_jilinensis,
+		890	Zhelestes_temirkazyk
+	;
+	TREE * UNTITLED = [&R] (((((((((((((((((((301,317)Aeluroidea_et_Feliformia,(139,194)Canidae_et_Caniformia_et_Canoidea,(866,867)Vulpavus,(348,494)Miacidae_et_Miacis_et_Miacoidea)Carnivora,842)Carnivoraformes,(863,(129,662,663)Protictis,222)Viverravidae)Carnivoramorpha,((578,834,288)Palaeanodonta,(273,298)Pholidota)Pholidotamorpha,((235,838)Oxyaenidae_et_Oxyaenodonta,32)Creodonta)Ferae,(443,(366,387,5,216)Dichobunoidea,259,(577,706)Cetacea,(133,337)Diacodexeidae,635)Artiodactyla_et_Euungulata,(678,376,557)Chiroptera)Scrotifera,((439,874)Nyctitheriidae,(240,(757,115)Soricinae,774)Soricidae,594,756)Eulipotyphla_et_Soricomorpha,323)Laurasiatheria,((((((586,303)Forstercooperiinae,(402,590,848)Paraceratheriinae)Paraceratheriidae,(76,282,372,652,825,826)Hyracodontidae,(770,792,822,841)Rhinocerotidae,(25,255,650)Eggysodontidae,(44,709)Amynodontidae,371)Rhinocerotoidea,358)Ceratomorpha,367,450)Tapiromorpha,(271,373)Equoidea_et_Euperissodactyla_et_Hippomorpha_et_Lophodontomorpha,789,429)Perissodactyla,(((835,679)Scandentia_et_Sundatheria_et_Tupaiidae,(628,262,193,872)Dermoptera_et_Primatomorpha)Euarchonta,((692,592,818)Rodentia,(510,568)Duplicidentata,326,701)Glires,(116,527)Zalambdalestoidea)Euarchontoglires,((((345,60)Apheliscidae,(467,31)Amphilemuridae,(702,159)Macroscelididae,449,10)Macroscelidea,(871,226,793)Tenrecoidea)Afroinsectivora,(286,515)Proboscidea_et_Tethytheria,567,646)Afrotheria,((152,664)Centetodon_et_Geolabididae,((211,529)Desmana,562,847)Talpidae,(249,354)Erinaceidae)Lipotyphla,(((369,445,669,517)Hyopsodontidae,(362,566,633)Pleuraspidotheriidae)Condylarthra,349)Epitheria,((850,156,203,295)Cingulata_et_Dasypodidae_et_Dasypodoidea,(126,784)Pilosa,321)Americatheria_et_Xenarthra)Placentalia,(((100,183,454,477)Coryphodon_et_Coryphodontidae,(811,198)Pantolambdoidea,584,21,105)Pantodonta,(647,168,316,4,102,107,155,472,683)Cimolestidae,(581,106)Pantolesta_et_Pantolestidae,(580,595,1,275,570)Palaeoryctida_et_Palaeoryctidae,(61,114)Pentacodontidae,814)Cimolesta,((52,180,(253,613)Periptychinae,(247,508)Mimatuta,355,475)Bulbulodentata_et_Periptychidae,((252,489)Meniscotheriinae,(560,622)Phenacodus,181,795)Cetungulata_et_Phenacodonta_et_Phenacodontidae_et_Taxeopoda,(659,466,(505,668)Protolipternidae)Litopterna,((86,823)Astrapotheria,687,142)Meridiungulata)Ungulata,((164,819)Chriacus,(455,665)Loxolophus,803,69,172,212,430,45,671,70,96)Arctocyonidae,((((491,53)Mesonychinae,236,573,748)Mesonychidae,344,873)Mesonychia,(268,328)Triisodontidae,(496,572)Oxyclaenus,607)Acreodi,((442,(579,649)Prodiacodon)Leptictidae,338)Leptictida,((59,141,361,397,425,741)Apatemyidae_et_Apatemyoidea,514,637)Insectivora,(312,596,28,85,94,280,427,733,887,890)Zhelestidae,(654,221,686)Hyaenodonta,(206,83,130,279,409,720,839,843)Asioryctitheria,(884,35,98,423,889)Zalambdalestidae,((290,830)Esthonychidae,95)Tillodontia_et_Trogontia,593,(74,84)Arctostylopidae_et_Gliriformes,653,6,36,38,272,365,401,519,556,726,745)Eutheria,410,412,638)Tribosphenida,((((((((((616,617)Phalanger_et_Phalangeridae,7)Phalangeriformes,(469,470)Macropodidae_et_Macropodinae_et_Macropus,(619,865)Vombatiformes,(615,675)Pseudocheiridae)Diprotodontia,((574,243,274,495,512)Microbiotheria_et_Microbiotheriidae,(((204,755)Dasyuridae,804)Dasyuroidea,314)Dasyuromorphia)Eometatheria,135,(610,471)Peramelemorphia_et_Perameloidea)Australidelphia,((29,266,20)Alphadontidae,((479,518)Marmosinae,219,493,813)Didelphidae,(220,269,598)Stagodontidae,(63,319)Pediomyoidea,851,15,389,781)Didelphimorphia,(360,42,543,612,805)Herpetotheriidae,(666,144)Ameridelphia_et_Protodidelphidae,416)Marsupialia,(837,(415,79)Argyrolagidae,(251,350,886)Hatcheriformes,(418,294)Polydolopidae,707,281,392,639,704,738,869)Polydolopimorphia,((((71,123)Borhyaeninae,92,539,618,661)Borhyaenidae,(137,588,806)Proborhyaenidae,463)Borhyaenoidea,(601,171,546,716,751)Hathlyacininae,368)Sparassodonta,((441,604,667)Pediomyidae,(143,645)Caroloameghiniinae,509,609)Peradectidae,((553,88,453,533,772,833)Deltatheridiidae,209)Deltatheroida,(48,483,682)Pucadelphydae,(511,394)Jaskhadelphyidae,46,200,658,26,40,82,587)Metatheria_et_Theria,208,13,284)Boreosphenida,((37,433,244,335,178,336,356,419,620)Dryolestidae,(((492,177)Mesungulatidae,606,695)Mesungulatoidea,537,187,437)Meridiolestida,(242,299,306,603,788)Paurodontidae,188)Dryolestoidea,(535,611,78,525,582)Zatheria)Cladotheria,((777,758,759,352,426,761,880)Spalacolestinae,760,19,778)Spalacotheriidae,(49,414,563)Zhangheotheriidae,43)Trechnotheria,(478,888)Spalacotherioidea)Theriamorpha_et_Theriiformes,((((145,261,146)Carpolestidae_et_Carpolestinae,(631,656,532,629)Plesiadapidae,722)Plesiadapoidea,33)Euprimateformes,((140,544,754)Adapoidea_et_Notharctidae,(440,9,473)Adapidae_et_Adapinae)Adapiformes_et_Strepsirrhini,(585,((736,790)Omomyidae_et_Omomyoidea,241)Tarsiiformes)Haplorhini,((386,623)Phenacolemurinae_et_Phenacolemurini,599,68)Paromomyidae,(245,157,305,499,808)Micromomyidae,((502,485)Microsyopinae,536)Microsyopidae,684)Primates,(((((151,420)Djadochtatheriidae,166,538)Djadochtatherioidea,(783,428)Taeniolabidoidea,680)Cimolodonta,((119,627)Plagiaulacidae,395,674)Plagiaulacida,743,421,712)Multituberculata,((108,313,327,334,434,771,862)Sudamericidae,8,302,815)Gondwanatheria,(64,742,256,688,734)Euharamiyida,801,167,347)Allotheria,((((77,864)Volaticotherini,87,182,487,34,80)Alticonodontinae,640,824,821)Triconodontidae,(322,697,763)Gobiconodontidae,(41,621)Amphilestidae,396,447)Eutriconodonta,(547,(672,632)Typotheria,12,175,740)Notoungulata,(237,17,238)Docodonta,((550,564,768,791)Ornithorhynchidae,782)Monotremata,((737,677)Paratribosphenida_et_Shuotheridia_et_Shuotheriidae,231)Apotheria,(81,357)Henosferidae,39,90,113,120,287,307,324,342,400,422,860,879,881)Mammalia,((876,484,859)Eleutherodontidae,341,474,506)Haramiyida,521,809,11,150,340,343,486,744)Mammaliaformes_et_Mammaliamorpha,(22,124,673,799)Prozostrodontia,23,162,121,250,458,676,718)Probainognathia,138,223,497,832)Eucynodontia,((300,723,(104,746)Sinognathinae,456,481,47,75,199,291,325,339,476,482,488,500,534,600,634,670,708,710,719,724,752,816)Traversodontidae,(186,431,827)Trirachodontidae,122,213,810)Gomphodontia,((158,215,257,390,828)Tritheledontidae,(127,128,660)Brasilodontidae,576,703)Brasilodontia,(195,311,643,802)Galesauria_et_Procynosuchia,(196,531,651)Galesauridae,630,857)Epicynodontia,(554,111,110,(765,875)Stereognathus,117,214,230,407,457,520,549,636,732,829,882,883)Tritylodontidae,(3,160)Charassognathidae,161,246,648)Cynodontia,((((((465,296,424)Lystrosauridae,(201,217)Daptocephalus,207,403,99,185,229,330,398,750,780,786,836)Dicynodontoidea,691)Bidentalia,((218,417,541,800)Kingoriidae,(169,170,406,408,721)Cistecephalidae_et_Kistecephalia,263,179,224,530)Emydopoidea,((717,292,391,393,764)Stahleckeriinae,(448,516,608,626,846,885)Placeriinae,232,775,840)Stahleckeriidae,(591,747,730,693,699,868,877)Kannemeyeriidae,(304,(689,797)Kannemeyeriinae,260,388)Dicynodontidae,(264,2,432,641)Endothiodontia,(225,276,657,705)Pylaecephalidae,(731,861)Shansiodontidae,(51,696)Kannemeyeriiformes,270,125,176,239,405,700)Dicynodontia,308,309,310,602)Chainosauria,(((315,89)Geikiinae,131,385,551)Geikiidae,(91,571,831)Oudenodontidae,(698,413)Rhachiocephalidae,202,411,605)Cryptodontidae,(844,227,569,773,856)Venyukovioidea,56,112,807)Anomodontia,(((((378,504,524,798,858)Whaitsiidae,364,381,513,559)Whaitsioidea,(154,523,555,655,735)Akidnognathidae,(165,377)Chthonosauridae)Eutherocephalia,((382,383)Ictidosuchidae_et_Ictidosuchoidea_et_Ictidosuchops,(18,293)Moschorhinidae_et_Moschorhinoidea,(54,725)Lycideopoidea,(283,739)Ericiolacertidae_et_Scaloposauroidea,(498,545)Nothogomphodontidae_et_Nothogomphodontoidea)Scaloposaurida,(103,57,351,561,817,849)Bauriida_et_Bauriidae,((796,163,462)Lycideopidae,(404,526)Karenitidae)Baurioidea,((318,380)Scylacosauridae,728)Scylacosaurida,(27,597)Alopecodontidae,(464,614)Lycosuchida,(642,681)Pristerognathidae,333,384,694,727)Therocephalia,(((93,548,583,779)Syodontinae,(812,58)Anteosaurinae,65,501,749)Anteosauria_et_Anteosauridae,((522,769,787)Tapinocephalidae,845)Tapinocephalia,399,30)Dinocephalia)Eutherapsida,((((332,444)Gorgonops,461,197,72,73,153)Gorgonopsinae,((173,233,438,711)Rubidgeini,776,14,713,753)Rubidgeinae)Gorgonopidae,(289,625)Estemmenosuchida_et_Rhopalodontoidea,(234,331)Gorgonopida_et_Phthinosuchidae_et_Rubidgeoidea,285)Gorgonopsia,((((132,134,542,575)Burnetiinae,(436,589,644)Proburnetiinae,446)Burnetiidae,435,451,452)Burnetiamorpha,(109,278)Biarmosuchus,363,359,379,460)Biarmosuchia,690,794)Therapsida,(((228,762,191,101,468,540)Sphenacodontinae,189,190,729)Sphenacodontidae_et_Sphenacodontoidea,192,375)Sphenacodontia_et_Sphenacomorpha,(((16,528,715,785,852,853,870)Varanodontinae,((55,258,353,503)Afrothyra,490)Mesenosaurinae)Neovaranopsia,62,67,210,685)Varanopidae,(558,174,854,66)Ophiacodontidae,(254,118,320,329,374)Edaphosauridae,(346,370)Haptodontiformes)Eupelycosauria,((50,147,184,24,136,148,149,205,265,267,297,480,565,624,714,820)Caseidae,(97,277,552,766,767,855)Eothyrididae)Caseasauria,(248,459,507,878)Pelycosauria)Synapsida;
+END;
